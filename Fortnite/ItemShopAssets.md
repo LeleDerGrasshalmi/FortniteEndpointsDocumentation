@@ -1,7 +1,8 @@
 ## Fortnite - ItemShop Assets
 
 URL: https://www.epicgames.com/graphql \
-Method: POST
+Method: POST \
+Auth Required: No
 
 ## Body
 ```json
