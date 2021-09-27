@@ -2,6 +2,7 @@
 
 URL: https://www.epicgames.com/graphql \
 Method: POST
+Auth Required: No
 
 ## Body
 ```json
