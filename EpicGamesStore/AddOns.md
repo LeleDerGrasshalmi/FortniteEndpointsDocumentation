@@ -20,7 +20,7 @@ Auth Required: No
       "allowCountries":"DE",
       "start":0,
       "tag":"",
-      "releaseDate":"[,2021-09-27T14:17:58.778Z]",
+      "releaseDate":"[,{CurrentIsoDateString}]",
       "withPrice":true
    }
 }
