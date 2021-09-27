@@ -5,7 +5,7 @@ By jemcer#1009 &amp; LeleDerGrasshalm#1872
 
 | Name | URL | Method | Auth Required | Body
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Fortnite Site | https://store-content.ak.epicgames.com/api/en-US/content/products/fortnite | GET | No | 
+| Fortnite Site | https://store-content.ak.epicgames.com/api/en-US/content/products/fortnite | GET | No | None
 
 
 **Fortnite Site**
