@@ -3,6 +3,11 @@ By jemcer#1009 &amp; LeleDerGrasshalm#1872
 
 ## Epic Games Store
 
+| Name | URL | Method | Auth Required | Body
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Fortnite Site | https://store-content.ak.epicgames.com/api/en-US/content/products/fortnite | GET | No | 
+
+
 **Fortnite Site**
 URL: https://store-content.ak.epicgames.com/api/en-US/content/products/fortnite
 METHOD: GET
