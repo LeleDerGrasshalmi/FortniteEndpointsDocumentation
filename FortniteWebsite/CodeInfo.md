@@ -6,5 +6,5 @@ Auth Required: Yes
 
 ## Headers
 ```
-"cookie":"EPIC_BEARER_TOKEN={token}"
+"cookie": "EPIC_BEARER_TOKEN={token}"
 ```
