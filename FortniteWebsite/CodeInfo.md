@@ -1,10 +1,10 @@
-## Fortnite Website - Cosplay
+## Fortnite Website - Code Info
 
-URL: https://www.epicgames.com/fortnite/en/api/cosplay \
+URL: https://www.epicgames.com/fortnite/ajax/redemption/validate-redemption-code?redeem-code={code} \
 Method: GET \
 Auth Required: Yes
 
 ## Headers
 ```
-"cookie": "EPIC_BEARER_TOKEN={token}"
+cookie: EPIC_BEARER_TOKEN={token}
 ```
