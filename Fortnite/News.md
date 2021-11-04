@@ -15,5 +15,5 @@ Auth Required: Yes
    "battlepass":true,
    "battlepassLevel":100
 }
-(replace the parameters with ur values)
 ```
+(replace the parameters with ur values)
