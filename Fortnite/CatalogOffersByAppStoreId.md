@@ -4,7 +4,8 @@ URL: https://catalog-public-service-prod06.ol.epicgames.com/catalog/api/shared/b
 Method: GET \
 Auth Required: Yes
 
-Optional Parameter:
+
+# Optional Parameter
 ```
 returnItemDetails - bool
 locale - string
