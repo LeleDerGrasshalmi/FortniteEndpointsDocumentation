@@ -1,4 +1,4 @@
-## Fortnite Website - Redeem Code General Info
+## Fortnite Website - Code General Info
 
 URL: https://www.epicgames.com/fortnite/ajax/redemption/validate-redemption-code?redeem-code={code} \
 Method: GET \
