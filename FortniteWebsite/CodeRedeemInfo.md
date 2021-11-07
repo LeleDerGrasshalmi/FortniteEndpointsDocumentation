@@ -4,11 +4,6 @@ URL: https://coderedemption-public-service-prod.ol.epicgames.com/coderedemption/
 Method: POST \
 Auth Required: Yes (launcher auth)
 
-## Headers
-```
-cookie: EPIC_BEARER_TOKEN={token}
-```
-
 ## Body
 ```json
 {}
