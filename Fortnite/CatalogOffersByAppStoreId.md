@@ -5,7 +5,7 @@ Method: GET \
 Auth Required: Yes
 
 
-# Optional Parameter
+### Optional Parameter
 ```
 returnItemDetails - bool
 locale - string
