@@ -5,7 +5,7 @@ Method: POST \
 Auth Required: Yes
 
 ## Headers
-`User-Agent: Fortnite/++Fortnite+Release-{versionNumber}-CL-{versionCL} Windows/10`
+`User-Agent: Fortnite/++Fortnite+Release-{versionNumber}-CL-{versionCL} Windows/10` \
 eg. Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10
 
 ## Body
