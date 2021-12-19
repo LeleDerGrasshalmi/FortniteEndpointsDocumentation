@@ -1,7 +1,7 @@
 # UnlockRewardNode
 
 **Description**: `unlocks a reward by its nodeId (used in winterfest)` \
-**Profiles**: `ANY`
+**Profiles**: `athena`
 
 ## Body
 ```js
