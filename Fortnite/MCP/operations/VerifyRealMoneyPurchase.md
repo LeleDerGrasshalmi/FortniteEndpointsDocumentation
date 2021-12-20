@@ -12,3 +12,5 @@
     "receiptInfo": "", //set it from receipt data
 }
 ```
+
+[**Get All Receipts**](../../CatalogReceipts.md)
