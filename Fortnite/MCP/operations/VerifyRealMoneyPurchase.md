@@ -10,6 +10,7 @@
     "appStoreId": "", //set it from receipt data
     "receiptId": "", //set it from receipt data
     "receiptInfo": "", //set it from receipt data
+    "purchaseCorrelationId": "" //parameter not needed (also not known how/where its generated/grabbed from)
 }
 ```
 
