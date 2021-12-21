@@ -14,7 +14,6 @@
 
 - collection_book_people0
 - collection_book_schematics0
-- metadata
 - outpost0
 - profile0
 - theater0
