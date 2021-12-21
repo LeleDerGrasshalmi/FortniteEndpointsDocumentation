@@ -10,6 +10,7 @@
 | common_public | Public data (e.g. current user banner) |
 | collections | Battle Royale Collection data (fishing/npc) |
 | common_core | here are banners saved, as well as other info like vbucks, etc. |
+| metadata | saved which users have access on which homebase (StW) |
 
 - collection_book_people0
 - collection_book_schematics0
