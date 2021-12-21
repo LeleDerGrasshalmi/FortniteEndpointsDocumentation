@@ -1,7 +1,7 @@
 # StartExpedition
 
 **Description**: `Starts an Expedition` \
-**Profiles**: `common_core`
+**Profiles**: `campaign`
 
 ## Body
 ```js
