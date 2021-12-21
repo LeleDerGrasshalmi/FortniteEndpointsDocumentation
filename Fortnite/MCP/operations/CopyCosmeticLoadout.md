@@ -1,6 +1,6 @@
 # CopyCosmeticLoadout
 
-**Description**: `Returns the full profile` \
+**Description**: `Copies a Cosmetic Loadout` \
 **Profiles**: `athena`
 
 ## Body
