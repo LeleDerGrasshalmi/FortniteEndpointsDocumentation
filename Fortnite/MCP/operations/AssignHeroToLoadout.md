@@ -1,7 +1,7 @@
 # AssignHeroToLoadout
 
 **Description**: `Assigns/Sets a Hero to a Loadout` \
-**Profiles**: `common_core`
+**Profiles**: `campaign`
 
 ## Body
 ```js
