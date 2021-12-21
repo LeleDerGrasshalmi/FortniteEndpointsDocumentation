@@ -7,6 +7,6 @@
 ```js
 {
     "cardPackItemId": "", //guid of the cardpack
-    "selectionIdx": 0
+    "selectionIdx": 0 //unkown, leave like this
 }
 ```
