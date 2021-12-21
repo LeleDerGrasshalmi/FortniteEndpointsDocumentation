@@ -1,8 +1,22 @@
 # Fortnite MCP Operations
 
+## Request
+
+**Method**: `POST` \
+**URL**: `https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/:accountId/client/:operation` \
+**Authorization Header**: `bearer {bearer_token}` \
+**Body/Payload**: `individual for each operation` \
+**Query Parameter:**
+| Name | Value | Default Value |
+| --- | --- | --- |
+| profileId | {profileId} | common_core |
+| rvn | -1 | -1 |
+
+<br>
+
 ## Profiles
 
-| Id | Description |
+| ProfileId | Description |
 | --- | --- |
 | athena | Battle Royale data |
 | creative | Creative data |
