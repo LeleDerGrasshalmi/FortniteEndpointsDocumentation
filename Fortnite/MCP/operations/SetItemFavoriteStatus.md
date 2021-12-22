@@ -1,4 +1,4 @@
-# PurchaseCatalogEntry
+# SetItemFavoriteStatus
 
 **Description**: `Favorite an Item` \
 **Profiles**: `athena`, `campaign`
