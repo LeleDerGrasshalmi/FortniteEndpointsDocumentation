@@ -1,6 +1,6 @@
 # ClaimQuestReward
 
-**Description**: `Claims Subscription Rewards` \
+**Description**: `Claims a Quest Reward` \
 **Profiles**: `athena`, `campaign`
 
 ## Body
