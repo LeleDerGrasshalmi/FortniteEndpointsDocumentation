@@ -6,7 +6,7 @@
 ## Body
 ```js
 {
-    "PurchaseInfoList": [{
+    "purchaseInfoList": [{
         "offerId": "", //the offerId (=> which CatalogEntry you want to purchase)
         "purchaseQuantity": 1, //the quantity (how often you want to purchase it, should be normally 1)
         "currency": "MtxCurrency", //the currencry
