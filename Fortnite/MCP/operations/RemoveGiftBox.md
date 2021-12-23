@@ -1,7 +1,7 @@
 # RemoveGiftBox
 
 **Description**: `Removes the given Giftboxes from the profile` \
-**Profiles**: `athena`, `common_core`
+**Profiles**: `ANY`
 
 ## Body
 ```js
