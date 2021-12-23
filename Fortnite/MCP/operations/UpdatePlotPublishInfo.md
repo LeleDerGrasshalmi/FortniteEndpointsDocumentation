@@ -7,7 +7,7 @@
 ## Body
 ```js
 {
-    "plotItemId": "", //plot item template Id
+    "plotItemId": "", //island/plot item (templateId or guid idk)
     "linkCode": "", //island code, e.g. 1111-2222-3333
     "linkVersion": 1, //island version
     "vkProjectId": "", //unkown, but ig valkyrie (creative 2.0) project id
