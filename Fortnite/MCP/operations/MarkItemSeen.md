@@ -1,7 +1,7 @@
 # MarkItemSeen
 
 **Description**: `Set Items as seen (Bulk)` \
-**Profiles**: `athena`, `campaign`
+**Profiles**: `ANY`
 
 ## Body
 ```js
