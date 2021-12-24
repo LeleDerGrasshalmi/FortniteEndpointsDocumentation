@@ -1,7 +1,7 @@
 # FortRerollDailyQuest
 
 **Description**: `Reroll a Daily Quest` \
-**Profiles**: `campaign`
+**Profiles**: `athena`, `campaign`
 
 ## Body
 ```js
