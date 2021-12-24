@@ -1,7 +1,7 @@
 # CopyCosmeticLoadout
 
 **Description**: `Copies a Cosmetic Loadout` \
-**Profiles**: `athena`
+**Profiles**: `athena`, `campaign`
 
 ## Body
 ```js
