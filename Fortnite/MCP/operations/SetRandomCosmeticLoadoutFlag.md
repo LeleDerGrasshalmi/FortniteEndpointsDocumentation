@@ -1,7 +1,7 @@
 # SetRandomCosmeticLoadoutFlag
 
 **Description**: `Sets if u use a random Cosmetic Loadout` \
-**Profiles**: `athena`
+**Profiles**: `athena`, `campaign`
 
 ## Body
 ```js
