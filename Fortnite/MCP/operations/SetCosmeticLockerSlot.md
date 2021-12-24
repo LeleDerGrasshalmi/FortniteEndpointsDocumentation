@@ -1,7 +1,7 @@
 # SetCosmeticLockerSlot
 
 **Description**: `Set a Cosmetic with a specified index to in a specified LockerLocker` \
-**Profiles**: `athena`
+**Profiles**: `athena`, `campaign`
 
 ## Body
 ```js
