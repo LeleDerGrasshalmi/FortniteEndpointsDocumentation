@@ -1,7 +1,7 @@
 # SetItemFavoriteStatusBatch
 
 **Description**: `toogles the favorite status for the specified items` \
-**Profiles**: `athena`
+**Profiles**: `athena`, `campaign`
 
 ## Body
 ```js
