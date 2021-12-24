@@ -12,6 +12,8 @@
 | profileId | {profileId} | common_core |
 | rvn | -1 | -1 |
 
+**NOTE**: if its a "DedicatedServer ONLY" operation you cant use it
+
 <br>
 
 ## Profiles
