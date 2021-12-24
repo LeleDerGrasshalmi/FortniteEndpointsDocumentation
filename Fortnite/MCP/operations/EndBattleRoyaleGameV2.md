@@ -68,6 +68,28 @@
         }],
         "expirationTime": "",
         "creationTime": ""
-    }]
+    }],
+    "pinnedSharedQuest": "",
+    "seasonItemStates": [{
+        "itemTag": "",
+        "mapIconState": "" //valid: Unknown, Found, Interacted
+    }],
+    "campsiteData": {
+        "data_is_valid_for_mcp": true,
+        "stashed_items": [{
+            "item_definition_persistent_name": "",
+            "item_count": 1,
+            "item_level": 1,
+            "item_loaded_ammo": 30
+        }],
+        "camp_spawn_locations": []
+    },
+    "victoryCrownData": {
+        "has_victory_crown": true,
+        "total_victory_crowns_bestowed_count": 15,
+        "total_royal_royales_achieved_count": 12,
+        "data_is_valid_for_mcp": true
+    },
+    "PlayerTimeInMatchSec": 68
 }
 ```
