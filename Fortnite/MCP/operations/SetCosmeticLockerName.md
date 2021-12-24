@@ -1,7 +1,7 @@
 # SetCosmeticLockerName
 
 **Description**: `Sets the name for a Cosmetic Loadout` \
-**Profiles**: `athena`
+**Profiles**: `athena`, `campaign`
 
 ## Body
 ```js
