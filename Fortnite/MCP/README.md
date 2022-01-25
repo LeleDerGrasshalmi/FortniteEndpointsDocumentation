@@ -33,3 +33,5 @@
 - outpost0
 - profile0
 - theater0
+- theater1
+- theater2
