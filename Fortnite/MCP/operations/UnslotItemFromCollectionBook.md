@@ -6,7 +6,7 @@
 ## Body
 ```js
 {
-    "templateId": "" //item templateId
+    "templateId": "", //item templateId
     "itemId": "", //item guid
     "specific": "", //leave as an empty string
 }
