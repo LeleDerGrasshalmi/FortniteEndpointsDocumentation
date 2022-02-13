@@ -1,6 +1,6 @@
 # OpenCardPackBatch
 
-**Description**: `Open multiple CardPacks`
+**Description**: `Open multiple CardPacks` \
 **Profiles**: `campaign`
 
 ## Body
