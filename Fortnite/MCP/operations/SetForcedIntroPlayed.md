@@ -1,6 +1,6 @@
 # SetForcedIntroPlayed
 
-**Description**: `Sets the current VBucks Platform` \
+**Description**: `Set Intro-Game flag` \
 **Profiles**: `common_core`
 
 ## Body
