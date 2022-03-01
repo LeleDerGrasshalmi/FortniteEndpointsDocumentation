@@ -13,7 +13,8 @@ eg. `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
 {
    "surfaceName": "CreativeDiscoverySurface_Frontend",
    "revision": 1,
-   "partyMemberIds": [":accountId"]
+   "partyMemberIds": [":accountId"],
+   "matchmakingRegion": "EU"
 }
 ```
 NOTE: partyMemberIds can be an be an empty array, but the parameter need to exist in the body
