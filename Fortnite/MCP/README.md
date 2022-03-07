@@ -4,8 +4,9 @@
 
 **Method**: `POST` \
 **URL**: `https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/:accountId/client/:operation` \
-**Authorization Header**: `bearer {bearer_token}` \
+**Authorization Header**: `bearer {access_token}` \
 **Body/Payload**: `individual for each operation` \
+\
 **Query Parameter:**
 | Name | Value | Default Value |
 | --- | --- | --- |
@@ -29,9 +30,9 @@
 | metadata | saved which users have access on which homebase (StW) |
 | collection_book_people0 | Collectionbook data (Heroes, Survivor, Defender) |
 | collection_book_schematics0 | Collectionbook data (Schematics) |
-
-- outpost0
-- profile0
-- theater0
-- theater1
-- theater2
+| profile0 | ?doesnt exist anymore? |
+| outpost0 | Stw Storage |
+| theater0 | Event: ? |
+| theater1 | Event: ? |
+| theater2 | Event: Mild Meadows Venture Zone |
+| recycle_bin | Stw Recycle Bin |
