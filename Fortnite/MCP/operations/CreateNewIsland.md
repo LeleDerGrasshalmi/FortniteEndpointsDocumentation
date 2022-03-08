@@ -1,6 +1,6 @@
-# SetCreativePlotMetadata
+# CreateNewIsland
 
-**Description**: `Sets/Updates the Creative Island Metadata/Info` \
+**Description**: `Creates a Creative Island` \
 **Profiles**: `creative` \
 **Note**: `DedicatedServer ONLY`
 
