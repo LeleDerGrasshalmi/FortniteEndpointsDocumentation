@@ -21,3 +21,4 @@
 | epicgamesWebsiteClient | 007c0bfe154c4f5396648f013c641dcf | - |
 | Fortnite Community Battles | 26c2c1eeeb9141a08d2e52afdda30fde | - |
 | Google (YouTube) | fa39ae1203b5438280f515f38a50f08e | - |
+| self-service-portal | 8177ec72e7364c59a61a36213900ba67 | - |
