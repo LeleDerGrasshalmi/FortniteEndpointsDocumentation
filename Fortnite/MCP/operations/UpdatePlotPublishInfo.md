@@ -12,6 +12,6 @@
     "vkProjectId": "", // valkyrie (creative 2.0) project id
     "vkModuleId": "", //valkyrie (creative 2.0) module id
     "linkVersion": 1, //island version
-    "moderationLinkCode": "", //unkown
+    "moderationLinkCode": "" //unkown
 }
 ```
