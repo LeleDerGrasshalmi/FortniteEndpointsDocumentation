@@ -23,3 +23,4 @@
 | Google (YouTube) | fa39ae1203b5438280f515f38a50f08e | - |
 | self-service-portal | 8177ec72e7364c59a61a36213900ba67 | - |
 | Intel | e495114512ec497db52a053fc7b50651 | - |
+| Lantern Trials | 6d2a42a9fa1c4242a2783f690ee0bb2c | - |
