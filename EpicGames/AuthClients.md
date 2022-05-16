@@ -14,6 +14,7 @@
 | launcherAppClient2 | 34a02cf8f4414e29b15921876da36f9a | daafbccc737745039dffe53d94fc76cf |
 | affiliate_web | 4d9a4e9e568a40faa77b9757b4fac210 | - |
 | Fall Guys | xyza7891mADED0tPNJFOiF8OmI0DwY0J | 8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA |
+| fallguysSite | 586dff7efd074d01b0503968cd0d378e | - |
 | Among Us | xyza7891qtrmoYLr86we6DlfCA1RRsp8 | - |
 | battlebreakers_web | 8e873617d81d4caf89bae28a4b74bbfe | - |
 | dieselWebsite | 875a3b57d3a640a6b7f9b4e883463ab4 | - |
