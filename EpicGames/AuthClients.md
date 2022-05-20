@@ -28,3 +28,4 @@
 | Intel | e495114512ec497db52a053fc7b50651 | - |
 | Lantern Trials | 6d2a42a9fa1c4242a2783f690ee0bb2c | - |
 | Content Creators (Playstation) | 11d0352c60d045698fa3655016337f8f | - |
+| launcherWebClient | 24a1bff3f90749efbfcbc576c626a282 | - |
