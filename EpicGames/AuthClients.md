@@ -31,3 +31,4 @@
 | launcherWebClient | 24a1bff3f90749efbfcbc576c626a282 | - |
 | Hi-Rez | fd81de75ae49408183023bfc50a9f1cf | - |
 | publicClient | f2f868d1259e4b128e5b7e8a3732cb1a | - |
+| FN Discord Quest - Stage | 4fa1f937bc684525a9b86bb2255fcee3 | - |
