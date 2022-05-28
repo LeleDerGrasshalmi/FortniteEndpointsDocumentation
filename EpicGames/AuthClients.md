@@ -30,3 +30,4 @@
 | Content Creators (Playstation) | 11d0352c60d045698fa3655016337f8f | - |
 | launcherWebClient | 24a1bff3f90749efbfcbc576c626a282 | - |
 | Hi-Rez | fd81de75ae49408183023bfc50a9f1cf | - |
+| publicClient | f2f868d1259e4b128e5b7e8a3732cb1a | - |
