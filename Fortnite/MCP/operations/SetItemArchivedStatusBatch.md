@@ -7,8 +7,6 @@
 ```js
 {
     "itemIds": [], //array of the items guids
-    "item???Status": [] //array of bools specifing new archive state of the indexed item
+    "archived": tue // whether the items should be archived or not
 }
 ```
-
-**NOTE: 2. parameter missing rn**
