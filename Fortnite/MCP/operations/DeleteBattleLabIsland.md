@@ -7,3 +7,5 @@
 ```js
 {}
 ```
+
+*Removed from the game since atleast v21.3*
