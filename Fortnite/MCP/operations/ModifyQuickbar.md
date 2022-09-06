@@ -6,7 +6,11 @@
 ## Body
 ```js
 {
-    "primaryQuickbarChoices": [], //array of the items guid
-    "secondaryQuickbarChoice": "" //current selected trap guid
+    "primaryQuickbarChoices": [
+        "", // Item 1 Guid or an empty string (empty slot)
+        "", // Item 2 Guid or an empty string (empty slot)
+        ""  // Item 3 Guid or an empty string (empty slot)
+    ],
+    "secondaryQuickbarChoice": "", //current selected trap guid
 }
 ```
