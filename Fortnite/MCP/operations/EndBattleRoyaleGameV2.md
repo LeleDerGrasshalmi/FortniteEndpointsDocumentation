@@ -35,7 +35,7 @@
     "restedXPAccum": 1,
     "friendshipXpBoost": 1,
     "cosmeticXpBoost": 1,
-    "AntiAddictionPlayTimeMultiplier": 1.1,
+    "antiAddictionPlayTimeMultiplier": 1.1,
     "shouldAccumulateToProfileStats": true,
     "shouldSaveToRecentGameLists": true,
     "accolades": [{
@@ -45,6 +45,7 @@
     }],
     "shuffledLoadoutUsed": [], //array of strings
     "shuffledLockerUsedIndex": 0,
+    "usedCosmetics": [], //array of the cosmetics guid
     "deletedQuestIds": [], //array of the quests guid
     "grantedQuestDefs": [], //array of the quests guid
     "secondaryXp": [{
@@ -59,7 +60,17 @@
             "value": ""
         }]
     }],
-    "grantedTransientQuests": [{
+    "grantedQuests": [{
+        "templateId": "",
+        "objectives": [{
+            "statName": "phoenixtheater_power_highlight", //the stat Name, e.g phoenixtheater_power_highlight
+            "count": 1, //the count to what u want to update it
+            "timestampOffset": 0 //leave it 0
+        }],
+        "expirationTime": "",
+        "creationTime": ""
+    }],
+    "completedQuestsToClaim": [{
         "templateId": "",
         "objectives": [{
             "statName": "phoenixtheater_power_highlight", //the stat Name, e.g phoenixtheater_power_highlight
@@ -90,6 +101,30 @@
         "total_royal_royales_achieved_count": 12,
         "data_is_valid_for_mcp": true
     },
-    "PlayerTimeInMatchSec": 68
+    "realitySaplingData": {
+        "data_is_valid_for_mcp": true,
+        "saplings": [{
+            "location": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0,
+            },
+            "rotation": {
+                "Y": 0,
+                "X": 0,
+                "Z": 0,
+            },
+            "nurturing_level": 0,
+            "maturity_level": 0,
+            "planting_time": 0,
+            "last_weeding_time": 0,
+            "fruit_states": [0, 0, 0]
+        }]
+    },
+    "PlayerTimeInMatchSec": 68,
+    "questAnalyticEvents": [{
+        "templateId": "", // quest id
+        "state": "" // Valid: None, Granted, Claimed
+    }]
 }
 ```
