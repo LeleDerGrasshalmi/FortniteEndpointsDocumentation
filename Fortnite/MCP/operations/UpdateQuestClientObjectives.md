@@ -1,7 +1,7 @@
 # UpdateQuestClientObjectives
 
 **Description**: `Updated a Objective for a Quest (Bulk)` \
-**Profiles**: `campaign`
+**Profiles**: `campaign`, `athena`
 
 ## Body
 ```js
