@@ -1,6 +1,6 @@
 # AthenaRemoveQuests
 
-**Description**: `Exchanges Game Currency (e.b. Battle Stars) for Battle Pass Offer(s)` \
+**Description**: `Removes (deletes) a quest item from your profile` \
 **Profiles**: `athena`
 
 ## Body
