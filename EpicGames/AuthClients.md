@@ -7,6 +7,7 @@
 | fortniteSwitchGameClient | 5229dcd3ac3845208b496649092f251b | e3bd2d3e-bf8c-4857-9e7d-f3d947d220c7 |
 | fortniteNewSwitchGameClient | 98f7e42c2e3a4f86a74eb43fbb41ed39  | 0a2449a2-001a-451e-afec-3e812901c4d7 |
 | fortniteAndroidGameClient | 3f69e56c7649492c8cc29f1af08a8a12 | - |
+| fortniteXSXGameClient | db84fa58b60e468ba64e3b17209b56e9 | - |
 | fortniteComClient | cd2b7c19c9734a2ab98dc251868d7724 | - |
 | Fortnite | xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5 | F8BVRyHIqmct8cN9KSPbXsJszpiIZEYEFDiySxc1wuA |
 | Naruto Nindo | 70e113f930c8478d9bcbab61ef3cbd4f | - |
