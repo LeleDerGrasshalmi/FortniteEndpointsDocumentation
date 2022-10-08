@@ -7,17 +7,17 @@
 | fortniteSwitchGameClient                           | 5229dcd3ac3845208b496649092f251b | e3bd2d3e-bf8c-4857-9e7d-f3d947d220c7        |
 | fortniteNewSwitchGameClient                        | 98f7e42c2e3a4f86a74eb43fbb41ed39 | 0a2449a2-001a-451e-afec-3e812901c4d7        |
 | fortniteAndroidGameClient                          | 3f69e56c7649492c8cc29f1af08a8a12 |                                             |
-| fortniteXSXGameClient                              | db84fa58b60e468ba64e3b17209b56e9 |                                             |
 | fortniteXboxGameClient                             | cfaa14c4bf8744e3a5ef9a5d6c34558d |                                             |
+| fortniteXSXGameClient                              | db84fa58b60e468ba64e3b17209b56e9 |                                             |
 | fortniteValkyrieGameClient                         | 3e13c5c57f594a578abe516eecb673fe | 530e316c337e409893c55ec44f22cd62            |
 | fortniteCNGameClient                               | efe3cbb938804c74b20e109d0efc1548 | 6e31bdbae6a44f258474733db74f39ba            |
 | fortniteComClient                                  | cd2b7c19c9734a2ab98dc251868d7724 |                                             |
-| fortnitePS5USGameClient                            | 1252412dc7704a9690f6ea4611bc81ee |                                             |
-| fortnitePS5EUGameClient                            | 386cbbc78d57464181005c3f7edfad0d |                                             |
-| fortnitePS5USGameClientTest                        | 3cf19c6ba05a4fa3997957491e15ba1c |                                             |
 | fortnitePS4EUGameClient                            | 79a931b375334570ac369234f5da05ec |                                             |
-| fortnitePCQAGameClientTest                         | 81ffd992c8a94ccaaaa6bd74c073ce6a |                                             |
 | fortnitePS4USGameClient                            | d8566f2e7f5c48f89683173eb529fee1 |                                             |
+| fortnitePS5EUGameClient                            | 386cbbc78d57464181005c3f7edfad0d |                                             |
+| fortnitePS5USGameClient                            | 1252412dc7704a9690f6ea4611bc81ee |                                             |
+| fortnitePS5USGameClientTest                        | 3cf19c6ba05a4fa3997957491e15ba1c |                                             |
+| fortnitePCQAGameClientTest                         | 81ffd992c8a94ccaaaa6bd74c073ce6a |                                             |
 | launcherServiceClient                              | f3e80378aed4462498774a7951cd263f |                                             |
 | KairosPC                                           | 5b685653b9904c1d92495ee8859dcb00 |                                             |
 | utClient                                           | 03f2645147214e1ab368caa78c5fca81 |                                             |
@@ -40,7 +40,7 @@
 | Google (YouTube)                                   | fa39ae1203b5438280f515f38a50f08e |                                             |
 | self-service-portal                                | 8177ec72e7364c59a61a36213900ba67 |                                             |
 | Intel                                              | e495114512ec497db52a053fc7b50651 |                                             |
-| Lantern Trials                                     | 6d2a42a9fa1c4242a2783f690ee0bb2c |                                             |
+| EM 2                                               | 6d2a42a9fa1c4242a2783f690ee0bb2c |                                             |
 | Content Creators (Playstation)                     | 11d0352c60d045698fa3655016337f8f |                                             |
 | launcherWebClient                                  | 24a1bff3f90749efbfcbc576c626a282 |                                             |
 | Hi-Rez                                             | fd81de75ae49408183023bfc50a9f1cf |                                             |
@@ -48,3 +48,7 @@
 | FN Discord Quest - Stage                           | 4fa1f937bc684525a9b86bb2255fcee3 |                                             |
 | Maestro                                            | xyza7891oL6OtsGfOEEprZv2WcfMWDGy |                                             |
 | ueLauncherSite                                     | 6b4462add71f4d9eb14dcf75c7153a89 |                                             |
+| Discord                                            | xyza7891ATBkAcPkzEZ01TUB0YnZfFdF |                                             |
+| social-token-exchange-prod                         | cf27c69fe66441e8a8a4e8faf396ee4c |                                             |
+| Epic Games Client Service                          | 7a40f8cdafd346219a4a0a15522b8ed7 |                                             |
+| Paradise Fortnite Discord Quest                    | xyza7891IjB10JDONRiKG3CZYlyWJjgk |                                             |
