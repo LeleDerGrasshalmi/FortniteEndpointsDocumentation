@@ -5,12 +5,13 @@ Method: POST \
 Auth Required: Yes `(eg1)`
 
 ## Body
+
 ```json
 {
   "platform": "Windows",
   "language": "en",
-  "serverRegion": "NAE",
-  "country": "",
+  "serverRegion": "EU",
+  "country": "DE",
   "hasSavedEventDate": false,
   "hasAttendedEndOfSeasonS17": false,
   "subscription": false,
@@ -41,15 +42,6 @@ Auth Required: Yes `(eg1)`
   "alienArtifacts": 0,
   "stylePoints": 0,
   "battlepassItemsClaimed": 0,
-  "Bites": false,
-  "MeteorwomenAlt_StyleB": false,
-  "BadBear": false,
-  "ChillCat": false,
-  "PinkSpike": false,
-  "PinkSpike_StyleB": false,
-  "Candor": false,
-  "Candor_StyleC": false,
-  "RoseDust": false,
   "unlockedPages": 1,
   "progressiveBackblingStage": 0,
   "S21ProgressivePhotonicStrikerPickaxe": 0,
@@ -57,31 +49,5 @@ Auth Required: Yes `(eg1)`
   "socialTags": []
 }
 ```
+
 `Replace the parameters with ur values, you can use none, specific or all of these parameter, depends on what you want (news are personalized)!`
-
-<br>
-
-Additional Parameter
-```json
-{
-   "alienArtifacts": 222,
-   "hasSavedEventDate": false,
-   "hasAttendedEndOfSeasonS17": false,
-   "MidSeasonS19": true,
-   "hasMonarch": false,
-   "hasShatteredWings": false,
-   "hasMonarchGlow": false,
-   "loneWolf": true,
-   "loneWolfStyle": true,
-   "buffLlama": true,
-   "buffLlamaStyle": true,
-   "islandNomad": true,
-   "gumball": true,
-   "gumballStyle": true,
-   "motorcyclist": true,
-   "spiderman": true,
-   "spidermanStyle": true
-}
-```
-
-NOTE: `The Parameter that are for current battle pass items change every season (listed in athenaseason{num})`
