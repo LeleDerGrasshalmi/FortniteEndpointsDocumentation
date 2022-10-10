@@ -1,9 +1,11 @@
 # RedeemSTWAccoladeTokens
 
-**Description**: `Redeems the Save the World Accolade Tokens (transfers xp to athena profile i think)` \
+**Description**: `Redeems the Save the World Accolades (Transfers the XP to BR)` \
 **Profiles**: `athena`
 
 ## Body
+
 ```js
-{}
+{
+}
 ```
