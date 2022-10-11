@@ -1,4 +1,4 @@
-## Fortnite - ItemShop Assets [deprecated]
+## Fortnite - Mobile Item Shop Assets [deprecated]
 
 URL: https://www.epicgames.com/graphql \
 Method: POST \
@@ -8,7 +8,7 @@ Auth Required: No
 
 ```json
 {
-  "query": "query FortniteQuery { Fortnite { getCurrentStoreOffers { storefronts { catalogEntries { assetName } } success } } }"
+  "query": "query FortniteQuery { Fortnite { getCurrentStoreOffers { storefronts { catalogEntries { offerId devName assetName } } success } } }"
 }
 ```
 
