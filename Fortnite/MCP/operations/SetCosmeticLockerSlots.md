@@ -1,9 +1,10 @@
 # SetCosmeticLockerSlots
 
-**Description**: `Set multible Cosmetics in a specified Locker (unkown if the variantUpdates parameter exists!)` \
+**Description**: `Set multible Cosmetics in a specified Locker` \
 **Profiles**: `athena`, `campaign`
 
 ## Body
+
 ```js
 {
     "lockerItem": "{lockerItemGUID}", //the Locker Items GUID
