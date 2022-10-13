@@ -52,3 +52,4 @@
 | social-token-exchange-prod                         | cf27c69fe66441e8a8a4e8faf396ee4c |                                             |
 | Epic Games Client Service                          | 7a40f8cdafd346219a4a0a15522b8ed7 |                                             |
 | Paradise Fortnite Discord Quest                    | xyza7891IjB10JDONRiKG3CZYlyWJjgk |                                             |
+| content-service-live-web                           | 4e1e74dcfe6e4d6eaea66fec15f9b9d4 |                                             |
