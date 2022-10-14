@@ -53,3 +53,4 @@
 | Epic Games Client Service                          | 7a40f8cdafd346219a4a0a15522b8ed7 |                                             |
 | Paradise Fortnite Discord Quest                    | xyza7891IjB10JDONRiKG3CZYlyWJjgk |                                             |
 | content-service-live-web                           | 4e1e74dcfe6e4d6eaea66fec15f9b9d4 |                                             |
+| content-service-livetesting-web                    | f09fd7f36cc54b5fa08fb3f0e371e438 |                                             |
