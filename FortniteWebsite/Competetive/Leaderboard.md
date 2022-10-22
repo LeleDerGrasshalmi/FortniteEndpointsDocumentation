@@ -1,6 +1,6 @@
-## Fortnite Website - Competitive Leaderboard 
+## Fortnite Website - Competitive Leaderboard
 
-URL: https://www.epicgames.com/fortnite/competitive/api/leaderboard/persistent/:competitiveId/undefined \
+URL: https://www.epicgames.com/fortnite/competitive/api/leaderboard/:eventId/:eventWindowId/undefined \
 Method: GET \
 Auth Required: No
 ## Query Parameter
