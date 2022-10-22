@@ -33,6 +33,6 @@
 | collection_book_schematics0 | Collectionbook data (Schematics)                                |
 | outpost0                    | StW Storage                                                     |
 | theater0                    | StW Backpack                                                    |
-| theater1                    | ?                                                               |
+| theater1                    | Events Backpack (e.g. Frostnite, Hit the Road etc...)           |
 | theater2                    | Ventures data                                                   |
 | recycle_bin                 | Stw Recycle Bin                                                 |
