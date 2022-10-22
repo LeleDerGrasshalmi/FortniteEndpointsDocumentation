@@ -4,4 +4,4 @@ URL: https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/discov
 Method: GET \
 Auth Required: Yes
 
-**branch**: Unkown format
+**branch**: Front Part of Build ID (example : ++Fortnite+Release-22.20)
