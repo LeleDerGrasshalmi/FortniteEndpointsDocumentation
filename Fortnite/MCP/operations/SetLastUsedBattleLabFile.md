@@ -1,6 +1,6 @@
 # SetLastUsedBattleLabFile
 
-**Description**: `Sets the current used Battle Lab file, tbh idk what that means` \
+**Description**: `Equips a Battle Lab file for use` \
 **Profiles**: `creative` \
 **Note**: `DedicatedServer ONLY`
 
