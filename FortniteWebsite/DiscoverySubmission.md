@@ -1,4 +1,4 @@
-## Fortnite Website - Cosplay
+## Fortnite Website - Discovery Submission
 
 URL: https://www.epicgames.com/fortnite/en-US/api/creative-submission-form/submit \
 Method: POST \
