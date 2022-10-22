@@ -1,7 +1,7 @@
 # UnlockProfileForWrite
 
 **Description**: `Was used to Unlock a profile to write at the fn start` \
-**Profiles**: `UNKOWN` \
+**Profiles**: `All theater profiles` \
 **Note**: `DedicatedServer ONLY`
 
 ## Body
