@@ -1,6 +1,6 @@
 # Fortnite Related Endpoint Documentation
 
-## Content (NOT UP TO DATE!)
+## Content
 
 - [Epic Games](/EpicGames)
   - [Auth Client List](/EpicGames/AuthClients.md)
@@ -88,6 +88,12 @@
     - [Mobile ItemShop Assets](/Fortnite/MobileItemShopAssets.md)
 - [Fortnite Website](/FortniteWebsite)
 - [Playstation Website](/PlaystationStore)
+
+## Contributions
+
+1. Create your commit(s) with explaining texts
+2. Create a pull request with a explaining Title & describe what you want to be changed
+3. Wait for Lele to approve or decline it.
 
 ## Authors
 
