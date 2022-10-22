@@ -11,6 +11,6 @@
     "currency": "MtxCurrency", //the currency
     "currencySubType": "", //the currency subtype, leave empty is not existing
     "expectedTotalPrice": 0, //calculate urself
-    "gameContext": "GameContext: Frontend.CatabaScreen" //leave it empty, or like this
+    "gameContext": "Frontend.CatabaScreen" //leave it empty, or like this
 }
 ```
