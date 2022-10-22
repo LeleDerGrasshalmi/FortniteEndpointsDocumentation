@@ -37,7 +37,7 @@
     - [Android](/Fortnite/Manifest/Android.md)
     - [IOS](/Fortnite/Manifest/IOS.md)
     - [PS4](/Fortnite/Manifest/PS4.md)
-    - [PS5](/Fortnite/Manifest-PS5.md)
+    - [PS5](/Fortnite/Manifest/PS5.md)
     - [Switch](/Fortnite/Manifest/Switch.md)
     - [Windows](/Fortnite/Manifest/Windows.md)
     - [XboxOne](/Fortnite/Manifest/XboxOne.md)
@@ -46,10 +46,10 @@
     - [Calendar](/Fortnite/Calendar.md)
     - [Content](/Fortnite/Content.md)
     - [ItemShop Assets](/Fortnite/ItemShopAssets.md)
-    - [Receipts](/Fortnite/CatalogReceipts.md)
-    - [Server Status](/Fortnite/ServerStatus.md)
-    - [StW World](/Fortnite/SaveTheWorldMissions.md)
-    - [Stats](/Fortnite/ServerStatusBulk.md)
+    - [Receipts](/Fortnite/Catalog/Receipts.md)
+    - [Server Status](/Fortnite/ServerStatus)
+    - [StW World](/Fortnite/SaveTheWorld)
+    - [Stats](/Fortnite/ServerStatus/ServerStatusBulk.md)
 
 ## Authors
 
