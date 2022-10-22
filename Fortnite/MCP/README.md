@@ -31,7 +31,6 @@
 | metadata                    | saved which users have access on which homebase (StW)           |
 | collection_book_people0     | Collectionbook data (Heroes, Survivor, Defender)                |
 | collection_book_schematics0 | Collectionbook data (Schematics)                                |
-| profile0                    | ?doesnt exist anymore?                                          |
 | outpost0                    | StW Storage                                                     |
 | theater0                    | StW Backpack                                                    |
 | theater1                    | ?                                                               |

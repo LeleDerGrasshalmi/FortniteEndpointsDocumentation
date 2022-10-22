@@ -1,6 +1,7 @@
 # Fortnite Related Endpoint Documentation
 
-## Content
+## Content (NOT UP TO DATE!)
+
 - [Epic Games Affiliate](/EpicGamesAffiliate)
   - [Endpoints](/EpicGamesAffiliate)
     - [Dashboard Data](/EpicGamesAffiliate/endpoints/get-dashboard-data.md)
@@ -49,7 +50,8 @@
     - [Server Status](/Fortnite/ServerStatus.md)
     - [StW World](/Fortnite/SaveTheWorldMissions.md)
     - [Stats](/Fortnite/ServerStatusBulk.md)
- 
+
 ## Authors
+
 - [Jem](https://twitter.com/jemfleaks) (jemcer#1009)
 - [Lele](https://twitter.com/RealGrasshalm2) (LeleDerGrasshalm#1872)
