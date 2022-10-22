@@ -7,7 +7,7 @@
 ## Body
 ```js
 {
-    "plotItemId": "", //island/plot item (templateId or guid idk)
+    "plotItemId": "", //island/plot item (templateId)
     "locale": "", //the language, e.g. de
     "title": "", //island Title
     "tagline": "", //island Tagline
