@@ -2,6 +2,7 @@
 
 URL: https://www.epicgames.com/fortnite/en-US/api/creative-submission-form/submit \
 Method: POST \
+Auth Required: Yes \
 Payload:
 ```js
 {
@@ -20,4 +21,4 @@ Payload:
   }
 }
 ```
-Auth Required: Yes
+
