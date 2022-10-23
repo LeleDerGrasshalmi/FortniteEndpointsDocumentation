@@ -36,6 +36,8 @@
 | unrealNodeComClient                                | 932e595bedb643d9ba56d3e1089a5c4b |                                             |
 | utvbulletin                                        | e7d1a3ee19ac4173b80a53006dc53be3 |                                             |
 | epicgamesWebsiteClient                             | 007c0bfe154c4f5396648f013c641dcf |                                             |
+| epicgamesNodeWebsiteClient                         | 5a6fcd3b82e04f8fa0065253835c5221 |                                             |
+| devEpicgamesWebsiteClient                          | 1412c33087cc452283d371665a8e5fbc |                                             |
 | Fortnite Community Battles                         | 26c2c1eeeb9141a08d2e52afdda30fde |                                             |
 | Google (YouTube)                                   | fa39ae1203b5438280f515f38a50f08e |                                             |
 | self-service-portal                                | 8177ec72e7364c59a61a36213900ba67 |                                             |
