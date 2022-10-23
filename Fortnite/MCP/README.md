@@ -28,7 +28,7 @@
 | common_public               | Public data (e.g. current user banner)                          |
 | collections                 | Battle Royale Collection (Fishing / NPC)                        |
 | common_core                 | here are banners saved, as well as other info like vbucks, etc. |
-| metadata                    | saved which users have access on which homebase (StW)           |
+| metadata                    | Save the World Homebase data (e.g info about user permission)           |
 | collection_book_people0     | Collectionbook data (Heroes, Survivor, Defender)                |
 | collection_book_schematics0 | Collectionbook data (Schematics)                                |
 | outpost0                    | StW Storage                                                     |
