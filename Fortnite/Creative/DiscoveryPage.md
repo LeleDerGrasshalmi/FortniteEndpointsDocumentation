@@ -25,10 +25,10 @@ eg. `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
 
 ## Parameter
 
-`surfaceName`: leave as 'CreativeDiscoverySurface_Frontend'
-`panelName`: The panel you want to load a different page of
-`pageIndex`: The page you want to load from the panel
-`revision`: leave -1 for latest
-`testCohorts`: grabbed from the main discovery api (<root>.testCohorts)
-`partyMemberIds`: array of the party member ids, or an empty array
-`matchmakingRegion`: your matchmaking region
+`surfaceName`: leave as 'CreativeDiscoverySurface_Frontend' \
+`panelName`: The panel you want to load a different page of \
+`pageIndex`: The page you want to load from the panel \
+`revision`: leave -1 for latest \
+`testCohorts`: grabbed from the main discovery api (<root>.testCohorts) \
+`partyMemberIds`: array of the party member ids, or an empty array \
+`matchmakingRegion`: your matchmaking region 
