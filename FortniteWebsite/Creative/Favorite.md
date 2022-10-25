@@ -2,9 +2,10 @@
 
 URL: https://www.epicgames.com/fortnite/api/creative/islands/add-favorites/:islandcode \
 Method: PUT \
-Auth Required: Yes \
+Auth Required: Yes
+
 Payload:
-```js
+
+```json
 {}
 ```
-

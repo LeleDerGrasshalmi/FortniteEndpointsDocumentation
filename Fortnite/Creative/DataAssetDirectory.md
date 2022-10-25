@@ -34,7 +34,7 @@ Auth Required: Yes
 
 ## Parameter
 
-**version**: the fn version (url encoded), e.g. %2B%2BFortnite%2BRelease-20.00 \
-**versionCLN**: the fn versions CLN, e.g. 19532288
+**version**: the fn version (url encoded), e.g. `%2B%2BFortnite%2BRelease-20.00` \
+**versionCLN**: the fn versions CLN, e.g. `19532288`
 
 **Example final URL**: `https://data-asset-directory-public-service-prod.ol.epicgames.com/api/v1/assets/Fortnite/%2B%2BFortnite%2BRelease-20.00/19532288?appId=Fortnite`

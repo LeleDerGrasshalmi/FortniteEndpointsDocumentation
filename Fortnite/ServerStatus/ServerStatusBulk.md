@@ -4,6 +4,6 @@ URL: https://lightswitch-public-service-prod06.ol.epicgames.com/lightswitch/api/
 Method: GET \
 Auth Required: Yes
 
-## Query
+### Query
 
 **Use multible `serviceId` for bulk**

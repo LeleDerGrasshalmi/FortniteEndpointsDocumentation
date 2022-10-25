@@ -22,7 +22,7 @@ eg. `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
 
 ## Parameter
 
-`surfaceName`: leave as 'CreativeDiscoverySurface_Frontend'
-`revision`: leave -1 for latest
-`partyMemberIds`: array of the party member ids, or an empty array
-`matchmakingRegion`: your matchmaking region
+`surfaceName`: leave as 'CreativeDiscoverySurface_Frontend' \
+`revision`: leave -1 for latest \
+`partyMemberIds`: Array of the party member ids, or an Empty Array \
+`matchmakingRegion`: Your matchmaking region (e.g. EU)

@@ -4,7 +4,7 @@ URL: https://statsproxy-public-service-live.ol.epicgames.com/statsproxy/api/stat
 Method: POST \
 Auth Required: Yes
 
-## Query
+### Query
 
 **category**: `collection_fish`, `collection_character`
 
@@ -19,6 +19,6 @@ Auth Required: Yes
 }
 ```
 
-**startDate**: `0 (for alltime) or set for custom time-window`
-**endDate**: `9223372036854775807 (for alltime) or set for custom time-window`
+**startDate**: `0 (for alltime) or set for custom time-window` \
+**endDate**: `9223372036854775807 (for alltime) or set for custom time-window` \
 **owners**: `array of account ids (to get the stats from)`

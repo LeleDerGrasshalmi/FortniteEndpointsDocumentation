@@ -2,9 +2,12 @@
 
 URL: https://www.epicgames.com/fortnite/competitive/api/leaderboard/:eventId/:eventWindowId \
 Method: POST \
-Auth Required: No \
+Auth Required: No
+
 Payload:
-(only supports names without spaces..)
-```json
-{"name":"krowemoh"}
+
+```js
+{
+    "name": "krowemoh" // apparently only supports names without spaces
+}
 ```

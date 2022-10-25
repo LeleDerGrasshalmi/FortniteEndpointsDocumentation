@@ -14,5 +14,5 @@ Auth Required: Yes
 }
 ```
 
-**owners**: Array of every Account Id to query
+**owners**: Array of every Account Id to query \
 **stats**: Array of every Stat to query

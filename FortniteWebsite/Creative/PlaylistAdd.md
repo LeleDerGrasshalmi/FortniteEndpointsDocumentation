@@ -2,9 +2,10 @@
 
 URL: https://www.epicgames.com/fortnite/api/creative/islands/add-to-playlist-queue/:islandcode \
 Method: POST \
-Auth Required: Yes \
+Auth Required: Yes
+
 Payload:
-```js
+
+```json
 {}
 ```
-

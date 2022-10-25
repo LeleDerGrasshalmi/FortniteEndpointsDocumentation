@@ -1,11 +1,13 @@
-## Fortnite Website - Vbucks Status
+## Fortnite Website - Vbucks Card Status
 
 URL: https://www.epicgames.com/fortnite/en-US/api/posa/code/status \
 Method: POST \
-Auth Required: Yes \
+Auth Required: Yes
+
 Payload:
+
 ```json
 {
-"code":"testing123"
+  "code": "testing123"
 }
 ```
