@@ -2,8 +2,8 @@
 
 URL: https://www.epicgames.com/fortnite/competitive/api/en/calendar \
 Method: POST \
-Auth Required: No
-## Body
+Auth Required: No \
+Payload:
 ```json
 {}
 ```
