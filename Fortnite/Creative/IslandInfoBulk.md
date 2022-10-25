@@ -19,4 +19,5 @@ Auth Required: Yes
 
 `v`: island version
 `mnemonic`: island code
-Note: (other parameters are unkown rn)
+`type`: type of mnemonic (eg. Creative:Island)
+`filter`: unknown
