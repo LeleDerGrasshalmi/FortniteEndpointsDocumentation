@@ -2,4 +2,4 @@
 
 URL: https://www.epicgames.com/fortnite/api/founders-packs \
 Method: GET \
-Auth Required: No
+Auth Required: Yes
