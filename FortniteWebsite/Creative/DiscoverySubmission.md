@@ -11,7 +11,7 @@ Payload:
   "image": false, // can be set to true
   "trailer": false, // can be set to true
   "payload": {
-    "submissionIdentifier": "", // guid
+    "submissionIdentifier": "", // submission-guid
     "submissionType": "", // idk can be left empty
     "islandCode": "", // island code
     "islandType": "", // plot type, ex: CreativePlot:creativeroyaleplot
