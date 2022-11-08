@@ -15,12 +15,12 @@
 | fortnitePS4EUGameClient                            | 79a931b375334570ac369234f5da05ec |                                             |
 | fortnitePS4USGameClient                            | d8566f2e7f5c48f89683173eb529fee1 |                                             |
 | fortnitePS5EUGameClient                            | 386cbbc78d57464181005c3f7edfad0d |                                             |
-| fortnitePS5USGameClient                            | 1252412dc7704a9690f6ea4611bc81ee |                                             |
+| fortnitePS5USGameClient                            | 03f2645147214e1ab368caa78c5fca81 |                                             |
 | fortnitePS5USGameClientTest                        | 3cf19c6ba05a4fa3997957491e15ba1c |                                             |
 | fortnitePCQAGameClientTest                         | 81ffd992c8a94ccaaaa6bd74c073ce6a |                                             |
 | launcherServiceClient                              | f3e80378aed4462498774a7951cd263f |                                             |
 | KairosPC                                           | 5b685653b9904c1d92495ee8859dcb00 |                                             |
-| utClient                                           | 03f2645147214e1ab368caa78c5fca81 |                                             |
+| utClient                                           | 1252412dc7704a9690f6ea4611bc81ee | 2ca0c925b4674852bff92b26f8322434            |
 | Fortnite                                           | xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5 | F8BVRyHIqmct8cN9KSPbXsJszpiIZEYEFDiySxc1wuA |
 | Naruto Nindo                                       | 70e113f930c8478d9bcbab61ef3cbd4f |                                             |
 | Refer a Friend                                     | 94b8b951a116407dae2bbf22dadb192e |                                             |
