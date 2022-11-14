@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "affiliateName": "@Lele" //the sac code
+    "affiliateName": "Lele" //the sac code
 }
 ```
