@@ -1,6 +1,6 @@
 ## Fortnite - Creative Discovery
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/discovery/surface/page/:accountId?appId=Fortnite \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/discovery/surface/:accountId?appId=Fortnite \
 Method: POST \
 Auth Required: Yes
 
