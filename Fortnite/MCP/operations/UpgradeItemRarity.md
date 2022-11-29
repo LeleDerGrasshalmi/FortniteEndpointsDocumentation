@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "targetItemId": "" //Id of the item you want to upgrade the rarity of
+    "targetItemId": "" //Guid of the item you want to upgrade the rarity of
 }
 ```
