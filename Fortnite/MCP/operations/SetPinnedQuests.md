@@ -1,7 +1,7 @@
 # SetPinnedQuests
 
 **Description**: `Pin Quests (Bulk)` \
-**Profiles**: `athena`, `campaign`
+**Profiles**: `campaign`
 
 ## Body
 ```js
