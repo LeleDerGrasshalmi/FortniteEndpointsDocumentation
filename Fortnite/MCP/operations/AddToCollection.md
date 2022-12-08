@@ -7,7 +7,7 @@
 ## Body
 ```js
 {
-    "category": "", //item guid or templateId
+    "category": "", //main templateId ex. "CollectableCharacter:tandem"
     "variant": "", //variant tag
     "contextTags": [],
     "properties": {}, //for fishes: weight(float), length(float) || for npcs: questsGiven(int), questsCompleted(int), encounterTypeFlags(char)
