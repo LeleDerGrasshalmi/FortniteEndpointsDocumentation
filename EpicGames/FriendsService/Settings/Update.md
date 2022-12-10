@@ -6,7 +6,7 @@ Auth Required: Yes
 
 ```js
 {
-    "acceptInvites": "public", // public, private
+    "acceptInvites": "public", // PUBLIC, FRIENDS_OF_FRIENDS, PRIVATE (case doesnt matter, epic lowercases it)
     "mutualPrivacy": "ALL" // ALL, FRIENDS, NONE
 }
 ```
