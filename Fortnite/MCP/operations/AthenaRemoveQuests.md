@@ -1,11 +1,12 @@
 # AthenaRemoveQuests
 
-**Description**: `Removes (deletes) a quest item from your profile` \
+**Description**: `Remove Quests (BR)` \
 **Profiles**: `athena`
 
 ## Body
+
 ```js
 {
-    "removedQuests": [] //array of the quests guid
+    "removedQuests": [] // Quest Item Guids
 }
 ```

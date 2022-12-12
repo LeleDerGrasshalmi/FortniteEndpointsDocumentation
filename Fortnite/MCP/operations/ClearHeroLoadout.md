@@ -1,11 +1,12 @@
 # ClearHeroLoadout
 
-**Description**: `Clears/Rests a Hero Loadout` \
+**Description**: `Resets a StW Hero Loadout` \
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "loadoutId": "" //loadout item guid
+    "loadoutId": "" // Loadout Item Guid
 }
 ```

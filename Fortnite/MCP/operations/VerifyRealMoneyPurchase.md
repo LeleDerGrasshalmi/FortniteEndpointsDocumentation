@@ -4,14 +4,15 @@
 **Profiles**: `common_core`
 
 ## Body
+
 ```js
 {
-    "appStore": "", //set it from receipt data
-    "appStoreId": "", //set it from receipt data
-    "receiptId": "", //set it from receipt data
-    "receiptInfo": "", //set it from receipt data
-    "purchaseCorrelationId": "" //parameter not needed (also not known how/where its generated/grabbed from)
+    "appStore": "", // from receipt, e.g. EpicPurchasingService
+    "appStoreId": "", // from receipt
+    "receiptId": "", // from receipt
+    "receiptInfo": "", // from receipt
+    "purchaseCorrelationId": "" // not needed & not known where it comes from (maybe from purchase request headers?)
 }
 ```
 
-[**Get All Receipts**](../../CatalogReceipts.md)
+[**Get All Receipts**](../../Catalog/Receipts.md)

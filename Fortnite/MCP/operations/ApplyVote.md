@@ -4,8 +4,9 @@
 **Profiles**: `athena`
 
 ## Body
+
 ```js
 {
-    "offerId": "" //offerId to vote for
+    "offerId": "" // Offer Id to vote for
 }
 ```

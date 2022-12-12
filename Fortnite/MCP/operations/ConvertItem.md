@@ -1,12 +1,13 @@
 # ConvertItem
 
-**Description**: `Upgrade Item` \
-**Profiles**: `campaign`
+**Description**: `Upgrade StW Item`\
+**Profiles**:`campaign`
 
 ## Body
+
 ```js
 {
-    "targetItemId": "", //guid of the item
-    "conversionIndex": 0 //unkown, leave 0
+    "targetItemId": "", // Item Guid
+    "conversionIndex": 0 // If there are multible Upgrade Options, the options index
 }
 ```

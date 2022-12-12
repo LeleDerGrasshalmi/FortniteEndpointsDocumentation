@@ -4,8 +4,18 @@
 **Profiles**: `common_core`
 
 ## Body
+
 ```js
 {
-    "network": "Facebook" //valid: Facebook, VK, Steam, Xbox, Playstation, Switch, if missing Facebook is default
+    "network": "Facebook" // Enum ESocialImportPanelPlatform
 }
 ```
+
+### Network
+
+- Facebook (Default -> used if missing)
+- VK
+- Steam
+- Xbox
+- Playstation
+- Switch

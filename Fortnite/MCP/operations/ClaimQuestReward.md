@@ -1,12 +1,13 @@
 # ClaimQuestReward
 
-**Description**: `Claims a Quest Reward` \
+**Description**: `Claim a Quest Reward` \
 **Profiles**: `athena`, `campaign`
 
 ## Body
+
 ```js
 {
-    "questId": "", //quest item guid
-    "selectedRewardIndex": 0 //unkown, ig leave 0
+    "questId": "", // Quest Item Guid
+    "selectedRewardIndex": 0 // if there is a choice between reward the selected rewards index
 }
 ```

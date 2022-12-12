@@ -4,9 +4,10 @@
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "requiredXp": 3613250, //xp required for the level u reached
-    "selectedRewardIndex": -1 //idk leave like this ig
+    "requiredXp": 3613250, // XP for the Collection Book Level
+    "selectedRewardIndex": -1 // If there are multible rewards possible select the index of the reward
 }
 ```

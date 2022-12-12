@@ -1,13 +1,14 @@
 # ClaimSubscriptionRewards
 
-**Description**: `Claims Subscription Rewards` \
+**Description**: `Claims a Subscriptions Rewards (e.g. Fortnite Crew)` \
 **Profiles**: `common_core`
 
 ## Body
+
 ```js
 {
-    "appStore": "", //the appStore, can be grabbed from the profile
-    "uniqueSubscriptionId": "", //the uniqueSubscriptionId, can be grabbed from the profile
-    "receiptInfo": "" //receiptInfo || unkown value
+    "appStore": "", // from profile, e.g. EpicPurchasingService
+    "uniqueSubscriptionId": "", // from profile
+    "receiptInfo": "" // ???
 }
 ```

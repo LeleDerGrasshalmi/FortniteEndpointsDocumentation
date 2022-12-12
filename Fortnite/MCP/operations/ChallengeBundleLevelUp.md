@@ -1,11 +1,12 @@
 # ChallengeBundleLevelUp
 
-**Description**: `Levels a Challenge Bundle up` \
+**Description**: `Level up a Challenge Bundle` \
 **Profiles**: `athena`
 
 ## Body
+
 ```js
 {
-    "bundleIdToLevel": "" //the Challenge Bundles item guid
+    "bundleIdToLevel": "" // Challenge Bundle Item Guid
 }
 ```

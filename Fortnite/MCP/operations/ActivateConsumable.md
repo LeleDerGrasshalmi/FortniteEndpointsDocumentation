@@ -4,9 +4,10 @@
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "targetItemId": "", //item guid
-    "targetAccountId": "" //accountId
+    "targetItemId": "", // Item Guid
+    "targetAccountId": "" // targeted Users Account Id
 }
 ```

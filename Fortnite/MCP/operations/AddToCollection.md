@@ -5,13 +5,42 @@
 **Note**: `DedicatedServer ONLY`
 
 ## Body
+
 ```js
 {
-    "category": "", //main templateId ex. "CollectableCharacter:tandem"
-    "variant": "", //variant tag
-    "contextTags": [],
-    "properties": {}, //for fishes: weight(float), length(float) || for npcs: questsGiven(int), questsCompleted(int), encounterTypeFlags(char)
-    "seenState": "", //valid: Unknown, New, Known, NewlyCollected, Collected, NewBest, NewRecord, NewLocation, NewlyCompleted, Complete
-    "count": 1
+    "category": "", // Category Template Id, e.g. CollectableCharacter:tandem, CollectableCharacter:boss, CollectablePlayerAugment:collection
+    "variant": "", // The Variant Gameplaytag, e.g. AISpawnerData.Type.Tandem.SpaceChimp, PlayerAugment.Collection.PartyTime, Fish.Angler.PurpleOrange
+    "contextTags": [], // Context Gameplaytags if existing, e.g. Athena.Location.UnNamedPOI.Tandem.SpaceChimp
+    "properties": {}, // see below
+    "seenState": "", // Enum: EFortCollectedState
+    "count": 1 // catch count (fish) or talk count (npc)
 }
 ```
+
+### Properties
+
+> **Fish** (FFortMcpCollectedFishProperties)
+>
+> - weight: float
+> - length: float
+
+> **NPC / Character (Tandem)** (FFortMcpCollectedCharacterProperties)
+>
+> - questsGiven: int
+> - questsCompleted: int
+> - encounterTypeFlags: int
+
+<br/>
+
+### Enum: EFortCollectedState
+
+- Unknown
+- New
+- Known
+- NewlyCollected
+- Collected
+- NewBest
+- NewRecord
+- NewLocation
+- NewlyCompleted
+- Complete

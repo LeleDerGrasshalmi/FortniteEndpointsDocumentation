@@ -4,8 +4,9 @@
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "expeditionId": "" //expedition guid
+    "expeditionId": "" // Expedition Item Guid
 }
 ```

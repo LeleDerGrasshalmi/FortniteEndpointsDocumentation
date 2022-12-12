@@ -1,13 +1,14 @@
 # AssignGadgetToLoadout
 
-**Description**: `Assigns/Sets a Gadget to an Loadout` \
+**Description**: `Sets an Gadget of to an Loadout` \
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "gadgetId": "", //Gadget templateId
-    "loadoutId": "", //loadout item guid
-    "slotIndex": 0 //index, 0 or 1 (to set either gadget 1 or 2)
+    "gadgetId": "", // Gadget Template Id, e.g. Gadget:g_supplydrop
+    "loadoutId": "", // Loadout Item Guid
+    "slotIndex": 0 // Gadget Slot Index (0 or 1)
 }
 ```

@@ -1,11 +1,12 @@
 # AthenaPinQuest
 
-**Description**: `Pins the Quest` \
+**Description**: `Pins the Quest (Tracked Quest in BR)` \
 **Profiles**: `athena`
 
 ## Body
+
 ```js
 {
-    "pinnedQuest": "" //quest item guid
+    "pinnedQuest": "" // Quest Item Guid
 }
 ```

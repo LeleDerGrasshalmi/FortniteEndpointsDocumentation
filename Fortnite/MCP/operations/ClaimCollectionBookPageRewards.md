@@ -4,10 +4,15 @@
 **Profiles**: `collection_book_people0`, `collection_book_schematics0`
 
 ## Body
+
 ```js
 {
-    "pageTemplateId": "", //the collectionbookpage templateId, e.g. CollectionBookPage:pagespecial_steampunk_weapons
-    "sectionId": "", //unkown, dont use this parameter in body ig
-    "selectedRewardIndex": 0 //unkown, dont use this parameter in body ig
+    "pageTemplateId": "", // Page Template Id, e.g. CollectionBookPage:pagespecial_steampunk_weapons
+    "sectionId": "", // ??? (ref to next prop?)
+    "selectedRewardIndex": 0 // Used when completing a whole page (selecting reward index)
 }
 ```
+
+> Rewards Data Table
+>
+> - `/SaveTheWorld/CollectionBook/Data/CollectionBookXpLevelData.uasset`

@@ -1,13 +1,14 @@
 # AssignHeroToLoadout
 
-**Description**: `Assigns/Sets a Hero to a Loadout` \
+**Description**: `Sets an Hero to an Loadout` \
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "heroId": "", //hero item guid
-    "loadoutId": "", //loadout item guid
-    "slotName": "" //the slotname, valid: CommanderSlot, FollowerSlot1 (1-5)
+    "heroId": "", // Hero (HID) Item Guid
+    "loadoutId": "", // Loadout Item Guid
+    "slotName": "" // Slots Name, valid: CommanderSlot, FollowerSlot(1-5) e.g. FollowerSlot2
 }
 ```
