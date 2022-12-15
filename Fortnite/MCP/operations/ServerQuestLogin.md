@@ -7,6 +7,6 @@
 ## Body
 ```js
 {
-    "matchmakingSessionId": "", //self explaining
+    "matchmakingSessionId": "" //self explaining
 }
 ```

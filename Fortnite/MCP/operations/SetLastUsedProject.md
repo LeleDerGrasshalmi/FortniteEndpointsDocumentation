@@ -7,6 +7,6 @@
 ## Body
 ```js
 {
-    "projectID": "", //the project Id
+    "projectID": "" //the project Id
 }
 ```
