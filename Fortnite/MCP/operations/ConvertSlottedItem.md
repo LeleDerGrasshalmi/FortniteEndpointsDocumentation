@@ -1,12 +1,13 @@
 # ConvertSlottedItem
 
-**Description**: `Convert an Item which is in the collection book` \
+**Description**: `Upgrade an Collection Book Item` \
 **Profiles**: `collection_book_people0`, `collection_book_schematics0`
 
 ## Body
+
 ```js
 {
-    "targetItemId": "", //item guid
-    "ConversionIndex": 0 //the index in the bookpage probs
+    "targetItemId": "", // Item Guid
+    "ConversionIndex": 0 // Index if there is more than 1 option (e.g. Obsidian vs Shadow Stone)
 }
 ```

@@ -4,8 +4,9 @@
 **Profiles**: `athena`, `campaign`
 
 ## Body
+
 ```js
 {
-    "questId": "" //guid of the quest u want to reroll
+    "questId": "" // Quest Item Guid
 }
 ```

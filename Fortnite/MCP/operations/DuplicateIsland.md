@@ -5,10 +5,11 @@
 **Note**: `DedicatedServer ONLY`
 
 ## Body
+
 ```js
 {
-    "islandId": "", //island item (templateId or guid idk)
-    "locale": "", //the language, e.g. de
-    "newTitle": "" //duplicated island Title
+    "islandId": "", // Island Item Guid
+    "locale": "en", //e.g. en, de
+    "newTitle": "NEW ISLAND 2"
 }
 ```

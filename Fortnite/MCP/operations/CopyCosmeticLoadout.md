@@ -1,13 +1,14 @@
 # CopyCosmeticLoadout
 
-**Description**: `Copies a Cosmetic Loadout` \
+**Description**: `Copy a Cosmetic Loadout` \
 **Profiles**: `athena`, `campaign`
 
 ## Body
+
 ```js
 {
-    "sourceIndex": 0, //the index of the base locker
-    "targetIndex": 1, //the index u want to copy it to
-    "optNewNameForTarget": "PRESET 1" // the loadout name
+    "sourceIndex": 0, // The Index of the Loadout to Copy
+    "targetIndex": 1, // The Index of the Preset Index to set the Loadout to
+    "optNewNameForTarget": "PRESET 1" // The new Loadouts name
 }
 ```

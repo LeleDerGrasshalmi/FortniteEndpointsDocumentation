@@ -1,16 +1,13 @@
 # ModifyQuickbar
 
-**Description**: `Modifies/Sets the StW Quickbar` \
+**Description**: `Sets the StW Quickbar` \
 **Profiles**: `theater0`, `theater2`
 
 ## Body
+
 ```js
 {
-    "primaryQuickbarChoices": [
-        "", // Item 1 Guid or an empty string (empty slot)
-        "", // Item 2 Guid or an empty string (empty slot)
-        ""  // Item 3 Guid or an empty string (empty slot)
-    ],
-    "secondaryQuickbarChoice": "" //current selected trap guid
+    "primaryQuickbarChoices": [], // Array with 3 Elements - Item Guid or an Empty String (=> Empty Slot)
+    "secondaryQuickbarChoice": "" // Selected Trap Item Guid
 }
 ```

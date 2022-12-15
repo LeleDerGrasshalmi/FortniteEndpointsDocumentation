@@ -5,8 +5,9 @@
 **Note**: `DedicatedServer ONLY`
 
 ## Body
+
 ```js
 {
-    "plotItemId": "" //island/plot item (templateId or guid idk)
+    "plotItemId": "" // Plot Item Guid
 }
 ```

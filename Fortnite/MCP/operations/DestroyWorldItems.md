@@ -1,11 +1,12 @@
 # DestroyWorldItems
 
-**Description**: `Destroy Items (Bulk)` \
+**Description**: `Destroy Items from the Backpack, you dont get ressources (Bulk)` \
 **Profiles**: `theater0`
 
 ## Body
+
 ```js
 {
-    "itemIds": [] //array of the items guid
+    "itemIds": [] // Item Guids
 }
 ```

@@ -1,13 +1,14 @@
 # ModifyMission
 
-**Description**: `Modifies a mission's difficulty` \
-**Profiles**:  `campaign` \
+**Description**: `Modify a Missions Dificulty` \
+**Profiles**: `campaign` \
 **Note**: `DedicatedServer ONLY`
 
 ## Body
+
 ```js
 {
-    "matchmakingSessionId": "", //self explaining
-    "difficulty": "" // unknown
+    "matchmakingSessionId": "",
+    "difficulty": "" // New difficulty level
 }
 ```

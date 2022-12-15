@@ -1,11 +1,12 @@
 # ExchangeGameCurrencyForBattlePassOffer
 
-**Description**: `Exchanges Game Currency (e.b. Battle Stars) for Battle Pass Offer(s)` \
+**Description**: `Purchases Battle Pass Items for Battle Stars` \
 **Profiles**: `athena`
 
 ## Body
+
 ```js
 {
-    "offerItemIdList": [] //array of the offerIds to exchange
+    "offerItemIdList": [] // Battle Pass Item Offer Ids
 }
 ```

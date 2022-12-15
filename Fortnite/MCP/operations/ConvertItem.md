@@ -1,6 +1,6 @@
 # ConvertItem
 
-**Description**: `Upgrade StW Item`\
+**Description**: `Upgrade an Item`\
 **Profiles**:`campaign`
 
 ## Body

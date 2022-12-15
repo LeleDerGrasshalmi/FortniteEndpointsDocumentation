@@ -1,14 +1,15 @@
 # CreateNewIsland
 
-**Description**: `Creates a Creative Island` \
+**Description**: `Creates a new Creative Island` \
 **Profiles**: `creative` \
 **Note**: `DedicatedServer ONLY`
 
 ## Body
+
 ```js
 {
-    "templateId": "", //island templateId
-    "locale": "", //the language, e.g. de
-    "title": "" //island Title
+    "templateId": "", // Island Template Id
+    "locale": "", // Islands Locale, e.g. en
+    "title": "NEW ISLAND 2" // Islands Title
 }
 ```

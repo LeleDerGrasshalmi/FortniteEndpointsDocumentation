@@ -1,18 +1,19 @@
 # GiftCatalogEntry
 
-**Description**: `Gifts a Catalog Entry to specified users` \
+**Description**: `Gift a Catalog Offer to friends` \
 **Profiles**: `common_core`
 
 ## Body
+
 ```js
 {
-    "offerId": "{offerId}", //the offerId (=> which CatalogEntry you want to gift)
-    "currency": "MtxCurrency", //leave it like this
-    "currencySubType": "", //leave empty
-    "expectedTotalPrice": 0, //calculate urself
-    "gameContext": "Frontend.CatabaScreen", //leave it like this
-    "receiverAccountIds": [], //array of accountIds of the people that should recieve the gift
-    "giftWrapTemplateId": "", //leave it empty, or choose between these: GiftBox:GB_GiftWrap1 (1-4)
-    "personalMessage": "" //not used ingame anymore, but works
+    "offerId": "", //th from offer
+    "currency": "", // from offer
+    "currencySubType": "", // from offer
+    "expectedTotalPrice": 0, // Calculate yourself or let epic calc it (using their endpoint)
+    "gameContext": "Frontend.CatabaScreen", // Leave or Empty String
+    "receiverAccountIds": [], // Friends Account Ids
+    "giftWrapTemplateId": "", // Empty String or GiftBox:GB_GiftWrap1 (1-4)
+    "personalMessage": "" // Not used anymore (also doesnt show ingame anymore since v23.00)
 }
 ```

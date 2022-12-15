@@ -1,12 +1,13 @@
 # OpenCardPack
 
-**Description**: `Opens a CardPack (Llama)` \
+**Description**: `Opens a CardPack (Llama, Chest, ...)` \
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "cardPackItemId": "", //guid of the cardpack
-    "selectionIdx": 0 //unkown, leave like this
+    "cardPackItemId": "", // Cardpack Item Guid
+    "selectionIdx": 0 // If theres multible Rewards, the Index of the selected Reward
 }
 ```
