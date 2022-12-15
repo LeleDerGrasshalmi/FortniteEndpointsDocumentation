@@ -1,0 +1,20 @@
+# EndPrimaryMission
+
+**Description**: `Ends a mission (presumably STW given the mission part)` \
+**Profiles**: `campaign`
+**Note**: `DedicatedServer ONLY`
+
+## Body
+```js
+{
+    "advance": [{
+        "MatchmakingSessionId": string, //session id (idk how to get)
+        "MissionName": string, //probably the id of the mission or smth or the actual name
+        "MissionStatus": string, //uhhhhhhhhhhhhhhh idk what this is
+    }],
+    "EarnedBadgeData": [{
+        "NumMissionPoints": 1, //integer of how many mission points to get (probably stw xp)
+        "bCriticalMatchBonus": bool //i'll be honest idk what this is for but probably like mission difficulty
+    }]
+}
+```
