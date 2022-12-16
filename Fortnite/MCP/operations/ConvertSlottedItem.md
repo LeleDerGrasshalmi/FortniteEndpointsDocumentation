@@ -8,6 +8,6 @@
 ```js
 {
     "targetItemId": "", // Item Guid
-    "ConversionIndex": 0 // Index if there is more than 1 option (e.g. Obsidian vs Shadow Stone)
+    "ConversionIndex": 0 // Index if there is more than 1 option (e.g. Obsidian vs Shadowshard)
 }
 ```

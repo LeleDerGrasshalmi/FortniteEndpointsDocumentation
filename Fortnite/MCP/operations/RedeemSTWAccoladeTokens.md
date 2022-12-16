@@ -1,6 +1,6 @@
 # RedeemSTWAccoladeTokens
 
-**Description**: `Redeems the Save the World Accolades (Transfers the XP to BR)` \
+**Description**: `Redeem StW Accolades -> Transfer BR XP gained in StW to BR` \
 **Profiles**: `athena`
 
 ## Body

@@ -1,11 +1,12 @@
 # RemoveGiftBox
 
-**Description**: `Removes the given Giftboxes from the profile` \
+**Description**: `Removes the specified Giftboxes` \
 **Profiles**: `ANY`
 
 ## Body
+
 ```js
 {
-    "giftBoxItemIds": [] //array of the guid's from the giftboxes which should get removed
+    "giftBoxItemIds": [] // Giftbox Item Guids
 }
 ```

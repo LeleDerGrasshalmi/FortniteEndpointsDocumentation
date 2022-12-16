@@ -1,9 +1,10 @@
 # QueryPublicProfile
 
-**Description**: `Returns the full profile of the user` \
+**Description**: `Download the full profile of the specified account` \
 **Profiles**: `campaign`, `common_public `
 
 ## Body
+
 ```js
 {}
 ```

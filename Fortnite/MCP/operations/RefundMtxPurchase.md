@@ -1,13 +1,14 @@
 # RefundMtxPurchase
 
-**Description**: `Refunds a purchase` \
+**Description**: `Refund a Offer purchased with VBucks` \
 **Profiles**: `common_core`
 
 ## Body
+
 ```js
 {
-    "purchaseId": "{purchaseId}", //specifies the purchase to refund
-    "quickReturn": false, //whether its returned soon after purchase, or in the refund menue
-    "gameContext": "Frontend.AthenaLobby" //leave it like this
+    "purchaseId": "{purchaseId}", // from Purchase History
+    "quickReturn": false, // Whether it requires a Refund Token (from profile)
+    "gameContext": "Frontend.AthenaLobby" // Leave like this or an Empty String
 }
 ```

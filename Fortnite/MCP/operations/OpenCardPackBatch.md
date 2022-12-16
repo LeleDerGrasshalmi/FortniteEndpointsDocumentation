@@ -1,11 +1,12 @@
 # OpenCardPackBatch
 
-**Description**: `Open multiple CardPacks` \
+**Description**: `Open CardPacks [e.g. Llamas, Chests] (Bulk)` \
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "cardPackItemIds": [] //array cardpack guids
+    "cardPackItemIds": [] // Cardpack Item Guids
 }
 ```

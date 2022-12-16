@@ -1,13 +1,13 @@
 # RequestRestedStateIncrease
 
-**Description**: `Add XP, to the max xp from the xp boost` \
+**Description**: `Add Supercharged XP (Only works during Winterfest)` \
 **Profiles**: `athena`
 
 ## Body
 
 ```js
 {
-    "timeToCompensateFor": 31, //the time (in seconds) that u "rested"
-    "restedXpGenAccumulated": 30 //the xp ammout u got [Note: value can't go higher than 20_000 (20k) in the profile!]
+    "timeToCompensateFor": 31, // The time (In Seconds) you rested at the campfire
+    "restedXpGenAccumulated": 30 // Ammount of Supercharged XP to add
 }
 ```

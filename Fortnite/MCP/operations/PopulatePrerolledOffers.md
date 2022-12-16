@@ -1,9 +1,10 @@
 # PopulatePrerolledOffers
 
-**Description**: `Preroll Offers (used in stw to preroll llama items)` \
+**Description**: `Preroll XRAY Llamas` \
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {}
 ```

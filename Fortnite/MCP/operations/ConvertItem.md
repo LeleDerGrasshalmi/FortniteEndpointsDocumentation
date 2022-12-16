@@ -8,6 +8,6 @@
 ```js
 {
     "targetItemId": "", // Item Guid
-    "conversionIndex": 0 // If there are multible Upgrade Options, the options index
+    "conversionIndex": 0 // Index if there is more than 1 option (e.g. Obsidian vs Shadowshard)
 }
 ```

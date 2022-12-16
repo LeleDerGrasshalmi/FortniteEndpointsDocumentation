@@ -4,8 +4,9 @@
 **Profiles**: `collection_book_people0`, `collection_book_schematics0`
 
 ## Body
+
 ```js
 {
-    "targetItemId": "" //item guid
+    "targetItemId": "" // Item Guid
 }
 ```

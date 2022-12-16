@@ -1,6 +1,6 @@
 # OpenCardPack
 
-**Description**: `Opens a CardPack (Llama, Chest, ...)` \
+**Description**: `Open a CardPack (Llama, Chest, ...)` \
 **Profiles**: `campaign`
 
 ## Body

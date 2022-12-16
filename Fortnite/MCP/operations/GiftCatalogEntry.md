@@ -7,7 +7,7 @@
 
 ```js
 {
-    "offerId": "", //th from offer
+    "offerId": "", // from offer
     "currency": "", // from offer
     "currencySubType": "", // from offer
     "expectedTotalPrice": 0, // Calculate yourself or let epic calc it (using their endpoint)

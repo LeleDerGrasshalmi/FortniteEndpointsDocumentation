@@ -1,11 +1,12 @@
 # RecycleItemBatch
 
-**Description**: `Recycle Item (Bulk)` \
+**Description**: `Recycle Items (Bulk)` \
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "targetItemIds": [] //array of the guid from the items to recycle
+    "targetItemIds": [] // Item Guids
 }
 ```

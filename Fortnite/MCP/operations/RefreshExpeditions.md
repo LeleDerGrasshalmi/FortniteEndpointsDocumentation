@@ -1,9 +1,10 @@
 # RefreshExpeditions
 
-**Description**: `refresh/update expeditions` \
+**Description**: `Generate Expeditions` \
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {}
 ```

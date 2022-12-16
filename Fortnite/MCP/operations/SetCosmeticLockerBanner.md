@@ -1,13 +1,14 @@
 # SetCosmeticLockerBanner
 
-**Description**: `Sets the Banner Icon & Color in a specified Locker` \
+**Description**: `Sets the Banner (Color & Icon) within a Loadout` \
 **Profiles**: `athena`, `campaign`
 
 ## Body
+
 ```js
 {
-    "lockerItem": "{lockerItemGUID}", //the Locker Items GUID
-    "bannerIconTemplateName": "", //the banners name, e.g. brs10level100
-    "bannerColorTemplateName": "" //the banners name, e.g. defaultcolor10
+    "lockerItem": "", // Locker Item Guid
+    "bannerIconTemplateName": "", // Banner Id, e.g. brs10level100
+    "bannerColorTemplateName": "" // Banner Color, e.g. defaultcolor10
 }
 ```

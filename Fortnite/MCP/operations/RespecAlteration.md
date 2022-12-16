@@ -4,10 +4,11 @@
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "targetItemId": "", //item guid
-    "alterationSlot": 1, //index
-    "alterationId": "" //the perk templateId, e.g. Alteration:aid_att_damage_t05
+    "targetItemId": "", // Item Guid
+    "alterationSlot": 1, // Perk Index
+    "alterationId": "" // Perk Template Id, e.g. Alteration:aid_att_damage_t05 (Legendary Damage)
 }
 ```

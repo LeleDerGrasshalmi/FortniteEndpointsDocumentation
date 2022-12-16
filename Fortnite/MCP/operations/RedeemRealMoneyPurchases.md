@@ -1,6 +1,6 @@
 # RedeemRealMoneyPurchases
 
-**Description**: `Verifies Purchases from an specified App Store` \
+**Description**: `Claims Real Money Purchase Items` \
 **Profiles**: `common_core`
 
 ## Body

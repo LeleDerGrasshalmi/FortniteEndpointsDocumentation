@@ -4,8 +4,9 @@
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "selectedLoadout": "" //loadout item guid
+    "selectedLoadout": "" // Loadout Item Guid
 }
 ```

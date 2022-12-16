@@ -1,11 +1,12 @@
 # PurchaseOrUpgradeHomebaseNode
 
-**Description**: `Upgrade/Purchase a Gadget/Tool` ([This](https://cdn.discordapp.com/attachments/842511284469366824/922588691145326632/unknown.png)) \
+**Description**: `Upgrade or Purchase an Gadget or Tool` ([This](https://cdn.discordapp.com/attachments/842511284469366824/922588691145326632/unknown.png)) \
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "nodeId": "" //node templateId, e.g. "HomebaseNode:skilltree_airstrike" for the Air Strike Gadget
+    "nodeId": "" // The Nodes Template Id e.g. "HomebaseNode:skilltree_airstrike" (Air Strike Gadget)
 }
 ```
