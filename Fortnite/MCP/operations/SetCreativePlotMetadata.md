@@ -13,6 +13,6 @@
     "tagline": "", //island Tagline
     "DescriptionTags": [], //string array of tags that describe the island
     "youtubeVideoId": "", //youtube video id for the trailer? tbh, idk
-    "introduction": "", //island Introduction
+    "introduction": "" //island Introduction
 }
 ```

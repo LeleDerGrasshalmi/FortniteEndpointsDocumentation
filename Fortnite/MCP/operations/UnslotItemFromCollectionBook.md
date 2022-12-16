@@ -8,6 +8,6 @@
 {
     "templateId": "", //item templateId
     "itemId": "", //item guid
-    "specific": "", //leave as an empty string
+    "specific": "" //leave as an empty string
 }
 ```
