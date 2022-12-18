@@ -1,5 +1,0 @@
-## Fortnite - Tournament Event Window
-
-URL: https://events-public-service-live.ol.epicgames.com/api/v1/leaderboards/Fortnite/:eventId/:windowId/:accountId?page=0&showLiveSessions=false \
-Method: GET \
-Auth Required: Yes
