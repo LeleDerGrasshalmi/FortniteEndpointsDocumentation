@@ -9,6 +9,7 @@ Auth Required: Yes
 > Query:
 >
 > - **playerId**: Your Account Id
+> - **limit**: Limit of the Results (Just out it high, rn there is no page parameter)
 
 > Path:
 >
