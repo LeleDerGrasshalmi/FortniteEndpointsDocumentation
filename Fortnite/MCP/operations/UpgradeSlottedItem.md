@@ -10,4 +10,3 @@
     "desiredLevel": 1 //level, idk what its for...
 }
 ```
-}
