@@ -6,7 +6,7 @@ Auth Required: Yes
 
 Payload:
 
-```json
+```js
 {"country":"AU", "promo":"testing123","locale":"en-AU"}
 ```
 

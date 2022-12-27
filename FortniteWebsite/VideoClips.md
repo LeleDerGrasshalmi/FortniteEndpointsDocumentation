@@ -12,7 +12,7 @@ Auth Required: Yes
 
 Payload:
 
-```json
+```js
 [
     {
         "key": "scene24",
