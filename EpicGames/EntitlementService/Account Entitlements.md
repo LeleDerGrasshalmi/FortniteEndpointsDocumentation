@@ -1,4 +1,4 @@
-## Events Service - Player Info
+## Entitlement Service - Owned Entitlements
 
 URL: https://entitlement-public-service-prod08.ol.epicgames.com/entitlement/api/account/:accountId/entitlements \
 Method: GET \
