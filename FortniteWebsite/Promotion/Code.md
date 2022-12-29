@@ -6,8 +6,12 @@ Auth Required: Yes
 
 Payload:
 
-```js
-{"country":"AU", "promo":"testing123","locale":"en-AU"}
+```json
+{
+  "country": "AU",
+  "promo": "melody",
+  "locale": "en-AU"
+}
 ```
 
 `not-entitled` Error means not eligible

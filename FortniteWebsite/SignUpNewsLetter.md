@@ -6,6 +6,9 @@ Auth Required: Yes
 
 Payload:
 
-```js
-{"email":"test@gmail.com","locale":"en-US"}
+```json
+{
+  "email": "test@gmail.com",
+  "locale": "en-US"
+}
 ```
