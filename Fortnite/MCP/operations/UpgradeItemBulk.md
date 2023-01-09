@@ -7,7 +7,7 @@
 ```js
 {
     "targetItemId": "", //guid of the item
-    "desiredLevel": 10, //level
+    "desiredLevel": 10, //desired Level to upgrade to
     "desiredTier": "no_tier", //the tier
     "conversionRecipeIndexChoice": -1 //idk, leave like this ig
 }

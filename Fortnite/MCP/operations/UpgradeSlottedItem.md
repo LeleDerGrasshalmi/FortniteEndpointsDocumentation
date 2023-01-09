@@ -7,6 +7,6 @@
 ```js
 {
     "targetItemId": "", //item guid
-    "desiredLevel": 1 //level, idk what its for...
+    "desiredLevel": 1 //desired Level to upgrade to
 }
 ```

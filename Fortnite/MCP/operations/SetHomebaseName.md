@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "homebaseName": "@Lele" //the name
+    "homebaseName": "Lele" //the name
 }
 ```

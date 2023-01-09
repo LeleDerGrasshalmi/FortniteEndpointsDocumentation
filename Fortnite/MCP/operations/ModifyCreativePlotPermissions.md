@@ -8,7 +8,7 @@
 
 ```js
 {
-    "plotItemId": "", // Plot Item Guid
+    "plotItemId": "", //island guid
     "permission": "", // Enum: Private, Public
     "accountIds": [] // Account Ids
 }

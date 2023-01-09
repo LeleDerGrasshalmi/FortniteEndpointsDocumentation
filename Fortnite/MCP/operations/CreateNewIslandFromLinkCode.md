@@ -8,7 +8,7 @@
 
 ```js
 {
-    "linkCode": "", // e.g. 1111-2222-3333
+    "linkCode": "", // e.g. 1111-2222-3333 (Needs fork tag to work)
     "locale": "",
     "title": "NEW ISLAND 2"
 }

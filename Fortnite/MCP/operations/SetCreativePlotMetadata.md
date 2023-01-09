@@ -7,12 +7,12 @@
 ## Body
 ```js
 {
-    "plotItemId": "", //island/plot item (templateId)
+    "plotItemId": "", //island guid
     "locale": "", //the language, e.g. de
     "title": "", //island Title
     "tagline": "", //island Tagline
     "DescriptionTags": [], //string array of tags that describe the island
-    "youtubeVideoId": "", //youtube video id for the trailer? tbh, idk
+    "youtubeVideoId": "", //youtube video id for the trailer
     "introduction": "" //island Introduction
 }
 ```
