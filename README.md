@@ -6,7 +6,7 @@
 - [Epic Games Affiliate](/EpicGamesAffiliate)
 - [Epic Games Store](/EpicGamesStore)
 - [Fortnite](/Fortnite)
-  - [Catalog](/Fortnite/Cloudstorage)
+  - [Catalog](/Fortnite/Catalog)
   - [Cloudstorage](/Fortnite/Cloudstorage)
     - [System](/Fortnite/Cloudstorage/System)
     - [User](/Fortnite/Cloudstorage/User)
