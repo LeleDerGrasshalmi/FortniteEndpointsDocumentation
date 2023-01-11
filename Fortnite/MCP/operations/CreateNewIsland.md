@@ -8,7 +8,7 @@
 
 ```js
 {
-    "templateId": "", //island guid
+    "templateId": "", // Island guid
     "locale": "", // Islands Locale, e.g. en
     "title": "NEW ISLAND 2" // Islands Title
 }
