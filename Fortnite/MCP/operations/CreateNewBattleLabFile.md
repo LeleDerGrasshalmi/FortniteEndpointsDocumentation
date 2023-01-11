@@ -8,7 +8,7 @@
 
 ```js
 {
-    "templateId": "", //island guid
+    "templateId": "", // Island guid
     "locale": "", // e.g. en
     "title": "NEW BATTLE LAB FILE 2"
 }
