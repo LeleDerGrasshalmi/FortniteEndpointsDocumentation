@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "codeTokenType": "" //The type of the token u want to issue
+    "codeTokenType": "" // The type of the token u want to issue
 }
 ```
