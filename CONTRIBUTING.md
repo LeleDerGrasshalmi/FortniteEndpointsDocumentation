@@ -22,17 +22,26 @@ URL: {URL} \
 Method: {Method} \
 Auth Required: {Yes/No} ({Permission})
 
+## [h2] Headers [if required]
+
+`<key>`: `<description>`
+
+<br/>
+
 [JSON Code Block]
+[if required]
 
 ```json
 <Body>
 ```
 
-## [h2] Parameters
+## [h2] Parameters [if required]
 
 `<key>`: `<description>`
 
-## [h2] Query Parameters
+<br/>
+
+## [h2] Query Parameters [if required]
 
 `<key>`: `<description>`
 
