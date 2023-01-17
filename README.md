@@ -23,9 +23,7 @@
 
 ## Contributions
 
-1. Create your commit(s) with explaining texts
-2. Create a pull request with a explaining Title & describe what you want to be changed
-3. Wait for Lele to approve or decline it.
+Checkout the [Contribution Info](./CONTRIBUTING.md)
 
 ## Authors
 
