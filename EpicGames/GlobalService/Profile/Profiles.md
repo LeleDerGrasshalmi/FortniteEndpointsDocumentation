@@ -11,5 +11,7 @@ Auth Required: Yes (No Perm required)
 }
 ```
 
-`namespace`: e.g. `Fortnite`
+## Parameters
+
+`namespace`: e.g. `Fortnite` \
 `accountIds`: the account ids (up to 100)

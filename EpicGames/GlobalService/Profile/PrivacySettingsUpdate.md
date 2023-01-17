@@ -15,6 +15,8 @@ Auth Required: Yes (No Perm required)
 }
 ```
 
+## Parameters
+
 `namespace`: e.g. `Fortnite` \
 `playRegion` / `languages` / `badges`:
 
