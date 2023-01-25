@@ -24,3 +24,4 @@ Auth Required: No
 | no-build-mode                           |                          |
 | reboot-rally                            |                          |
 | safety-and-security                     |                          |
+| spotify                                 |                          |
