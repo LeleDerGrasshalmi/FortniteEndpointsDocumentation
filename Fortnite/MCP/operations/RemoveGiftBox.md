@@ -7,6 +7,6 @@
 
 ```js
 {
-    "giftBoxItemIds": [] // Giftbox Item Guids
+    "giftBoxItemIds": [] // Giftbox Item GUIDs
 }
 ```

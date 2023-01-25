@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "bReceiveGifts": true //true for being able to recieve gifts, otherwise false
+    "bReceiveGifts": true // True for being able to recieve gifts, otherwise false
 }
 ```

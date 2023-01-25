@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "questIds": [] //array of the quests guid
+    "questIds": [] // Array of the quests guid
 }
 ```

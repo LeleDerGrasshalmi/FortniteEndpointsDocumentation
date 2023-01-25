@@ -6,8 +6,8 @@
 ## Body
 ```js
 {
-    "nodeId": "{nodeId}", //the rewards nodeId you want to open
-    "rewardGraphId": "{guid}", //the RewardGraphs GUID
-    "rewardCfg": "" //can be left empty
+    "nodeId": "{nodeId}", // The rewards nodeId you want to open
+    "rewardGraphId": "{guid}", // The RewardGraphs GUID
+    "rewardCfg": "" // Can be left empty
 }
 ```

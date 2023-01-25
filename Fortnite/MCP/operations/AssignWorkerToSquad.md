@@ -7,7 +7,7 @@
 
 ```js
 {
-    "characterId": "", // Survivor (Worker) Item Guid
+    "characterId": "", // Survivor (Worker) Item GUID
     "squadId": "", // Squad Id, see below
     "slotIndex": 0 // Slot within the Squad (0-7, 0 = Leader)
 }

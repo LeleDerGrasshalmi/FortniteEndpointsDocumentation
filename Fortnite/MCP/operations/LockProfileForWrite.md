@@ -7,7 +7,7 @@
 ## Body
 ```js
 {
-    "code": "", //unkown
-    "timeout": 1 //how long the writing should be locked
+    "code": "", // Unkown
+    "timeout": 1 // How long the writing should be locked
 }
 ```

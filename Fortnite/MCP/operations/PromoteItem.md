@@ -7,6 +7,6 @@
 
 ```js
 {
-    "targetItemId": "" // Item Guid
+    "targetItemId": "" // Item GUID
 }
 ```

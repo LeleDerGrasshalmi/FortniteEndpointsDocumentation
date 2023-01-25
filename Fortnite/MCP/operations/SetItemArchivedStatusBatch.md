@@ -6,7 +6,7 @@
 ## Body
 ```js
 {
-    "itemIds": [], //array of the items guids
-    "archived": true // whether the items should be archived or not
+    "itemIds": [], // Array of the items guids
+    "archived": true // Whether the items should be archived or not
 }
 ```

@@ -6,7 +6,7 @@
 ## Body
 ```js
 {
-    "targetItemId": "", //item guid
-    "desiredLevel": 1 //desired Level to upgrade to
+    "targetItemId": "", // Item GUID
+    "desiredLevel": 1 // Desired Level to upgrade to
 }
 ```

@@ -7,6 +7,6 @@
 ## Body
 ```js
 {
-    "code": "" //unkown
+    "code": "" // Unkown
 }
 ```

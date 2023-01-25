@@ -8,8 +8,8 @@
 
 ```js
 {
-    "islandId": "", // Island guid
-    "locale": "en", //e.g. en, de
+    "islandId": "", // Island GUID
+    "locale": "en", // e.g. en, de
     "newTitle": "NEW ISLAND 2"
 }
 ```

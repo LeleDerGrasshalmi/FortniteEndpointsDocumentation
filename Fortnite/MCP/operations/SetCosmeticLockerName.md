@@ -6,7 +6,7 @@
 ## Body
 ```js
 {
-    "lockerItem": "", //locker item guid
-    "name": "PRESET 2" //new name
+    "lockerItem": "", // LockerItem GUID
+    "name": "PRESET 2" // New name
 }
 ```

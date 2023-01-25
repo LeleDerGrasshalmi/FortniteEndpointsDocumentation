@@ -6,8 +6,8 @@
 ## Body
 ```js
 {
-    "templateId": "", //item templateId
-    "itemId": "", //item guid
-    "specific": "" //leave as an empty string
+    "templateId": "", // Item TemplateId
+    "itemId": "", // Item GUID
+    "specific": "" // Leave as an empty string
 }
 ```

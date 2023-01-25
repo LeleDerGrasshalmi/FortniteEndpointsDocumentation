@@ -8,9 +8,9 @@
 ```js
 {
     "advance": [{
-        "statName": "phoenixtheater_power_highlight", //the stat Name, e.g phoenixtheater_power_highlight
-        "count": 1, //the count to what u want to update it
-        "timestampOffset": 0 //leave it 0
+        "statName": "phoenixtheater_power_highlight", // The stat Name, e.g phoenixtheater_power_highlight
+        "count": 1, // The count to what u want to update it
+        "timestampOffset": 0 // Leave it 0
     }],
     "playlistId": "",
     "matchStats": {
@@ -25,7 +25,7 @@
                 "stat": "",
                 "count": 1,
                 "Xp": 0,
-                "subtype": "" //valid: NotSet, Action, Discovery, XpToken
+                "subtype": "" // Valid: NotSet, Action, Discovery, XpToken
             }
         },
         "bIsValid": true,
@@ -39,15 +39,15 @@
     "shouldAccumulateToProfileStats": true,
     "shouldSaveToRecentGameLists": true,
     "accolades": [{
-        "accoladeDef": {}, //yes this is missing, this is wayyy toooo much!
+        "accoladeDef": {}, // Yes this is missing, this is wayyy toooo much!
         "templateId": "",
         "count": 1
     }],
-    "shuffledLoadoutUsed": [], //array of strings
+    "shuffledLoadoutUsed": [], // Array of strings
     "shuffledLockerUsedIndex": 0,
-    "usedCosmetics": [], //array of the cosmetics guid
-    "deletedQuestIds": [], //array of the quests guid
-    "grantedQuestDefs": [], //array of the quests guid
+    "usedCosmetics": [], // Array of the cosmetics GUID
+    "deletedQuestIds": [], // Array of the quests GUID
+    "grantedQuestDefs": [], // Array of the quests GUID
     "secondaryXp": [{
         "type": "",
         "secondaryXp": 1
@@ -63,9 +63,9 @@
     "grantedQuests": [{
         "templateId": "",
         "objectives": [{
-            "statName": "phoenixtheater_power_highlight", //the stat Name, e.g phoenixtheater_power_highlight
-            "count": 1, //the count to what u want to update it
-            "timestampOffset": 0 //leave it 0
+            "statName": "phoenixtheater_power_highlight", // The stat Name, e.g phoenixtheater_power_highlight
+            "count": 1, // The count to what u want to update it
+            "timestampOffset": 0 // Leave it 0
         }],
         "expirationTime": "",
         "creationTime": ""
@@ -73,9 +73,9 @@
     "completedQuestsToClaim": [{
         "templateId": "",
         "objectives": [{
-            "statName": "phoenixtheater_power_highlight", //the stat Name, e.g phoenixtheater_power_highlight
-            "count": 1, //the count to what u want to update it
-            "timestampOffset": 0 //leave it 0
+            "statName": "phoenixtheater_power_highlight", // The stat Name, e.g phoenixtheater_power_highlight
+            "count": 1, // The count to what u want to update it
+            "timestampOffset": 0 // Leave it 0
         }],
         "expirationTime": "",
         "creationTime": ""
@@ -83,7 +83,7 @@
     "pinnedSharedQuest": "",
     "seasonItemStates": [{
         "itemTag": "",
-        "mapIconState": "" //valid: Unknown, Found, Interacted
+        "mapIconState": "" // Valid: Unknown, Found, Interacted
     }],
     "campsiteData": {
         "data_is_valid_for_mcp": true,
@@ -123,7 +123,7 @@
     },
     "PlayerTimeInMatchSec": 68,
     "questAnalyticEvents": [{
-        "templateId": "", // quest id
+        "templateId": "", // Quest id
         "state": "" // Valid: None, Granted, Claimed
     }]
 }
