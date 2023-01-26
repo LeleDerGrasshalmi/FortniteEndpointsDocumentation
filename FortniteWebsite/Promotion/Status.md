@@ -14,4 +14,4 @@ Payload:
 }
 ```
 
-This endpoint is now deprecated
+This endpoint is now deprecated as of 26.01.2023 

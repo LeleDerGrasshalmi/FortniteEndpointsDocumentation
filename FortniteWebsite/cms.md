@@ -25,3 +25,4 @@ Auth Required: No
 | reboot-rally                            |                          |
 | safety-and-security                     |                          |
 | spotify                                 |                          |
+| help-center                             |                          |

@@ -13,3 +13,5 @@ cookie: EPIC_BEARER_TOKEN={token}
 ```
 hostPageId=code-redeem&redeem-code={code}
 ```
+
+This endpoint is now deprecated as of 26.01.2023 

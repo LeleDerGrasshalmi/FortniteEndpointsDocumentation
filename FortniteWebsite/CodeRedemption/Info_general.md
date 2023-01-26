@@ -8,3 +8,5 @@ Auth Required: Yes
 ```
 cookie: EPIC_BEARER_TOKEN={token}
 ```
+
+Deprecated as of 26.01.2023 
