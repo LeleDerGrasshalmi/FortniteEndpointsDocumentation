@@ -8,6 +8,6 @@
 ```js
 {
     "primaryQuickbarChoices": [], // Array with 3 Elements - Item Guid or an Empty String (=> Empty Slot)
-    "secondaryQuickbarChoice": "" // Selected Trap Item Guid
+    "secondaryQuickbarChoice": "" // Selected Trap Item GUID
 }
 ```

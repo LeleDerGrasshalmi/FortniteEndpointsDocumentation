@@ -7,6 +7,6 @@
 ## Body
 ```js
 {
-    "plotItemId": "" //island/plot item (templateId or guid idk)
+    "plotItemId": "" // Island GUID
 }
 ```

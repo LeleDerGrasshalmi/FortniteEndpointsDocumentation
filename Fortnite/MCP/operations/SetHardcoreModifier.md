@@ -7,8 +7,8 @@
 ```js
 {
     "updates": [{
-        "modifierId": "", //HardcoreModifier GUID or templateId, its unkown
-        "bEnabled": true //whether the modifier should get enabled or not
+        "modifierId": "", // HardcoreModifier GUID or templateId, its unkown
+        "bEnabled": true // Whether the modifier should get enabled or not
     }]
 }
 ```

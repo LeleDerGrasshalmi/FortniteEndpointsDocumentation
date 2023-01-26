@@ -12,9 +12,9 @@
         "category": "", // Category Template Id, e.g. CollectableCharacter:tandem, CollectableCharacter:boss, CollectablePlayerAugment:collection
         "variant": "", // The Variant Gameplaytag, e.g. AISpawnerData.Type.Tandem.SpaceChimp, PlayerAugment.Collection.PartyTime, Fish.Angler.PurpleOrange
         "contextTags": [], // Context Gameplaytags if existing, e.g. Athena.Location.UnNamedPOI.Tandem.SpaceChimp
-        "properties": {}, // see below
+        "properties": {}, // See below
         "seenState": "", // Enum: EFortCollectedState
-        "count": 1 // catch count (fish) or talk count (npc)
+        "count": 1 // Catch count (fish) or talk count (npc)
     }]
 }
 ```

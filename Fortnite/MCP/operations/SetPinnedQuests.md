@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "pinnedQuestIds": [] //array of the quests guid
+    "pinnedQuestIds": [] // Array of the quests guid
 }
 ```

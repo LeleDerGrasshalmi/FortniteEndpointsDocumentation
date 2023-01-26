@@ -8,6 +8,6 @@
 
 ```js
 {
-    "plotItemId": "" // Island Guid
+    "plotItemId": "" // Island GUID
 }
 ```

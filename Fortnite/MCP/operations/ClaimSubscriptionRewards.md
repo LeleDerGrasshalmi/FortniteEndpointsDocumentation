@@ -9,6 +9,6 @@
 {
     "appStore": "", // from profile, e.g. EpicPurchasingService
     "uniqueSubscriptionId": "", // from profile
-    "receiptInfo": "" // ???
+    "receiptInfo": "" // Unknown
 }
 ```

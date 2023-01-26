@@ -7,6 +7,6 @@
 
 ```js
 {
-    "expeditionId": "" // Expedition Item Guid
+    "expeditionId": "" // Expedition Item GUID
 }
 ```

@@ -7,6 +7,6 @@
 
 ```js
 {
-    "loadoutId": "" // Loadout Item Guid
+    "loadoutId": "" // Loadout Item GUID
 }
 ```

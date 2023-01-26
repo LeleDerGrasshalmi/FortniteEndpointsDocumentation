@@ -7,9 +7,9 @@
 
 ```js
 {
-    "offerId": "", // from offer
-    "currency": "", // from offer
-    "currencySubType": "", // from offer
+    "offerId": "", // From offer
+    "currency": "", // From offer
+    "currencySubType": "", // From offer
     "expectedTotalPrice": 0, // Calculate yourself or let epic calc it (using their endpoint)
     "gameContext": "Frontend.CatabaScreen", // Leave or Empty String
     "receiverAccountIds": [], // Friends Account Ids

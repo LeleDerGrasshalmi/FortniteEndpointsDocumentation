@@ -7,6 +7,6 @@
 
 ```js
 {
-    "collectorsToClaim": [] // Collector Item Guid
+    "collectorsToClaim": [] // Collector Item GUID
 }
 ```

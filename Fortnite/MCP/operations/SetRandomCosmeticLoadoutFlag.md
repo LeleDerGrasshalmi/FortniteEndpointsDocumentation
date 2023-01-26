@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "random": false //whether it should use a random Cosmetic Loadout (true), or not (false)
+    "random": false // Whether it should use a random Cosmetic Loadout (true), or not (false)
 }
 ```

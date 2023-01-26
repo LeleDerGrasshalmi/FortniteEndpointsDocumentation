@@ -7,7 +7,7 @@
 
 ```js
 {
-    "cardPackItemId": "", // Cardpack Item Guid
+    "cardPackItemId": "", // Cardpack Item GUID
     "selectionIdx": 0 // If theres multible Rewards, the Index of the selected Reward
 }
 ```

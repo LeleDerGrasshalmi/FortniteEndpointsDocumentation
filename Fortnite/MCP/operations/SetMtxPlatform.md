@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "newPlatform": "" //the new platform, valid: WeGame, EpicPCKorea, Epic, EpicPC, EpicAndroid, PSN, Live, IOSAppStore, Nintendo, Samsung, GooglePlay, Shared
+    "newPlatform": "" // The new platform, valid: WeGame, EpicPCKorea, Epic, EpicPC, EpicAndroid, PSN, Live, IOSAppStore, Nintendo, Samsung, GooglePlay, Shared
 }
 ```

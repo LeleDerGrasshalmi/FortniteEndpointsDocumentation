@@ -6,7 +6,7 @@
 ## Body
 ```js
 {
-    "heroItem": "", //hero item guid
+    "heroItem": "", // Hero item GUID
     "outfitVariants": [],
     "backblingVariants": []
 }
@@ -15,8 +15,8 @@
 **Variants format**
 ```js
 {
-    "channel": "Parts", //variant channel
-    "active": "CampaignHero.Tier2.Legendary", //variant tag
-    "owned": [] //can be left as an empty array
+    "channel": "Parts", // Variant channel
+    "active": "CampaignHero.Tier2.Legendary", // Variant tag
+    "owned": [] // Can be left as an empty array
 }
 ```

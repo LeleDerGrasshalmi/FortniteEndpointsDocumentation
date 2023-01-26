@@ -8,9 +8,9 @@
 ```js
 {
     "advance": [{
-        "statName": "phoenixtheater_power_highlight", //the stat Name, e.g phoenixtheater_power_highlight
-        "count": 1, //the count to what u want to update it
-        "timestampOffset": 0 //leave it 0
+        "statName": "phoenixtheater_power_highlight", // The stat Name, e.g phoenixtheater_power_highlight
+        "count": 1, // The count to what u want to update it
+        "timestampOffset": 0 // Leave it 0
     }],
     "playlistId": "",
     "matchStats": {
@@ -25,7 +25,7 @@
                 "stat": "",
                 "count": 1,
                 "Xp": 0,
-                "subtype": "" //valid: NotSet, Action, Discovery, XpToken
+                "subtype": "" // Valid: NotSet, Action, Discovery, XpToken
             }
         },
         "bIsValid": true,
@@ -39,13 +39,13 @@
     "shouldAccumulateToProfileStats": true,
     "shouldSaveToRecentGameLists": true,
     "accolades": [{
-        "accoladeDef": {}, //yes this is missing, this is wayyy toooo much!
+        "accoladeDef": {}, // Yes this is missing, this is wayyy toooo much!
         "templateId": "",
         "count": 1
     }],
-    "shuffledLoadoutUsed": [], //array of strings
+    "shuffledLoadoutUsed": [], // Array of strings
     "shuffledLockerUsedIndex": 0,
-    "grantedQuestDefs": [], //array of the quests guid
+    "grantedQuestDefs": [], // Array of the quests guid
     "secondaryXp": [{
         "type": "",
         "secondaryXp": 1

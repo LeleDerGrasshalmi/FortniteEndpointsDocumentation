@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "forcedIntroName": "Coconut" //the forced intros name/codename 
+    "forcedIntroName": "Coconut" // The forced intros name/codename 
 }
 ```

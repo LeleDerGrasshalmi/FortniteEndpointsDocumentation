@@ -7,6 +7,6 @@
 
 ```js
 {
-    "bundleIdToLevel": "" // Challenge Bundle Item Guid
+    "bundleIdToLevel": "" // Challenge Bundle Item GUID
 }
 ```

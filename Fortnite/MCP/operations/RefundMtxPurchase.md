@@ -7,7 +7,7 @@
 
 ```js
 {
-    "purchaseId": "{purchaseId}", // from Purchase History
+    "purchaseId": "{purchaseId}", // From Purchase History
     "quickReturn": false, // Whether it requires a Refund Token (from profile)
     "gameContext": "Frontend.AthenaLobby" // Leave like this or an Empty String
 }
