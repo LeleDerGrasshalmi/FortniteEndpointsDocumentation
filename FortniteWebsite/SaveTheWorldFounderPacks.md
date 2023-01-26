@@ -1,5 +1,5 @@
 ## Fortnite Website - Founder Packs
 
-URL: https://www.epicgames.com/fortnite/api/founders-packs \
+URL: https://fortnite.com/api/founders-packs \
 Method: GET \
 Auth Required: No

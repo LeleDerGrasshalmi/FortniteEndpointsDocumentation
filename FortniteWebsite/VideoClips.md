@@ -1,6 +1,6 @@
 ## Fortnite Website - Video Clips
 
-URL: https://www.epicgames.com/fortnite/:language/api/video-clips \
+URL: https://fortnite.com/:language/api/video-clips \
 Method: GET \
 Auth Required: Yes
 
@@ -8,7 +8,7 @@ Auth Required: Yes
 
 ## Fortnite Website - Video Clips Post
 
-URL: https://www.epicgames.com/fortnite/:language/api/video-clips \
+URL: https://fortnite.com/:language/api/video-clips \
 Method: POST \
 Auth Required: Yes
 

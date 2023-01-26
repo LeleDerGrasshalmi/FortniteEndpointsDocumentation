@@ -1,6 +1,6 @@
 ## Fortnite Website - Promotion Code
 
-URL: https://www.epicgames.com/fortnite/api/promotion-code \
+URL: https://fortnite.com/api/promotion-code \
 Method: POST \
 Auth Required: Yes
 
@@ -15,3 +15,5 @@ Payload:
 ```
 
 `not-entitled` Error means not eligible
+
+This endpoint is now deprecated

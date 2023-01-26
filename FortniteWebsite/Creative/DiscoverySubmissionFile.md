@@ -1,6 +1,6 @@
 ## Fortnite Website - Discovery Submission Image
 
-URL: https://www.epicgames.com/fortnite/en-US/api/creative-submission-form/upload-image?submissionIdentifier=:submission-guid \
+URL: https://fortnite.com/en-US/api/creative-submission-form/upload-image?submissionIdentifier=:submission-guid \
 Method: POST \
 Auth Required: Yes
 

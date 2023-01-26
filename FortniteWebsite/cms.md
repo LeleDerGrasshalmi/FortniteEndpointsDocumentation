@@ -2,7 +2,7 @@
 
 ## Request
 
-URL: https://www.epicgames.com/fortnite/:language/api/cms/:key \
+URL: https://fortnite.com/:language/api/cms/:key \
 Method: GET \
 Auth Required: No
 
