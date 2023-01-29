@@ -25,3 +25,20 @@ Auth Required: No
 | reboot-rally                            |                          |
 | safety-and-security                     |                          |
 | spotify                                 |                          |
+
+
+## Languages
+Default language is English
+
+| Keys    | Description          |
+|---------|----------------------|
+| en      | English              |
+| fr      | French               |
+| de      | German               |
+| it      | Italian              |
+| ar      | Arabic               |
+| ja      | Japanese             |
+| ko      | Korean               |
+| pl      | Polish               |
+| pt-BR   | Brazilian Portuguese |
+| ru      | Russian              |
