@@ -1,6 +1,6 @@
 ## Fortnite Website - Competitive Calendar
 
-URL: https://www.epicgames.com/fortnite/competitive/api/en/calendar \
+URL: https://www.fortnite.com/competitive/en-US/api/calendar \
 Method: POST \
 Auth Required: No
 

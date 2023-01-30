@@ -1,6 +1,6 @@
 ## Fortnite Website - Competitive Leaderboard User
 
-URL: https://www.fortnite.com/competitive/api/leaderboard/:eventId/:eventWindowId \
+URL: https://www.fortnite.com/competitive/api/leaderboard/:eventId/:eventWindowId/undefined \
 Method: POST \
 Auth Required: No
 

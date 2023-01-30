@@ -1,6 +1,6 @@
 ## Fortnite Website - Cosplay Archive
 
-URL: https://www.epicgames.com/fortnite/en-US/api/cosplay/archive \
+URL: https://fortnite.com/en-US/api/cosplay/archive \
 Method: GET \
 Auth Required: No
 
