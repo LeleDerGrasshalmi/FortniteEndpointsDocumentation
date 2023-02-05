@@ -7,7 +7,7 @@
 
 ```js
 {
-    "teamPerkId": "", // Team Perk Item Guid
-    "loadoutId": "" // Loadout Item Guid
+    "teamPerkId": "", // Team Perk Item GUID
+    "loadoutId": "" // Loadout Item GUID
 }
 ```

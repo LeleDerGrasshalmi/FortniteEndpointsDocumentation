@@ -7,7 +7,7 @@
 
 ```js
 {
-    "targetItemId": "", // Item Guid
+    "targetItemId": "", // Item GUID
     "alterationSlot": 1, // Perk Index
     "alterationId": "" // Perk Template Id, e.g. Alteration:aid_att_damage_t05 (Legendary Damage)
 }

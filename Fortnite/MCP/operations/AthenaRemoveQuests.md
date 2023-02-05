@@ -7,6 +7,6 @@
 
 ```js
 {
-    "removedQuests": [] // Quest Item Guids
+    "removedQuests": [] // Quest Item GUIDs
 }
 ```

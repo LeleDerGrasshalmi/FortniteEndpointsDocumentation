@@ -7,7 +7,7 @@
 
 ```js
 {
-    "targetItemId": "", // Item Guid
-    "targetAccountId": "" // targeted Users Account Id
+    "targetItemId": "", // Item GUID
+    "targetAccountId": "" // Targeted Users Account Id
 }
 ```

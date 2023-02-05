@@ -1,6 +1,6 @@
 ## Fortnite Website - Code General Info
 
-URL: https://www.epicgames.com/fortnite/ajax/redemption/validate-redemption-code?redeem-code={code} \
+URL: https://fortnite.com/ajax/redemption/validate-redemption-code?redeem-code={code} \
 Method: GET \
 Auth Required: Yes
 
@@ -8,3 +8,5 @@ Auth Required: Yes
 ```
 cookie: EPIC_BEARER_TOKEN={token}
 ```
+
+Deprecated as of 26.01.2023 

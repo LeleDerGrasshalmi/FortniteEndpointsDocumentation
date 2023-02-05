@@ -7,6 +7,6 @@
 
 ```js
 {
-    "pinnedQuest": "" // Quest Item Guid
+    "pinnedQuest": "" // Quest Item GUID
 }
 ```

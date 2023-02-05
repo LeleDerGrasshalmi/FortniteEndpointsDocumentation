@@ -6,7 +6,7 @@
 ## Body
 ```js
 {
-    "state": [], //array of the state(string)
-    "rewardGraphId": "{guid}" //the RewardGraphs GUID
+    "state": [], // Array of the state(string)
+    "rewardGraphId": "{guid}" // The RewardGraphs GUID
 }
 ```

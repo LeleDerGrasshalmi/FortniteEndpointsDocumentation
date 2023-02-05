@@ -8,7 +8,7 @@
 ```js
 {
     "pageTemplateId": "", // Page Template Id, e.g. CollectionBookPage:pagespecial_steampunk_weapons
-    "sectionId": "", // ??? (ref to next prop?)
+    "sectionId": "", // Unknown (ref to next prop?)
     "selectedRewardIndex": 0 // Used when completing a whole page (selecting reward index)
 }
 ```

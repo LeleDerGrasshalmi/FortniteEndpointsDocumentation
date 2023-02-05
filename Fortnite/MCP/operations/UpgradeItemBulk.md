@@ -6,9 +6,9 @@
 ## Body
 ```js
 {
-    "targetItemId": "", //guid of the item
-    "desiredLevel": 10, //level
-    "desiredTier": "no_tier", //the tier
-    "conversionRecipeIndexChoice": -1 //idk, leave like this ig
+    "targetItemId": "", // Item GUID
+    "desiredLevel": 10, // Desired Level to upgrade to
+    "desiredTier": "no_tier", // The tier
+    "conversionRecipeIndexChoice": -1 // Idk, leave like this ig
 }
 ```

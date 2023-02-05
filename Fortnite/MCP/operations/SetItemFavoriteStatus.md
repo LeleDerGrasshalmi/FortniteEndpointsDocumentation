@@ -6,7 +6,7 @@
 ## Body
 ```js
 {
-   "targetItemId": "", //guid of the item
-   "bFavorite": false //set to favorite (false/true)
+   "targetItemId": "", // Guid of the item
+   "bFavorite": false // Set to favorite (false/true)
 }
 ```

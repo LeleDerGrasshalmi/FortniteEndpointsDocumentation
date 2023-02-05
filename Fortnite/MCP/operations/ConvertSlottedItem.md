@@ -7,7 +7,7 @@
 
 ```js
 {
-    "targetItemId": "", // Item Guid
+    "targetItemId": "", // Item GUID
     "ConversionIndex": 0 // Index if there is more than 1 option (e.g. Obsidian vs Shadowshard)
 }
 ```

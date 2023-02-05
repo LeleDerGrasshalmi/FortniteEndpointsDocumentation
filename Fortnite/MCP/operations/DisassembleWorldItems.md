@@ -8,7 +8,7 @@
 ```js
 {
     "targetItemIdAndQuantityPairs": [{
-        "itemId": "", // Item Guid
+        "itemId": "", // Item GUID
         "quantity": 1 // Item Quantity
     }]
 }

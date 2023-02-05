@@ -6,7 +6,7 @@
 ## Body
 ```js
 {
-    "homebaseBannerIconId": "", //the icon templateId, e.g.
-    "homebaseBannerColorId": "" //the color templateId, e.g.
+    "homebaseBannerIconId": "", // The icon templateId, e.g.
+    "homebaseBannerColorId": "" // The color templateId, e.g.
 }
 ```

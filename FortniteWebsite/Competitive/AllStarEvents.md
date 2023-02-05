@@ -1,5 +1,5 @@
 ## Fortnite Website - Competitive AllStar Events 
 
-URL: https://epicgames.com/fortnite/competitive/api/en-US/allstar-events \
+URL: https://www.fortnite.com/competitive/en-US/api/allstar-events \
 Method: GET \
 Auth Required: No

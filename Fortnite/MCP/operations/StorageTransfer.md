@@ -7,10 +7,10 @@
 ```js
 {
     "transferOperations": [{
-        "itemId": "", //item guid
-        "quantity": 1, //item quantity
-        "toStorage": false, //whether its into the inventory/backpack (then false) if into the storage then true
-        "newItemIdHint": "" //leave empty
+        "itemId": "", // Item GUID
+        "quantity": 1, // Item Quantity
+        "toStorage": false, // Whether its into the inventory/backpack (then false) if into the storage then true
+        "newItemIdHint": "" // Leave empty
     }]
 }
 ```

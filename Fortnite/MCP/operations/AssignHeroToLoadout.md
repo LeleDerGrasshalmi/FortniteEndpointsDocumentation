@@ -7,8 +7,8 @@
 
 ```js
 {
-    "heroId": "", // Hero (HID) Item Guid
-    "loadoutId": "", // Loadout Item Guid
+    "heroId": "", // Hero (HID) Item GUID
+    "loadoutId": "", // Loadout Item GUID
     "slotName": "" // Slots Name, valid: CommanderSlot, FollowerSlot(1-5) e.g. FollowerSlot2
 }
 ```

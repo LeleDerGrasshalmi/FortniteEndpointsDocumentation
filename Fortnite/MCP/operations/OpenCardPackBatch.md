@@ -7,6 +7,6 @@
 
 ```js
 {
-    "cardPackItemIds": [] // Cardpack Item Guids
+    "cardPackItemIds": [] // Cardpack Item GUIDs
 }
 ```

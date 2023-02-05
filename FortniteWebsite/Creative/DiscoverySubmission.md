@@ -1,6 +1,6 @@
 ## Fortnite Website - Discovery Submission
 
-URL: https://www.epicgames.com/fortnite/en-US/api/creative-submission-form/submit \
+URL: https://fortnite.com/en-US/api/creative-submission-form/submit \
 Method: POST \
 Auth Required: Yes
 

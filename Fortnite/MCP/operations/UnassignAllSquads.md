@@ -6,6 +6,6 @@
 ## Body
 ```js
 {
-    "squadIds": [] //array of squad Ids, e.g. Squad_Attribute_Medicine_EMTSquad
+    "squadIds": [] // Array of squad Ids, e.g. Squad_Attribute_Medicine_EMTSquad
 }
 ```

@@ -7,7 +7,7 @@
 
 ```js
 {
-    "questId": "", // Quest Item Guid
+    "questId": "", // Quest Item GUID
     "selectedRewardIndex": 0 // if there is a choice between reward the selected rewards index
 }
 ```
