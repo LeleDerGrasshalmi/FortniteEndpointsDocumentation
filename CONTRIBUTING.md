@@ -18,8 +18,8 @@
 
 {optional_description}
 
-URL: {URL} \
-Method: {Method} \
+URL: {URL} <br/>
+Method: {Method} <br/>
 Auth Required: {Yes/No} ({Permission})
 
 ## [h2] Headers [if required]
@@ -34,6 +34,12 @@ Auth Required: {Yes/No} ({Permission})
 ```json
 <Body>
 ```
+
+## [h2] Path Parameters [if required]
+
+`<key>`: `<description>`
+
+<br/>
 
 ## [h2] Parameters [if required]
 
@@ -55,7 +61,7 @@ Auth Required: {Yes/No} ({Permission})
 
 # [h1] {Operation}
 
-**Description**: `{description}` \
+**Description**: `{description}` <br/>
 **Profiles**: `{profileId1}`, `{profileId2}`
 
 ## Body
