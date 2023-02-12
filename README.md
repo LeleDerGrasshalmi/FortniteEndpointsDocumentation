@@ -3,6 +3,7 @@
 ## Content
 
 - [Epic Games](./EpicGames)
+  - [Account Service](./EpicGames/AccountService)
   - [Caldera Service](./EpicGames/CalderaService)
   - [Events Service](./EpicGames/EventsService)
   - [Friends Service](./EpicGames/FriendsService)

@@ -1,5 +1,7 @@
 # EpicGames - Auth Clients
 
+How to [get Client Info](../../Web/Id/Client.md).
+
 | Name                                               | Id                               | Secret                               |
 | -------------------------------------------------- | -------------------------------- | ------------------------------------ |
 | fortnitePCGameClient                               | ec684b8c687f479fadea3cb2ad83f5c6 | e1f31c211f28413186262d37a13fc84d     |
@@ -58,7 +60,7 @@
 
 <br/>
 
-# EpicGames - xyza7891... (eos) Clients
+# EpicGames - xyza7891... (EOS) Clients
 
 | Name                            | Id                               | Secret                                      |
 | ------------------------------- | -------------------------------- | ------------------------------------------- |
@@ -69,3 +71,5 @@
 | Paradise Fortnite Discord Quest | xyza7891IjB10JDONRiKG3CZYlyWJjgk |                                             |
 | Discord                         | xyza7891ATBkAcPkzEZ01TUB0YnZfFdF |                                             |
 | Among Us                        | xyza7891qtrmoYLr86we6DlfCA1RRsp8 |                                             |
+
+Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)
