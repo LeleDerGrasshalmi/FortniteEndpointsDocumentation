@@ -1,7 +1,7 @@
 ## Links Service - Mnemonic Info (Bulk)
 
 URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/mnemonic?ignoreFailures=true \
-Method: GET \
+Method: POST \
 Auth Required: Yes (`links:{namespace} READ`)
 
 ```json
