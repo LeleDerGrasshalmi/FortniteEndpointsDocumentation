@@ -6,4 +6,4 @@ Auth Required: Yes
 
 ### Query Parameter
 
-`includePerms`: boolean (optional), if the Permissions for the Sesion should be included
+`includePerms`: boolean (optional), if the Permissions for the Session should be included

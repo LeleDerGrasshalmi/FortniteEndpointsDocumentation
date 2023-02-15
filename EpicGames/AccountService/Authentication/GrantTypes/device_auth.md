@@ -1,6 +1,6 @@
 ## Account Service - Auth Grant: device_auth
 
-uh whatever desc ^4
+Login using Device Auth, many bots use this.
 
 ### Body
 
