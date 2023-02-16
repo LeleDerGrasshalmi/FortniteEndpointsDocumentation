@@ -1,15 +1,17 @@
 ## Fortnite - Creative Discovery Panel Page
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/discovery/surface/page/:accountId?appId=Fortnite \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/discovery/surface/page/:accountId \
 Method: POST \
-Auth Required: Yes
+Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 
 ## Headers
 
-User-Agent: `Fortnite/++Fortnite+Release-{versionNumber}-CL-{versionCL} Windows/10` \
-eg. `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
+`User-Agent`:
 
-## Body
+- Format: `Fortnite/++Fortnite+Release-{major}.{minor}-CL-{changelist} {platform}/{platformVersion}` <br/>
+- Example: `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
+
+<br/>
 
 ```json
 {
@@ -17,9 +19,9 @@ eg. `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
   "panelName": "Competitive",
   "pageIndex": 1,
   "revision": -1,
-  "testCohorts": ["c210_baseline"],
-  "partyMemberIds": [":accountId"],
-  "matchmakingRegion": "EU"
+  "testCohorts": [""],
+  "partyMemberIds": [""],
+  "matchmakingRegion": ""
 }
 ```
 
@@ -31,4 +33,8 @@ eg. `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
 `revision`: leave -1 for latest \
 `testCohorts`: grabbed from the Main Discovery API (<root>.testCohorts) \
 `partyMemberIds`: Array of the party member ids, or an Empty Array \
-`matchmakingRegion`: Your matchmaking region
+`matchmakingRegion`: Your matchmaking region (e.g. EU)
+
+## Query Parameter
+
+`appId`: 'Fortnite'

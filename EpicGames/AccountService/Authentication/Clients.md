@@ -1,5 +1,7 @@
 # EpicGames - Auth Clients
 
+How to [get Client Info](../../Web/Id/Client.md).
+
 | Name                                               | Id                               | Secret                               |
 | -------------------------------------------------- | -------------------------------- | ------------------------------------ |
 | fortnitePCGameClient                               | ec684b8c687f479fadea3cb2ad83f5c6 | e1f31c211f28413186262d37a13fc84d     |
@@ -55,10 +57,12 @@
 | SF Community                                       | b31a9e178ab84b21ad7435a53e4da4af |                                      |
 | wexPCGameClient                                    | 3cf78cd3b00b439a8755a878b160c7ad | b383e0f4-f0cc-4d14-99e3-813c33fc1e9d |
 | Diesel - Monomi Park - Slime Rancher               | 7c0e608d74ec4f40a1d58beb26639367 | P9A63tad7Yk5FPRRmqbopgACDq99em       |
+| fn-creator-portal                                  | a4030782e8904c088769da1b301e84f4 |                                      |
+| fortnite.com                                       | a485a2fde2e343dfb7559d5efeaf35d9 |                                      |
 
 <br/>
 
-# EpicGames - xyza7891... (eos) Clients
+# EpicGames - xyza7891... (EOS) Clients
 
 | Name                            | Id                               | Secret                                      |
 | ------------------------------- | -------------------------------- | ------------------------------------------- |
@@ -69,3 +73,5 @@
 | Paradise Fortnite Discord Quest | xyza7891IjB10JDONRiKG3CZYlyWJjgk |                                             |
 | Discord                         | xyza7891ATBkAcPkzEZ01TUB0YnZfFdF |                                             |
 | Among Us                        | xyza7891qtrmoYLr86we6DlfCA1RRsp8 |                                             |
+
+Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)

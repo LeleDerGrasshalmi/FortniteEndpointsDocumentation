@@ -1,6 +1,6 @@
 ## Fortnite Website - Posa Content
 
-URL: https://www.epicgames.com/fortnite/:language/api/posa/code/status \
+URL: https://fortnite.com/:language/api/posa/code/status \
 Method: POST \
 Auth Required: Yes
 

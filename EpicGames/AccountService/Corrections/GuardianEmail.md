@@ -4,9 +4,14 @@ URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/cor
 Method: PUT \
 Auth Required: Yes (client_credentials of the client you are trying to authenticate with)
 
-```js
+```json
 {
-  "continuation": "", // from the error response
-  "guardianEmail": "" // email of the guardian (parent)
+  "continuation": "",
+  "guardianEmail": ""
 }
 ```
+
+## Parameters
+
+`continuation`: From the Error Response <br/>
+`guardianEmail`: Email of the Guardian (Parent)

@@ -1,6 +1,6 @@
 ## Fortnite Website - Favorites
 
-URL: https://www.epicgames.com/fortnite/api/creative/islands/add-favorites/:islandcode \
+URL: https://fortnite.com/api/creative/islands/add-favorites/:islandcode \
 Method: PUT \
 Auth Required: Yes
 

@@ -1,5 +1,5 @@
 ## Fortnite Website - Competitive Events 
 
-URL: https://www.epicgames.com/fortnite/competitive/api/en/events \
+URL: https://www.fortnite.com/competitive/en-US/api/events \
 Method: GET \
 Auth Required: No
