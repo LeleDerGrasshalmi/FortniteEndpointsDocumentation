@@ -42,3 +42,6 @@ Default language is English
 | pl      | Polish               |
 | pt-BR   | Brazilian Portuguese |
 | ru      | Russian              |
+| tr      | Turkish              |
+|es-MX    | Spanish (Mexico)|
+|es-ES| Spanish|
