@@ -8,7 +8,7 @@
 ```js
 {
     "appStore": "EpicPurchasingService", // e.g. EpicPurchasingService
-    "authTokens": [], // Auth Token (issued by the external platform ig) - Used for all app Stores expect EpicPurchasingService & SamsungGalaxyAppStore
+    "authTokens": [], // Auth Token (Included in the Auth Response) - Required for all app Stores expect EpicPurchasingService & SamsungGalaxyAppStore
     "receiptIds": [], // Receipt Ids, if you just want to refresh those
     "refreshType": "ForceCurrent", // Enum: ForceCurrent, ForceAll, Default, UpdateOfflineAuth
     "purchaseCorrelationId": "" // Can be ignored

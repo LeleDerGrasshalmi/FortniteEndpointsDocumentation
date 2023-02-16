@@ -1,7 +1,8 @@
 # InitializeTheater
 
 **Description**: `Initializes the Theater (e.g. Stonewood)` \
-**Profiles**: `theater0`, `theater1`, `theater2`
+**Profiles**: `theater0`, `theater1`, `theater2` \
+**Note**: `DedicatedServer ONLY`
 
 ## Body
 
