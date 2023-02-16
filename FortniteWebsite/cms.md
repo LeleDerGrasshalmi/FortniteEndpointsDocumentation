@@ -26,3 +26,22 @@ Auth Required: No
 | safety-and-security                     |                          |
 | spotify                                 |                          |
 | help-center                             |                          |
+
+## Languages
+Default language is English
+
+| Keys    | Description          |
+|---------|----------------------|
+| en      | English              |
+| fr      | French               |
+| de      | German               |
+| it      | Italian              |
+| ar      | Arabic               |
+| ja      | Japanese             |
+| ko      | Korean               |
+| pl      | Polish               |
+| pt-BR   | Brazilian Portuguese |
+| ru      | Russian              |
+| tr      | Turkish              |
+|es-MX    | Spanish (Mexico)|
+|es-ES| Spanish|
