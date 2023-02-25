@@ -1,21 +1,11 @@
-## Fortnite - BR News
+## PRM Dialog Service - Fortnite BR MOTD
 
 URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/surfaces/motd/target \
 Method: POST \
-Auth Required: Yes `(eg1)`
-
-## Body
+Auth Required: Yes (eg1)
 
 ```json
 {
-  "CrewNov": false,
-  "CrewOct": false,
-  "CrewSep": false,
-  "MidSeasonS22": false,
-  "PunkQuest1": false,
-  "PunkQuest2": false,
-  "PunkQuest3": false,
-  "S21ProgressivePhotonicStrikerPickaxe": 0,
   "accountLevel": 0,
   "alienArtifacts": 0,
   "battlepass": false,
@@ -31,20 +21,11 @@ Auth Required: Yes `(eg1)`
   "dateLastPlayedTournament": "1901-12-13T20:45:52.000Z",
   "daysSinceLastSession": 44153.14098048611,
   "globalCash": 0,
-  "hasAttendedEndOfSeasonS17": false,
-  "hasCyberArmorPickaxe": false,
-  "hasLevelUpQuestPack": false,
-  "hasMonarch": false,
-  "hasMonarchGlow": false,
-  "hasSavedEventDate": false,
-  "hasShatteredWings": false,
   "isRestricted": true,
   "language": "en",
   "lifetimeWins": 0,
   "onLogin": true,
   "ownsSaveTheWorld": false,
-  "ownsStamina": false,
-  "ownsStaminaVigor": false,
   "platform": "Windows",
   "progressiveBackblingStage": 0,
   "seasonHoursPlayed": 0,
@@ -57,4 +38,10 @@ Auth Required: Yes `(eg1)`
 }
 ```
 
-`Replace the parameters with ur values, you can use none, specific or all of these parameter, depends on what you want (news are personalized)!`
+## Parameters
+
+> **Not gonna explain every Parameter, they are obvious when you look at the key.** <br/>
+> Those are not all Parameters that exist and im not updating this list every Update / Season... <br/>
+> But \*recently Epic added the the Account needs to actually play to see latest news instead if something like seasons defaults.
+
+\*recently: ~December 2022
