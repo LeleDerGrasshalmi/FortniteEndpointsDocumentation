@@ -8,3 +8,5 @@
 ```js
 {}
 ```
+
+_uses `public` route_

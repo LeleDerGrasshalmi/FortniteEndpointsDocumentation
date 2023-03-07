@@ -5,6 +5,7 @@
 **Note**: `DedicatedServer ONLY`
 
 ## Body
+
 ```js
 {
     "plotItemId": "", // Island GUID
@@ -12,6 +13,6 @@
     "vkProjectId": "", // Valkyrie (creative 2.0) project id
     "vkModuleId": "", // Valkyrie (creative 2.0) module id
     "linkVersion": 1, // Island version
-    "moderationLinkCode": "" // Moderator island code
+    "moderationLinkCode": "" // Moderator Island Code
 }
 ```

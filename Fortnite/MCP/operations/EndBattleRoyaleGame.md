@@ -5,6 +5,7 @@
 **Note**: `DedicatedServer ONLY`
 
 ## Body
+
 ```js
 {
     "advance": [{
@@ -27,7 +28,7 @@
                 "Xp": 0,
                 "subtype": "" // Valid: NotSet, Action, Discovery, XpToken
             }
-        },
+        ],
         "bIsValid": true,
         "factionTag": ""
     },

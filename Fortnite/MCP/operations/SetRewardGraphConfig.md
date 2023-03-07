@@ -4,9 +4,10 @@
 **Profiles**: `athena`
 
 ## Body
+
 ```js
 {
     "state": [], // Array of the state(string)
-    "rewardGraphId": "{guid}" // The RewardGraphs GUID
+    "rewardGraphId": "" // RewardGraph Item GUID
 }
 ```
