@@ -22,3 +22,5 @@ Auth Required: Yes (`fortnite:discovery:fortnite READ`)
 | ++Fortnite+Release-23.20 | +aRHurCIvSQNBdGkGq8W7P/F1wjRfHZB3mPuDiFCddo= | YLSDev                                                                                                             |
 | ++Fortnite+Release-23.30 | E9F4KNtgMQ2H1yh29Mx06sWY668lc138RjHWCFMln9c= | Lele                                                                                                               |
 | ++Fortnite+Release-23.40 | ej65soLaSRuQZ/Nna2gDrA/AzCep11pSLZ6MI8k438k= | Lele                                                                                                               |
+| ++Fortnite+Release-23.50 | AGURf5nMKM6tQ1UOg0TQWhVL0CDYMASflh3QOqcUFcI= | Lele                                                                                                               |
+| ++Fortnite+Release-24.00 | q4yIwerJTBqULn1Zr5vap88fRpHVMIUM/+gnqMSuVp4= | Lele                                                                                                               |
