@@ -9,3 +9,4 @@
     "homebaseName": "Lele" // Homebase name
 }
 ```
+Deprecated
