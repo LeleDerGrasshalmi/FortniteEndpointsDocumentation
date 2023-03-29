@@ -1,6 +1,6 @@
 ## Fortnite - Cloudstorage: User File Links
 
-URL: https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename/links \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename/links \
 Method: GET \
 Auth Required: Yes
 

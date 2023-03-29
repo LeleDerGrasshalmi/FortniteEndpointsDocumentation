@@ -3,7 +3,7 @@
 ## Request
 
 **Method**: `POST` \
-**URL**: `https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/profile/:accountId/:route/:operation` \
+**URL**: `https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/profile/:accountId/:route/:operation` \
 **Body**: `Individual`
 
 ## Query Parameter:
