@@ -60,6 +60,7 @@ How to [get Client Info](../../Web/Id/Client.md).
 | fn-creator-portal                                  | a4030782e8904c088769da1b301e84f4 |                                      |
 | fortnite.com                                       | a485a2fde2e343dfb7559d5efeaf35d9 |                                      |
 | uefnDocsSiteProd                                   | e1953a8e8b444cfb9e3bfbe2a7d19f2e |                                      |
+| Account Portal                                     | e49e067bb11c4722a34b2b3b8a6a6355 |                                      |
 
 <br/>
 
