@@ -5,7 +5,13 @@ Method: POST \
 Auth Required: Yes (`links:{namespace}:{accountId} CREATE`)
 
 ```json
-{}
+{
+    "creatorName": "", // name of mnemonic creator "can be anything"
+    "linkType": "", // the mnemonic type ex. "Creative:Island"
+    "discoveryIntent": "", // optional can be "PUBLIC" or "PRIVATE" default "PUBLIC"
+    "discriptionTags": [ "" ], // optional defaults to []
+    "metadata": {} // the actual link metadata
+}
 ```
 
 ## Path Parameter
@@ -17,4 +23,3 @@ Auth Required: Yes (`links:{namespace}:{accountId} CREATE`)
 
 ...
 
-Note: **Body is unknown!**
