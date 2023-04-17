@@ -62,6 +62,7 @@ How to [get Client Info](../../Web/Id/Client.md).
 | uefnDocsSiteProd                                   | e1953a8e8b444cfb9e3bfbe2a7d19f2e |                                      |
 | Account Portal                                     | e49e067bb11c4722a34b2b3b8a6a6355 |                                      |
 | adminportal                                        | be806bc37c6f4bb9874430ebb11a6eaa |                                      |
+| Fortnite Creative Builders Challenge (Prod)        | ffadeee8e6af4be394a65f2f29f0ac03 |                                      |
 
 <br/>
 
