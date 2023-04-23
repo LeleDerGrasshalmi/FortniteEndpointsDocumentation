@@ -63,19 +63,79 @@ How to [get Client Info](../../Web/Id/Client.md).
 | Account Portal                                     | e49e067bb11c4722a34b2b3b8a6a6355 |                                      |
 | adminportal                                        | be806bc37c6f4bb9874430ebb11a6eaa |                                      |
 | Fortnite Creative Builders Challenge (Prod)        | ffadeee8e6af4be394a65f2f29f0ac03 |                                      |
+| Humble Bundle                                      | 1cb386ee0f144bf993004034139ad597 |                                      |
+| fallguys-support-live                              | e84be5e6a7ee42069626d47410344f81 |                                      |
+| 2K Games                                           | b7473cc47fb2485eb6552da5236b38ba |                                      |
+| Gearbox Software - SHiFT                           | ed5cb928bddc4e79a8ca1803d4f0e1d7 |                                      |
+| Klei                                               | ab2586157bf34215b8164b5c3bd546ab |                                      |
+| Clock - Valentine's Creator Challenge Pro          | d2d937c0320e4e2abe06b7ac1a1b9cf7 |                                      |
+| fallguys-support-live                              | e84be5e6a7ee42069626d47410344f81 |                                      |
+| Rocket League                                      | e4dc9a45b3234b85aad6871cef56654d |                                      |
+| Diabotical                                         | b4c61212277e48a29b0a5351eedc3df8 |                                      |
+| Clock Auth Client                                  | ba1f0b13720a426f8eb8a502e9a71e16 |                                      |
+| Rocket League Fan Clash - Auth                     | e9b29f6920e54fd790ac4a0fc7c78990 |                                      |
+| Reboot a Friend                                    | cea1359e950643e78a34cbd409887b9c |                                      |
+| Phoenix Labs                                       | 5d6f8ef478c6490dbca8d80b27296897 |                                      |
+| Clock                                              | 5c821176283148e9b89074599e373053 |                                      |
+| Crown Clash - Auth - Production                    | 686b2e69ff714b96bd291ec9d4a5df0a |                                      |
+| Discourse Forums                                   | 9e338a65daf14ccb8cdbb3b18c26efa9 |                                      |
 
 <br/>
 
 # EpicGames - xyza7891... (EOS) Clients
 
-| Name                            | Id                               | Secret                                      |
-| ------------------------------- | -------------------------------- | ------------------------------------------- |
-| Among Us                        | xyza7891qtrmoYLr86we6DlfCA1RRsp8 | nGThQanzvthA2HPaARXe/xutzsKyx5WJveNkBx44ti4 |
-| Fall Guys                       | xyza7891mADED0tPNJFOiF8OmI0DwY0J | 8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA |
-| Maestro                         | xyza7891oL6OtsGfOEEprZv2WcfMWDGy |                                             |
-| Fortnite                        | xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5 | F8BVRyHIqmct8cN9KSPbXsJszpiIZEYEFDiySxc1wuA |
-| Paradise Fortnite Discord Quest | xyza7891IjB10JDONRiKG3CZYlyWJjgk |                                             |
-| Discord                         | xyza7891ATBkAcPkzEZ01TUB0YnZfFdF |                                             |
-| Among Us                        | xyza7891qtrmoYLr86we6DlfCA1RRsp8 |                                             |
+| Name                                             | Id                               | Secret                                      |
+| ------------------------------------------------ | -------------------------------- | ------------------------------------------- |
+| Among Us                                         | xyza7891qtrmoYLr86we6DlfCA1RRsp8 | nGThQanzvthA2HPaARXe/xutzsKyx5WJveNkBx44ti4 |
+| Fall Guys                                        | xyza7891mADED0tPNJFOiF8OmI0DwY0J | 8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA |
+| Maestro                                          | xyza7891oL6OtsGfOEEprZv2WcfMWDGy |                                             |
+| Fortnite                                         | xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5 | F8BVRyHIqmct8cN9KSPbXsJszpiIZEYEFDiySxc1wuA |
+| Paradise Fortnite Discord Quest                  | xyza7891IjB10JDONRiKG3CZYlyWJjgk |                                             |
+| Discord                                          | xyza7891ATBkAcPkzEZ01TUB0YnZfFdF |                                             |
+| Among Us                                         | xyza7891qtrmoYLr86we6DlfCA1RRsp8 |                                             |
+| BHVR Account                                     | xyza7891zCP7obl2cOsckGAhbeLOLv8S |                                             |
+| Insurgency: Sandstorm                            | xyza7891yR1lmA0XsjJbY1FH68sLxXLM |                                             |
+| Techland Gamers & Goodies                        | xyza7891tRZbPhffayoMF7opNz2oWn6k |                                             |
+| Path of Exile                                    | xyza7891ziOYDZ2LlWabIM5tdSjeSnfA |                                             |
+| FNGG                                             | xyza7891wgBlNJp8JmCTnRLoaGT0IoeO |                                             |
+| Techland Gamers & Goodies                        | xyza7891tRZbPhffayoMF7opNz2oWn6k |                                             |
+| Insurgency: Sandstorm                            | xyza7891yR1lmA0XsjJbY1FH68sLxXLM |                                             |
+| Risk of Rain 2                                   | xyza7891fuF5aodDdJ1ITnkYeRbyJbnT |                                             |
+| Destiny 2                                        | xyza7891sdGnymDRId7ofmPIApBb6YgE |                                             |
+| Guilded                                          | xyza7891r4NLt3JNTAebby4MhDpxCPpH |                                             |
+| Bethesda.net                                     | xyza7891mpW4KzTvEqlK1zTVwxu6qYzp |                                             |
+| Among Us                                         | xyza7891vmvQjVgc2k7Kb3RM5zkqr46t |                                             |
+| Dying Light                                      | xyza7891WtgGtSuiGHqI3IhVHFxQZFHW |                                             |
+| Paradox Accounts                                 | xyza7891ddUqokEQKQ9022FzopMlvtmy |                                             |
+| Exophase                                         | xyza7891D7mjX5Qhk7y4XhJaavsglgwi |                                             |
+| WB Games Account                                 | xyza7891dwgDNS7ZkUNbAGaqFKs24KMW |                                             |
+| Core                                             | xyza7891d8sFaPvtEydeZNUT1VNpfE3F |                                             |
+| FishStick's Lab                                  | xyza7891cMx31d1R4lf6GUZvzLhEUG8r |                                             |
+| WB Games Account                                 | xyza7891dwgDNS7ZkUNbAGaqFKs24KMW |                                             |
+| Saints Row                                       | xyza7891ThivuKsZhPALO89LA0BoQWru |                                             |
+| Sketchfab Login                                  | xyza7891aaoJHOSQ1y2hGW378ogqtftm |                                             |
+| Capturing Reality                                | xyza7891ew56BpYHAs8VGxD2O3qoqVoq |                                             |
+| Twinmotion                                       | xyza7891JCcLemvicoRb1k2o9l7eRwgQ |                                             |
+| Tracker Network                                  | xyza7891bBavXjpJKUQ5q83VgMG9N7jm |                                             |
+| Dying Light 2                                    | xyza7891N4lsyawnpl9URCOf7wDWpKCo |                                             |
+| Prime Gaming                                     | xyza789152pOc7oOKPoJbVyhm2cu3NYb |                                             |
+| Exophase                                         | xyza7891D7mjX5Qhk7y4XhJaavsglgwi |                                             |
+| The Textorcist                                   | xyza7891CbkUCbWUmCXk91Ist3dFi2gw |                                             |
+| Epic Dev Community                               | xyza78910YhEKherYANxa7jmma8FAMEQ |                                             |
+| SEGA                                             | xyza78915TszWiNaet2IGvGVAKmuWiX1 |                                             |
+| Teenage Mutant Ninja Turtles: Shredder's Revenge | xyza7891MeqnabfHg2uauS6yhojXkHbu |                                             |
+| NVIDIA GeForce NOW                               | xyza7891WVzt5EjqqdwGW4SRXTl60xCP |                                             |
+| Prime Gaming                                     | xyza789152pOc7oOKPoJbVyhm2cu3NYb |                                             |
+| Frontier Auth Service                            | xyza7891eho7V8kmwNOIi9mr3V4bkSGp |                                             |
+| eTailmarket                                      | xyza7891ELjknhMeEBW6YJG47q6Yrj4R |                                             |
+| NVIDIA GeForce NOW                               | xyza7891WVzt5EjqqdwGW4SRXTl60xCP |                                             |
+| Frontier Auth Service                            | xyza7891eho7V8kmwNOIi9mr3V4bkSGp |                                             |
+| Arc                                              | xyza7891iVsE1lSCsGNdmL6v9gQTG99K |                                             |
+| Metahuman Creator                                | xyza7891OORp4qeFMsqG8MGwJLsun9Tb |                                             |
+| IOI Account                                      | xyza78914VWRdR0UKWeQXjQOTziXLDrn |                                             |
+| Fortnite Discord Quest                           | xyza7891IjB10JDONRiKG3CZYlyWJjgk |                                             |
+| AMDREWARDS                                       | xyza78918vHS44cBuoaPttXMCFgRpHsN |                                             |
+| SEGA                                             | xyza78915TszWiNaet2IGvGVAKmuWiX1 |                                             |
+| EVE Online                                       | xyza78919GoeedwT2wFMh4Pr1PIzbnRK |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)
