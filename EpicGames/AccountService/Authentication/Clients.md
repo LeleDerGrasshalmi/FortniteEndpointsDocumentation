@@ -55,7 +55,6 @@ How to [get Client Info](../../Web/Id/Client.md).
 | utDedicatedServer                                  | 6ff43e743edc4d1dbac3594877b4bed9 | 54619d6f84d443e195200b54ab649a53     |
 | Boundless                                          | c62bb2285788480490e5da16c92717a2 |                                      |
 | SF Community                                       | b31a9e178ab84b21ad7435a53e4da4af |                                      |
-| wexPCGameClient                                    | 3cf78cd3b00b439a8755a878b160c7ad | b383e0f4-f0cc-4d14-99e3-813c33fc1e9d |
 | Diesel - Monomi Park - Slime Rancher               | 7c0e608d74ec4f40a1d58beb26639367 | P9A63tad7Yk5FPRRmqbopgACDq99em       |
 | fn-creator-portal                                  | a4030782e8904c088769da1b301e84f4 |                                      |
 | fortnite.com                                       | a485a2fde2e343dfb7559d5efeaf35d9 |                                      |
@@ -64,7 +63,6 @@ How to [get Client Info](../../Web/Id/Client.md).
 | adminportal                                        | be806bc37c6f4bb9874430ebb11a6eaa |                                      |
 | Fortnite Creative Builders Challenge (Prod)        | ffadeee8e6af4be394a65f2f29f0ac03 |                                      |
 | Humble Bundle                                      | 1cb386ee0f144bf993004034139ad597 |                                      |
-| fallguys-support-live                              | e84be5e6a7ee42069626d47410344f81 |                                      |
 | 2K Games                                           | b7473cc47fb2485eb6552da5236b38ba |                                      |
 | Gearbox Software - SHiFT                           | ed5cb928bddc4e79a8ca1803d4f0e1d7 |                                      |
 | Klei                                               | ab2586157bf34215b8164b5c3bd546ab |                                      |
@@ -79,6 +77,23 @@ How to [get Client Info](../../Web/Id/Client.md).
 | Clock                                              | 5c821176283148e9b89074599e373053 |                                      |
 | Crown Clash - Auth - Production                    | 686b2e69ff714b96bd291ec9d4a5df0a |                                      |
 | Discourse Forums                                   | 9e338a65daf14ccb8cdbb3b18c26efa9 |                                      |
+| wexAndroidGameClient                               | e645e4b96298419cbffbfa353ebf8b82 |                                      |
+| Rocket League                                      | 3cfbd28f92b0491f97e22ae827d10f14 |                                      |
+| Satisfactory                                       | 02612880aa774fb28e3741d3e01501fd |                                      |
+| Diesel - Dauntless                                 | b070f20729f84693b5d621c904fc5bc2 |                                      |
+| creativeModeWebsite                                | 7de9f4b799d3470984093b218287dc72 |                                      |
+| orion_vbulletin                                    | 2dbc329331744d4497d9a48640332920 |                                      |
+| Quixel                                             | b9101103b8814baa9bb4e79e5eb107d0 |                                      |
+| MudRunner                                          | 6f7a091344af4804a5f3bbf0cbbf0011 |                                      |
+| devportalWebsite                                   | 1e2da690d4914a72a26be4d09862c559 |                                      |
+| Bevy                                               | c1b81c9ba24e4b6ab3e99ad00320ffd2 |                                      |
+| ocean_web                                          | 4b6c700c72c44e178b12070f2719af1a |                                      |
+| orion_web                                          | 6c92a5a9c9524fc88f713a5bcf0d99f4 |                                      |
+| Green Man Gaming                                   | 3318a81163c54fea954b3a556e50f0ce |                                      |
+| fortniteEsportsComClient                           | 0fa561666d6e41cb95b2a357a8b4a6f3 |                                      |
+| Academy Login                                      | 17ce2d2864834898ab71847859286c81 |                                      |
+| Kairos Android                                     | 0716a69cb8b2422fbb2a8b0879501471 |                                      |
+
 
 <br/>
 
@@ -137,5 +152,9 @@ How to [get Client Info](../../Web/Id/Client.md).
 | AMDREWARDS                                       | xyza78918vHS44cBuoaPttXMCFgRpHsN |                                             |
 | SEGA                                             | xyza78915TszWiNaet2IGvGVAKmuWiX1 |                                             |
 | EVE Online                                       | xyza78919GoeedwT2wFMh4Pr1PIzbnRK |                                             |
+| Remnant: From the Ashes                          | xyza7891yfiRSNiwdM70nqDt9UWHFG9r |                                             |
+| Blobry                                           | xyza7891TBhrmw5FFDK9V9SlEyWhv7ZO |                                             |
+| The Drone Racing League Simulator                | xyza78918CzqSZNhwfX8jwAYZQ1aPvTm |                                             |
+| Click-Storm                                      | xyza78910uDedW2snqHFI2sYGwCi6l3t |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)
