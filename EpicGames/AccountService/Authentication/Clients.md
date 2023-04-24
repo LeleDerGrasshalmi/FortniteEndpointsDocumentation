@@ -54,6 +54,7 @@ How to [get Client Info](../../Web/Id/Client.md).
 | wexPCGameClient                                    | 3cf78cd3b00b439a8755a878b160c7ad | b383e0f4-f0cc-4d14-99e3-813c33fc1e9d |
 | utDedicatedServer                                  | 6ff43e743edc4d1dbac3594877b4bed9 | 54619d6f84d443e195200b54ab649a53     |
 | Boundless                                          | c62bb2285788480490e5da16c92717a2 |                                      |
+| SF Community                                       | b31a9e178ab84b21ad7435a53e4da4af |                                      |
 | Diesel - Monomi Park - Slime Rancher               | 7c0e608d74ec4f40a1d58beb26639367 | P9A63tad7Yk5FPRRmqbopgACDq99em       |
 | fn-creator-portal                                  | a4030782e8904c088769da1b301e84f4 |                                      |
 | fortnite.com                                       | a485a2fde2e343dfb7559d5efeaf35d9 |                                      |
@@ -77,7 +78,6 @@ How to [get Client Info](../../Web/Id/Client.md).
 | Discourse Forums                                   | 9e338a65daf14ccb8cdbb3b18c26efa9 |                                      |
 | wexAndroidGameClient                               | e645e4b96298419cbffbfa353ebf8b82 |                                      |
 | Rocket League                                      | 3cfbd28f92b0491f97e22ae827d10f14 |                                      |
-| SF Community                                       | b31a9e178ab84b21ad7435a53e4da4af |                                      |
 | Satisfactory                                       | 02612880aa774fb28e3741d3e01501fd |                                      |
 | Diesel - Dauntless                                 | b070f20729f84693b5d621c904fc5bc2 |                                      |
 | creativeModeWebsite                                | 7de9f4b799d3470984093b218287dc72 |                                      |
