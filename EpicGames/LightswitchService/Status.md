@@ -6,4 +6,4 @@ Auth Required: Yes (no perm needed)
 
 ## Path Parameter
 
-`serviceId`: e.g. 'Fortnite', 'wex', 'kairos', etc.
+`serviceId`: e.g. 'Fortnite', 'WorldExplorersLive', 'Kairos', etc.
