@@ -28,6 +28,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | launcherAppClient2                                 | 34a02cf8f4414e29b15921876da36f9a | daafbccc737745039dffe53d94fc76cf     |
 | launcherServiceClient                              | f3e80378aed4462498774a7951cd263f |                                      |
 | launcherWebClient                                  | 24a1bff3f90749efbfcbc576c626a282 |                                      |
+| androidPortal                                      | 38dbfc3196024d5980386a37b7c792bb | a6280b87-e45e-409b-9681-8f15eb7dbcf5 |
 | utClient                                           | 1252412dc7704a9690f6ea4611bc81ee | 2ca0c925b4674852bff92b26f8322434     |
 | Naruto Nindo                                       | 70e113f930c8478d9bcbab61ef3cbd4f |                                      |
 | Refer a Friend                                     | 94b8b951a116407dae2bbf22dadb192e |                                      |
