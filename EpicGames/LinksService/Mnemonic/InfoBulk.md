@@ -29,3 +29,42 @@ Auth Required: Yes (`links:{namespace} READ`)
 ## Query Parameter
 
 `ignoreFailures`: Optional boolean, if the request should **not** throw an Error when any Lookup failed
+
+---
+
+Example Response (shortened)
+
+```json
+[
+  {
+    "namespace": "fn",
+    "accountId": "epic",
+    "creatorName": "Epic",
+    "mnemonic": "playlist_defaultsolo",
+    "linkType": "BR:Playlist",
+    "metadata": {},
+    "version": 95,
+    "active": true,
+    "disabled": false,
+    "created": "2021-10-01T00:56:43.870Z",
+    "published": "2021-08-03T15:27:17.540Z",
+    "descriptionTags": [],
+    "moderationStatus": "Unmoderated"
+  },
+  {
+    "namespace": "fn",
+    "accountId": "epic",
+    "creatorName": "Epic",
+    "mnemonic": "playlist_defaultduo",
+    "linkType": "BR:Playlist",
+    "metadata": {},
+    "version": 95,
+    "active": true,
+    "disabled": false,
+    "created": "2021-10-01T00:56:46.389Z",
+    "published": "2021-08-03T15:27:17.523Z",
+    "descriptionTags": [],
+    "moderationStatus": "Unmoderated"
+  }
+]
+```
