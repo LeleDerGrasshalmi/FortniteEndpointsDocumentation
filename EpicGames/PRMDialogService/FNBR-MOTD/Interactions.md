@@ -31,3 +31,7 @@ Auth Required: Yes (eg1)
 `events[].contentId`: Related to the [MOTD](./MOTD.md)'s Item<br/>
 `events[].tcId`: Related to the [MOTD](./MOTD.md)'s Item<br/>
 `events[].timestamp`: When the MOTD Item got viewed (likely current Date)<br/>
+
+---
+
+Example Response: `Status 200` (Status 200, **but no content**)
