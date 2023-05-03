@@ -1,4 +1,4 @@
 # Get Payout Consent
 
 **Description**: `If the account has a Payout Consent` \
-**URL**: `https://www.epicgames.com/affiliate/api/get-payout-consent`
+**URL**: `https://sac.epicgames.com/api/get-payout-consent`

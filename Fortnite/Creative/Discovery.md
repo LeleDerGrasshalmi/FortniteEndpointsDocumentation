@@ -18,7 +18,9 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
   "surfaceName": "CreativeDiscoverySurface_Frontend",
   "revision": -1,
   "partyMemberIds": [":accountId"],
-  "matchmakingRegion": ""
+  "matchmakingRegion": "",
+  "isCabined": true,
+  "platform": ""
 }
 ```
 
@@ -27,7 +29,9 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 `surfaceName`: leave as 'CreativeDiscoverySurface_Frontend' \
 `revision`: leave -1 for latest \
 `partyMemberIds`: Array of the party member ids, or an Empty Array \
-`matchmakingRegion`: Your matchmaking region (e.g. EU)
+`matchmakingRegion`: Your matchmaking region (e.g. EU) \
+`isCabined`: If your Account is in Cabined Mode (like content/parental controls) \
+`platform`: Your platform
 
 ## Query Parameter
 

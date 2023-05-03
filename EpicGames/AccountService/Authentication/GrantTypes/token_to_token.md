@@ -4,4 +4,4 @@ Has been deprecated on all public Clients.
 
 ### Body
 
-`access_token`: The AccessToken of the Session you want to exchange for a new Session
+`access_token`: The Access Token of the Session you want to exchange for a new Session (Doesnt get invalidated)

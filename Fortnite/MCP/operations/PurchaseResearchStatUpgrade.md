@@ -7,6 +7,6 @@
 
 ```js
 {
-    "statId": "" // fortitude, offense, resistance, technology
+    "statId": "" // Valid Stat Ids: fortitude, offense, resistance, technology
 }
 ```

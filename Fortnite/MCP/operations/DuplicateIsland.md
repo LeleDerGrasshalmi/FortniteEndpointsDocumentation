@@ -10,6 +10,6 @@
 {
     "islandId": "", // Island GUID
     "locale": "en", // e.g. en, de
-    "newTitle": "NEW ISLAND 2"
+    "newTitle": "NEW ISLAND 2" // The Name of the duplicated Island
 }
 ```

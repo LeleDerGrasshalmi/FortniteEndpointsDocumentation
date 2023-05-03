@@ -4,8 +4,9 @@
 **Profiles**: `athena`
 
 ## Body
+
 ```js
 {
-    "questIds": [] // Array of the quests guid
+    "questIds": [] // Array of the Quests GUIDs
 }
 ```

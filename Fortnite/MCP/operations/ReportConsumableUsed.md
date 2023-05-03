@@ -8,7 +8,7 @@
 
 ```js
 {
-    "usedQuantity": 1,
+    "usedQuantity": 1, // Item Quantity
     "itemType": "" // Item Template Id
 }
 ```

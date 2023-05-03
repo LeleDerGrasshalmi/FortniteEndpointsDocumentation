@@ -8,6 +8,8 @@
   - [Events Service](./EpicGames/EventsService)
   - [Friends Service](./EpicGames/FriendsService)
   - [Global Service](./EpicGames/GlobalService)
+  - [Lightswitch Service](./EpicGames/LightswitchService)
+  - [Links Service](./EpicGames/LinksService)
   - [Web APIs](./EpicGames/Web)
 - [Epic Games Affiliate](./EpicGamesAffiliate)
 - [Epic Games Store](./EpicGamesStore)
