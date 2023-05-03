@@ -21,7 +21,9 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
   "revision": -1,
   "testCohorts": [""],
   "partyMemberIds": [""],
-  "matchmakingRegion": ""
+  "matchmakingRegion": "",
+  "isCabined": true,
+  "platform": ""
 }
 ```
 
@@ -33,7 +35,9 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 `revision`: leave -1 for latest \
 `testCohorts`: grabbed from the Main Discovery API (<root>.testCohorts) \
 `partyMemberIds`: Array of the party member ids, or an Empty Array \
-`matchmakingRegion`: Your matchmaking region (e.g. EU)
+`matchmakingRegion`: Your matchmaking region (e.g. EU) \
+`isCabined`: If your Account is in Cabined Mode (like content/parental controls) \
+`platform`: Your platform
 
 ## Query Parameter
 

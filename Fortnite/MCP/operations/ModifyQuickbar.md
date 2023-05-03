@@ -1,7 +1,7 @@
 # ModifyQuickbar
 
 **Description**: `Sets the StW Quickbar` \
-**Profiles**: `theater0`, `theater2`
+**Profiles**: `theater0`, `theater1`, `theater2`
 
 ## Body
 

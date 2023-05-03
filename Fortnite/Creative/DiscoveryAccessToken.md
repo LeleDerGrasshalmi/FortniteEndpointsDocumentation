@@ -1,6 +1,6 @@
-## Fortnite - Creative Discovery Accesstoken
+## Fortnite - Creative Discovery Access Token
 
-URL: https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/discovery/accessToken/:branch \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/discovery/accessToken/:branch \
 Method: GET \
 Auth Required: Yes (`fortnite:discovery:fortnite READ`)
 
@@ -22,3 +22,7 @@ Auth Required: Yes (`fortnite:discovery:fortnite READ`)
 | ++Fortnite+Release-23.20 | +aRHurCIvSQNBdGkGq8W7P/F1wjRfHZB3mPuDiFCddo= | YLSDev                                                                                                             |
 | ++Fortnite+Release-23.30 | E9F4KNtgMQ2H1yh29Mx06sWY668lc138RjHWCFMln9c= | Lele                                                                                                               |
 | ++Fortnite+Release-23.40 | ej65soLaSRuQZ/Nna2gDrA/AzCep11pSLZ6MI8k438k= | Lele                                                                                                               |
+| ++Fortnite+Release-23.50 | AGURf5nMKM6tQ1UOg0TQWhVL0CDYMASflh3QOqcUFcI= | Lele                                                                                                               |
+| ++Fortnite+Release-24.00 | q4yIwerJTBqULn1Zr5vap88fRpHVMIUM/+gnqMSuVp4= | Lele                                                                                                               |
+| ++Fortnite+Release-24.01 | WTwbDh+2U0liC1/cZ8D3JA9rtiKL3I9vshEAuRkQVoE= | Lele                                                                                                               |
+| ++Fortnite+Release-24.10 | PlD/XZ8o9qc16ZxsrY7fxgekeIMHnwvETpyaAvmu0JY= | Lele                                                                                                               |

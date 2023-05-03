@@ -1,6 +1,6 @@
 ## Fortnite - STW Missions
 
-URL: https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/game/v2/world/validate?sessionId=:sessionId \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/world/validate?sessionId=:sessionId \
 Method: POST \
 Auth Required: Yes \
 **Note**: `DedicatedServer ONLY`
