@@ -158,5 +158,6 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Blobry                                           | xyza7891TBhrmw5FFDK9V9SlEyWhv7ZO |                                             |
 | The Drone Racing League Simulator                | xyza78918CzqSZNhwfX8jwAYZQ1aPvTm |                                             |
 | Click-Storm                                      | xyza78910uDedW2snqHFI2sYGwCi6l3t |                                             |
+| Luna                                             | xyza7891nLxm7SITm7WI8jgRIUd2JQfF |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)
