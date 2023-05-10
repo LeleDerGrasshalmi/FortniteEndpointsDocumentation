@@ -1,4 +1,4 @@
-## EOS Platform Service - Category Cards
+## EGS Platform Service - Category Cards
 
 URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/category-cards \
 Method: GET \
