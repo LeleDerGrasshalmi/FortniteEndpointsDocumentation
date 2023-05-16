@@ -1,8 +1,8 @@
 ## User-Search Service - Search Users
 
 URL: https://user-search-service-prod.ol.epicgames.com/api/v1/search/:accountId \
-Method: POST \
-Auth Required: Yes (eg1)
+Method: GET \
+Auth Required: Yes (`social:search:{accountId} READ`)
 
 ## Path Parameters
 
