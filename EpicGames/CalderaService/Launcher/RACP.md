@@ -10,7 +10,8 @@ Auth Required: No
   "exchange_code": "",
   "test_mode": false,
   "epic_app": "",
-  "nvidia": false
+  "nvidia": false,
+  "luna": false
 }
 ```
 
