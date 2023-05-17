@@ -26,3 +26,6 @@ Auth Required: Yes (`fortnite:discovery:fortnite READ`)
 | ++Fortnite+Release-24.00 | q4yIwerJTBqULn1Zr5vap88fRpHVMIUM/+gnqMSuVp4= | Lele                                                                                                               |
 | ++Fortnite+Release-24.01 | WTwbDh+2U0liC1/cZ8D3JA9rtiKL3I9vshEAuRkQVoE= | Lele                                                                                                               |
 | ++Fortnite+Release-24.10 | PlD/XZ8o9qc16ZxsrY7fxgekeIMHnwvETpyaAvmu0JY= | Lele                                                                                                               |
+| ++Fortnite+Release-24.20 | 385ZAOqysxBtVpGkVYJXYh5/Ok3pc3ppH0VtHLaxxjk= | Lele                                                                                                               |
+| ++Fortnite+Release-24.30 | 3j//iXW06VbpPDsIxi2gNH6OUOVcvBsIyeX0ALbRaOg= | Lele                                                                                                               |
+| ++Fortnite+Release-24.40 | 8+CvZNO9yeju1pIbMO+fnd2lPaKbehwvDklVVOsT8YI= | Lele                                                                                                               |
