@@ -1,4 +1,4 @@
-# Fortnite Related Endpoint Documentation
+# Epic Games - API Documentation
 
 ## Content
 
@@ -7,12 +7,14 @@
   - [Caldera Service](./EpicGames/CalderaService)
   - [EGS Platform Service](./EpicGames/EGSPlatformService)
   - [Events Service](./EpicGames/EventsService)
+  - [FN - Habanero Service](./EpicGames/FN-Habanero-Service)
   - [Friends Service](./EpicGames/FriendsService)
   - [Global Service](./EpicGames/GlobalService)
   - [Lightswitch Service](./EpicGames/LightswitchService)
   - [Links Service](./EpicGames/LinksService)
   - [PRM Dialog Service](./EpicGames/PRMDialogService)
-  - [User Search Service](./EpicGames/PRMDialogService)
+  - [Stats Proxy Service](./EpicGames/StatsProxyService)
+  - [User Search Service](./EpicGames/UserSearchService)
   - [Web APIs](./EpicGames/Web)
     - [Affiliate (SAC)](./EpicGames/Web/Affiliate)
     - [Id](./EpicGames/Web/Id)

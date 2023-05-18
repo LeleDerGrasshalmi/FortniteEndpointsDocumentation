@@ -4,9 +4,11 @@ URL: https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/f
 Method: GET \
 Auth Required: No
 
-### Query
+## Query Parameter
 
 `lang` - language of the response (e.g. 'en')
+
+---
 
 > Specific Data Only: <br/>
 > You need to use the **\_title** Property in **lowercase** like `https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/:_title` <br/>
