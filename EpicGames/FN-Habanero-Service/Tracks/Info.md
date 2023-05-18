@@ -6,7 +6,7 @@ Auth Required: Yes (`rankings:{namespace}:tracks READ`)
 
 ## Path Parameters
 
-`namespace`: `fortnite`
+`namespace`: `fortnite` <br/>
 `trackguid`: the `trackguid` from the Tracks List
 
 ---

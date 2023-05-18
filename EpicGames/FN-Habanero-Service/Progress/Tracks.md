@@ -6,7 +6,7 @@ Auth Required: Yes (`rankings:{namespace}:playerprogress READ`)
 
 ## Path Parameters
 
-`namespace`: `fortnite`
+`namespace`: `fortnite` <br/>
 `accountId`: can be any Account Id (works for any User, currently even if stats are private)
 
 ---
