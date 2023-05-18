@@ -1,7 +1,15 @@
-## Fortnite - Cloudstorage: Systrem File Deletion
+## Fortnite - Cloudstorage: Delete Systrem File
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system/:uniqueFilename \
 Method: DELETE \
-Auth Required: Yes
+Auth Required: Yes (`fortnite:cloudstorage:system:{uniqueFilename} DELETE`)
 
-**Note** requires special perm
+## Path Parameters
+
+`uniqueFilename`: the `uniqueFilename` from the List
+
+---
+
+_Example Response_:
+
+> Unknown, no public client has this permission, but likely the same as [User File Delete](../User/Delete.md)

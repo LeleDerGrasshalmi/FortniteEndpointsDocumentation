@@ -2,6 +2,15 @@
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename/links \
 Method: GET \
-Auth Required: Yes
+Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} CREATE`)
 
-_As of 8th march 2023, this is not supported on User Files, but the API itself exists, the feature is just 'disabled'_
+## Path Parameters
+
+`accountId`: your Account Id <br/>
+`uniqueFilename`: the filename, e.g. `ClientSettings.sav` or `ClientSettingsPS5.sav`
+
+---
+
+_Example Response_
+
+_As of 19th may 2023, this is not supported on User Files, but the API itself exists, the feature is just not enabled_

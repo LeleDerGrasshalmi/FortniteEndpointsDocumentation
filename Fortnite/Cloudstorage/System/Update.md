@@ -2,12 +2,16 @@
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system/:uniqueFilename \
 Method: PUT \
-Auth Required: Yes
+Auth Required: Yes (`fortnite:cloudstorage:system:{uniqueFilename} UPDATE`)
 
-## Body
+File Content (Binary) - **File-Body**
 
-File Content (Binary)
+## Path Parameters
 
-`Note: If the file got created with the request, the response is the uniqueFilename`
+`uniqueFilename`: the `uniqueFilename` from the List
 
-**Note** requires special perm
+---
+
+_Example Response_:
+
+> Unknown, no public client has this permission, but likely the same as [User File Update](../User/Update.md)

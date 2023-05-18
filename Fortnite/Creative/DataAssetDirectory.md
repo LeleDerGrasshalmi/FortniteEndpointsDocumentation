@@ -1,10 +1,8 @@
-## Fortnite - Data Asset Directory (Asset Overwrites / external Assets)
+## Fortnite - Data Asset Directory: Assets (Gamefile Overwrites)
 
 URL: https://data-asset-directory-public-service-prod.ol.epicgames.com/api/v1/assets/Fortnite/:version/:versionCLN?appId=Fortnite \
 Method: POST \
-Auth Required: Yes
-
-## Body
+Auth Required: Yes (`dad:fortnite:assets:* READ`)
 
 ```json
 {
@@ -32,9 +30,56 @@ Auth Required: Yes
 }
 ```
 
-## Parameter
+## Path Parameters
 
-**version**: the fn version (url encoded), e.g. `%2B%2BFortnite%2BRelease-20.00` \
-**versionCLN**: the fn versions CLN, e.g. `19532288`
+`version`: the fn version (url encoded), e.g. `%2B%2BFortnite%2BRelease-20.00` <br/>
+`versionCLN`: the fn versions CLN, e.g. `19532288`
 
-**Example final URL**: `https://data-asset-directory-public-service-prod.ol.epicgames.com/api/v1/assets/Fortnite/%2B%2BFortnite%2BRelease-20.00/19532288?appId=Fortnite`
+---
+
+_Example Response (heavily shortened)_
+
+```json
+{
+  "FortCreativeDiscoverySurface": {
+    "meta": {
+      "promotion": 23
+    },
+    "assets": {
+      "CreativeDiscoverySurface_Library": {
+        "meta": {
+          "revision": 2,
+          "headRevision": 2,
+          "revisedAt": "2023-04-26T15:02:18.478Z",
+          "promotion": 1,
+          "promotedAt": "2023-05-02T08:20:28.948Z"
+        },
+        "assetData": {
+          "AnalyticsId": "",
+          "TestCohorts": [
+            {
+              "AnalyticsId": "",
+              "CohortSelector": "Always",
+              "PlatformBlacklist": [],
+              "CountryCodeBlocklist": [],
+              "ContentPanels": [],
+              "PlatformWhitelist": [],
+              "MMRegionBlocklist": [],
+              "SelectionChance": "1.000000",
+              "TestName": "LibraryTest",
+              "CategoryRecommendationModelName": "",
+              "CountryCodeAllowlist": [],
+              "MMRegionAllowlist": []
+            }
+          ],
+          "GlobalLinkCodeBlacklist": ["playlist_unvaulted_squads"],
+          "SurfaceName": "CreativeDiscoverySurface_Library",
+          "TestName": "",
+          "primaryAssetId": "FortCreativeDiscoverySurface:CreativeDiscoverySurface_Library",
+          "GlobalLinkCodeWhitelist": []
+        }
+      }
+    }
+  }
+}
+```

@@ -1,11 +1,19 @@
-## Fortnite - Cloudstorage: User File Content
+## Fortnite - Cloudstorage: Update User File Content
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename \
 Method: PUT \
-Auth Required: Yes
+Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} UPDATE`)
 
-## Body
+File Content (Binary) - **File-Body**
 
-File Content (Binary)
+## Path Parameters
 
-`Note: If the file got created with the request, the response is the uniqueFilename`
+`accountId`: your Account Id <br/>
+`uniqueFilename`: the filename, e.g. `ClientSettings.sav` or `ClientSettingsPS5.sav`
+
+---
+
+_Example Response_
+
+> If the file got created with the request, the response is the `uniqueFilename` as plain text, <br/>
+> otherwhise it just returns status 200 with no content

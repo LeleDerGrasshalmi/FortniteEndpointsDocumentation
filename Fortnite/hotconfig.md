@@ -6,7 +6,7 @@ URL: https://fn-hotconfigs.ogs.live.on.epicgames.com/hotconfigs/v2/:filename \
 Method: GET \
 Auth Required: No
 
-## Path Parameter
+## Path Parameters
 
 `filename`:
 

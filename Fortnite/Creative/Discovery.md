@@ -6,10 +6,7 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 
 ## Headers
 
-`User-Agent`:
-
-- Format: `Fortnite/++Fortnite+Release-{major}.{minor}-CL-{changelist} {platform}/{platformVersion}` <br/>
-- Example: `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
+`User-Agent`: from FN, e.g. `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
 
 <br/>
 
@@ -18,21 +15,25 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
   "surfaceName": "CreativeDiscoverySurface_Frontend",
   "revision": -1,
   "partyMemberIds": [":accountId"],
-  "matchmakingRegion": "",
+  "matchmakingRegion": "EU",
   "isCabined": true,
-  "platform": ""
+  "platform": "Windows"
 }
 ```
 
-## Parameter
+## Path Parameters
 
-`surfaceName`: leave as 'CreativeDiscoverySurface_Frontend' \
-`revision`: leave -1 for latest \
-`partyMemberIds`: Array of the party member ids, or an Empty Array \
-`matchmakingRegion`: Your matchmaking region (e.g. EU) \
-`isCabined`: If your Account is in Cabined Mode (like content/parental controls) \
+`accountId`: your Account Id
+
+## Parameters
+
+`surfaceName`: leave as 'CreativeDiscoverySurface_Frontend' <br/>
+`revision`: leave -1 for latest <br/>
+`partyMemberIds`: Array of the party member ids, or an Empty Array <br/>
+`matchmakingRegion`: Your matchmaking region (e.g. EU) <br/>
+`isCabined`: If your Account is in Cabined Mode (like content/parental controls) <br/>
 `platform`: Your platform
 
-## Query Parameter
+## Query Parameters
 
 `appId`: 'Fortnite'

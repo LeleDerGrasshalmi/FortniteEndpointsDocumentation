@@ -7,6 +7,7 @@
 - If you modify multible files **dont** make a commit for each file
 - Good Naming for PRs, Issues, Commits... (**NOT** modified file.md, say what you want / changed)
 - Markdown formatting (Visual Studio Code)
+- Include an example response (shortened)
 
 <br/>
 
@@ -51,9 +52,19 @@ Auth Required: {Yes/No} ({Permission})
 
 `<key>`: `<description>`
 
-<br/>
-
 ---
+
+> `---` Horizontal Line
+
+`*Example Response*`
+
+[JSON] Codeblock / Note which Status to expect if no content is returned
+
+```json
+{
+  "hello": "world"
+}
+```
 
 <br/>
 

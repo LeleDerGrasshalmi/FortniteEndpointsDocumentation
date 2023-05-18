@@ -4,13 +4,27 @@ URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/discovery/accessTo
 Method: GET \
 Auth Required: Yes (`fortnite:discovery:fortnite READ`)
 
-## Path Parameter
+## Path Parameters
 
 `branch`: Front Part of Build Id, e.g. `++Fortnite+Release-22.20`
 
 <br/>
 
-## Archive
+---
+
+_Example Response_
+
+```json
+{
+  "branchName": "++Fortnite+Release-24.40",
+  "appId": "Fortnite",
+  "token": "8+CvZNO9yeju1pIbMO+fnd2lPaKbehwvDklVVOsT8YI="
+}
+```
+
+---
+
+**Archive**
 
 | Branch                   | Token                                        | Source                                                                                                             |
 | ------------------------ | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
