@@ -6,6 +6,5 @@ Auth Required: No
 
 ### Parameter
 
-`GameId`: Fortnite
-
+`GameId`: Fortnite \
 `teamAccountIds`: Account Ids seperated by a comma ','
