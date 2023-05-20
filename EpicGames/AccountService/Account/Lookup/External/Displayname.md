@@ -6,7 +6,7 @@ Auth Required: Yes (`account:public:account:lookup:externalDisplayName:{external
 
 ## Query Parameter
 
-`caseInsensitive`: boolean (optional), tbh just make it always true, theres no reason to care about the exact case
+`caseInsensitive`: boolean (optional), just make it always true, theres no reason to care about the exact case
 
 ## Path Parameter
 

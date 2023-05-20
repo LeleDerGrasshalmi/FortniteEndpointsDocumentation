@@ -16,8 +16,8 @@ Auth Required: Yes, Basic Auth of the Client Id & Client Secret
 
 | token_type | Allowed | Description              |
 | ---------- | ------- | ------------------------ |
-| `*`        | [X]     | 16 Bytes as hex, Default |
-| `eg1`      | [X]     | Json Web Token           |
+| `*`        |   ✅    | 16 Bytes as hex, Default |
+| `eg1`      |   ✅    | Json Web Token           |
 | `ep1`      |         |                          |
 | `epic_id`  |         |                          |
 | `id_token` |         |                          |
