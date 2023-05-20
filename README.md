@@ -7,7 +7,7 @@
   - [Caldera Service](./EpicGames/CalderaService)
   - [EGS Platform Service](./EpicGames/EGSPlatformService)
   - [Events Service](./EpicGames/EventsService)
-  - [Habanero Service](./EpicGames/HabaneroService)
+  - [FN - Habanero Service](./EpicGames/FN-Habanero-Service)
   - [Friends Service](./EpicGames/FriendsService)
   - [Global Service](./EpicGames/GlobalService)
   - [Lightswitch Service](./EpicGames/LightswitchService)
@@ -18,13 +18,13 @@
   - [Web APIs](./EpicGames/Web)
     - [Affiliate (SAC)](./EpicGames/Web/Affiliate)
     - [Id](./EpicGames/Web/Id)
+    - [Fortnite](./EpicGames/Web/Fortnite)
 - [Epic Games Store](./EpicGamesStore)
 - [Fortnite](./Fortnite)
   - [Catalog](./Fortnite/Catalog)
   - [Cloudstorage](./Fortnite/Cloudstorage)
   - [Creative](./Fortnite/Creative)
   - [MCP](./Fortnite/MCP)
-  - [Web APIs](./Fortnite/Web)
 - [Playstation Website](./PlaystationStore)
 
 ## Contributions
