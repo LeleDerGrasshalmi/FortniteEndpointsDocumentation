@@ -160,5 +160,6 @@ How to get [Client Info](../../Web/Id/Client.md).
 | The Drone Racing League Simulator                | xyza78918CzqSZNhwfX8jwAYZQ1aPvTm |                                             |
 | Click-Storm                                      | xyza78910uDedW2snqHFI2sYGwCi6l3t |                                             |
 | Luna                                             | xyza7891nLxm7SITm7WI8jgRIUd2JQfF |                                             |
+| authentication                                   | xyza7891oJUhBrmdLuE9lL9tc2Wg9EKE |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)
