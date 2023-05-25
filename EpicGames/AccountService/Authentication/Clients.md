@@ -97,6 +97,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Green Man Gaming                                   | 3318a81163c54fea954b3a556e50f0ce |                                      |
 | Academy Login                                      | 17ce2d2864834898ab71847859286c81 |                                      |
 | Fearless Prod                                      | f2c5213519ef496aa9148dc205c68761 |                                      |
+| Kaltura Login - Prod                               | cb394386275e4a0b90b5cc6e77e55682 |                                      |
 
 <br/>
 
