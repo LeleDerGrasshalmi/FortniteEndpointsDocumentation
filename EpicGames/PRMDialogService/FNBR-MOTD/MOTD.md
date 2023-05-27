@@ -42,7 +42,7 @@ Auth Required: Yes (eg1)
 
 > **Not gonna explain every Parameter, they are obvious when you look at the key.** <br/>
 > Those are not all Parameters that exist and im not updating this list every Update / Season... <br/>
-> But \*recently Epic added the the Account needs to actually play to see latest news instead if something like seasons defaults.
+> But \*recently Epic added the Account needs to actually play to see latest news instead if something like seasons defaults.
 
 \*recently: ~December 2022
 
