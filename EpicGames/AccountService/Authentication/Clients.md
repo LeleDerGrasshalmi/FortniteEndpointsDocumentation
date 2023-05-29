@@ -97,6 +97,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Green Man Gaming                                   | 3318a81163c54fea954b3a556e50f0ce |                                      |
 | Academy Login                                      | 17ce2d2864834898ab71847859286c81 |                                      |
 | Fearless Prod                                      | f2c5213519ef496aa9148dc205c68761 |                                      |
+| Kaltura Login - Prod                               | cb394386275e4a0b90b5cc6e77e55682 |                                      |
 
 <br/>
 
@@ -160,5 +161,6 @@ How to get [Client Info](../../Web/Id/Client.md).
 | The Drone Racing League Simulator                | xyza78918CzqSZNhwfX8jwAYZQ1aPvTm |                                             |
 | Click-Storm                                      | xyza78910uDedW2snqHFI2sYGwCi6l3t |                                             |
 | Luna                                             | xyza7891nLxm7SITm7WI8jgRIUd2JQfF |                                             |
+| authentication                                   | xyza7891oJUhBrmdLuE9lL9tc2Wg9EKE |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)

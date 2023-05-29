@@ -19,13 +19,13 @@
   - [Web APIs](./EpicGames/Web)
     - [Affiliate (SAC)](./EpicGames/Web/Affiliate)
     - [Id](./EpicGames/Web/Id)
+    - [Fortnite](./EpicGames/Web/Fortnite)
 - [Epic Games Store](./EpicGamesStore)
 - [Fortnite](./Fortnite)
   - [Catalog](./Fortnite/Catalog)
   - [Cloudstorage](./Fortnite/Cloudstorage)
   - [Creative](./Fortnite/Creative)
   - [MCP](./Fortnite/MCP)
-- [Fortnite Website](./FortniteWebsite)
 - [Playstation Website](./PlaystationStore)
 
 ## Contributions

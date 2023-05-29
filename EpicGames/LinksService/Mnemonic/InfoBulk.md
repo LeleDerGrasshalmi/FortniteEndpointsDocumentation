@@ -22,7 +22,7 @@ Auth Required: Yes (`links:{namespace} READ`)
 ## Parameter
 
 `mnemonic`: e.g. `1111-1111-1111` for FN Creative Island <br/>
-`type`: Mnemonic Type? e.g. 'Creative:Island' or 'BR:Playlist' <br/>
+`type`: Mnemonic Type e.g. 'Creative:Island' or 'BR:Playlist' <br/>
 `filter`: Unknown <br/>
 `v`: Mnemonic Version to lookup, leave empty for latest <br/>
 

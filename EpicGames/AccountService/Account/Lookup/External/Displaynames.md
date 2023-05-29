@@ -16,4 +16,4 @@ Auth Required: Yes (`account:public:account:lookup:externalDisplayName:{external
 ## Parameters
 
 `authType`: See via [External Auth Readme](../../ExternalAuth/README.md) <br/>
-`displayNames`: Displaynames, need to be the exact case
+`displayNames`: Displaynames, CaseSensitive
