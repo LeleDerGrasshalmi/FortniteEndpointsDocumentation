@@ -26,7 +26,7 @@ Auth Required: Yes (`ipdata:region READ`)
 - `country.geoname_id`
 - `subdivisions.geoname_id` (All Elements)
 
-Example Region lookup data (shortened):
+_Example Region lookup data (shortened)_
 
 ```json
 {
@@ -50,7 +50,7 @@ As Base64: `AF9yLAAsklQALFTy`
 
 ---
 
-Example Response
+_Example Response_
 
 ```json
 {

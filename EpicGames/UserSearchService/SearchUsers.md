@@ -15,7 +15,7 @@ Auth Required: Yes (`social:search:{accountId} READ`)
 
 ---
 
-Example Response (shortened)
+_Example Response (shortened)_
 
 ```json
 [

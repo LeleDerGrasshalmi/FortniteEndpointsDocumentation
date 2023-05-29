@@ -1,6 +1,6 @@
-## Fortnite - Creative Discovery Panel Page
+## FN - Discovery Service: Discovery Surface (Main)
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/discovery/surface/page/:accountId \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/discovery/surface/:accountId \
 Method: POST \
 Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 
@@ -13,14 +13,11 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 ```json
 {
   "surfaceName": "CreativeDiscoverySurface_Frontend",
-  "panelName": "Competitive",
-  "pageIndex": 1,
   "revision": -1,
-  "testCohorts": [""],
-  "partyMemberIds": [""],
-  "matchmakingRegion": "",
+  "partyMemberIds": [":accountId"],
+  "matchmakingRegion": "EU",
   "isCabined": true,
-  "platform": ""
+  "platform": "Windows"
 }
 ```
 
@@ -31,10 +28,7 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 ## Parameters
 
 `surfaceName`: leave as 'CreativeDiscoverySurface_Frontend' <br/>
-`panelName`: The panel you want to load a different page of <br/>
-`pageIndex`: The page you want to load from the panel <br/>
 `revision`: leave -1 for latest <br/>
-`testCohorts`: grabbed from the Main Discovery API (<root>.testCohorts) <br/>
 `partyMemberIds`: Array of the party member ids, or an Empty Array <br/>
 `matchmakingRegion`: Your matchmaking region (e.g. EU) <br/>
 `isCabined`: If your Account is in Cabined Mode (like content/parental controls) <br/>

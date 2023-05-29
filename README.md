@@ -7,6 +7,7 @@
   - [Caldera Service](./EpicGames/CalderaService)
   - [EGS Platform Service](./EpicGames/EGSPlatformService)
   - [Events Service](./EpicGames/EventsService)
+  - [FN - Discovery Service](./EpicGames/FN-Discovery-Service)
   - [FN - Habanero Service](./EpicGames/FN-Habanero-Service)
   - [Friends Service](./EpicGames/FriendsService)
   - [Global Service](./EpicGames/GlobalService)

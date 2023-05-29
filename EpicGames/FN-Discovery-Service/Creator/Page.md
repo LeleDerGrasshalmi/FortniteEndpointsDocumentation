@@ -1,4 +1,4 @@
-## Fortnite - Creative: Creator Islands
+## FN - Discovery Service: Creator Islands
 
 URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/creator/page/:creatorAccountId \
 Method: GET \

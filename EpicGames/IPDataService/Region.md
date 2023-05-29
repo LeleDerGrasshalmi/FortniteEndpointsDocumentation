@@ -6,7 +6,7 @@ Auth Required: Yes (`ipdata:region READ`)
 
 ---
 
-Example Response (shortened)
+_Example Response (shortened)_
 
 ```json
 {
