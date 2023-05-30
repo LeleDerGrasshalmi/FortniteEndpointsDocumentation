@@ -1,13 +1,12 @@
 ## Events Service - Add Event Window Session Result
 
-URL: https://events-public-service-live.ol.epicgames.com/api/v1/events/:GameId/:EventId/:EventWindowId/history \
+URL: https://events-public-service-live.ol.epicgames.com/api/v1/events/:gameId/:eventId/:eventWindowId/history \
 Method: POST \
-Auth Required: Yes \
-Note: `Requires Special Perm`
+Auth Required: Yes (`{gameId}:matchmaking:session UPDATE`)
 
 ```json
 {
-  "teamAccountIds": [],
+  "teamAccountIds": ["94b1569506b04f9f8557af611e8c5e47"],
   "sessionSummary": {
     "sessionId": "227a1e5823ae4c108ec4c32c3bb3884a",
     "endTime": "2022-12-17T22:41:15.323Z",
@@ -16,15 +15,13 @@ Note: `Requires Special Perm`
 }
 ```
 
-### Parameter
+## Parameters
 
-`GameId`: Fortnite \
-`EventId`: e.g. epicgames_S23_Lettuce (Mr Beast Extreme Challenge) \
-`EventWindowId`: e.g. S23_Lettuce (Mr Beast Extreme Challenge Window)
+`gameId`: Fortnite <br/>
+`eventId`: e.g. epicgames_S23_Lettuce (Mr Beast Extreme Challenge) <br/>
+`eventWindowId`: e.g. S23_Lettuce (Mr Beast Extreme Challenge Window)
 
-<br/>
-
-### Examples for trackedStats
+> Examples for **trackedStats**
 
 Mr Beast Extreme Challenge:
 
