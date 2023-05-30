@@ -43,3 +43,21 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 ## Query Parameters
 
 `appId`: 'Fortnite'
+
+---
+
+_Example Response (shortened)_
+
+```json
+{
+  "results": [
+    {
+      "lastVisited": null,
+      "linkCode": "playlist_nobuildbr_solo",
+      "isFavorite": false,
+      "globalCCU": 58843
+    }
+  ],
+  "hasMore": false
+}
+```

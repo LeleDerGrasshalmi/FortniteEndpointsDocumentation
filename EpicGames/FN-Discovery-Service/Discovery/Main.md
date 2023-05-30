@@ -37,3 +37,46 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 ## Query Parameters
 
 `appId`: 'Fortnite'
+
+---
+
+_Example Response (shortened)_
+
+```json
+{
+  "panels": [
+    {
+      "panelName": "RecentlyPlayed",
+      "pages": [
+        {
+          "results": [
+            {
+              "lastVisited": "2023-05-18T21:13:29.825Z",
+              "linkCode": "set_habanero_playlists",
+              "isFavorite": false,
+              "globalCCU": 157402
+            }
+          ],
+          "hasMore": true
+        }
+      ]
+    },
+    {
+      "panelName": "Favorites",
+      "pages": [
+        {
+          "results": [
+            {
+              "linkCode": "3445-0602-1416",
+              "isFavorite": true,
+              "globalCCU": -1
+            }
+          ],
+          "hasMore": true
+        }
+      ]
+    }
+  ],
+  "testCohorts": ["librarytest"]
+}
+```
