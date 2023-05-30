@@ -2,7 +2,7 @@
 
 URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/surfaces/motd/interactions \
 Method: POST \
-Auth Required: Yes (eg1)
+Auth Required: Yes (Account - `eg1`)
 
 ```json
 {
@@ -34,4 +34,4 @@ Auth Required: Yes (eg1)
 
 ---
 
-Example Response: `Status 200` (Status 200, **but no content**)
+_Example Response_ `Status 200` (Status 200, but no Content)

@@ -8,7 +8,7 @@ Payload:
 
 ```json
 {
-  "email": "test@gmail.com",
+  "email": "test@exmaple.com",
   "locale": "en-US"
 }
 ```

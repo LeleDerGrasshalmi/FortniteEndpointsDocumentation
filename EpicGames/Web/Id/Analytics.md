@@ -1,4 +1,4 @@
-## EpicGames - Analytics Info
+## Id Web - Analytics Info
 
 URL: https://www.epicgames.com/id/api/analytics \
 Method: GET \

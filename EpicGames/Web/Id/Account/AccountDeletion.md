@@ -1,4 +1,4 @@
-## EpicGames - Account Deletion Cancel
+## Id Web - Cancel Account Deletion
 
 URL: https://www.epicgames.com/id/api/account/deletion/cancel \
 Method: POST \

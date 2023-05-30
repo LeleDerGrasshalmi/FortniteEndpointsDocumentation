@@ -1,4 +1,4 @@
-## EpicGames - Logout
+## Id Web - Logout
 
 URL: https://www.epicgames.com/id/api/logout \
 Method: POST \
@@ -6,10 +6,10 @@ Auth Required: Yes
 
 ---
 
-Example Response
+_Example Response_
 
 ```json
 {
-    "sid": ""
+  "sid": ""
 }
 ```

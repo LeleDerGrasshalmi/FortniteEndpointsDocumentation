@@ -2,7 +2,7 @@
 
 URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/surfaces/motd/target \
 Method: POST \
-Auth Required: Yes (eg1)
+Auth Required: Yes (Account - `eg1`)
 
 ```json
 {
