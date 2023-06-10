@@ -4,7 +4,7 @@
 
 - Go into the Markdown Source Code to get the actual formatting
 - **Only** contribute if you actually know what you are doing and talking about on the API / Operation
-- If you modify multible files **dont** make a commit for each file
+- If you modify multiple files **dont** make a commit for each file
 - Good Naming for PRs, Issues, Commits... (**NOT** modified file.md, say what you want / changed)
 - Markdown formatting (Visual Studio Code)
 - Include an example response (shortened)

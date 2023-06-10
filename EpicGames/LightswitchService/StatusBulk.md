@@ -6,7 +6,7 @@ Auth Required: Yes (no perm needed)
 
 ## Query Parameter
 
-`serviceId`: You can use the query multible times. e.g. 'Fortnite', etc.
+`serviceId`: You can use the query multiple times. e.g. 'Fortnite', etc.
 
 ---
 

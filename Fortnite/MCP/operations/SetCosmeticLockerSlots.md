@@ -1,6 +1,6 @@
 # SetCosmeticLockerSlots
 
-**Description**: `Set multible Cosmetics in a specified Locker` \
+**Description**: `Set multiple Cosmetics in a specified Locker` \
 **Profiles**: `athena`, `campaign`
 
 ## Body
