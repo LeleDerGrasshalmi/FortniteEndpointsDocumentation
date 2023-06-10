@@ -2,7 +2,7 @@
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token \
 Method: POST \
-Auth Required: Yes, Basic Auth of the Client Id & Client Secret
+Auth Required: Yes (Basic Authentication where the username is the Client Id and the password is the Client Secret)
 
 ## Headers
 
@@ -16,8 +16,8 @@ Auth Required: Yes, Basic Auth of the Client Id & Client Secret
 
 | token_type | Allowed | Description              |
 | ---------- | ------- | ------------------------ |
-| `*`        |   ✅    | 16 Bytes as hex, Default |
-| `eg1`      |   ✅    | Json Web Token           |
+| `*`        | ✅      | 16 Bytes as hex, Default |
+| `eg1`      | ✅      | Json Web Token           |
 | `ep1`      |         |                          |
 | `epic_id`  |         |                          |
 | `id_token` |         |                          |
@@ -29,8 +29,8 @@ Auth Required: Yes, Basic Auth of the Client Id & Client Secret
 - `refresh_token` (Request grabbed from EGL Startup)
 
   ```http
-  POST https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token HTTP/1.1
-  Host: account-public-service-prod03.ol.epicgames.com
+  POST /account/api/oauth/token HTTP/1.1
+  Host: account-public-service-prod.ol.epicgames.com
   User-Agent: UELauncher/14.5.0-23755863+++Portal+Release-Live Windows/10.0.19044.1.768.64bit
   Content-Type: application/x-www-form-urlencoded
   Authorization: basic MzRhMDJjZjhmNDQxNGUyOWIxNTkyMTg3NmRhMzZmOWE6ZGFhZmJjY2M3Mzc3NDUwMzlkZmZlNTNkOTRmYzc2Y2Y=

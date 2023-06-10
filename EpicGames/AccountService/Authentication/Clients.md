@@ -162,5 +162,6 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Click-Storm                                      | xyza78910uDedW2snqHFI2sYGwCi6l3t |                                             |
 | Luna                                             | xyza7891nLxm7SITm7WI8jgRIUd2JQfF |                                             |
 | authentication                                   | xyza7891oJUhBrmdLuE9lL9tc2Wg9EKE |                                             |
+| Maestro                                          | xyza7891oL6OtsGfOEEprZv2WcfMWDGy |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)
