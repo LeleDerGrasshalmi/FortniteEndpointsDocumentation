@@ -4,7 +4,7 @@ URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/sess
 Method: DELETE \
 Auth Required: Yes
 
-### Query Parameter
+### Query Parameters
 
 `killType`: see below
 

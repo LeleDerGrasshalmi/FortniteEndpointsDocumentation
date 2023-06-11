@@ -4,6 +4,6 @@ URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/cont
 Method: GET \
 Auth Required: Yes (`account:oauth:continuationToken READ`)
 
-## Path Parameter
+## Path Parameters
 
 `continuationToken`: 16 Bytes in hex token

@@ -4,7 +4,7 @@ URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/aut
 Method: POST \
 Auth Required: Yes (`links:{namespace}:privileged_only CREATE`)
 
-## Path Parameter
+## Path Parameters
 
 `namespace`: For Fortnite it's 'fn' <br/>
 `accountId`: Your Account Id

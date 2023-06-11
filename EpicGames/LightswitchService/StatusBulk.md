@@ -4,7 +4,7 @@ URL: https://lightswitch-public-service-prod06.ol.epicgames.com/lightswitch/api/
 Method: GET \
 Auth Required: Yes (no perm needed)
 
-## Query Parameter
+## Query Parameters
 
 `serviceId`: You can use the query multiple times. e.g. 'Fortnite', etc.
 

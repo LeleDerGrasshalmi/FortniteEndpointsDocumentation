@@ -4,6 +4,6 @@ URL: https://fortnite.com/competitive/api/leaderboard/:eventId/:eventWindowId/un
 Method: GET \
 Auth Required: No
 
-### Query Parameter
+### Query Parameters
 
 **page**: Page number you want to view

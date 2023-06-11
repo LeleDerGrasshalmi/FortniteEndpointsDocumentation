@@ -4,6 +4,6 @@ URL: https://store-content.ak.epicgames.com/api/en-US/content/products/:product 
 Method: GET \
 Auth Required: No
 
-## Path Parameter
+## Path Parameters
 
 `product`: e.g. `fortnite`

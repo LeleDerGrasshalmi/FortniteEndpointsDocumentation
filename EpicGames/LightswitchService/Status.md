@@ -4,7 +4,7 @@ URL: http://lightswitch-public-service-prod.ol.epicgames.com/lightswitch/api/ser
 Method: GET \
 Auth Required: Yes (no perm needed)
 
-## Path Parameter
+## Path Parameters
 
 `serviceId`: e.g. 'Fortnite', 'WorldExplorersLive', 'Kairos', etc.
 

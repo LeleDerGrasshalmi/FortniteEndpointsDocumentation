@@ -34,4 +34,6 @@ Auth Required: Yes (Account - `eg1`)
 
 ---
 
-_Example Response_ `Status 200` (Status 200, but no Content)
+_Example Response_
+
+`Status 200` (But no Content)

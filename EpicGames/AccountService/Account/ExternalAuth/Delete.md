@@ -4,6 +4,6 @@ URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/acc
 Method: DELETE \
 Auth Required: Yes (`account:public:account:externalAuths DELETE`)
 
-## Path Parameter
+## Path Parameters
 
 `externalAuthType`: See via [External Auth Readme](./README.md)

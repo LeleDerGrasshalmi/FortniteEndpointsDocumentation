@@ -4,7 +4,7 @@ URL: https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/f
 Method: GET \
 Auth Required: No
 
-## Query Parameter
+## Query Parameters
 
 `lang` - language of the response (e.g. 'en')
 

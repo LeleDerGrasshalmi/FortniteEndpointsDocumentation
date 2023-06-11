@@ -9,7 +9,7 @@ Auth Required: Yes
 `accountId`: your Account Id
 `windowId`: **alltime** or **weekly**
 
-## Query Parameter
+## Query Parameters
 
 `playlist`: e.g. `pc_m0_p10` (PC - Duos)
 

@@ -4,7 +4,7 @@ URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/mne
 Method: GET \
 Auth Required: Yes (`links:{namespace} READ`)
 
-## Path Parameter
+## Path Parameters
 
 `namespace`: For Fortnite it's 'fn' <br/>
 `mnemonic`: e.g. `1111-1111-1111` for FN Creative Island

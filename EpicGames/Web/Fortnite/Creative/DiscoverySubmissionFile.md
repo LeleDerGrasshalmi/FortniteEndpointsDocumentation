@@ -4,6 +4,6 @@ URL: https://fortnite.com/en-US/api/creative-submission-form/upload-image?submis
 Method: POST \
 Auth Required: Yes
 
-### Query Parameter
+### Query Parameters
 
 **type**: Upload Type (eg. image/jpeg video/mp4)

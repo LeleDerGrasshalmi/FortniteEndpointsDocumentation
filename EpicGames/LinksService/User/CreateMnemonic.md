@@ -14,12 +14,12 @@ Auth Required: Yes (`links:{namespace}:{accountId} CREATE`)
 }
 ```
 
-## Path Parameter
+## Path Parameters
 
 `namespace`: For Fortnite it's 'fn' <br/>
 `accountId`: Your Account Id
 
-## Parameter
+## Parameters
 
 `creatorName`: required - Creators name <br/>
 `linkType`: required - the type of the Link e.g. 'valkyrie:application' (UEFN Project) or 'Creative:Island' (Creative V1 Island) <br/>
@@ -29,7 +29,7 @@ Auth Required: Yes (`links:{namespace}:{accountId} CREATE`)
 
 ---
 
-Example Response (shortened)
+_Example Response (shortened)_
 
 ```json
 {

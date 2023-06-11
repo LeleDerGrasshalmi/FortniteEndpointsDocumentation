@@ -48,7 +48,7 @@ Auth Required: Yes (Account - `eg1`)
 
 ---
 
-Example Response (shortened)
+_Example Response (shortened)_
 
 ```json
 {

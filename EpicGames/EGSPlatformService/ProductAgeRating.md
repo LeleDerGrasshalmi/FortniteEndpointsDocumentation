@@ -10,7 +10,7 @@ Auth Required: No
 `locale`: (required) e.g. 'de' (German), fallback is 'en' <br/>
 `store`: (required) only `EGS` is known to be valid <br/>
 
-## Path Parameter
+## Path Parameters
 
 `productId`: self explaining, e.g. `7c0a8a40ba4a47dd899eed51a8fbc3fe` for Rogue Company <br/>
 `offerId`: self explaining, e.g. `36bfbc7a0b664a2891c68dc947922469` for the Rogue Company Main Offer <br/>
