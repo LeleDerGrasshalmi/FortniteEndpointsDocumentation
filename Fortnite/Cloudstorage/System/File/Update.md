@@ -1,4 +1,4 @@
-## Fortnite - Cloudstorage: System File Content Update/Creation
+## Fortnite - Cloudstorage: Update System File
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system/:uniqueFilename \
 Method: PUT \
@@ -14,4 +14,4 @@ File Content (Binary) - **File-Body**
 
 _Example Response_:
 
-> Unknown, no public client has this permission, but likely the same as [User File Update](../User/Update.md)
+> Unknown, no public client has this permission, but likely the same as [User File Update](../../User/File/Update.md)

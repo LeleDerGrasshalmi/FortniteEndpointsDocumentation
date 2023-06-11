@@ -1,4 +1,4 @@
-## Fortnite - Cloudstorage: Update User File Content
+## Fortnite - Cloudstorage: Update User File
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename \
 Method: PUT \
