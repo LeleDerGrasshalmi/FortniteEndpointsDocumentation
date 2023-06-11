@@ -20,3 +20,7 @@ Recommended Hosts:
 
 - launcher-public-service-prod.ol.epicgames.com
 - launcher-public-service-prod06.ol.epicgames.com
+
+# Data
+
+`platform`: Windows, Android, IOS, XSX, PS4, PS5, Switch

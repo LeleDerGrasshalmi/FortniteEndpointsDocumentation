@@ -6,12 +6,13 @@ Auth Required: Yes (`launcher:download:{label} READ`)
 
 ## Path Parameters
 
-`platform`: The platform e.g. `Android` or `Windows`
+`platform`: See [Platforms](../README.md#data)
 
 ## Query Parameters
 
-`label`: optional, The label, usually `Live`, defaults to `Production`
-`count`: optional, e.g. `1`
+`label`: optional, The label, usually `Live`, defaults to `Production` <br/>
+`count`: optional, e.g. `1` <br/>
+`namespace`: optional, e.g. `fn`
 
 ---
 

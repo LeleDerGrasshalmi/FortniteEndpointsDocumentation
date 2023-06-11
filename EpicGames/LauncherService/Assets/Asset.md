@@ -6,7 +6,7 @@ Auth Required: Yes (`launcher:download:{label}:{appName} READ`)
 
 ## Path Parameters
 
-`platform`: The platform e.g. `Android` or `Windows` <br/>
+`platform`: See [Platforms](../README.md#data) <br/>
 `catalogItemId`: The Catalog-Item Id, e.g. `4fe75bbc5a674f4f9b356b5c90567da5` for Fortnite <br/>
 `appName`: The App Name (from Catalog Item), e.g. `Fortnite` for Fortnite
 
