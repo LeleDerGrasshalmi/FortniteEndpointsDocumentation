@@ -2,7 +2,7 @@
 
 URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/info/launcher/:version \
 Method: GET \
-Auth Required: Yes (No perm required)
+Auth Required: Yes (`buildinfo:buildmanifest:app:EpicGamesLauncher:build:{version}:status READ`)
 
 ## Path Parameters
 
@@ -10,7 +10,7 @@ Auth Required: Yes (No perm required)
 
 ---
 
-_Example Response_: `2.9.2-2874913+++Portal+Release-Live-Windows`
+_Example Response_ - `2.9.2-2874913+++Portal+Release-Live-Windows`
 
 ```json
 {
@@ -18,7 +18,7 @@ _Example Response_: `2.9.2-2874913+++Portal+Release-Live-Windows`
 }
 ```
 
-_Example Response_: `15.4.0-25591319+++Portal+Release-Live-Windows`
+_Example Response_ - `15.4.0-25591319+++Portal+Release-Live-Windows`
 
 ```json
 {

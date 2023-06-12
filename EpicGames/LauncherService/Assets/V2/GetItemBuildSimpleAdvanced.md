@@ -6,7 +6,24 @@ Auth Required: Yes (`launcher:download:{label}:{appName} READ`)
 
 ```json
 {
-  "abis": ["arm64-v8a"]
+  "abis": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+  "apiLevel": 30,
+  "coreCount": 8,
+  "hardwareName": "Qualcomm Technologies, Inc SDMMAGPIE",
+  "hasLibHoudini": false,
+  "machineId": "REDACTED",
+  "manufacturer": "samsung",
+  "memoryMiB": 5524,
+  "model": "SM-A715F",
+  "platform": "Android",
+  "preInstallInfo": "ThirdPartyInstall",
+  "renderingDevice": "Adreno (TM) 618",
+  "renderingDriver": "OpenGL ES 3.2 V@0502.0 (GIT@e1ac91e, I2b3b5fbd00, 1605636002) (Date:11/17/20)",
+  "sha1Fingerprint": "",
+  "supportsArmNEON": true,
+  "supportsFpRenderTargets": true,
+  "textureCompressionFormats": ["ASTC", "ATC", "ETC2", "ETC1"],
+  "version": "5.2.0"
 }
 ```
 
@@ -20,24 +37,24 @@ Auth Required: Yes (`launcher:download:{label}:{appName} READ`)
 
 ## Parameters
 
-`abis`: Array of [ABI's](https://developer.android.com/ndk/guides/abis) <br/>
-`apiLevel`: Integer <br/>
-`coreCount`: Integer <br/>
-`hardwareName`: String <br/>
-`hasLibHoudini`: Boolean <br/>
+`abis`: Array of ABI's, for example see [Android ABI's](https://developer.android.com/ndk/guides/abis) <br/>
+`apiLevel`: On Android the [Android API Version](https://developer.android.com/tools/releases/platforms) <br/>
+`coreCount`: How many Cores your CPU has <br/>
+`hardwareName`: CPU Name <br/>
+`hasLibHoudini`: See [What this is](https://commonsware.com/blog/2013/11/21/libhoudini-what-it-means-for-developers.html) <br/>
 `machineId`: String <br/>
-`manufacturer`: String <br/>
+`manufacturer`: Device Manufacturer, e.g. `samsung` <br/>
 `memoryMiB`: Integer <br/>
-`model`: String <br/>
-`platform`: String <br/>
-`preInstallInfo`: String <br/>
-`renderingDevice`: String <br/>
-`renderingDriver`: String <br/>
-`supportsArmNEON`: Boolean <br/>
+`model`: Device Model <br/>
+`platform`: See [Platforms](../../../README.md#data) <br/>
+`preInstallInfo`: Unknown, e.g. `ThirdPartyInstall` <br/>
+`renderingDevice`: Graphicscard Name / The name of whatever Device is used for redendering <br/>
+`renderingDriver`: Graphicscard / Renderering Device Driver Name and Version <br/>
+`sha1Fingerprint`: Empty String when requesting the Launcher build, or the SHA1 Fingerprint of your Devicec <br/>
+`supportsArmNEON`: If the CPU sppports [Arm Neon](https://developer.arm.com/Architectures/Neon) <br/>
 `supportsFpRenderTargets`: Boolean <br/>
-`textureCompressionFormats`: String[] <br/>
+`textureCompressionFormats`: Supported Compression Formats <br/>
 `version`: String <br/>
-(Payload Docs aint complete yet)
 
 ---
 

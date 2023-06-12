@@ -6,13 +6,13 @@ Auth Required: Yes (No perm required)
 
 ## Path Parameters
 
-`platform`: The platform e.g. `Android` or `Windows`
+`platform`: See [Platforms](../../../README.md#data)
 
 ## Query Parameters
 
 `label`: required, The label, e.g. `Live-AnarchyAcres` on `Android` or `Live-HighlandWarrior` on `Windows` <br/>
 `clientVersion`: optional, the Launcher Version, e.g. `15.4.0-25591319+++Portal+Release-Live-Windows` (Needs to get URL Encoded!) <br/>
-`machineId`: optional, your hwid
+`machineId`: optional, your hwid, e.g. `BD89F33D-3365-45D1-BA2B-EB4D6B397AE8`
 
 ---
 

@@ -1,4 +1,4 @@
-## Launcher Service - Assets: Assets for Platform
+## Launcher Service - Assets: Entitled Builds
 
 URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/:platform \
 Method: GET \
