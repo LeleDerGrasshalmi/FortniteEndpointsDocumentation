@@ -6,7 +6,8 @@ Auth Required: Yes (`fortnite:profile:{accountId}:friendcodes ALL`)
 
 ## Path Parameters
 
-`accountId`: Your Account Id
+`accountId`: Your Account Id <br/>
+`codeType`: `epic` or `xbox`
 
 ---
 
