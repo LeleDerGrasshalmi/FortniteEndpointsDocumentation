@@ -4,6 +4,20 @@ URL: https://account-public-service-prod.ol.epicgames.com/account/api/epicid/v1/
 Method: GET \
 Auth Required: Yes (In Body, not in the Authorization Header)
 
+## Headers
+
+`Content-Type`: application/x-www-form-urlencoded
+
+<br/>
+
+```
+token=abc
+```
+
+## Parameters
+
+`token`: Your Bearer Token
+
 ---
 
 _Example Response (Valid)_

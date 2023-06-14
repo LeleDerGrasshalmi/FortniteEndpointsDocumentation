@@ -2,7 +2,7 @@
 
 URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/account/wallet \
 Method: GET \
-Auth Required: Yes (Launcher?)
+Auth Required: Yes (apparently `reward:public:{accountId}:reward-accounts	READ`)
 
 ## Query Parameters
 

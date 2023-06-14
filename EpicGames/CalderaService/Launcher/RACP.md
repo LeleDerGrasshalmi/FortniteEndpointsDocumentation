@@ -21,7 +21,8 @@ Auth Required: No
 `exchange_code`: Your [Exchange Code](../../AccountService/Authentication/ExchangeCode/Create.md) <br/>
 `test_mode`: Unknown, just leave it false <br/>
 `epic_app`: The Game you want to launch e.g. `fortnite` <br/>
-`nvidia`: If this is true **all** other parameters can be ignored
+`nvidia`: Used for the Nvidia Gefore Cloud-Gaming, if this is true **all** other parameters can be ignored <br/>
+`luna`: Used for the Amazon Luna Cloud-Gaming, if this is true **all** other parameters can be ignored
 
 ---
 

@@ -14,7 +14,7 @@ Auth Required: Yes (`fortnite:stats READ`)
 
 ---
 
-_Example Response for `br_placetop1_keyboardmouse_m0_playlist_defaultsolo`_
+_Example Response (`br_placetop1_keyboardmouse_m0_playlist_defaultsolo`)_
 
 ```json
 {
@@ -29,5 +29,19 @@ _Example Response for `br_placetop1_keyboardmouse_m0_playlist_defaultsolo`_
     }
   ],
   "maxSize": 1000
+}
+```
+
+_Example Response (Invalid leaderboard)_
+
+```json
+{
+  "errorCode": "errors.com.epicgames.common.processing_exception",
+  "errorMessage": "Sorry a processing exception occurred while we were waiting for you to send us request data. (tracking id: [00000000-0000-0000-0000-000000000000])",
+  "messageVars": ["00000000-0000-0000-0000-000000000000"],
+  "numericErrorCode": 1037,
+  "originatingService": "statsproxy",
+  "intent": "live",
+  "trackingId": "00000000-0000-0000-0000-000000000000"
 }
 ```

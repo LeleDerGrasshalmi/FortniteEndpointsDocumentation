@@ -1,4 +1,9 @@
 # Stats Proxy Service
 
-Fortnites Stats Backend. <br/>
-**All** `startTime` and `endTime` values are in seconds since epoch.
+This is the Fortnite User Stats Backend.
+
+<br/>
+
+# Data
+
+`startTime` and `endTime` values are in seconds since epoch.

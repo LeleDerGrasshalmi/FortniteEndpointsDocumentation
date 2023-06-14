@@ -6,7 +6,7 @@
 **URL**: `https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/profile/:accountId/:route/:operation` \
 **Body**: `Individual`
 
-## Query Parameter:
+## Query Parameters
 
 | Name      | Value       | Default Value |
 | --------- | ----------- | ------------- |
