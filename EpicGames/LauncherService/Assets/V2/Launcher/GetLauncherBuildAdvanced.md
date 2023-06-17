@@ -1,4 +1,4 @@
-## Launcher Service - Assets: Launcher Assets for Platform (Advanced)
+## Launcher Service - Assets (V2): Launcher Build for Platform (Advanced)
 
 URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/launcher/label/:label \
 Method: POST \
