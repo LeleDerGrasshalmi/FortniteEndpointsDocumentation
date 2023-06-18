@@ -6,7 +6,7 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 
 ## Headers
 
-`User-Agent`: from FN, e.g. `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
+`User-Agent`: From FN, e.g. `Fortnite/++Fortnite+Release-18.40-CL-18163738 Windows/10`
 
 <br/>
 
@@ -26,15 +26,15 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 
 ## Path Parameters
 
-`accountId`: your Account Id
+`accountId`: Your Account Id
 
 ## Parameters
 
-`surfaceName`: leave as 'CreativeDiscoverySurface_Frontend' <br/>
+`surfaceName`: Leave as 'CreativeDiscoverySurface_Frontend' <br/>
 `panelName`: The panel you want to load a different page of <br/>
 `pageIndex`: The page you want to load from the panel <br/>
-`revision`: leave -1 for latest <br/>
-`testCohorts`: grabbed from the Main Discovery API (<root>.testCohorts) <br/>
+`revision`: Leave -1 for latest <br/>
+`testCohorts`: Grabbed from the [Main Discovery API](./Main.md) (<root>.testCohorts) <br/>
 `partyMemberIds`: Array of the party member ids, or an Empty Array <br/>
 `matchmakingRegion`: Your matchmaking region (e.g. EU) <br/>
 `isCabined`: If your Account is in Cabined Mode (like content/parental controls) <br/>
@@ -42,7 +42,7 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 
 ## Query Parameters
 
-`appId`: 'Fortnite'
+`appId`: `Fortnite`
 
 ---
 

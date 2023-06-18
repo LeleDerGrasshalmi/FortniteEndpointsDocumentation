@@ -11,7 +11,7 @@ Auth Required: Yes (`links:{namespace} READ`)
 
 ---
 
-Example Response
+_Example Response_
 
 ```json
 {

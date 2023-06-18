@@ -1,4 +1,4 @@
-## Links Service - Mnemonic Info with related Mnemonic Infos
+## Links Service - Mnemonic Info with related Mnemonics
 
 URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/mnemonic/:mnemonic/related \
 Method: GET \
@@ -11,7 +11,7 @@ Auth Required: Yes (`links:{namespace} READ`)
 
 ---
 
-Example Response (shortened)
+E*xample Response (shortened)*
 
 ```json
 {
@@ -23,42 +23,6 @@ Example Response (shortened)
       "mnemonic": "set_br_playlists",
       "linkType": "ModeSet",
       "metadata": {
-        "alt_title": {
-          "de": "Battle Royale",
-          "ru": "Королевская битва",
-          "ko": "배틀로얄",
-          "pt-BR": "Battle Royale",
-          "it": "Battaglia reale",
-          "fr": "Battle Royale",
-          "zh-CN": "",
-          "es": "Battle Royale",
-          "es-MX": "Batalla campal",
-          "zh": "",
-          "ar": "باتل رويال",
-          "zh-Hant": "",
-          "ja": "バトルロイヤル",
-          "pl": "Battle Royale",
-          "es-419": "Batalla campal",
-          "tr": "Battle Royale"
-        },
-        "alt_tagline": {
-          "de": "Überlebe allein in einer Schlacht bis auf den letzten Spieler.",
-          "ru": "Отправляйтесь на битву в одиночку и переживите всех соперников.",
-          "ko": "죽느냐 사느냐... 혼자서 싸우는 서바이벌 혈투!",
-          "pt-BR": "Entre sozinho em uma batalha para ser o último sobrevivente.",
-          "it": "Combatti in solitaria fino a diventare l'ultimo superstite.",
-          "fr": "Combattez en solitaire et soyez le dernier survivant.",
-          "zh-CN": "",
-          "es": "Entra en solitario en un combate para ser el último en pie.",
-          "es-MX": "Entra por tu cuenta a un combate y pelea hasta que solo quedes tú en pie.",
-          "zh": "",
-          "ar": "خُض المعركة بمفردك لتصبح آخر من يتبقى من اللاعبين.",
-          "zh-Hant": "",
-          "ja": "単身でバトルに飛び込み、最後の1人になるまで生き残れ。",
-          "pl": "Walcz samotnie w bitwie do ostatniego.",
-          "es-419": "Entra por tu cuenta a un combate y pelea hasta que solo quedes tú en pie.",
-          "tr": "Savaşa tek başına gir ve hayatta kalan son kişi ol."
-        },
         "image_url": "https://cdn2.unrealengine.com/nocturnal-br-1920-1920x1080-c17716b1607d.png",
         "image_urls": {
           "url_s": "https://cdn2.unrealengine.com/nocturnal-br-480-480x270-55a14d4c57cd.png",

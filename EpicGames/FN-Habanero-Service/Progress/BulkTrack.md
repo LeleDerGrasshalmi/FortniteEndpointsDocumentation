@@ -13,7 +13,7 @@ Auth Required: Yes (`rankings:{namespace}:playerprogress READ`)
 ## Path Parameters
 
 `namespace`: `fortnite` <br/>
-`trackguid`: the `trackguid` from the Tracks List
+`trackguid`: The `trackguid` from the Tracks List
 
 ## Parameters
 

@@ -6,6 +6,6 @@ Auth Required: Yes (`fortnite:fortnite_role:dedicated_server READ`)
 
 ## Query Parameters
 
-`appId`: 'Fortnite <br/>
-`wellKnownIslandsName`: the Islands Name <br/>
-`revision`: the revision, use `-1` for latest
+`appId`: `Fortnite` <br/>
+`wellKnownIslandsName`: The Islands Name <br/>
+`revision`: The revision, use `-1` for latest

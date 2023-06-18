@@ -11,7 +11,7 @@ Auth Required: Yes (`links:{namespace}:{accountId} READ`)
 
 ---
 
-_Example Response_
+_Example Response (shortened)_
 
 ```json
 [

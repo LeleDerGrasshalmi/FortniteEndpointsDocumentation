@@ -7,8 +7,10 @@ Auth Required: Yes (`discovery:{accountId}:links:history CREATE`)
 ## Path Parameters
 
 `accountId`: Your Account Id <br/>
-`linkCode`: the Mnemonic to favorite, e.g. `6276-3568-1807`
+`linkCode`: The Mnemonic to add to recently played, e.g. `6276-3568-1807`
 
 ---
 
-_Example Response_ `Status 204`
+_Example Response_
+
+`Status 204`

@@ -7,7 +7,7 @@ Auth Required: Yes (`links:{namespace} READ`)
 ```json
 [
   {
-    "mnemonic": "",
+    "mnemonic": "playlist_defaultsolo",
     "type": "",
     "filter": false,
     "v": ""
@@ -24,15 +24,15 @@ Auth Required: Yes (`links:{namespace} READ`)
 `mnemonic`: e.g. `1111-1111-1111` for FN Creative Island <br/>
 `type`: Mnemonic Type e.g. 'Creative:Island' or 'BR:Playlist' <br/>
 `filter`: Unknown <br/>
-`v`: Mnemonic Version to lookup, leave empty for latest <br/>
+`v`: Mnemonic Version to lookup, leave empty for latest
 
 ## Query Parameters
 
-`ignoreFailures`: Optional boolean, if the request should **not** throw an Error when any Lookup failed
+`ignoreFailures`: Optional (boolean), if the request should **not** throw an Error when any Lookup failed
 
 ---
 
-Example Response (shortened)
+_Example Response (shortened)_
 
 ```json
 [

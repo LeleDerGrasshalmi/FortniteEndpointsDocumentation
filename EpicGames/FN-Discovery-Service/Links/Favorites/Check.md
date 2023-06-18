@@ -14,6 +14,10 @@ Auth Required: Yes (`discovery:{accountId}:links:favorite READ`)
 
 `accountId`: Your Account Id
 
+## Parameters
+
+`linkCodes`: The Mnemonics to check
+
 ---
 
 _Example Response_
