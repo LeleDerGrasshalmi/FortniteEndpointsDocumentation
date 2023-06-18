@@ -1,4 +1,4 @@
-## FN - Habanero Service: Tracks Progress
+## FN - Habanero Service: Tracks Progress for Account
 
 URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/:namespace/trackprogress/:accountId \
 Method: GET \
