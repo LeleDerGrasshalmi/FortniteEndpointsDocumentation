@@ -1,7 +1,7 @@
 ## FN - Habanero Service: Track Progress for Accounts (Bulk)
 
 URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/:namespace/trackprogress/byAccountIds/:trackguid \
-Method: GET \
+Method: POST \
 Auth Required: Yes (`rankings:{namespace}:playerprogress READ`)
 
 ```json
