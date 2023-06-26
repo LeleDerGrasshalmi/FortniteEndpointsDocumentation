@@ -20,7 +20,7 @@ Auth Required: Yes (`launcher:download:label:{label}:app:{appName}:ticket CREATE
 `appName`: The App Name (from Catalog Item), e.g. `Fortnite` for Fortnite <br/>
 `catalogItemId`: The Catalog-Item Id, e.g. `4fe75bbc5a674f4f9b356b5c90567da5` for Fortnite <br/>
 `namespace`: The Catalog Namespace, e.g. `fn` for Fortnite <br/>
-`platform`: See [Platforms](../README.md#data) <br/>
+`platform`: See [Platforms](../../../README.md#data) <br/>
 `label`: The label, usually `Live`, defaults to `Production` <br/>
 `buildVersion`: The Latest Build-Version of the Catalog Item
 
