@@ -98,6 +98,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Academy Login                                      | 17ce2d2864834898ab71847859286c81 |                                      |
 | Fearless Prod                                      | f2c5213519ef496aa9148dc205c68761 |                                      |
 | Kaltura Login - Prod                               | cb394386275e4a0b90b5cc6e77e55682 |                                      |
+| Diesel - Paradox Interactive - Surviving Mars      | 947305f86f2141f0976e904a1dd3c7ee |                                      |
 
 <br/>
 
@@ -163,5 +164,6 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Luna                                             | xyza7891nLxm7SITm7WI8jgRIUd2JQfF |                                             |
 | authentication                                   | xyza7891oJUhBrmdLuE9lL9tc2Wg9EKE |                                             |
 | Maestro                                          | xyza7891oL6OtsGfOEEprZv2WcfMWDGy |                                             |
+| Crayta                                           | xyza7891CQa1PwayyH3MbbD48VP8XgW3 |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)
