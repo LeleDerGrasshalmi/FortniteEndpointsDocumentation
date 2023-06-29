@@ -110,7 +110,6 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Fall Guys                                        | xyza7891mADED0tPNJFOiF8OmI0DwY0J | 8w2sDwL5/GuUjeVbHZIxe1FAFwi+tuQI2msSCVIO+EA |
 | Maestro                                          | xyza7891oL6OtsGfOEEprZv2WcfMWDGy |                                             |
 | Fortnite                                         | xyza7891343Fr4ZSPkQZ3kaL3I2sX8B5 | F8BVRyHIqmct8cN9KSPbXsJszpiIZEYEFDiySxc1wuA |
-| Paradise Fortnite Discord Quest                  | xyza7891IjB10JDONRiKG3CZYlyWJjgk |                                             |
 | Discord                                          | xyza7891ATBkAcPkzEZ01TUB0YnZfFdF |                                             |
 | Among Us                                         | xyza7891qtrmoYLr86we6DlfCA1RRsp8 |                                             |
 | BHVR Account                                     | xyza7891zCP7obl2cOsckGAhbeLOLv8S |                                             |
@@ -165,5 +164,8 @@ How to get [Client Info](../../Web/Id/Client.md).
 | authentication                                   | xyza7891oJUhBrmdLuE9lL9tc2Wg9EKE |                                             |
 | Maestro                                          | xyza7891oL6OtsGfOEEprZv2WcfMWDGy |                                             |
 | Crayta                                           | xyza7891CQa1PwayyH3MbbD48VP8XgW3 |                                             |
+| THE KING OF FIGHTERS XV                          | xyza7891NihrtvBRRaS7fgbgzNsAXzi7 |                                             |
+| Rocket League Sideswipe                          | xyza7891U64Mb4ZybQRpqALQxo1M6wEL |                                             |
+| Gama-Gama.ru                                     | xyza78910V8IRzOkRlM9GiGylg2SWpxn |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)
