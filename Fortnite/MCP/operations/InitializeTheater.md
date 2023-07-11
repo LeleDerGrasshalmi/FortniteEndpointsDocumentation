@@ -8,6 +8,6 @@
 
 ```js
 {
-    "theaterGuid": "", // The Theater GUID, from World Info API
+    "theaterGuid": "" // The Theater GUID, from World Info API
 }
 ```

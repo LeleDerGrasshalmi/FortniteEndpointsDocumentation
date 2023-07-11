@@ -6,7 +6,7 @@
 ## Body
 ```js
 {
-    "targetItemId": "" // Item GUID
+    "targetItemId": "", // Item GUID
     "alterationSlot": 1 // Index (0-5)
 }
 ```

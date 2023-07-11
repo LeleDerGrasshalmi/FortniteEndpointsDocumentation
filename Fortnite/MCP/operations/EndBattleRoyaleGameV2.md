@@ -108,12 +108,12 @@
             "location": {
                 "X": 0,
                 "Y": 0,
-                "Z": 0,
+                "Z": 0
             },
             "rotation": {
                 "Y": 0,
                 "X": 0,
-                "Z": 0,
+                "Z": 0
             },
             "nurturing_level": 0,
             "maturity_level": 0,
