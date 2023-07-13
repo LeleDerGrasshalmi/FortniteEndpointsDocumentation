@@ -4,7 +4,7 @@ URL: https://fortnite.com/en-US/api/rift-tour-data \
 Method: GET \
 Auth Required: No
 
-_Example Response (shortened)_
+_Example Response_
 
 ```json
 {
