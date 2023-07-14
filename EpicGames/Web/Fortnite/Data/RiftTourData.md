@@ -96,29 +96,12 @@ _Example Response_
         "label": "The new Quests will be available until August 23 at 10 AM EDT."
       },
       "textHeading": "The Rift Tour Quests continue!",
-      "background": {
-        "gradientFrom": "",
-        "gradientSize": "25",
-        "overlayDirection": "slope-down",
-        "hasBackgroundOverlay": false,
-        "backgroundImage": "https://cdn2.unrealengine.com/questbgblue-xl-2880x1620-74a60b851bc5.jpg",
-        "hasSpike": true,
-        "_type": "rift-tour-section-background",
-        "gradientPosition": "bottom",
-        "gradientTo": "",
-        "resourceType": "image",
-        "resourceReference": [
-          "https://cdn2.unrealengine.com/questbgblue-xl-2880x1620-74a60b851bc5.jpg"
-        ]
-      },
       "subtitle": "You can still complete in-game Quests for special rewards. With the next round of Rift Tour Quests, unlock a new Umbrella, Emote, and Spray! ",
       "_title": "phase 4 quests",
       "heroImage": "https://cdn2.unrealengine.com/questspray-xl-905x905-7d92728d5bef.png",
       "_noIndex": false,
       "_images_": [
-        "https://cdn2.unrealengine.com/questspray-xl-905x905-7d92728d5bef.png",
-        "https://cdn2.unrealengine.com/questbgblue-xl-2880x1620-74a60b851bc5.jpg",
-        "https://cdn2.unrealengine.com/questicon-xl-120x121-f2f5567a6484.png"
+        "https://cdn2.unrealengine.com/questspray-xl-905x905-7d92728d5bef.png"
       ],
       "headerIcon": "https://cdn2.unrealengine.com/questicon-xl-120x121-f2f5567a6484.png",
       "_urlPattern": "/rift-tour/buffet/phase-4-quests",
@@ -128,32 +111,6 @@ _Example Response_
       "_locale": "en-US",
       "_id": "eadef134-31cb-4ad8-905f-1f32c064de75",
       "_templateName": "rift-tour-quests"
-    },
-    {
-      "textHeading": "FAQ",
-      "faqItems": {
-        "faqs": [{
-            "question": "Are the Quests from before and during the Rift Tour still available?",
-            "answer": "<div>While the original Quests from before/during the Rift Tour have closed out, players can still go to the Rift Tour tab in-game to complete new post-show Quests. These Quests are available until August 23, 2021, at 10 AM EST.</div>\n",
-            "_type": "Rift Tour FAQ Item"
-          },
-          {
-            "question": "I'm interested in future musical experiences in Fortnite. What platforms is Fortnite available on?",
-            "answer": "<div>Fortnite is available on PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, Nintendo Switch, PC, and Android.</div>\n",
-            "_type": "Rift Tour FAQ Item"
-          }
-        ],
-        "_type": "Rift Tour FAQ Item List"
-      },
-      "_title": "phase 4 faq",
-      "_noIndex": false,
-      "_urlPattern": "/rift-tour/buffet/phase-4-faq",
-      "_slug": "phase-4-faq",
-      "_activeDate": "2021-07-15T17:56:14.488Z",
-      "lastModified": "2021-08-04T19:58:13.792Z",
-      "_locale": "en-US",
-      "_id": "a556791f-edb0-4b87-89ca-d7324a5bc2ac",
-      "_templateName": "rift-tour-faq"
     }
   ],
   "_urlPattern": "/rift-tour/buffet",
