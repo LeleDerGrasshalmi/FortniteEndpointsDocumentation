@@ -12,4 +12,4 @@ Auth Required: Yes (`account:public:account:singleUsePassword CREATE`)
 
 _Example Response_
 
-Always returns `Status 204`, as this API does'nt work anymore
+Always returns `Status 204`, as this API doesn't work anymore
