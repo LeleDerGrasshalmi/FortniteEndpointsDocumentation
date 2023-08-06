@@ -10,8 +10,8 @@ Auth Required: Yes (`fortnite:stats READ`)
 
 ## Query Parameters
 
-`startDate`: optional, 0 (for alltime) or set for custom time-window <br/>
-`endDate`: optional, 9223372036854775807 (for alltime) or set for custom time-window <br/>
+`startTime`: optional, 0 (for alltime) or set for custom time-window <br/>
+`endTime`: optional, 9223372036854775807 (for alltime) or set for custom time-window <br/>
 
 ---
 
