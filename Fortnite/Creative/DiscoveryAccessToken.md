@@ -6,7 +6,7 @@ Auth Required: Yes (`fortnite:discovery:fortnite READ`)
 
 ## Path Parameters
 
-`branch`: Front Part of Build Id, e.g. `++Fortnite+Release-22.20`
+`branch`: Front Part of Build Id, e.g. `++Fortnite+Release-24.40`
 
 <br/>
 
@@ -44,3 +44,7 @@ _Example Response_
 | ++Fortnite+Release-24.30 | 3j//iXW06VbpPDsIxi2gNH6OUOVcvBsIyeX0ALbRaOg= | Lele                                                                                                               |
 | ++Fortnite+Release-24.40 | 8+CvZNO9yeju1pIbMO+fnd2lPaKbehwvDklVVOsT8YI= | Lele                                                                                                               |
 | ++Fortnite+Release-25.00 | swlP7Zamc+N3W8SZAJ1kPgfg7d9pX3cZXqF+dElYCiw= | Lele                                                                                                               |
+| ++Fortnite+Release-25.10 | PIZhonJKJNGiI/RDLN5Ldv5tfrvdjQDtddNbJULSwBg= | Lele                                                                                                               |
+| ++Fortnite+Release-25.11 | Wwk+zkieEjS9ESwudFmaaTbVZI47AbVdcwbUAW11LPI= | Lele                                                                                                               |
+| ++Fortnite+Release-25.20 | Missing                                      |                                                                                                                    |
+| ++Fortnite+Release-25.30 | vB4UKeIYaDwvBPmADkSRze9JdWxjwYTBJWtzGYG/mWw= | Lele                                                                                                               |
