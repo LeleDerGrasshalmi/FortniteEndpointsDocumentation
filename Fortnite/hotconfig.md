@@ -12,11 +12,11 @@ Auth Required: No
 
 | Environment | Filename     | Description                           |
 | ----------- | ------------ | ------------------------------------- |
-| ci          | ci.json      |                                       |
-| gamedev     | gamedev.json |                                       |
+| ci          | ci.json      | used by FortniteCI                    |
+| gamedev     | gamedev.json | used by internal testing clients      |
 | livefn      | livefn.json  | This is what the Shipping Client uses |
-| prod        | prod.json    |                                       |
-| stage       | stage.json   |                                       |
+| prod        | prod.json    | used by production testing clients    |
+| stage       | stage.json   | used by staging testing clients       |
 
 ---
 
