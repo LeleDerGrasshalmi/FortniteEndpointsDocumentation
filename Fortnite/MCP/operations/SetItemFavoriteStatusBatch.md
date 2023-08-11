@@ -1,6 +1,6 @@
 # SetItemFavoriteStatusBatch
 
-**Description**: `toogles the favorite status for the specified items` \
+**Description**: `toggles the favorite status for the specified items` \
 **Profiles**: `athena`, `campaign`
 
 ## Body

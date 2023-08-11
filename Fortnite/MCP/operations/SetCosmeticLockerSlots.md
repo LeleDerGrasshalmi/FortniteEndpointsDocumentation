@@ -7,7 +7,7 @@
 
 ```js
 {
-    "lockerItem": "", // The Locker Items GUID
+    "lockerItem": "", // The Locker Item GUID
     "loadoutData": [{
         "category": "", // The category in which the item should be set, e.g. Character, Backpack, Dance
         "itemToSlot": "AthenaCharacter:CID_029_Athena_Commando_F_Halloween", // The cosmetic to equip (see formating in the example!)

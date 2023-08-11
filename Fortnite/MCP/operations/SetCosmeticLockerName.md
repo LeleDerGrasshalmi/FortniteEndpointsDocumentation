@@ -4,9 +4,10 @@
 **Profiles**: `athena`, `campaign`
 
 ## Body
+
 ```js
 {
-    "lockerItem": "", // LockerItem GUID
+    "lockerItem": "", // Locker Item GUID
     "name": "PRESET 2" // New name
 }
 ```

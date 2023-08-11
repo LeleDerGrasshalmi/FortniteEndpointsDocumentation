@@ -1,12 +1,13 @@
 # SetHomebaseBanner
 
-**Description**: `Sets the Banner Icon & Color` \
+**Description**: `Set the Homebase Banner Icon and Color` \
 **Profiles**: `common_public`
 
 ## Body
+
 ```js
 {
-    "homebaseBannerIconId": "", // The icon templateId, e.g.
-    "homebaseBannerColorId": "" // The color templateId, e.g.
+    "homebaseBannerIconId": "", // The Icon AssetName, e.g. standardbanner1
+    "homebaseBannerColorId": "" // The Color AssetName, e.g. defaultcolor2
 }
 ```

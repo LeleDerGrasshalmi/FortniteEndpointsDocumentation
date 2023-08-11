@@ -5,8 +5,9 @@
 **Note**: `DedicatedServer ONLY`
 
 ## Body
+
 ```js
 {
-    "projectID": "" // The project GUID
+    "projectID": "" // The UEFN Project GUID
 }
 ```

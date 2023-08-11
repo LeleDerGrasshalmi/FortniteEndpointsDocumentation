@@ -1,11 +1,12 @@
 # SetHomebaseName
 
-**Description**: `Sets the name for StW Homebase` \
+**Description**: `Set the Homebase Name (deprecated)` \
 **Profiles**: `common_public`
 
 ## Body
+
 ```js
 {
-    "homebaseName": "Lele" // Homebase name
+    "homebaseName": "Lele" // Homebase Name
 }
 ```
