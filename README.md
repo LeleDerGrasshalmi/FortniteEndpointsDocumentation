@@ -13,6 +13,7 @@
   - [Friends Service](./EpicGames/FriendsService)
   - [Global Service](./EpicGames/GlobalService)
   - [IP Data Service](./EpicGames/IPDataService)
+  - [KWS](./EpicGames/KWS)
   - [Launcher Service](./EpicGames/LauncherService)
   - [Lightswitch Service](./EpicGames/LightswitchService)
   - [Links Service](./EpicGames/LinksService)
