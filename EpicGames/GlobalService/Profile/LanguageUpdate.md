@@ -28,3 +28,11 @@ Auth Required: Yes (No Perm required)
 - tr
 
 > List **may** not be complete
+
+---
+
+_Example Response_
+
+```json
+{}
+```

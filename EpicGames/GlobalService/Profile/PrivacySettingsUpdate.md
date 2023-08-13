@@ -23,3 +23,17 @@ Auth Required: Yes (No Perm required)
 - PUBLIC
 - FRIENDS_ONLY
 - PRIVATE
+
+---
+
+_Example Response_
+
+```json
+{
+  "privacySettings": {
+    "playRegion": "PRIVATE",
+    "badges": "FRIENDS_ONLY",
+    "languages": "PUBLIC"
+  }
+}
+```

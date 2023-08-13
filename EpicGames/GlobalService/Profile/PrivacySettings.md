@@ -13,3 +13,17 @@ Auth Required: Yes (No Perm required)
 ## Parameters
 
 `namespace`: e.g. `Fortnite`
+
+---
+
+_Example Response_
+
+```json
+{
+  "privacySettings": {
+    "playRegion": "PRIVATE",
+    "badges": "FRIENDS_ONLY",
+    "languages": "PUBLIC"
+  }
+}
+```

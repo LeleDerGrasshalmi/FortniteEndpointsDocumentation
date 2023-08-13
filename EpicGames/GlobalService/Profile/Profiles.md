@@ -15,3 +15,22 @@ Auth Required: Yes (No Perm required)
 
 `namespace`: e.g. `Fortnite` \
 `accountIds`: the account ids (up to 100)
+
+---
+
+_Example Response_
+
+```json
+{
+  "profiles": [
+    {
+      "accountId": "94b1569506b04f9f8557af611e8c5e47",
+      "hasBattlePass": false,
+      "playRegion": "EUROPE",
+      "hasCrewMembership": false,
+      "languages": ["en"],
+      "seasonLevel": 1
+    }
+  ]
+}
+```

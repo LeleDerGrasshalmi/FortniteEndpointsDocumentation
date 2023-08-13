@@ -14,7 +14,7 @@ Auth Required: Yes (No Perm required)
 ## Parameters
 
 `namespace`: e.g. `Fortnite` \
-`languages`:
+`play_region`:
 
 - UNDEFINED_REGION
 - NA_EAST
@@ -24,3 +24,11 @@ Auth Required: Yes (No Perm required)
 - BRAZIL
 - ASIA
 - MIDDLE_EAST
+
+---
+
+_Example Response_
+
+```json
+{}
+```
