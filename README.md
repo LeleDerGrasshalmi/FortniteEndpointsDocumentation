@@ -21,6 +21,7 @@
   - [PRM Dialog Service](./EpicGames/PRMDialogService)
   - [Stats Proxy Service](./EpicGames/StatsProxyService)
   - [User Search Service](./EpicGames/UserSearchService)
+  - [Wex Service](./EpicGames/WexService)
   - [Web APIs](./EpicGames/Web)
     - [Affiliate (SAC)](./EpicGames/Web/Affiliate)
     - [Fortnite](./EpicGames/Web/Fortnite)
