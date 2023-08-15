@@ -2,7 +2,7 @@
 
 URL: https://api.kws.ol.epicgames.com/v1/epic-settings/public/users/:accountId/values \
 Method: PATCH \
-Auth Required: Yes
+Auth Required: Yes (`epic-settings:public:games:{game} UPDATE`)
 
 ## Path Parameters
 

@@ -4,6 +4,7 @@
 
 - [Epic Games](./EpicGames)
   - [Account Service](./EpicGames/AccountService)
+  - [Artifact Delivery Service](./EpicGames/ArtifactDeliveryService)
   - [Caldera Service](./EpicGames/CalderaService)
   - [EGS Platform Service](./EpicGames/EGSPlatformService)
   - [Events Service](./EpicGames/EventsService)
