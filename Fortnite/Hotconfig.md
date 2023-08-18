@@ -20,7 +20,7 @@ Auth Required: No
 
 ---
 
-_Example Response for `livefn.json`_
+_Example Response (`livefn.json`)_
 
 ```json
 {
