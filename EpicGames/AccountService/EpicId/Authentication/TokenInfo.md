@@ -1,7 +1,7 @@
 ## Account Service - EpicId Auth: Token Info
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/epicid/v1/oauth/tokenInfo \
-Method: GET \
+Method: POST \
 Auth Required: Yes (In Body, not in the Authorization Header)
 
 ## Headers
