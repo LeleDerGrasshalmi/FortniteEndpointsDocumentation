@@ -8,6 +8,10 @@ Auth Required: Yes (`rankings:{namespace}:tracks READ`)
 
 `namespace`: `fortnite`
 
+# Query Parameters
+
+`endsAfter`: (optional), ISO Date (Start Date of the Data)
+
 ---
 
 _Example Response_

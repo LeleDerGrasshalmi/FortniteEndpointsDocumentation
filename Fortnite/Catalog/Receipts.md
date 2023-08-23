@@ -6,7 +6,7 @@ Auth Required: Yes (`fortnite:profile:{accountId}:receipts ALL`)
 
 # Path Parameters
 
-`accountId`: your Account Id
+`accountId`: Your Account Id
 
 ---
 

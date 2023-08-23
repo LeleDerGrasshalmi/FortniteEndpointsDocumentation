@@ -1,4 +1,4 @@
-## Fortnite - Hotconfig
+## Fortnite - Hot-Config
 
 Updates the Game Service MCPs Host.
 
