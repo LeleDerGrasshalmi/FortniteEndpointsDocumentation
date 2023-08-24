@@ -1,7 +1,7 @@
 ## Account Service - Auth Grant: password
 
-Login using your Credentials. \
-Has been deprecated on all public clients.
+Login using your Credentials. <br/>
+Has been deprecated on all public clients on prod.
 
 ### Body
 

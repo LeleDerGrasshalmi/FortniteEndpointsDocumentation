@@ -1,6 +1,6 @@
 ## Account Service - Auth Grant: exchange_code
 
-Used for example by Games started from the Epic Games Launcher. \
+Used by Games started from the Epic Games Launcher. <br/>
 Learn how to create a exchange code [here](../ExchangeCode/Create.md).
 
 ### Body

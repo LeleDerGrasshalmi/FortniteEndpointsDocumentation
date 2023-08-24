@@ -1,6 +1,6 @@
 ## Account Service - Auth Grant: token_to_token
 
-Has been deprecated on all public Clients.
+Has been deprecated on all public Clients on prod.
 
 ### Body
 

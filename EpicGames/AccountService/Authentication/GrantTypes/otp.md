@@ -1,7 +1,6 @@
 ## Account Service - Auth Grant: otp
 
-Used for 2 FA Verification. \
-PS: otp = One Time Password
+Used for 2 FA Verification. (otp = One Time Password)
 
 ### Body
 
