@@ -17,6 +17,7 @@
   - [IP Data Service](./EpicGames/IPDataService)
   - [KWS](./EpicGames/KWS)
   - [Launcher Service](./EpicGames/LauncherService)
+  - [Library Service](./EpicGames/LibraryService)
   - [Lightswitch Service](./EpicGames/LightswitchService)
   - [Links Service](./EpicGames/LinksService)
   - [PRM Dialog Service](./EpicGames/PRMDialogService)
