@@ -2,7 +2,7 @@
 
 URL: https://www.unrealengine.com/marketplace/api/review/:offerId/rating \
 Method: GET \
-Auth Required: Yes
+Auth Required: No
 
 ## Path Parameters
 
