@@ -6,9 +6,9 @@ Auth Required: Yes
 
 ### Query Parameters
 
-**start**: The Start number you want to view
-**count**: Total Count Per Page
-**lang**: Language eg. en-US
+`start`: The Start number you want to view
+`count`: Total Count Per Page
+`lang`: Language eg. en-US
 
 ---
 

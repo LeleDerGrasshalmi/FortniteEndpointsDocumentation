@@ -4,6 +4,10 @@ URL: https://www.unrealengine.com/marketplace/api/assets/item/:item \
 Method: GET \
 Auth Required: No
 
+### Path Parameters
+
+`item`: Item id
+
 ---
 
 _Example Response_

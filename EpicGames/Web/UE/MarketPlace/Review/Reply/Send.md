@@ -1,12 +1,12 @@
-## UE Web - Vote
+## UE Web - Send
 
-URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/vote \
+URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/reply \
 Method: POST \
 Auth Required: Yes
 
 ```json
 {
-    "isHelpful": true
+    "content": "description m"
 }
 ```
 

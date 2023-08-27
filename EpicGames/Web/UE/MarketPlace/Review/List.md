@@ -4,18 +4,17 @@ URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/list \
 Method: GET \
 Auth Required: No
 
-### Query Parameters
-
-**start**: The Start number you want to view
-**count**: Total Count Per Page
-**sortBy**: Sort By (effectiveDate,title,relevancy,currentPrice,discountPercentage,averageRating)
-**sortDir**: Sort Dir (DESC,ASC)
-
 ## Path Parameters
 
 `offerId`: the Id of the Offer
 `type`: the Type of the review (reviews,questions,replies)
 
+### Query Parameters
+
+`start`: The Start number you want to view
+`count`: Total Count Per Page
+`sortBy`: Sort By (effectiveDate,title,relevancy,currentPrice,discountPercentage,averageRating)
+`sortDir`: Sort Dir (DESC,ASC)
 ---
 
 _Example Response_

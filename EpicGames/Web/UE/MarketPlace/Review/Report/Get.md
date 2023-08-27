@@ -1,14 +1,8 @@
-## UE Web - Vote
+## UE Web - Get
 
-URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/vote \
-Method: POST \
+URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/report \
+Method: GET \
 Auth Required: Yes
-
-```json
-{
-    "isHelpful": true
-}
-```
 
 ## Path Parameters
 
@@ -22,6 +16,6 @@ _Example Response_
 ```json
 {
     "status": "OK",
-    "data": true
+    "data": ""
 }
 ```

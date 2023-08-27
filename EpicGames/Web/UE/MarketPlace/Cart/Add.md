@@ -4,9 +4,13 @@ URL: https://www.unrealengine.com/marketplace/api/shoppingCart \
 Method: POST \
 Auth Required: Yes
 
+### Parameters
+
+`offer`: Offer Id
+
 ```json
 {
-    "offerId": "1e0699cf59d64105957b4aa40f367252"
+    "offerId": ":offer"
 }
 ```
 

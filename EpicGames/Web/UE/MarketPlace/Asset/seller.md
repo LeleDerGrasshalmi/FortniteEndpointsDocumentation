@@ -4,6 +4,10 @@ URL: https://www.unrealengine.com/marketplace/api/assets/seller/:username \
 Method: GET \
 Auth Required: No
 
+### Path Parameters
+
+`username`: Username of seller
+
 ---
 
 _Example Response_

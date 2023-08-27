@@ -4,11 +4,6 @@ URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/add \
 Method: POST \
 Auth Required: Yes
 
-## Path Parameters
-
-`offerId`: the Id of the Offer
-`type`: the Type of the review (reviews,questions,replies)
-
 ```json
 {
     "title": "title m",
@@ -16,6 +11,11 @@ Auth Required: Yes
     "targetOwner": "account id of creator"
 }
 ```
+
+## Path Parameters
+
+`offerId`: the Id of the Offer
+`type`: the Type of the review (reviews,questions,replies)
 
 ---
 

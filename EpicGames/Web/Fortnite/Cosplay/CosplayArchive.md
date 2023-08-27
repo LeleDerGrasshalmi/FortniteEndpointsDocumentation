@@ -6,8 +6,8 @@ Auth Required: No
 
 ### Query Parameters
 
-**page**: Page number you want to view
-**ordering**: Date Ordering eg. `date-descending`
+`page`: Page number you want to view
+`ordering`: Date Ordering eg. `date-descending`
 
 _Example Response (shortened)_
 

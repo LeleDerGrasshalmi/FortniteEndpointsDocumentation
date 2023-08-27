@@ -2,7 +2,7 @@
 
 URL: https://www.unrealengine.com/marketplace/api/sso \
 Method: GET \
-Auth Required: No
+Auth Required: Yes
 
 ---
 

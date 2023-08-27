@@ -9,7 +9,7 @@ Auth Required: Yes
 `offerId`: the Id of the Offer
 `type`: the Type of the review (reviews,questions,replies)
 
-## Body Parameters
+## Parameters
 `type`: the Type of the review (reviews,questions,replies)
 `topicId`: the TopicId of the review
 

@@ -1,18 +1,15 @@
-## UE Web - Vote
+## UE Web - Delete
 
-URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/vote \
-Method: POST \
+URL: https://www.unrealengine.com/marketplace/api/review/:type/:replyId \
+Method: DELETE \
 Auth Required: Yes
-
-```json
-{
-    "isHelpful": true
-}
-```
 
 ## Path Parameters
 
 `type`: the Type of the review (reviews,questions,replies)
+`replyId`: the replyId of the review
+
+## Query Parameters
 `topicId`: the TopicId of the review
 
 ---
