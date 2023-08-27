@@ -1,4 +1,4 @@
-## UE Web - Tracking Info
+## UE Marketplace - Tracking Info
 
 URL: https://www.unrealengine.com/marketplace/api/purchase/track \
 Method: POST \

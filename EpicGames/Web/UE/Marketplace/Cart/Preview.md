@@ -1,4 +1,4 @@
-## UE Web - Preview
+## UE Marketplace - Preview
 
 URL: https://www.unrealengine.com/marketplace/api/shoppingCart/preview \
 Method: GET \

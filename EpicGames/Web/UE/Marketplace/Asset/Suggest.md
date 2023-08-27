@@ -1,4 +1,4 @@
-## UE Web - Assets Suggest
+## UE Marketplace - Assets Suggest
 
 URL: https://www.unrealengine.com/marketplace/api/assets/suggest \
 Method: GET \

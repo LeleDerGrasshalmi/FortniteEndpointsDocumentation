@@ -1,4 +1,4 @@
-## UE Web - Get
+## UE Marketplace - Get
 
 URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/report \
 Method: GET \

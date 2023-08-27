@@ -1,4 +1,4 @@
-## UE Web - Seller Info
+## UE Marketplace - Seller Info
 
 URL: https://www.unrealengine.com/marketplace/api/assets/seller/:username \
 Method: GET \

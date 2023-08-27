@@ -1,4 +1,4 @@
-## UE Web - Asset Info
+## UE Marketplace - Asset Info
 
 URL: https://www.unrealengine.com/marketplace/api/assets/asset/:asset \
 Method: GET \

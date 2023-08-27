@@ -1,4 +1,4 @@
-## UE Web - Remove
+## UE Marketplace - Remove
 
 URL: https://www.unrealengine.com/marketplace/api/shoppingCart/delete \
 Method: POST \

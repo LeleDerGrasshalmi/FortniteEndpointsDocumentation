@@ -1,4 +1,4 @@
-## UE Web - Assets Vault
+## UE Marketplace - Assets Vault
 
 URL: https://www.unrealengine.com/marketplace/api/assets/vault \
 Method: GET \

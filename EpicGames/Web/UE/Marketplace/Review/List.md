@@ -1,4 +1,4 @@
-## UE Web - List
+## UE Marketplace - List
 
 URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/list \
 Method: GET \

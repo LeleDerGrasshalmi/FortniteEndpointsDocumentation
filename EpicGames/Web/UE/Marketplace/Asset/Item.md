@@ -1,4 +1,4 @@
-## UE Web - Item Info
+## UE Marketplace - Item Info
 
 URL: https://www.unrealengine.com/marketplace/api/assets/item/:item \
 Method: GET \

@@ -1,4 +1,4 @@
-## UE Web - Clear
+## UE Marketplace - Clear
 
 URL: https://www.unrealengine.com/marketplace/api/shoppingCart/clear \
 Method: POST \

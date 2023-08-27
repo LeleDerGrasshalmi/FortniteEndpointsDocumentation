@@ -1,4 +1,4 @@
-## UE Web - Add
+## UE Marketplace - Add
 
 URL: https://www.unrealengine.com/marketplace/api/shoppingCart \
 Method: POST \

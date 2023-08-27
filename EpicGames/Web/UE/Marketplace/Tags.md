@@ -1,4 +1,4 @@
-## UE Web - Tags Info
+## UE Marketplace - Tags Info
 
 URL: https://www.unrealengine.com/marketplace/api/tags \
 Method: GET \

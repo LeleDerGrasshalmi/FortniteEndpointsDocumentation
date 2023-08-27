@@ -1,4 +1,4 @@
-## UE Web - Home Data
+## UE Marketplace - Home Data
 
 URL: https://www.unrealengine.com/marketplace/api/homeData \
 Method: GET \

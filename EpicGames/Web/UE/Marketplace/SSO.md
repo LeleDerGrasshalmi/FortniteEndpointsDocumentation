@@ -1,4 +1,4 @@
-## UE Web - SSO Info
+## UE Marketplace - SSO Info
 
 URL: https://www.unrealengine.com/marketplace/api/sso \
 Method: GET \
