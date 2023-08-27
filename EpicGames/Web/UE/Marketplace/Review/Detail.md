@@ -1,4 +1,4 @@
-## UE Marketplace - Detail
+## UE Marketplace - Review Detail
 
 URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/detail \
 Method: GET \

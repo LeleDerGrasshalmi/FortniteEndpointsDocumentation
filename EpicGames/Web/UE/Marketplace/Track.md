@@ -4,11 +4,6 @@ URL: https://www.unrealengine.com/marketplace/api/purchase/track \
 Method: POST \
 Auth Required: Yes
 
-## Parameters
-
-`offer`: the Id of the Offer
-`purchaseFlow` random tracking id
-
 ```json
 {
     "offerId": [
@@ -17,6 +12,11 @@ Auth Required: Yes
     "purchaseFlow": 1
 }
 ```
+
+## Parameters
+
+`offer`: the Id of the Offer
+`purchaseFlow` random tracking id
 
 ---
 

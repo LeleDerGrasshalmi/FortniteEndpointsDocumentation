@@ -6,9 +6,9 @@ Auth Required: Yes
 
 ### Query Parameters
 
-**start**: The Start number you want to view
-**count**: Total Count Per Page
-**offerId** the Id of the Offer
+`start`: The Start number you want to view
+`count`: Total Count Per Page
+`offerId` the Id of the Offer
 
 ## Path Parameters
 

@@ -1,4 +1,4 @@
-## UE Marketplace - Edit
+## UE Marketplace - Review Edit
 
 URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/edit \
 Method: POST \

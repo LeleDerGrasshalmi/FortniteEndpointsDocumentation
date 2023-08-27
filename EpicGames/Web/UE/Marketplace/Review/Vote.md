@@ -1,4 +1,4 @@
-## UE Marketplace - Vote
+## UE Marketplace - Review Vote
 
 URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/vote \
 Method: POST \

@@ -1,4 +1,4 @@
-## UE Marketplace - Rating
+## UE Marketplace - Review Rating
 
 URL: https://www.unrealengine.com/marketplace/api/review/:offerId/rating \
 Method: GET \
