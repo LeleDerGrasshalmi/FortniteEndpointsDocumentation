@@ -1,4 +1,4 @@
-## UE Marketplace - Send
+## UE Marketplace - Send Review Report
 
 URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/report \
 Method: POST \

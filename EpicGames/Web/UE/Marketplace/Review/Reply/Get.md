@@ -1,4 +1,4 @@
-## UE Marketplace - Get
+## UE Marketplace - Get Review Reply
 
 URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/reply \
 Method: GET \

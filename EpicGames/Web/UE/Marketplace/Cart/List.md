@@ -1,4 +1,4 @@
-## UE Marketplace - List
+## UE Marketplace - Cart List
 
 URL: https://www.unrealengine.com/marketplace/api/shoppingCart \
 Method: GET \

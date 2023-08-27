@@ -1,18 +1,18 @@
-## UE Marketplace - Remove
+## UE Marketplace - Remove Cart Item
 
 URL: https://www.unrealengine.com/marketplace/api/shoppingCart/delete \
 Method: POST \
 Auth Required: Yes
-
-### Parameters
-
-`offer`: Offer Id
 
 ```json
 {
     "offerId": ":offer"
 }
 ```
+
+### Parameters
+
+`offer`: Offer Id
 
 ---
 

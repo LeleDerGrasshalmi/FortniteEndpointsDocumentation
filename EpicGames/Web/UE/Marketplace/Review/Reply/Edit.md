@@ -1,4 +1,4 @@
-## UE Marketplace - Edit
+## UE Marketplace - Edit Review Reply
 
 URL: https://www.unrealengine.com/marketplace/api/review/:type/:replyId \
 Method: PUT \

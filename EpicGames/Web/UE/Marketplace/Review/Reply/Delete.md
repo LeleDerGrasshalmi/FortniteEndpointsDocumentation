@@ -1,4 +1,4 @@
-## UE Marketplace - Delete
+## UE Marketplace - Delete Review Reply
 
 URL: https://www.unrealengine.com/marketplace/api/review/:type/:replyId \
 Method: DELETE \
