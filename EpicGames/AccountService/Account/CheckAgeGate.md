@@ -9,4 +9,5 @@ _Example Response_
 ```json
 {
     "ageGateRequired": true
-}```
+}
+```
