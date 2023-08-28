@@ -4,11 +4,6 @@ URL: https://www.unrealengine.com/marketplace/api/review/:type/:replyId \
 Method: PUT \
 Auth Required: Yes
 
-## Path Parameters
-
-`type`: the Type of the review (reviews,questions,replies) <br/>
-`replyId`: the replyId of the review
-
 ```json
 {
     "title": "title m",
@@ -16,6 +11,11 @@ Auth Required: Yes
     "topicId": "topic id"
 }
 ```
+
+## Path Parameters
+
+`type`: the Type of the review (reviews,questions,replies) <br/>
+`replyId`: the replyId of the review
 
 ## Parameters
 

@@ -12,7 +12,7 @@ Auth Required: Yes
 
 ### Parameters
 
-`offer`: Offer Id
+`offerId`: Offer Id
 
 ---
 

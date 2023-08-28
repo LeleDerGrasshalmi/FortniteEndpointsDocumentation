@@ -15,6 +15,10 @@ Auth Required: Yes
 `type`: the Type of the review (reviews,questions,replies) <br/>
 `topicId`: the TopicId of the review
 
+## Parameters
+
+`isHelpful`: vote boolean
+
 ---
 
 _Example Response_
