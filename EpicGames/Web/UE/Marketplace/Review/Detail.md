@@ -6,7 +6,7 @@ Auth Required: Yes
 
 ## Path Parameters
 
-`offerId`: the Id of the Offer
+`offerId`: the Id of the Offer <br/>
 `type`: the Type of the review (reviews,questions,replies)
 
 ---

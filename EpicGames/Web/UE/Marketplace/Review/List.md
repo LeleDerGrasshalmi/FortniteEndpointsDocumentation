@@ -6,14 +6,14 @@ Auth Required: No
 
 ## Path Parameters
 
-`offerId`: the Id of the Offer
+`offerId`: the Id of the Offer <br/>
 `type`: the Type of the review (reviews,questions,replies)
 
 ### Query Parameters
 
-`start`: The Start number you want to view
-`count`: Total Count Per Page
-`sortBy`: Sort By (effectiveDate,title,relevancy,currentPrice,discountPercentage,averageRating)
+`start`: The Start number you want to view <br/>
+`count`: Total Count Per Page <br/>
+`sortBy`: Sort By (effectiveDate,title,relevancy,currentPrice,discountPercentage,averageRating) <br/>
 `sortDir`: Sort Dir (DESC,ASC)
 ---
 

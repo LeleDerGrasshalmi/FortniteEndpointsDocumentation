@@ -12,8 +12,12 @@ Auth Required: Yes
 
 ## Path Parameters
 
-`type`: the Type of the review (reviews,questions,replies)
+`type`: the Type of the review (reviews,questions,replies) <br/>
 `topicId`: the TopicId of the review
+
+## Parameters
+
+`content`: obvious
 
 ---
 

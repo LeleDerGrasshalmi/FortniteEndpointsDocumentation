@@ -6,7 +6,7 @@ Auth Required: Yes
 
 ## Path Parameters
 
-`type`: the Type of the review (reviews,questions,replies)
+`type`: the Type of the review (reviews,questions,replies) <br/>
 `replyId`: the replyId of the review
 
 ## Query Parameters

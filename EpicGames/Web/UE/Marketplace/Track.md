@@ -15,8 +15,8 @@ Auth Required: Yes
 
 ## Parameters
 
-`offer`: the Id of the Offer
-`purchaseFlow` random tracking id
+`offer`: the Id of the Offer <br/>
+`purchaseFlow`: random tracking id
 
 ---
 

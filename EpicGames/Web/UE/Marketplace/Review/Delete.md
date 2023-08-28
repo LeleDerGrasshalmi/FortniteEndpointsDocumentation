@@ -10,7 +10,7 @@ Auth Required: Yes
 
 ## Path Parameters
 
-`offerId`: the Id of the Offer
+`offerId`: the Id of the Offer <br/>
 `topicId`: the TopicId of the review
 
 ---
