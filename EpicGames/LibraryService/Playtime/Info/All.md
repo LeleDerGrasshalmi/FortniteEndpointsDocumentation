@@ -1,6 +1,6 @@
 ## Library Service - All Playtime
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/playtime/account/:accountId/artifact/:artifactId \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/playtime/account/:accountId/all \
 Method: GET \
 Auth Required: Yes (`library:public:{accountId}:playtime:all READ`)
 

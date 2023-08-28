@@ -1,6 +1,6 @@
-## Library Service - Add Artifact Playtime (Bulk)
+## Library Service - Add Playtime (Bulk)
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/playtime/account/:accountId \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/playtime/account/:accountId/bulk \
 Method: PUT \
 Auth Required: Yes (`library:public:{accountId}:playtime UPDATE`)
 
