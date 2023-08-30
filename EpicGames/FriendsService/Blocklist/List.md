@@ -2,12 +2,21 @@
 
 URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/blocklist \
 Method: GET \
-Auth Required: Yes
+Auth Required: Yes (`blockList:{accountId} READ`)
 
-<br/>
+## Path Parameters
 
-## Friends Service - Blocklist (Old)
+`accountId`: Your Account Id
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/public/blocklist/:accountId \
-Method: GET \
-Auth Required: Yes
+---
+
+_Example Response_
+
+```json
+[
+  {
+    "accountId": "aa69b4fda8064d31a33af9e33d819f07",
+    "created": "2023-08-30T17:06:06.733Z"
+  }
+]
+```

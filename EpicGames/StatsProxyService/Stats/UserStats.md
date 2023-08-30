@@ -30,3 +30,5 @@ _Example Response_
   "accountId": "d1d7a59146f14b4b9f76a5cb00a38f41"
 }
 ```
+
+_Example Response (Private Stats)_: Status 204

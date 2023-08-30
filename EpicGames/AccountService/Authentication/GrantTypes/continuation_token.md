@@ -4,4 +4,4 @@ Login using a Continuation Code, usually used for stuff like EOS / Corrective Ac
 
 ### Body
 
-`continuation_token`: Code from uh
+`continuation_token`: Code from the request you made before.

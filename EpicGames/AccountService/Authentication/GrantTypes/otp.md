@@ -4,5 +4,5 @@ Used for 2 FA Verification. (otp = One Time Password)
 
 ### Body
 
-`otp`: 2FA Verify Code \
+`otp`: 2FA Verify Code <br/>
 `challenge`: 2FA Challenge Id

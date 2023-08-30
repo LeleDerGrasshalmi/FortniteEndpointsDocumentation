@@ -5,4 +5,4 @@ You are meant to send this request in an interval (From the Device Code Response
 
 ### Body
 
-`device_code`: The Code from before
+`device_code`: The Code from before (from creation)

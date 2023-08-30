@@ -31,6 +31,8 @@ Auth Required: Yes (`fortnite:stats READ`)
 
 ---
 
+> When the Stats are private there won't be an Entry for the given Account
+
 _Example Response for Collection Data_
 
 ```json

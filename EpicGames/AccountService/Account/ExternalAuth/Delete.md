@@ -7,3 +7,7 @@ Auth Required: Yes (`account:public:account:externalAuths DELETE`)
 ## Path Parameters
 
 `externalAuthType`: See via [External Auth Readme](./README.md)
+
+---
+
+_Example Response_: Status 204

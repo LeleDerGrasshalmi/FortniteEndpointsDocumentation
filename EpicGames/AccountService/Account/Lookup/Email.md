@@ -8,7 +8,17 @@ Auth Required: Yes (~~`account:public:account:byEmail`~~ `account:public:account
 
 `email`: The Email to search for
 
-<br/>
+---
+
+_Example Response_
+
+```json
+{
+  "id": "94b1569506b04f9f8557af611e8c5e47",
+  "displayName": "lele stw moment",
+  "externalAuths": {}
+}
+```
 
 > Strict Ratelimit: 3 in 600 seconds
 

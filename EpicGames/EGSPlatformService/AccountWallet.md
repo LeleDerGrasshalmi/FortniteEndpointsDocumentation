@@ -7,7 +7,7 @@ Auth Required: Yes (apparently `reward:public:{accountId}:reward-accounts	READ`)
 ## Query Parameters
 
 `locale`: (required) e.g. 'de' (German), fallback is 'en' <br/>
-`store`: (required) valid Catalog Stores, e.g. `EGS`, `NONE` <br/>
+`store`: (required) valid Catalog Stores, e.g. `EGS`, `NONE`
 
 ---
 

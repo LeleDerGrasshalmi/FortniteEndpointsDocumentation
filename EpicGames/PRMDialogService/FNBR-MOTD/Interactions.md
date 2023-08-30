@@ -23,14 +23,14 @@ Auth Required: Yes (Account - `eg1`)
 
 ## Parameters
 
-`sessionId`: Can be extracted from the JWT (`jti`), or grabbed from [Verifying the Token](../../AccountService/Authentication/Verify.md)<br/>
-`sessionStartTimestamp`: When your Session started<br/>
-`sessionEndTimestamp`: When your Session ends (current timestamp)<br/>
-`events[].type`: Only known type is 'view'<br/>
-`events[].count`: How often you have viewed the MOTD<br/>
-`events[].contentId`: Related to the [MOTD](./MOTD.md)'s Item<br/>
-`events[].tcId`: Related to the [MOTD](./MOTD.md)'s Item<br/>
-`events[].timestamp`: When the MOTD Item got viewed (likely current Date)<br/>
+`sessionId`: Can be extracted from the JWT (`jti`), or grabbed from [Verifying the Token](../../AccountService/Authentication/Verify.md) <br/>
+`sessionStartTimestamp`: When your Session started <br/>
+`sessionEndTimestamp`: When your Session ends (current timestamp) <br/>
+`events[].type`: Only known type is 'view' <br/>
+`events[].count`: How often you have viewed the MOTD <br/>
+`events[].contentId`: Related to the [MOTD](./MOTD.md)'s Item <br/>
+`events[].tcId`: Related to the [MOTD](./MOTD.md)'s Item <br/>
+`events[].timestamp`: When the MOTD Item got viewed (likely current Date)
 
 ---
 
