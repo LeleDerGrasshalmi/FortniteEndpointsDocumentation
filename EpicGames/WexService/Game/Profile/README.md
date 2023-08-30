@@ -17,10 +17,10 @@
 
 ## Profiles
 
-| ProfileId   | Description                                                  |
-| ----------- | ------------------------------------------------------------ |
-| profile0    | Shared Profile Data (like "common_core" for Fortnite)        |
-| levels      | Unlocked Zones, Worlds                                       |
-| friends     | Stores all Friends Data (Epic didnt use the Friends Service) |
-| monsterpit  |                                                              |
-| multiplayer | PVP Stuff                                                    |
+| ProfileId   | Description                                                            |
+| ----------- | ---------------------------------------------------------------------- |
+| profile0    | Main Profile Data (like "common_core" for Fortnite)                    |
+| levels      | Completed Levels, Unlocked Zones, Claimed Territories, Personal Events |
+| friends     | BB Specific Friend Data (Epic didn't use Friends Service until later)  |
+| monsterpit  | Monster Pit Heroes + Pets (like Collection Book)                       |
+| multiplayer | PVP Data (Opponents, stats, history)                                   |
