@@ -6,3 +6,4 @@ Learn how to create a exchange code [here](../ExchangeCode/Create.md).
 ### Body
 
 `exchange_code`: The Code from before
+`code_verifier`: The PKCE code verifier used to generate the exchange code (if any)

@@ -6,3 +6,4 @@ You may wanna check out how to get such a code [here](../../../Web/Id/Auth/Autho
 ### Body
 
 `code`: The code you just created
+`code_verifier`: The PKCE code verifier used to generate the authorization code (if any)
