@@ -6,8 +6,11 @@ Auth Required: Yes
 
 ## Query Parameters
 
-`clientId`: the clients Id you want to create the Code for <br/>
-`responseType`: must be `code`
+`clientId`: the clients Id you want to create the Code for \
+`responseType`: must be `code` \
+`codeChallenge`: (optional), a PKCE code challenge \
+`codeChallengeMethod`: (optional), the method used to generate the code challenge (`S256` or `plain`)
+`scope`: (optional), a space seperated list of scopes
 
 ---
 
