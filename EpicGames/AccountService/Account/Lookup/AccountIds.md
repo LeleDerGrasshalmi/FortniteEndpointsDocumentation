@@ -27,9 +27,42 @@ _Example Response_
     }
   },
   {
-    "id": "94b1569506b04f9f8557af611e8c5e47",
-    "displayName": "lele stw moment",
-    "externalAuths": {}
+    "id": "881f4d75aa3046c5b648a73aea641e69",
+    "displayName": "GXR Malibuca",
+    "externalAuths": {
+      "steam": {
+        "accountId": "881f4d75aa3046c5b648a73aea641e69",
+        "type": "steam",
+        "externalAuthId": "76561198253493804",
+        "externalAuthIdType": "steam_id64",
+        "externalAuthSecondaryId": "6DE753B959A9386A14EB3D2A8B3B665AFC5655B2",
+        "externalDisplayName": "Malibuca (rus)",
+        "avatar": "c58668dcea116885804b27c9e3abdc4c09cc7ee4",
+        "authIds": [
+          {
+            "id": "76561198253493804",
+            "type": "steam_id64"
+          },
+          {
+            "id": "6DE753B959A9386A14EB3D2A8B3B665AFC5655B2",
+            "type": "steam_id64_hash"
+          }
+        ]
+      },
+      "psn": {
+        "accountId": "881f4d75aa3046c5b648a73aea641e69",
+        "type": "psn",
+        "externalAuthId": "3023845316854687677",
+        "externalAuthIdType": "psn_user_id",
+        "externalDisplayName": "GXRmalibucafn",
+        "authIds": [
+          {
+            "id": "3023845316854687677",
+            "type": "psn_user_id"
+          }
+        ]
+      }
+    }
   }
 ]
 ```

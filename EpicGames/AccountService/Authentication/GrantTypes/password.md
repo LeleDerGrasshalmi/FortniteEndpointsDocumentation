@@ -5,5 +5,5 @@ Has been deprecated on all public clients on prod.
 
 ### Body
 
-`username`: Your Email \
+`username`: Your Email <br/>
 `password`: You Password

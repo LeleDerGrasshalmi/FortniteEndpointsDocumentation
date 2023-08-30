@@ -4,10 +4,14 @@ URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/sess
 Method: DELETE \
 Auth Required: Yes
 
-## Parameters
+## Path Parameters
 
-`session`: string, the Access Token of the Session
+`session`: The Access Token of the Session
 
 ## Query Parameters
 
-`killAllWithSameSource`: bool, requires the `account:token:otherSessionsWithSameSourceForAccount DELETE` permission
+`killAllWithSameSource`: bool, requires the `account:token:otherSessionsWithSameSourceForAccount DELETE` Permission
+
+---
+
+_Example Response_: Status 204

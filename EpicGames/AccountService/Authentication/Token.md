@@ -10,8 +10,8 @@ Auth Required: Yes (Basic Authentication where the username is the Client Id and
 
 ## Body
 
-`grant_type`: see [Grants and their required fields](./GrantTypes/) \
-`includePerms`: boolean (optional), if the Permissions for the Session should be included (optional) \
+`grant_type`: see [Grants and their required fields](./GrantTypes/) <br/>
+`includePerms`: boolean (optional), if the Permissions for the Session should be included <br/>
 `token_type`: (optional) see below
 
 | token_type | Allowed | Description              |
@@ -37,3 +37,44 @@ Auth Required: Yes (Basic Authentication where the username is the Client Id and
 
   grant_type=refresh_token&refresh_token=XYZ&token_type=eg1
   ```
+
+---
+
+_Example Response (`client_credentials` Grant)_
+
+```json
+{
+  "access_token": "41ff4aeaede44f62b81a57688b0b6ef3",
+  "expires_in": 14400,
+  "expires_at": "2023-08-30T20:32:21.466Z",
+  "token_type": "bearer",
+  "client_id": "ec684b8c687f479fadea3cb2ad83f5c6",
+  "internal_client": true,
+  "client_service": "prod-fn",
+  "product_id": "prod-fn",
+  "application_id": "fghi4567FNFBKFz3E4TROb0bmPS8h1GW"
+}
+```
+
+_Example Response (`exchange_code` Grant)_
+
+```json
+{
+  "access_token": "065981d58ba642e7ac6ef7d6c4ed15b2",
+  "expires_in": 7200,
+  "expires_at": "2023-08-30T18:29:11.892Z",
+  "token_type": "bearer",
+  "refresh_token": "4f665dd625f146bf8d6a57f8af327aaf",
+  "refresh_expires": 28800,
+  "refresh_expires_at": "2023-08-31T00:29:11.893Z",
+  "account_id": "94b1569506b04f9f8557af611e8c5e47",
+  "client_id": "ec684b8c687f479fadea3cb2ad83f5c6",
+  "internal_client": true,
+  "client_service": "prod-fn",
+  "displayName": "lele stw moment",
+  "app": "prod-fn",
+  "in_app_id": "94b1569506b04f9f8557af611e8c5e47",
+  "product_id": "prod-fn",
+  "application_id": "fghi4567FNFBKFz3E4TROb0bmPS8h1GW"
+}
+```

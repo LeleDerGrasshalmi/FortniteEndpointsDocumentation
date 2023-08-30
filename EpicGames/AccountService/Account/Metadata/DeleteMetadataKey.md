@@ -11,6 +11,4 @@ Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} DELETE`)
 
 ---
 
-_Example Response_
-
-`Status 204`
+_Example Response_: Status 204
