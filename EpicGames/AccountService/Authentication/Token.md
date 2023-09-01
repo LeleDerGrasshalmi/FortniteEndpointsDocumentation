@@ -12,15 +12,16 @@ Auth Required: Yes (Basic Authentication where the username is the Client Id and
 
 `grant_type`: see [Grants and their required fields](./GrantTypes/) <br/>
 `includePerms`: boolean (optional), if the Permissions for the Session should be included <br/>
-`token_type`: (optional) see below
+`token_type`: (optional) see below \
+`deployment_id`: (optional) an EOS [deployment](https://dev.epicgames.com/docs/dev-portal/product-management#deployments) id
 
-| token_type | Allowed | Description              |
-| ---------- | ------- | ------------------------ |
-| `*`        | ✅      | 16 Bytes as hex, Default |
-| `eg1`      | ✅      | Json Web Token           |
-| `ep1`      |         |                          |
-| `epic_id`  |         |                          |
-| `id_token` |         |                          |
+| token_type | Allowed | Description                                                                                                                                          |
+| ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `*`        | ✅      | A 16 byte hexadecimal session id. (default)                                                                                                          |
+| `eg1`      | ✅      | A signed jwt prefixed with `eg1~`.                                                                                                                   |
+| `ep1`      |         | An encrypted jwt prefixed with `ep1~`. Can be gotten with the external_auth grant type or from the [PlatformToken API](../Account/PlatformToken.md). |
+| `epic_id`  |         | A signed jwt used for EOS. Can be gotten from [EOS Auth Web APIs](https://dev.epicgames.com/docs/web-api-ref/authentication).                        |
+| `id_token` |         | An OpenID Connect token. Can be gotten from [EOS Auth Web APIs](https://dev.epicgames.com/docs/web-api-ref/authentication) with the openid scope.    |
 
 <br/>
 
