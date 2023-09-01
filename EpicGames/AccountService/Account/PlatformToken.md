@@ -6,7 +6,7 @@ Auth Required: Yes (`account:public:account READ`)
 
 ```json
 {
-  "exchangeCode": "xyz"
+  "exchangeCode": ""
 }
 ```
 
@@ -14,12 +14,11 @@ Auth Required: Yes (`account:public:account READ`)
 
 `accountId`: Your Account Id <br/>
 `externalAuthType`: See [External Auth Types](../Authentication/GrantTypes/external_auth.md#body) <br/>
-`clientId`: See [Clients](../Authentication/Clients.md) <br/>
+`clientId`: Unknown (any value) <br/>
 
 ## Parameters
 
-`usernameOrEmail`: Your Account `email` or `username` (The `username` is not the `displayName`!) <br/>
-`password`: Your Account password (in plain text)
+`exchangeCode`: Issued by the External Provider, check the [External Auth Types](../Authentication/GrantTypes/external_auth.md#body) for more Info
 
 ---
 

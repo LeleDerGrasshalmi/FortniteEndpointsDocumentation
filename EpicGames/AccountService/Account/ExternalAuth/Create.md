@@ -14,7 +14,7 @@ Auth Required: Yes (`account:public:account:externalAuths CREATE`)
 ## Parameters
 
 `authType`: See via [External Auth Readme](./README.md) and also check the [External Auth Grant Type](../../Authentication/GrantTypes/external_auth.md#body) <br/>
-`externalAuthToken`: Issued by the External Provider, check the the [External Auth Grant Type](../../Authentication/GrantTypes/external_auth.md#body) for more Info
+`externalAuthToken`: Issued by the External Provider, check the [External Auth Grant Type](../../Authentication/GrantTypes/external_auth.md#body) for more Info
 
 ---
 
