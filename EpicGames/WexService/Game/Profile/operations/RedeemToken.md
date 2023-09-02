@@ -1,12 +1,12 @@
 # RedeemToken
 
-**Description**: `Upgrades a legacy item token into a real item` \
+**Description**: `Used to redeem tokens (hero shards, legacy item upgrades, etc)` \
 **Profiles**: `profile0`
 
 ## Body
 
 ```js
 {
-    "tokenId": "" // GUID of the token to redeem
+    "tokenTemplate": "" // Template ID of the token to redeem
 }
 ```

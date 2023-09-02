@@ -17,7 +17,7 @@
     ],
     "weaponUpgrades": [
         {
-            "upgradeType": "", // Type of Upgrade (e.g. WeaponLevel or WeaponStars)
+            "upgradeType": "", // Type of Upgrade (e.g. Weapon/Armor Level/Stars)
             "numUpgrades": 0 // Number of Upgrades to Apply
         }
     ]
