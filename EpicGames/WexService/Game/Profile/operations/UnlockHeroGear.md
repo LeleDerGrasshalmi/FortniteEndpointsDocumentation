@@ -1,4 +1,4 @@
-# UnlockArmorGear
+# UnlockHeroGear
 
 **Description**: `Unlocks the sidekick slot on a hero` \
 **Profiles**: `profile0`

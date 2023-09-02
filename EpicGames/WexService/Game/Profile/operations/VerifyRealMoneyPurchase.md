@@ -7,7 +7,7 @@
 
 ```js
 {
-    "appStore": "", // App Store the purchase was made on (e.g. GooglePlayAppStore, EpicPurchasingService)
+    "appStore": "", // App Store the purchase was made on (DebugStore, EpicPurchasingService, IOSAppStore, WeGameStore, GooglePlayAppStore, KindleStore, PlayStationStore, XboxLiveStore, NintendoEShop, SamsungGalaxyAppsStore)
     "appStoreId": "", // App Store ID of the item purchased (e.g. bb_viptier2_release)
     "receiptId": "", // Receipt ID of the purchase
     "receiptInfo": "", // Receipt data (String of JSON containing receiptData and signature)

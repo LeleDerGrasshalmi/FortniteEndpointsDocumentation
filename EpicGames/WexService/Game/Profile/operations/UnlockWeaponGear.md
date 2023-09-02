@@ -1,4 +1,4 @@
-# UnlockArmorGear
+# UnlockWeaponGear
 
 **Description**: `Unlocks the Weapon gear slot on a hero` \
 **Profiles**: `profile0`
