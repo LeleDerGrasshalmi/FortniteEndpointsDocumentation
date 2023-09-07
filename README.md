@@ -37,7 +37,7 @@
   - [Creative](./Fortnite/Creative)
   - [MCP](./Fortnite/MCP)
   - [StW](./Fortnite/SaveTheWorld)
-- [Playstation Website](./PlaystationStore)
+- [Playstation Store](./PlaystationStore)
 
 ## Contributions
 
