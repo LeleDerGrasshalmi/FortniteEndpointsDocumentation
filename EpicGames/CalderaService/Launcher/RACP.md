@@ -21,10 +21,15 @@ Auth Required: No
 `account_id`: Your Account Id <br/>
 `exchange_code`: Your [Exchange Code](../../AccountService/Authentication/ExchangeCode/Create.md) <br/>
 `test_mode`: Unknown, just leave it false <br/>
-`epic_app`: The Game you want to launch e.g. `fortnite` <br/>
-`nvidia`: Used for the Nvidia Gefore Cloud-Gaming, if this is true `all` other parameters can be ignored <br/>
-`luna`: Used for the Amazon Luna Cloud-Gaming, if this is true `all` other parameters can be ignored <br/>
-`salmon`: Used for the some Cloud-Gaming service (unknown as of now as salmon is a codename), if this is true `all` other parameters can be ignored
+`epic_app`: The App you want to launch e.g. `fortnite` <br/>
+`nvidia`: Used for the NVidia GeForce Now Cloud-Gaming <br/>
+`luna`: Used for the Amazon Luna Cloud-Gaming <br/>
+`salmon`: Used for the some Cloud-Gaming service (unknown as of now as salmon is a codename, **wip parameter**)
+
+Any any of the following Parameters is `true`, then all other Parameters can be ignored
+
+- `nvidia`
+- `luna`
 
 ---
 
