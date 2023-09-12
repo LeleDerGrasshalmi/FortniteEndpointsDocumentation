@@ -25,6 +25,7 @@ Auth Required: No
 `nvidia`: Used for the Nvidia Gefore Cloud-Gaming, if this is true `all` other parameters can be ignored <br/>
 `luna`: Used for the Amazon Luna Cloud-Gaming, if this is true `all` other parameters can be ignored <br/>
 `salmon`: Used for the some Cloud-Gaming service (unknown as of now as salmon is a codename), if this is true `all` other parameters can be ignored
+
 ---
 
 Example Response (NVIDIA Mode)
