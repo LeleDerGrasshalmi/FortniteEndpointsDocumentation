@@ -11,7 +11,8 @@ Auth Required: No
   "test_mode": false,
   "epic_app": "",
   "nvidia": false,
-  "luna": false
+  "luna": false,
+  "salmon": false
 }
 ```
 
@@ -22,8 +23,8 @@ Auth Required: No
 `test_mode`: Unknown, just leave it false <br/>
 `epic_app`: The Game you want to launch e.g. `fortnite` <br/>
 `nvidia`: Used for the Nvidia Gefore Cloud-Gaming, if this is true `all` other parameters can be ignored <br/>
-`luna`: Used for the Amazon Luna Cloud-Gaming, if this is true `all` other parameters can be ignored
-
+`luna`: Used for the Amazon Luna Cloud-Gaming, if this is true `all` other parameters can be ignored <br/>
+`salmon`: Used for the some Cloud-Gaming service (unknown as of now as salmon is a codename), if this is true `all` other parameters can be ignored
 ---
 
 Example Response (NVIDIA Mode)
