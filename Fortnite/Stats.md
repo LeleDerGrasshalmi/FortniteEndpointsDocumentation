@@ -6,7 +6,7 @@ Auth Required: Yes
 
 ## Path Parameters
 
-`accountId`: the target Users Id <br/>
+`accountId`: The Target Account Id <br/>
 `windowId`: 'alltime' / 'weekly'
 
 Has been removed ages ago.

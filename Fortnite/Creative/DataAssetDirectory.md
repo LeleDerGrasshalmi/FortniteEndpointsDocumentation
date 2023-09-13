@@ -1,8 +1,8 @@
 ## Fortnite - Data Asset Directory: Assets (Gamefile Overwrites)
 
-URL: https://data-asset-directory-public-service-prod.ol.epicgames.com/api/v1/assets/Fortnite/:version/:versionCLN?appId=Fortnite \
+URL: https://data-asset-directory-public-service-prod.ol.epicgames.com/api/v1/assets/:gameId/:branch/:changelist \
 Method: POST \
-Auth Required: Yes (`dad:fortnite:assets:* READ`)
+Auth Required: Yes (`dad:{gameId}:assets:* READ`)
 
 ```json
 {
@@ -32,8 +32,13 @@ Auth Required: Yes (`dad:fortnite:assets:* READ`)
 
 ## Path Parameters
 
-`version`: the fn version (url encoded), e.g. `%2B%2BFortnite%2BRelease-20.00` <br/>
-`versionCLN`: the fn versions CLN, e.g. `19532288`
+`gameId`: `Fortnite` (Lowercased for the Permission) <br/>
+`branch`: The Build Branch, e.g. `++Fortnite+Release-26.10` <br/>
+`changelist`: The Version Changelist, e.g. `27681420`
+
+## Query Parameters
+
+`appId`: `Fortnite`
 
 ---
 

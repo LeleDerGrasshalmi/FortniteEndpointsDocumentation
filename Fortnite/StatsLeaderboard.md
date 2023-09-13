@@ -6,8 +6,8 @@ Auth Required: Yes
 
 ## Path Parameters
 
-`accountId`: your Account Id <br/>
-`windowId`: **alltime** or **weekly**
+`accountId`: Your Account Id <br/>
+`windowId`: 'alltime' / 'weekly'
 
 ## Query Parameters
 
