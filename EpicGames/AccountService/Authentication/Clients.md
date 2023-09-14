@@ -168,5 +168,6 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Rocket League Sideswipe                          | xyza7891U64Mb4ZybQRpqALQxo1M6wEL |                                             |
 | Gama-Gama.ru                                     | xyza78910V8IRzOkRlM9GiGylg2SWpxn |                                             |
 | Unreal Revision Control                          | xyza7891cMeUNk9wopbK9jlds3KUKclS |                                             |
+| LEGO Account                                     | xyza7891t8nxvz3IoSNmFMy3xjTSWFuZ |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)

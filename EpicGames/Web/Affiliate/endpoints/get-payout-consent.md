@@ -1,4 +1,16 @@
 # Get Payout Consent
 
-**Description**: `If the account has a Payout Consent` \
-**URL**: `https://sac.epicgames.com/api/get-payout-consent`
+URL: https://sac.epicgames.com/api/v1/get-payout-consent \
+Method: GET \
+Auth Required: Yes
+
+---
+
+_Example Response_
+
+```json
+{
+  "data": true,
+  "success": true
+}
+```

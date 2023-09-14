@@ -1,12 +1,11 @@
-# Epic Games - Affiliate Dashboard
+# Epic Games - Web Affiliate APIs
 
-## Requesting
+## Request
 
-**Method**: `GET` \
-**Header**: `Cookie`
+`Header`: `Cookie`, see Cookies below
 
 | Name              | Value                            |
 | ----------------- | -------------------------------- |
 | EPIC_BEARER_TOKEN | Your Auth/Bearer Token (NOT eg1) |
 
-**Note**: There are many endpoints, that currently not in [/endpoints](./endpoints)
+> Some Endpoints are currently as of 14.09.2023 still not documented
