@@ -1,12 +1,12 @@
 # Get Earned Products
 
-URL: https://sac.epicgames.com/api/get-earned-products?date=2023-09&locale=en-US \
+URL: https://sac.epicgames.com/api/get-earned-products \
 Method: GET \
 Auth Required: Yes
 
 ## Query Parameters
 
-`date`: Format: `YYYY-MM`, e.g. `2023-09`,
+`date`: Format: `YYYY-MM`, e.g. `2023-09`, <br/>
 `locale`: Content Language, e.g. `de`, `en-US`
 
 ---
