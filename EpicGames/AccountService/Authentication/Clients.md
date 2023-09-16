@@ -100,6 +100,9 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Kaltura Login - Prod                               | cb394386275e4a0b90b5cc6e77e55682 |                                      |
 | Diesel - Paradox Interactive - Surviving Mars      | 947305f86f2141f0976e904a1dd3c7ee |                                      |
 | pep_web                                            | cf34b582ab7343c7b928e155968f161f |                                      |
+| epicgamesNodeWebsiteClient                         | 5a6fcd3b82e04f8fa0065253835c5221 |                                      |
+| fortnite_vbulletin                                 | 52b63176173444eb8291b0dd60586e04 |                                      |
+| devEpicgamesWebsiteClient                          | 1412c33087cc452283d371665a8e5fbc |                                      |
 
 <br/>
 
