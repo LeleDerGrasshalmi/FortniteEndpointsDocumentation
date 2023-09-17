@@ -7,8 +7,8 @@
 
 ```js
 {
-    "appStore": "", // from profile, e.g. EpicPurchasingService
-    "uniqueSubscriptionId": "", // from profile
+    "appStore": "", // From profile, e.g. EpicPurchasingService
+    "uniqueSubscriptionId": "", // From profile
     "receiptInfo": "" // Unknown
 }
 ```

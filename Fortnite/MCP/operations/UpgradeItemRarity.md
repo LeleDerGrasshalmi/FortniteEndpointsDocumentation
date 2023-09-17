@@ -1,11 +1,12 @@
 # UpgradeItemRarity
 
-**Description**: `Upgrades item's rarity in stw (schematics and heroes only)` \
+**Description**: `Upgrade a Heroes or Schematics Rarity in StW` \
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
-    "targetItemId": "" // Guid of the item you want to upgrade the rarity of
+    "targetItemId": "" // Item GUID of which you want to upgrade the rarity
 }
 ```

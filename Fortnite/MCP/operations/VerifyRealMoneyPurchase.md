@@ -7,12 +7,12 @@
 
 ```js
 {
-    "appStore": "", // from receipt, e.g. EpicPurchasingService
-    "appStoreId": "", // from receipt
-    "receiptId": "", // from receipt
-    "receiptInfo": "", // from receipt
-    "purchaseCorrelationId": "" // not needed & not known where it comes from (maybe from purchase request headers?)
+    "appStore": "", // From Receipt, e.g. EpicPurchasingService
+    "appStoreId": "", // From Receipt
+    "receiptId": "", // From Receipt
+    "receiptInfo": "", // From Receipt
+    "purchaseCorrelationId": "" // Not needed & not known where it comes from (maybe from purchase request headers?)
 }
 ```
 
-[**Get All Receipts**](../../Catalog/Receipts.md)
+--> [**Get All Receipts**](../../Catalog/Receipts.md)

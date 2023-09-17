@@ -13,20 +13,20 @@
         "variant": "", // The Variant Gameplaytag, e.g. AISpawnerData.Type.Tandem.SpaceChimp, PlayerAugment.Collection.PartyTime, Fish.Angler.PurpleOrange
         "contextTags": [], // Context Gameplaytags if existing, e.g. Athena.Location.UnNamedPOI.Tandem.SpaceChimp
         "properties": {}, // See below
-        "seenState": "", // Enum: EFortCollectedState
-        "count": 1 // Catch count (fish) or talk count (npc)
+        "seenState": "", // Enum - EFortCollectedState
+        "count": 1 // Catch count (fish) or npc talk count (npc)
     }]
 }
 ```
 
 ### Properties
 
-> **Fish** (FFortMcpCollectedFishProperties)
+> `Fish` (FFortMcpCollectedFishProperties)
 >
 > - weight: float
 > - length: float
 
-> **NPC / Character (Tandem)** (FFortMcpCollectedCharacterProperties)
+> `NPC / Character (Tandem)` (FFortMcpCollectedCharacterProperties)
 >
 > - questsGiven: int
 > - questsCompleted: int
@@ -34,7 +34,7 @@
 
 <br/>
 
-### Enum: EFortCollectedState
+### Enum - EFortCollectedState
 
 - Unknown
 - New

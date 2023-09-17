@@ -4,9 +4,10 @@
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {
     "targetItemId": "", // Item GUID
-    "alterationSlot": 1 // Index (0-5)
+    "alterationSlot": 1 // Index of the Alteration Slot (0-5)
 }
 ```
