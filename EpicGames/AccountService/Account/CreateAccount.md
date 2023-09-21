@@ -18,10 +18,6 @@ Auth Required: Yes (`account:public:account CREATE`)
 }
 ```
 
-## Path Parameters
-
-`accountId`: Your Account
-
 ## Parameters
 
 `name`: Optional, Your Firstname <br/>
@@ -30,12 +26,10 @@ Auth Required: Yes (`account:public:account CREATE`)
 `displayName`: Optional, Your Display Name <br/>
 `phoneNumber`: Optional, Your Phone-Number <br/>
 `company`: Optional, Your Company <br/>
-`email`: Optional, Your Email `[*]` <br/>
-`username`: Optional, Your Username (could be used instead of an email back then) `[*]` <br/>
-`password`: Optional, Your Password (required if email/username is specified) `[*]` <br/>
-`dateOfBirth`: required, Your BirthDate `[*]` <br/>
-
-`[*]` - Requires the sensitive Permission
+`email`: Optional, Your Email <br/>
+`username`: Optional, Your Username (could be used instead of an email back then) <br/>
+`password`: Optional, Your Password (required if email/username is specified) <br/>
+`dateOfBirth`: required, Your BirthDate
 
 ---
 
