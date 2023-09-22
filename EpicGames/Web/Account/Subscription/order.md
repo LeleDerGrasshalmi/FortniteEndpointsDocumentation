@@ -1,8 +1,14 @@
-## Account Web - Orders
+## Account Web - Subscription: Order
 
-URL: https://www.epicgames.com/account/v2/subscription/order-detail?orderId=#### \
+URL: https://www.epicgames.com/account/v2/subscription/order-detail \
 Method: GET \
 Auth Required: Yes
+
+## Query Parameters
+
+`orderId`: The Id of the Subscription Order
+
+---
 
 _Example Response_
 
@@ -37,9 +43,7 @@ _Example Response_
   "convenienceFee": 0,
   "fraud": false,
   "fraudDecision": "CHALLENGE_3DS",
-  "fraudSubDecisions": [
-    "3DS_LOW_VALUE_EXEMPTION"
-  ],
+  "fraudSubDecisions": ["3DS_LOW_VALUE_EXEMPTION"],
   "merchantGroup": "FN_MKT",
   "morId": "#####",
   "salesChannelId": "fngame-purchase-client",

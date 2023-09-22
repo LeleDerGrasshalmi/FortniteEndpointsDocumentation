@@ -1,9 +1,11 @@
-## Account Web - Get
+## Account Web - Content Controls: Get
 
 URL: https://www.epicgames.com/account/v2/content-controls/get \
 Method: GET \
 Auth Required: Yes
-//check auth required
+
+---
+
 _Example Response_
 
 ```json
@@ -84,9 +86,7 @@ _Example Response_
         }
       },
       "require-pin-to-add-friend": {
-        "options": [
-          
-        ],
+        "options": [],
         "valueType": "boolean",
         "restrictiveOrder": "falsePermissive",
         "translations": {
@@ -95,9 +95,7 @@ _Example Response_
         }
       },
       "filter-out-mature-language": {
-        "options": [
-          
-        ],
+        "options": [],
         "valueType": "boolean",
         "restrictiveOrder": "falsePermissive",
         "translations": {

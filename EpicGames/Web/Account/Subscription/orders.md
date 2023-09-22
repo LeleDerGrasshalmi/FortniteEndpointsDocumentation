@@ -1,8 +1,10 @@
-## Account Web - Orders
+## Account Web - Subscription: Orders
 
 URL: https://www.epicgames.com/account/v2/subscription/orders \
 Method: GET \
 Auth Required: Yes
+
+---
 
 _Example Response_
 

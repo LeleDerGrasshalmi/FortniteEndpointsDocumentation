@@ -1,8 +1,10 @@
-## Account Web - History
+## Account Web - EULA: Acceptance History
 
 URL: https://www.epicgames.com/account/v2/eula/acceptance-history \
 Method: GET \
 Auth Required: Yes
+
+---
 
 _Example Response_
 
@@ -11,18 +13,6 @@ _Example Response_
   "success": true,
   "message": "",
   "data": [
-    {
-      "key": "sac_agreement",
-      "title": "SUPPORT-A-CREATOR PROGRAM TERMS",
-      "locale": "en-US",
-      "version": 2,
-      "revision": 2,
-      "accountId": "####",
-      "identityId": "####",
-      "accepted": true,
-      "responseTimestamp": "2023-09-15T19:03:22.942Z",
-      "url": "https://cdn1.epicgames.com/eulatracking-download/sac_agreement/en/v2/r2/b45bd70aa03b32a8cfb133413722c400.pdf"
-    },
     {
       "key": "fn",
       "title": "Fortnite® End User License Agreement",

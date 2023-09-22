@@ -1,8 +1,10 @@
-## Account Web - Third Parties
+## Account Web - Content Controls: Third Parties
 
 URL: https://www.epicgames.com/account/v2/content-controls/third-parties \
 Method: GET \
 Auth Required: Yes
+
+---
 
 _Example Response_
 
