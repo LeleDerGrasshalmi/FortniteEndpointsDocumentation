@@ -2,15 +2,15 @@
 
 URL: https://www.epicgames.com/account/v2/api/notifications \
 Method: GET \
-Auth Required: No
+Auth Required: Yes
 
 ## Query Parameters
 
-`formatType`: Should be `json`
+`formatType`: Should be `json` or not emited, see the difference below
 
 ---
 
-_Example Response_
+_Example Response (format = `json`)_
 
 ```json
 {
@@ -53,5 +53,51 @@ _Example Response_
       "settingKey": "email:creatoreco:creationtools"
     }
   }
+}
+```
+
+_Example Response (no format)_
+
+```json
+{
+  "success": true,
+  "results": [
+    {
+      "settingValue": true,
+      "settingKey": "email"
+    },
+    {
+      "settingValue": false,
+      "settingKey": "email:egs:announcements"
+    },
+    {
+      "settingValue": false,
+      "settingKey": "email:egs:newsletter"
+    },
+    {
+      "settingValue": false,
+      "settingKey": "email:egs:wishlist"
+    },
+    {
+      "settingValue": false,
+      "settingKey": "email:fortnite"
+    },
+    {
+      "settingValue": false,
+      "settingKey": "email:fallguys"
+    },
+    {
+      "settingValue": false,
+      "settingKey": "email:rocketleague"
+    },
+    {
+      "settingValue": false,
+      "settingKey": "email:survey"
+    },
+    {
+      "settingValue": true,
+      "settingKey": "email:creatoreco:creationtools"
+    }
+  ]
 }
 ```

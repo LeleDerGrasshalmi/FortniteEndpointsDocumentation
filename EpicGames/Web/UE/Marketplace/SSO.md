@@ -15,7 +15,7 @@ _Example Response_
     "id": "id here",
     "displayName": "test",
     "name": "test",
-    "email": "test@gmail.com",
+    "email": "test@example.com",
     "failedLoginAttempts": 0,
     "lastLogin": "2023-08-26T09:31:15.090Z",
     "numberOfDisplayNameChanges": 3,
