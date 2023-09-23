@@ -8,7 +8,7 @@ Auth Required: Yes (Basic Authentication where the username is the Client Id and
 
 `Content-Type`: application/x-www-form-urlencoded
 
-## Body
+## Parameters
 
 `grant_type`: see [Grants and their required fields](./GrantTypes/) <br/>
 `includePerms`: boolean (optional), if the Permissions for the Session should be included <br/>
