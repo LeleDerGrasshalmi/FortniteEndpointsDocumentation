@@ -12,8 +12,8 @@ _Example Response_
 {
   "elements": [
     {
-      "id": "#####",
-      "identityId": "#####",
+      "id": "94b1569506b04f9f8557af611e8c5e47",
+      "identityId": "94b1569506b04f9f8557af611e8c5e47",
       "orderType": "PURCHASE",
       "orderStatus": "COMPLETED",
       "subscriptionId": "#####",
