@@ -17,7 +17,7 @@ Auth Required: Yes
 
 `email`: (string) Your email <br/>
 `password`: (string) Your password <br/>
-`rememberMe`: (boolean) If your sessions should last longer (no need to relogin everytime) <br/>
+`rememberMe`: (boolean) If true, your sessions should last longer (no need to relogin everytime) <br/>
 `captcha`: (string) Huge json, not possible to obtain without completing your captcha
 
 ---
