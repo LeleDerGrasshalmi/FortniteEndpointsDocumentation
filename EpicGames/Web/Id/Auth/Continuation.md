@@ -4,6 +4,10 @@ URL: https://www.epicgames.com/id/api/continuation/:continuationToken \
 Method: GET \
 Auth Required: No
 
+## Path Parameters
+
+`continuationToken`: The Continuation Token
+
 ---
 
 _Example Response_

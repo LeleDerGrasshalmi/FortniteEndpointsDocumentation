@@ -6,13 +6,13 @@ Auth Required: Yes
 
 Will get info about register if none responds with false
 
+<br/>
+
 ## Fortnite Website - Event Register Post
 
 URL: https://fortnite.com/en-US/event/register \
 Method: POST \
 Auth Required: Yes
-
-Payload:
 
 ```json
 {}
@@ -20,4 +20,4 @@ Payload:
 
 Sets register to true with info (Use of this endpoint is currently unknown)
 
-This endpoint is now deprecated as of 26.01.2023 
+This endpoint is now deprecated as of 26.01.2023

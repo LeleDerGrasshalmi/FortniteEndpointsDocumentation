@@ -9,3 +9,7 @@ Auth Required: Yes
   "email": ""
 }
 ```
+
+---
+
+_Example Response_: Status 204

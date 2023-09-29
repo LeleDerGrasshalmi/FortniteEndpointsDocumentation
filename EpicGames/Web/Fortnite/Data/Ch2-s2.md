@@ -4,6 +4,8 @@ URL: https://fortnite.com/en-US/api/ch2-s2 \
 Method: GET \
 Auth Required: No
 
+---
+
 _Example Response_
 
 ```json
@@ -19,17 +21,19 @@ _Example Response_
   },
   "screens": {
     "_type": "Fortnite - Chapter Screens",
-    "list": [{
-      "image": "https://cdn2.unrealengine.com/Fortnite%2Fchapter2s2%2FSpyGames-1776x889-5df7c1f396802a07a9edc8c90517d76622c2699f.png",
-      "coreSectionProps": {
-        "size": "none",
-        "textAlign": "center",
-        "_type": "Shared - Core Section Props"
-      },
-      "_type": "Fortnite - Chapter Screen Entry",
-      "description": "The Island has been taken over by covert operatives - Ghost and Shadow - and its fate is in your hands. Will you join the fight?",
-      "title": "Play Spy Games"
-    }]
+    "list": [
+      {
+        "image": "https://cdn2.unrealengine.com/Fortnite%2Fchapter2s2%2FSpyGames-1776x889-5df7c1f396802a07a9edc8c90517d76622c2699f.png",
+        "coreSectionProps": {
+          "size": "none",
+          "textAlign": "center",
+          "_type": "Shared - Core Section Props"
+        },
+        "_type": "Fortnite - Chapter Screen Entry",
+        "description": "The Island has been taken over by covert operatives - Ghost and Shadow - and its fate is in your hands. Will you join the fight?",
+        "title": "Play Spy Games"
+      }
+    ]
   },
   "footerCta": {
     "subtitle2": "Pass",
@@ -58,7 +62,9 @@ _Example Response_
   },
   "_title": "Chapter 2",
   "_noIndex": false,
-  "_images_": ["https://cdn2.unrealengine.com/Fortnite%2Fchapter2s2%2FBattlePass-3840x2495-9ae6331d32cfd31a7b42843e872fa87648dfdb1e.png"],
+  "_images_": [
+    "https://cdn2.unrealengine.com/Fortnite%2Fchapter2s2%2FBattlePass-3840x2495-9ae6331d32cfd31a7b42843e872fa87648dfdb1e.png"
+  ],
   "_urlPattern": "/ch2-s2",
   "_slug": "ch2-s2",
   "_activeDate": "2019-10-05T03:58:33.151Z",

@@ -6,11 +6,12 @@ Auth Required: Yes
 
 ## Query Parameters
 
-`clientId`: the clients Id you want to create the Code for \
-`responseType`: must be `code` \
-`codeChallenge`: (optional), a PKCE code challenge \
-`codeChallengeMethod`: (optional), the method used to generate the code challenge (`S256` or `plain`)
-`scope`: (optional), a space seperated list of scopes
+`clientId`: The Id of the Client that the Authorization Code should be issued for <br/>
+`responseType`: Must be `code` <br/>
+`codeChallenge`: (optional), a PKCE code challenge <br/>
+`codeChallengeMethod`: (optional), the method used to generate the code challenge (`S256` or `plain`) <br/>
+`scope`: (optional), a space seperated list of scopes <br/>
+`redirectUrl`: (optional), Automaticly redirect to that URL with the `code` Query being set to the created Authorization Code
 
 ---
 

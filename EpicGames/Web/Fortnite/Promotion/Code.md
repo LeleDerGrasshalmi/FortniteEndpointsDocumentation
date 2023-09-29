@@ -4,8 +4,6 @@ URL: https://fortnite.com/api/promotion-code \
 Method: POST \
 Auth Required: Yes
 
-Payload:
-
 ```json
 {
   "country": "AU",
@@ -16,4 +14,4 @@ Payload:
 
 `not-entitled` Error means not eligible
 
-This endpoint is now deprecated as of 26.01.2023 
+This endpoint is now deprecated as of 26.01.2023

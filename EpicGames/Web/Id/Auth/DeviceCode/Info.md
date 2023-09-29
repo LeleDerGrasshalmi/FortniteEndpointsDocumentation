@@ -4,14 +4,21 @@ URL: https://www.epicgames.com/id/api/device/:userCode \
 Method: GET \
 Auth Required: No
 
+## Path Parameters
+
+`userCode`: The User Code
+
 ---
 
 _Example Response_
 
 ```json
 {
-  "clientId": "98f7e42c2e3a4f86a74eb43fbb41ed39",
+  "clientId": "e49e067bb11c4722a34b2b3b8a6a6355",
   "prompt": "login",
+  "state": {
+    "flow": "quick"
+  },
   "isLocal": true
 }
 ```

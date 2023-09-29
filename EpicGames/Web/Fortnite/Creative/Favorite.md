@@ -4,8 +4,8 @@ URL: https://fortnite.com/api/creative/islands/add-favorites/:islandcode \
 Method: PUT \
 Auth Required: Yes
 
-Payload:
-
 ```json
 {}
 ```
+
+Deprecated

@@ -9,28 +9,27 @@ Auth Required: Yes
   "email": "",
   "password": "",
   "rememberMe": true,
-  "captcha": ""  
+  "captcha": ""
 }
 ```
 
 ## Parameters
 
-`email`: (string) Your email <br/>
-`password`: (string) Your password <br/>
-`rememberMe`: (boolean) If true, your sessions should last longer (no need to relogin everytime) <br/>
-`captcha`: (string) Huge json, not possible to obtain without completing your captcha
+`email`: Your email <br/>
+`password`: Your password <br/>
+`rememberMe`: If true, your sessions should last longer (no need to relogin everytime) <br/>
+`captcha`: Final Captcha Token
 
 ---
 
-_Example Response (Successful)_: Status 200 Response empty
+_Example Response (Successful)_: Status 200 (No Content)
 
-
-_Example Response (Captcha or CSRF Token are invalid)_: Status 400
+_Example Response (Captcha or CSRF Token are invalid)_
 
 ```json
 {
-    "errorCode": "errors.com.epicgames.accountportal.captcha_invalid",
-    "message": "Incorrect response. Please refresh the page.",
-    "correlationId": "ad782d20-5d5d-11ee-8839-43f54ba607b9"
+  "errorCode": "errors.com.epicgames.accountportal.captcha_invalid",
+  "message": "Incorrect response. Please refresh the page.",
+  "correlationId": "ad782d20-5d5d-11ee-8839-43f54ba607b9"
 }
 ```

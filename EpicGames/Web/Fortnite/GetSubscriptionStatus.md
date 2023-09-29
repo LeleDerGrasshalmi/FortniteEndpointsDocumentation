@@ -4,6 +4,8 @@ URL: https://fortnite.com/api/get-subcription-status \
 Method: GET \
 Auth Required: Yes
 
+---
+
 _Example Response_
 
 ```json

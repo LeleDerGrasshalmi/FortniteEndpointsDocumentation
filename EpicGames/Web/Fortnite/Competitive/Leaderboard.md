@@ -6,4 +6,4 @@ Auth Required: No
 
 ### Query Parameters
 
-**page**: Page number you want to view
+`page`: Page number you want to view

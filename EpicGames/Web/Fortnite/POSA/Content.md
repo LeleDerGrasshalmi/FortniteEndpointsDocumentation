@@ -4,7 +4,7 @@ URL: https://fortnite.com/:locale/api/posa/content \
 Method: GET \
 Auth Required: No
 
-## Query Parameters
+## Path Parameters
 
 `locale`: The Locale of the Response, defaults to `en-US` if invalid
 

@@ -4,6 +4,8 @@ URL: https://fortnite.com/en-US/api/rift-tour-data \
 Method: GET \
 Auth Required: No
 
+---
+
 _Example Response_
 
 ```json
@@ -11,7 +13,8 @@ _Example Response_
   "_metaTags": "<title>Rift Tour | A Musical Experience Unlike Any Other - Fortnite</title>\n<meta name=\"description\" content=\"The Fortnite Rift Tour is a new way to experience musical performances by top artists like Ariana Grande. Visit for details about the next big show!\">\n<meta property=\"og:title\" content=\"Join the Fortnite Rift Tour for a Musical Experience Unlike Any Other\">\n<meta name=\"twitter:title\" content=\"Join the Fortnite Rift Tour for a Musical Experience Unlike Any Other\">\n<meta property=\"og:description\" content=\"The Fortnite Rift Tour is a new way to experience musical performances by top artists like Ariana Grande. Visit for schedule details about the next big show!\">\n<meta name=\"twitter:description\" content=\"The Fortnite Rift Tour is a new way to experience musical performances by top artists like Ariana Grande. Visit for schedule details about the next big show!\">\n<meta property=\"og:image\" content=\"https://cdn2.unrealengine.com/17br-rifttour-alt-1920x1080-1920x1080-cf4c2a2e5ec5.jpeg\">\n<meta name=\"twitter:image\" content=\"https://cdn2.unrealengine.com/17br-rifttour-alt-1920x1080-1920x1080-cf4c2a2e5ec5.jpeg\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n",
   "_title": "buffet",
   "_noIndex": false,
-  "sections": [{
+  "sections": [
+    {
       "textHeading": "Rift Tour",
       "headerLogo": "https://cdn2.unrealengine.com/logo-en-white-lg-362x60-446b07456fc9.png",
       "youtubeVideoId": "gGYElBtjytU",

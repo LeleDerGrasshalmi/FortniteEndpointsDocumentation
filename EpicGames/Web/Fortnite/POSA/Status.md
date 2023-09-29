@@ -10,9 +10,13 @@ Auth Required: Yes
 }
 ```
 
-## Query Parameters
+## Path Parameters
 
 `locale`: The Locale of the Response, defaults to `en-US` if invalid
+
+## Parameters
+
+`code`: The Code to check
 
 ---
 

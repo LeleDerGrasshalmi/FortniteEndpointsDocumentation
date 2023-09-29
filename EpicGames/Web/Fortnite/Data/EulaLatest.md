@@ -4,6 +4,8 @@ URL: https://fortnite.com/ajax/eula/get/latest \
 Method: GET \
 Auth Required: No
 
+---
+
 _Example Response_
 
 ```json

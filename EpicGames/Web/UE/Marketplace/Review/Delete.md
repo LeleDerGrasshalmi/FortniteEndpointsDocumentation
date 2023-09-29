@@ -6,12 +6,12 @@ Auth Required: Yes
 
 ### Query Parameters
 
-`type`: the Type of the review (reviews,questions,replies)
+`type`: The Type of the review (reviews,questions,replies)
 
 ## Path Parameters
 
-`offerId`: the Id of the Offer <br/>
-`topicId`: the TopicId of the review
+`offerId`: The Id of the Offer <br/>
+`topicId`: The TopicId of the review
 
 ---
 
@@ -19,7 +19,7 @@ _Example Response_
 
 ```json
 {
-    "status": "OK",
-    "data": true
+  "status": "OK",
+  "data": true
 }
 ```

@@ -9,3 +9,5 @@ Payload:
 ```json
 {}
 ```
+
+Deprecated

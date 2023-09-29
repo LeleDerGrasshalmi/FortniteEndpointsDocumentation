@@ -4,8 +4,6 @@ URL: https://fortnite.com/api/promotion-status \
 Method: POST \
 Auth Required: Yes
 
-Payload:
-
 ```json
 {
   "country": "AU",
@@ -14,4 +12,4 @@ Payload:
 }
 ```
 
-This endpoint is now deprecated as of 26.01.2023 
+This endpoint is now deprecated as of 26.01.2023

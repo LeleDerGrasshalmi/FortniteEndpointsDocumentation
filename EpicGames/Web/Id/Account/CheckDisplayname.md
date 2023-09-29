@@ -12,7 +12,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response - used:_
+_Example Response (Used)_
 
 ```json
 {
@@ -23,4 +23,4 @@ _Example Response - used:_
 }
 ```
 
-_Example Response - unused:_ `Status 200` (But no Content)
+_Example Response(unused)_: `Status 200` (But no Content)

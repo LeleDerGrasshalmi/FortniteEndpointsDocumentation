@@ -4,6 +4,8 @@ URL: https://fortnite.com/:language/api/video-clips \
 Method: GET \
 Auth Required: Yes
 
+---
+
 _Example Response_
 
 ```json
@@ -15,6 +17,7 @@ _Example Response_
   }
 }
 ```
+
 <br/>
 
 ## Fortnite Website - Video Clips Post
@@ -22,8 +25,6 @@ _Example Response_
 URL: https://fortnite.com/:language/api/video-clips \
 Method: POST \
 Auth Required: Yes
-
-Payload:
 
 ```json
 [

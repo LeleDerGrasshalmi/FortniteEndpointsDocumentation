@@ -6,7 +6,7 @@ Auth Required: No
 
 ---
 
-_Example Response (based on request IP):_
+_Example Response_
 
 ```json
 {

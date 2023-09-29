@@ -11,7 +11,7 @@ Auth Required: Yes (`account:public:account:validateCreds READ`)
 <br/>
 
 ```
-usernameOrEmail=aaa&password=bbb
+usernameOrEmail=XXX&password=YYY
 ```
 
 ## Path Parameters
