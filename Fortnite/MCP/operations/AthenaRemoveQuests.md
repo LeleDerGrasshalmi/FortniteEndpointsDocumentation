@@ -1,8 +1,7 @@
 # AthenaRemoveQuests
 
-**Description**: `Remove Quests (BR)` \
+**Description**: `Remove Quests (BR)` \ Operation deprecated
 **Profiles**: `athena`
-**Note**: Operation is deprecated
 
 ## Body
 
