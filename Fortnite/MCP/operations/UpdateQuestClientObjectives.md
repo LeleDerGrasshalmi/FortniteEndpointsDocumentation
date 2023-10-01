@@ -1,6 +1,6 @@
 # UpdateQuestClientObjectives
 
-**Description**: `Update a Objective for a Quest (Bulk)` \
+**Description**: `Update a Objective for a Quest (Bulk)` Note: Used for quests completable in the lobby \
 **Profiles**: `campaign`, `athena`
 
 ## Body
