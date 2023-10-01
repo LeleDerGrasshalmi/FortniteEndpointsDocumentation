@@ -1,6 +1,6 @@
 # CreateNewBattleLabFile
 
-**Description**: `Creates a new Battle Lab File` \
+**Description**: `Creates a new Battle Lab File`  Note: Operation was made for an unused feature and has now been deprecated \
 **Profiles**: `creative` \
 **Note**: `DedicatedServer ONLY`
 
