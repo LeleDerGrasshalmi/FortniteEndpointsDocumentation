@@ -1,6 +1,6 @@
 # SetRandomCosmeticLoadoutFlag
 
-**Description**: `Sets if u use a random Cosmetic Loadout` \
+**Description**: `Toggles Loadout Shuffle` \
 **Profiles**: `athena`, `campaign`
 
 ## Body
