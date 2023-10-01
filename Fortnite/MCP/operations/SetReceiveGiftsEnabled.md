@@ -1,6 +1,6 @@
 # SetReceiveGiftsEnabled
 
-**Description**: `Sets, if u are able to recieve Gifts` \
+**Description**: `Toggles the ability to receive gifts` \
 **Profiles**: `common_core`
 
 ## Body
