@@ -1,7 +1,7 @@
 # ClaimQuestReward
 
-**Description**: `Claim a Quest Reward` \
-**Profiles**: `athena`, `campaign`
+**Description**: `Claim a Quest Reward` Note: Operation deprecated \
+**Profiles**: `athena`, `campaign` 
 
 ## Body
 
