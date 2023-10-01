@@ -6,17 +6,15 @@ Auth Required: Yes
 
 ```json
 {
-    "offerId": [
-        ":offer"
-    ],
-    "purchaseFlow": 1
+  "offerId": [":offer"],
+  "purchaseFlow": 1
 }
 ```
 
 ## Parameters
 
-`offerId`: the Id of the Offer <br/>
-`purchaseFlow`: random tracking id
+`offerId`: The Ids of the Offers <br/>
+`purchaseFlow`: Random Tracking ID
 
 ---
 
@@ -24,7 +22,7 @@ _Example Response_
 
 ```json
 {
-    "status": "OK",
-    "data": true
+  "status": "OK",
+  "data": true
 }
 ```

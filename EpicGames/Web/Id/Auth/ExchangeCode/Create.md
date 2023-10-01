@@ -1,4 +1,4 @@
-## Id Web - Create Exchange-Code
+## Id Web - Create Exchange Code
 
 URL: https://www.epicgames.com/id/api/exchange/generate \
 Method: POST \

@@ -4,6 +4,8 @@ URL: https://fortnite.com/en-US/api/chapter2 \
 Method: GET \
 Auth Required: No
 
+---
+
 _Example Response_
 
 ```json
@@ -19,12 +21,14 @@ _Example Response_
   },
   "screens": {
     "_type": "Fortnite - Chapter Screens",
-    "list": [{
-      "image": "https://cdn2.unrealengine.com/Fortnite%2Fchapter2%2FMAP-1776x889-974816db7b7f4e545cd39920153b88c2ae3544e2.jpg",
-      "_type": "Fortnite - Chapter Screen Entry",
-      "description": "Choose your landing spot and explore an all-new island featuring 13 new locations.",
-      "title": "Drop in to a New World"
-    }]
+    "list": [
+      {
+        "image": "https://cdn2.unrealengine.com/Fortnite%2Fchapter2%2FMAP-1776x889-974816db7b7f4e545cd39920153b88c2ae3544e2.jpg",
+        "_type": "Fortnite - Chapter Screen Entry",
+        "description": "Choose your landing spot and explore an all-new island featuring 13 new locations.",
+        "title": "Drop in to a New World"
+      }
+    ]
   },
   "footerCta": {
     "ctaConfig": {
@@ -49,7 +53,9 @@ _Example Response_
   },
   "_title": "Chapter 2",
   "_noIndex": false,
-  "_images_": ["https://cdn2.unrealengine.com/Fortnite%2Fbattle-pass%2Fchapter-2%2FEN_Chapter2_Badge_Badge-218x218-4dbdbb1c8cb452f0e007f6c6a6d9a2bf6c7bcb7a.png"],
+  "_images_": [
+    "https://cdn2.unrealengine.com/Fortnite%2Fbattle-pass%2Fchapter-2%2FEN_Chapter2_Badge_Badge-218x218-4dbdbb1c8cb452f0e007f6c6a6d9a2bf6c7bcb7a.png"
+  ],
   "_urlPattern": "/chapter2",
   "_slug": "chapter2",
   "_activeDate": "2019-10-05T03:58:33.151Z",

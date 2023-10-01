@@ -10,7 +10,7 @@ _Example Response_
 
 ```json
 {
-    "status": "OK",
-    "data": true
+  "status": "OK",
+  "data": true
 }
 ```

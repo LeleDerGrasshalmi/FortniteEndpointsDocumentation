@@ -6,13 +6,13 @@ Auth Required: Yes
 
 ```json
 {
-    "offerId": ":offer"
+  "offerId": ":offer"
 }
 ```
 
 ### Parameters
 
-`offerId`: Offer Id
+`offerId`: The Offer Id
 
 ---
 
@@ -20,7 +20,7 @@ _Example Response_
 
 ```json
 {
-    "data": true,
-    "status": "OK"
+  "data": true,
+  "status": "OK"
 }
 ```

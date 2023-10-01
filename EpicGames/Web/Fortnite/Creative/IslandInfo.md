@@ -4,8 +4,8 @@ URL: https://fortnite.com/api/creative/islands/check-playlist-queue/:islandcode 
 Method: POST \
 Auth Required: Yes
 
-Payload:
-
 ```json
 {}
 ```
+
+Deprecated

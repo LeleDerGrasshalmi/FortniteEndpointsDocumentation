@@ -17,8 +17,8 @@ Auth Required: Yes (`account:public:account:linkedIdentity CREATE`)
 
 ## Parameters
 
-`type`: Unknown Values <br/>
-`value`: The Value for that Type
+`type`: Unknown Value <br/>
+`value`: Unknown Value
 
 ---
 

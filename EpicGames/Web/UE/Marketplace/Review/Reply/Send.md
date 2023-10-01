@@ -6,14 +6,14 @@ Auth Required: Yes
 
 ```json
 {
-    "content": "description m"
+  "content": "description m"
 }
 ```
 
 ## Path Parameters
 
-`type`: the Type of the review (reviews,questions,replies) <br/>
-`topicId`: the TopicId of the review
+`type`: The Type of the Review (reviews, questions, replies) <br/>
+`topicId`: The Topic Id of the Review
 
 ## Parameters
 
@@ -25,7 +25,7 @@ _Example Response_
 
 ```json
 {
-    "status": "OK",
-    "data": true
+  "status": "OK",
+  "data": true
 }
 ```

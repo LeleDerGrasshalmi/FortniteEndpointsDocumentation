@@ -4,8 +4,6 @@ URL: https://fortnite.com/en-US/api/creative-submission-form/submit \
 Method: POST \
 Auth Required: Yes
 
-Payload:
-
 ```js
 {
   "image": false, // can be set to true

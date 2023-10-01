@@ -4,11 +4,14 @@ URL: https://fortnite.com/api/founders-packs \
 Method: GET \
 Auth Required: No
 
+---
+
 _Example Response_
 
 ```json
+{
+  "config": [
     {
-  "config": [{
       "tier": 0,
       "offerId": "bb63c5d7185f4352a2173aa44edc7f3d",
       "itemId": "48ff3f41680e403bb2717737f68731c5",
@@ -25,7 +28,8 @@ _Example Response_
     }
   ],
   "isFounder": false,
-  "offers": [{
+  "offers": [
+    {
       "id": "bb63c5d7185f4352a2173aa44edc7f3d",
       "catalogItemId": "48ff3f41680e403bb2717737f68731c5",
       "namespace": "fn",
@@ -44,7 +48,8 @@ _Example Response_
       "description": "Fortnite Battle Royale",
       "featured": false,
       "isCatalogItem": false,
-      "categories": [{
+      "categories": [
+        {
           "path": "games"
         },
         {
@@ -88,7 +93,8 @@ _Example Response_
       "longDescription": "Homebase's surefire munitions maker finally gets to use her wares. Restock, reload and get ready with the Full Clip Pack, featuring:\n\nALL MODES\n- Clip Outfit\n- Clip's Toolkit Back Bling\n- Sock'em Socket Pickaxe\n\nSAVE THE WORLD MODE\n- Access to “Save the World” PvE Campaign\n- Clip Challenges: Earn up to 1,500 V-Bucks by completing Save the World daily quests.\n\nChallenges unlocked after having completed the \"Homebase Stormshield Defense 3\" mission in \"Save the World\" Campaign.\n\nV-Bucks are in-game currency that can be spent in Fortnite. You can purchase new customization items like Outfits, Gliders, Pickaxes, Emotes, Wraps and the latest season's Battle Pass! Gliders and Contrails may not be used in Save the World mode.",
       "featured": false,
       "isCatalogItem": false,
-      "categories": [{
+      "categories": [
+        {
           "path": "addons"
         },
         {

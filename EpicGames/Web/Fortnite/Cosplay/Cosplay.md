@@ -4,6 +4,8 @@ URL: https://fortnite.com/en/api/cosplay \
 Method: GET \
 Auth Required: No
 
+---
+
 _Example Response_
 
 ```json

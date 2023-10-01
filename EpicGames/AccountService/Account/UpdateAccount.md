@@ -20,7 +20,7 @@ Auth Required: Yes (`account:public:account UPDATE`, some need `account:public:a
 
 ## Path Parameters
 
-`accountId`: Your Account
+`accountId`: Your Account Id
 
 ## Parameters
 

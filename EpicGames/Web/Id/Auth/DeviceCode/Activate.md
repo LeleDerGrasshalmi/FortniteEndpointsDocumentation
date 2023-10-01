@@ -10,6 +10,10 @@ Auth Required: Yes
 }
 ```
 
+## Path Parameters
+
+`userCode`: The User Code to activate
+
 ## Parameters
 
 `clientId`: Either you know the Id or get it with a [Lookup](./Info.md)

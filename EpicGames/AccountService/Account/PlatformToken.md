@@ -14,11 +14,11 @@ Auth Required: Yes (`account:public:account READ`)
 
 `accountId`: Your Account Id <br/>
 `externalAuthType`: See [External Auth Types](../Authentication/GrantTypes/external_auth.md#body) <br/>
-`clientId`: Unknown (any value) <br/>
+`clientId`: Unknown Value <br/>
 
 ## Parameters
 
-`exchangeCode`: Issued by the External Provider, check the [External Auth Types](../Authentication/GrantTypes/external_auth.md#body) for more Info
+`exchangeCode`: Issued by the External Provider, see the [External Auth Types](../Authentication/GrantTypes/external_auth.md#body) for more Info
 
 ---
 

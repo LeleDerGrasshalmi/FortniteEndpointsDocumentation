@@ -4,9 +4,4 @@ URL: https://fortnite.com/ajax/redemption/validate-redemption-code?redeem-code={
 Method: GET \
 Auth Required: Yes
 
-## Headers
-```
-cookie: EPIC_BEARER_TOKEN={token}
-```
-
-Deprecated as of 26.01.2023 
+Deprecated as of 26.01.2023

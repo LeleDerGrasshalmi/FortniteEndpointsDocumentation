@@ -6,8 +6,8 @@ Auth Required: Yes
 
 ## Path Parameters
 
-`type`: the Type of the review (reviews,questions,replies) <br/>
-`topicId`: the TopicId of the review
+`type`: The Type of the Review (reviews, questions, replies) <br/>
+`topicId`: The Topic Id of the Review
 
 ---
 
@@ -15,7 +15,7 @@ _Example Response_
 
 ```json
 {
-    "status": "OK",
-    "data": ""
+  "status": "OK",
+  "data": ""
 }
 ```

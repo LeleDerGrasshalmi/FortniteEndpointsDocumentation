@@ -6,7 +6,9 @@ Auth Required: No
 
 ## Path Parameters
 
-`clientId`: the Id of the Client to lookup
+`id`: The Id of the Client
+
+---
 
 _Example Response_
 

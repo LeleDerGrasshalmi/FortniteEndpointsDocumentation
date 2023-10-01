@@ -4,6 +4,8 @@ URL: https://fortnite.com/api/grant-mobile-entitlement \
 Method: GET \
 Auth Required: Yes
 
+---
+
 _Example Response_
 
 ```json
@@ -12,4 +14,5 @@ _Example Response_
   "StatusCode": 401
 }
 ```
+
 Always responds with error
