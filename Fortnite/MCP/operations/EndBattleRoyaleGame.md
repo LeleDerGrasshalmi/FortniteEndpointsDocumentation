@@ -1,6 +1,6 @@
 # EndBattleRoyaleGame
 
-**Description**: `End a Battle Royale Game` \
+**Description**: `End a Battle Royale Game` NOTE: Unused as of December 5th 2021 \
 **Profiles**: `athena` \
 **Note**: `DedicatedServer ONLY`
 
