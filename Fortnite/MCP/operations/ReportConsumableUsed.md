@@ -1,6 +1,6 @@
 # ReportConsumableUsed
 
-**Description**: `Report Consumable used` \
+**Description**: `Report Consumable used` Note: This was made for an unused feature and has now been deprecated \
 **Profiles**: `athena` \
 **Note**: `DedicatedServer ONLY`
 
