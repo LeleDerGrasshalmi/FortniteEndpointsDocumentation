@@ -16,3 +16,4 @@
     "introduction": "" // Island Introduction
 }
 ```
+Note: youtubeVideoId has been deprecated and is no longer usable by the game
