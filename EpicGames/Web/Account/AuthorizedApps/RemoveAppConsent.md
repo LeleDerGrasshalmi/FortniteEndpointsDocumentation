@@ -20,7 +20,7 @@ Auth Required: Yes
 
 `flow_id`: Leave like that <br/>
 `flow_name`: Leave like that <br/>
-`solve_token`: Leave like that (Not sued here, but this would be the captcha token)
+`solve_token`: Leave like that (Not used here, but this would be the captcha token)
 
 ---
 

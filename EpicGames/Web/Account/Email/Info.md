@@ -15,7 +15,7 @@ _Example Response_
     "canUpdateEmail": true,
     "canUpdateNext": "",
     "default": {
-      "email": "e***e@example.com",
+      "email": "lele@example.com",
       "verified": true,
       "default": true
     },
