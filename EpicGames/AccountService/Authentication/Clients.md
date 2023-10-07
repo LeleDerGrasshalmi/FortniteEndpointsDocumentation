@@ -174,5 +174,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Gama-Gama.ru                                     | xyza78910V8IRzOkRlM9GiGylg2SWpxn |                                             |
 | Unreal Revision Control                          | xyza7891cMeUNk9wopbK9jlds3KUKclS |                                             |
 | LEGO Account                                     | xyza7891t8nxvz3IoSNmFMy3xjTSWFuZ |                                             |
+| The Elder Scrolls® Online                        | xyza78917Vz8AxXWCf6z9ACLzejhn3SJ |                                             |
+| Redpoint Games"                                  | xyza7891x7U0mokjrVQagoFKVimFTT8a |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)
