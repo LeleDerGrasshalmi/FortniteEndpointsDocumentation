@@ -6,7 +6,7 @@ Auth Required: Yes (Any)
 
 ## Path Parameters
 
-`accountId`: The Accounts Id (yours)
+`accountId`: The Accounts Id
 
 ---
 
