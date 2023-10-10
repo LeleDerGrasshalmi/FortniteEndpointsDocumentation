@@ -1,4 +1,4 @@
-## PRM Dialog Service - Fortnite BR MOTD
+## PRM Dialog Service - Fortnite BR: MOTD
 
 URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/surfaces/motd/target \
 Method: POST \
