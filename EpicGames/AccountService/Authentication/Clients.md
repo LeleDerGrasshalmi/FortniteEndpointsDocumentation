@@ -104,6 +104,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | fortnite_vbulletin                                 | 52b63176173444eb8291b0dd60586e04 |                                      |
 | devEpicgamesWebsiteClient                          | 1412c33087cc452283d371665a8e5fbc |                                      |
 | fulfillmentClient                                  | b3a0d1d6558b788e27a8c044083375ef |                                      |
+| Dauntless                                          | 12c4279862ab4460a25c2e9fa535fb7e |                                      |
 
 <br/>
 
