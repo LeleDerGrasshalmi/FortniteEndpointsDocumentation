@@ -4,7 +4,7 @@ URL: https://www.epicgames.com/id/api/set-sid?sid=:sid \
 Method: GET \
 Auth Required: No
 
-## Path Parameters
+## Query Parameters
 
 `sid`: The Session ID grabbed from [AuthorizationCode](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation/blob/main/EpicGames/Web/Id/Auth/AuthorizationCode.md) when not specifying a responseType
 
