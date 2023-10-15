@@ -1,6 +1,6 @@
 ## Id Web - Client Info
 
-URL: https://www.epicgames.com/id/api/set-sid?sid= \
+URL: https://www.epicgames.com/id/api/set-sid?sid=:sid \
 Method: GET \
 Auth Required: No
 
