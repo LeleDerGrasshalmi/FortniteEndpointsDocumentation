@@ -23,7 +23,7 @@ _Example Response (Successful)_:
 }
 ```
 
-_Example Response (Scope is invalid)_
+_Example Response (State is invalid)_
 
 ```json
 {
