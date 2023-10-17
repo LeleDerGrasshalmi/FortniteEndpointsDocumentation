@@ -1,4 +1,4 @@
-## Id Web - Validate State for External Login
+## Id Web - Create State for External Login
 
 URL: https://www.epicgames.com/id/api/state \
 Method: POST \
