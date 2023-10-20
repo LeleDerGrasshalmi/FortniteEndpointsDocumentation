@@ -18,6 +18,12 @@ Auth Required: Yes (`account:public:account CREATE`)
 }
 ```
 
+## Query Parameters
+
+`authenticate`: Optional, boolean, Should the response include an oauth session? (Default: False)
+`tokenType`: Optional, string, The type for the oauth token (ex. `eg1`)
+`sendEmail` Optional, boolean, Should the email associated receive a verify email? (Default: False)
+
 ## Parameters
 
 `name`: Optional, Your Firstname <br/>
