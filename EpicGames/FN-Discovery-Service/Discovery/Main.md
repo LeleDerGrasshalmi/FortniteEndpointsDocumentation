@@ -67,7 +67,7 @@ _Example Response (shortened)_
         {
           "results": [
             {
-              "linkCode": "3445-0602-1416",
+              "linkCode": "1234-1234-1234",
               "isFavorite": true,
               "globalCCU": -1
             }
