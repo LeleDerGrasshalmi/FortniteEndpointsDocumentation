@@ -1,4 +1,4 @@
-## Id Web - Client Info
+## Id Web - Set Session ID
 
 URL: https://www.epicgames.com/id/api/set-sid?sid=:sid \
 Method: GET \
