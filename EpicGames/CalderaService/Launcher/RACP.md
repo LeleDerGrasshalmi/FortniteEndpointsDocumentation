@@ -26,7 +26,7 @@ Auth Required: No
 `luna`: Used for the Amazon Luna Cloud-Gaming <br/>
 `salmon`: Used for the some Cloud-Gaming service (unknown as of now as salmon is a codename, **wip parameter**)
 
-Any any of the following Parameters is `true`, then all other Parameters can be ignored
+Any of the following Parameters is `true`, then all other Parameters can be ignored
 
 - `nvidia`
 - `luna`

@@ -13,3 +13,7 @@ Auth Required: Yes (client_credentials of the client you are trying to authentic
 ## Parameters
 
 `continuation`: From the Error Response <br/>
+
+---
+
+_Example Response Status: 204 (No Content)_

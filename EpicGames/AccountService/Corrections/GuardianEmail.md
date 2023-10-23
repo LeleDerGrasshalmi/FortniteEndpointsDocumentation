@@ -15,3 +15,7 @@ Auth Required: Yes (client_credentials of the client you are trying to authentic
 
 `continuation`: From the Error Response <br/>
 `guardianEmail`: Email of the Guardian (Parent)
+
+---
+
+_Example Response Status: 204 (No Content)_
