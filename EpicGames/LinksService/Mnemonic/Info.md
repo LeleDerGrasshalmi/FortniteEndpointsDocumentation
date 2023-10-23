@@ -9,6 +9,11 @@ Auth Required: Yes (`links:{namespace} READ`)
 `namespace`: For Fortnite it's 'fn' <br/>
 `mnemonic`: e.g. `1111-1111-1111` for FN Creative Island
 
+## Query Parameters
+
+`type`: Mnemonic Type e.g. 'Creative:Island' or 'BR:Playlist' <br/>
+`v`: Mnemonic Version to lookup, leave empty for latest
+
 ---
 
 _Example Response_

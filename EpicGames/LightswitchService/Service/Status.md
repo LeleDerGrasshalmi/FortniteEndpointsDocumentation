@@ -6,11 +6,11 @@ Auth Required: Yes (no perm needed)
 
 ## Path Parameters
 
-`serviceId`: e.g. 'Fortnite', 'WorldExplorersLive', 'Kairos', etc.
+`serviceId`: See [Readme](../README.md) for examples
 
 ---
 
-Example Response
+_Example Response_
 
 ```json
 {

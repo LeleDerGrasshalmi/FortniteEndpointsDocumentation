@@ -6,11 +6,11 @@ Auth Required: Yes (no perm needed)
 
 ## Query Parameters
 
-`serviceId`: You can use the query multiple times. e.g. 'Fortnite', etc.
+`serviceId`: You can use the query multiple times. See [Readme](../README.md) for examples
 
 ---
 
-Example Response
+_Example Response_
 
 ```json
 [
