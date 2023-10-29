@@ -14,3 +14,14 @@ Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} CRE
 _Example Response_
 
 _As of 19th may 2023, this is not supported on User Files, but the API itself exists, the feature is just not enabled_
+
+```json
+{
+  "errorCode": "errors.com.epicgames.cloudstorage.file_storage_data_load_exception",
+  "errorMessage": "no enabled DAOs were able to provide links for file 'ClientSettings.Sav'",
+  "messageVars": ["ClientSettings.Sav"],
+  "numericErrorCode": 12020,
+  "originatingService": "fortnite",
+  "intent": "prod-live"
+}
+```

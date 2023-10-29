@@ -1,8 +1,8 @@
-## Fortnite - Cloudstorage: Create User File
+## Fortnite - Cloudstorage: Create System File
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system \
 Method: POST \
-Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{filename} CREATE`)
+Auth Required: Yes (`fortnite:cloudstorage:system CREATE`)
 
 File Content (Binary) - **File-Body**
 
@@ -12,19 +12,16 @@ File Content (Binary) - **File-Body**
 
 ---
 
-_Example Response (Created)_
-
-`ClientSettingsPS4.sav` (Unique Filename)
-
 <br/>
 
-_Example Response (Already Exists)_
+_Example Response (No Perm)_
 
 ```json
 {
-  "errorCode": "errors.com.epicgames.common.mongo_write_error",
-  "errorMessage": "Sorry, there was an error writing to the database.",
-  "numericErrorCode": 1060,
+  "errorCode": "errors.com.epicgames.common.missing_permission",
+  "errorMessage": "Sorry your login does not posses the permissions 'fortnite:cloudstorage:system CREATE' needed to perform the requested operation",
+  "messageVars": ["fortnite:cloudstorage:system", "CREATE"],
+  "numericErrorCode": 1023,
   "originatingService": "fortnite",
   "intent": "prod-live"
 }
