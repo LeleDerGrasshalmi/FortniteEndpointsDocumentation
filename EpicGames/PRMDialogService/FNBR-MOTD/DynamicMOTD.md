@@ -6,41 +6,51 @@ Auth Required: Yes (Account - `eg1`)
 
 ```json
 {
-  "accountLevel": 0,
-  "alienArtifacts": 0,
-  "battlepass": false,
-  "battlepassItemsClaimed": 0,
-  "battlepassLevel": 1,
-  "battlepassStars": 0,
-  "completedQuests": [],
-  "countOfDragonBalls": 0,
-  "country": "DE",
-  "dateLastPlayed": "1901-12-13T20:45:52.000Z",
-  "dateLastPlayedArena": "1901-12-13T20:45:52.000Z",
-  "dateLastPlayedSaveTheWorld": "2022-11-01T23:25:31.000Z",
-  "dateLastPlayedTournament": "1901-12-13T20:45:52.000Z",
-  "daysSinceLastSession": 44153.14098048611,
-  "globalCash": 0,
-  "isRestricted": true,
-  "language": "en",
-  "lifetimeWins": 0,
   "onLogin": true,
-  "ownsSaveTheWorld": false,
   "platform": "Windows",
-  "progressiveBackblingStage": 0,
-  "seasonHoursPlayed": 0,
+  "language": "en",
   "serverRegion": "EU",
-  "socialTags": [],
-  "stylePoints": 0,
+  "country": "DE",
+  "hasSavedEventDate": false,
+  "hasAttendedEndOfSeasonS17": false,
   "subscription": false,
-  "totalHoursPlayed": 0,
-  "unlockedPages": 1
+  "ownsSaveTheWorld": false,
+  "filterRestricted": false,
+  "isCabined": false,
+  "filterConsent": false,
+  "filterLimited": false,
+  "allowedContentTypes": ["functional", "experience", "marketing"],
+  "totalHoursPlayed": 10.916666984558105,
+  "daysSinceLastSession": 34.688118587962961,
+  "dateLastPlayed": "2023-09-26T17:14:13.000Z",
+  "lifetimeWins": 19,
+  "dateLastPlayedSaveTheWorld": "2023-10-30T13:15:54.000Z",
+  "dateLastPlayedArena": "2023-04-02T08:25:56.000Z",
+  "matchesPlayedArena": 1,
+  "dateLastPlayedTournament": "1901-12-13T20:45:52.000Z",
+  "matchesPlayedTournament": 0,
+  "battlepass": false,
+  "battlepassLevel": 4,
+  "accountLevel": 1036,
+  "victoryCrownsRoyales": 0,
+  "globalCash": 0,
+  "battlepassStars": 15,
+  "battlepassItemsClaimed": 0,
+  "unlockedPages": 14,
+  "unlockedBonusPages": 0,
+  "progressiveBackblingStage": 0,
+  "S21ProgressivePhotonicStrikerPickaxe": 0,
+  "hasAttendedSunburst": false,
+  "hasAttendedSunburstAfterparty": false,
+  "seasonHoursPlayed": 0.63333338499069214,
+  "completedQuests": [],
+  "socialTags": ["BR - Squads", "BR - Trios", "BR - Duos"]
 }
 ```
 
 ## Parameters
 
-> Apparently the params as [Motd request](./MOTD.md)
+Not gonna explain all params, look at then name, then you know what value it should have
 
 ---
 

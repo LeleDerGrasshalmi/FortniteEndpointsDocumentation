@@ -29,6 +29,7 @@ Auth Required: Yes (`discovery:surface:query READ`)
 
 ## Parameters
 
+`testVariantName`: From the [Main Discovery Response](./Main.md) <br/>
 `panelName`: The panel you want to load a different page of <br/>
 `pageIndex`: The page you want to load from the panel <br/>
 `partyMemberIds`: Array of the party member account ids (or an empty array) <br/>
