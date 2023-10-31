@@ -7,6 +7,6 @@
 ## Body
 ```js
 {
-    "code": "" // Unkown
+    "code": "" // Lock code from theater profiles
 }
 ```
