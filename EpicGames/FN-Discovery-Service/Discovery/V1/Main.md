@@ -1,4 +1,4 @@
-## FN - Discovery Service: Discovery Surface
+## FN - Discovery Service: Discovery Surface (V1)
 
 URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/discovery/surface/:accountId \
 Method: POST \
@@ -27,11 +27,11 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 
 ## Parameters
 
-`surfaceName`: See [Surfaces](./README.md#surfaces) <br/>
+`surfaceName`: See [Surfaces](../README.md#surfaces) <br/>
 `revision`: Leave -1 for latest <br/>
 `partyMemberIds`: Array of the party member account ids (or an empty array) <br/>
 `matchmakingRegion`: Your matchmaking region (e.g. `EU`) <br/>
-`isCabined`: If your Account is in Cabined Mode (from [own account info](../../AccountService/Account/Lookup/AccountId.md)) <br/>
+`isCabined`: If your Account is in Cabined Mode (from [own account info](../../../AccountService/Account/Lookup/AccountId.md)) <br/>
 `platform`: Your platform (e.g. `Windows`)
 
 ## Query Parameters
