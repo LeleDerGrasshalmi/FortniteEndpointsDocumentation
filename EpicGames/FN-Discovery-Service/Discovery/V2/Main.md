@@ -35,7 +35,7 @@ Auth Required: Yes (`discovery:surface:query READ`)
 `battlepassLevel`: Your current level <br/>
 `locale`: Defines in which locale the panel names and data should be <br/>
 `matchmakingRegion`: Your matchmaking region (e.g. `EU`) <br/>
-`platform`: Your platform
+`platform`: Your platform <br/>
 `isCabined`: If your Account is in Cabined Mode (from [own account info](../../../AccountService/Account/Lookup/AccountId.md))
 
 > Technically the request wont fail if you send an empty payload
