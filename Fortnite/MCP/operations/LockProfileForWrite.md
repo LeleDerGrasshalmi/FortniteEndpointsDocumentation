@@ -1,6 +1,6 @@
 # LockProfileForWrite
 
-**Description**: `Was used to Unlock a profile to write at the fn start` \
+**Description**: `Was used to lock a profile to write at the fn start` \
 **Profiles**: `All theater profiles` \
 **Note**: `DedicatedServer ONLY`
 
