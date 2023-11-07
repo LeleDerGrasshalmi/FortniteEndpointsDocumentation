@@ -9,7 +9,7 @@ Auth Required: Yes (`discovery:search:{accountId} READ`)
   "namespace": "fortnite",
   "context": [],
   "locale": "en-US-POSIX",
-  "search": "ssaasaassaa",
+  "search": "test",
   "orderBy": "globalCCU",
   "ratingAuthority": "",
   "rating": "",
@@ -38,14 +38,14 @@ _Example Response_
 
 ```json
 {
-  "page": 0,
-  "results": [
-    {
-      "linkCode": "1111-1111-1111",
-      "globalCCU": -1
-    }
-  ]
+    "results": [{
+            "linkCode": "1334-2993-7207",
+            "isFavorite": false,
+            "lastVisited": null,
+            "globalCCU": 3,
+            "score": 9.348631,
+            "lockStatus": "UNLOCKED",
+            "lockStatusReason": "NONE"
+        }]  
 }
 ```
-
-> Example Response is not complete, because the service is not enabled yet (as of 04.11.2023)
