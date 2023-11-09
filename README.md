@@ -10,6 +10,7 @@
   - [Events Service](./EpicGames/EventsService)
   - [FN - Service](./EpicGames/FN-Service)
   - [FN - Content API](./EpicGames/FN-Content)
+  - [FN-Discovery-Search-Service](./EpicGames/FN-Discovery-Search-Service)
   - [FN - Discovery Service](./EpicGames/FN-Discovery-Service)
   - [FN - Habanero Service](./EpicGames/FN-Habanero-Service)
   - [Friends Service](./EpicGames/FriendsService)
