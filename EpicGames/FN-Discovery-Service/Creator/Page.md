@@ -23,9 +23,12 @@ _Example Response_
   "links": [
     {
       "linkCode": "1234-1234-1234",
-      "lastActivatedDate": "2023-05-13T23:38:32.569Z",
+      "lastActivatedDate": "2023-11-10T18:28:27.283Z",
       "isFavorite": false,
-      "globalCCU": 218
+      "globalCCU": 94,
+      "lockStatus": "UNLOCKED",
+      "lockStatusReason": "NONE",
+      "isVisible": true
     }
   ],
   "hasMore": false

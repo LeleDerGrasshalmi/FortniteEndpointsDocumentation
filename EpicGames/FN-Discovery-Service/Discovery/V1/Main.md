@@ -51,10 +51,13 @@ _Example Response (shortened)_
         {
           "results": [
             {
-              "lastVisited": "2023-05-18T21:13:29.825Z",
+              "lastVisited": "2023-09-12T18:32:59.535Z",
               "linkCode": "set_habanero_playlists",
               "isFavorite": false,
-              "globalCCU": 157402
+              "globalCCU": 978608,
+              "lockStatus": "UNLOCKED",
+              "lockStatusReason": "NONE",
+              "isVisible": true
             }
           ],
           "hasMore": true
@@ -67,9 +70,13 @@ _Example Response (shortened)_
         {
           "results": [
             {
+              "lastVisited": "2023-07-02T15:05:34.452Z",
               "linkCode": "1234-1234-1234",
               "isFavorite": true,
-              "globalCCU": -1
+              "globalCCU": -1,
+              "lockStatus": "UNLOCKED",
+              "lockStatusReason": "NONE",
+              "isVisible": true
             }
           ],
           "hasMore": true

@@ -23,7 +23,7 @@ Auth Required: Yes (`discovery:search:{accountId} READ`)
 `context`: Unknown Array <br/>
 `locale`: Language of your input <br/>
 `search`: Search Query Input <br/>
-`orderBy`: What the entries should be ordered by <br/>
+`orderBy`: What key the entries should be ordered by <br/>
 `ratingAuthority`: Unknown, iarc? <br/>
 `rating`: Unknown <br/>
 `page`: Paging
@@ -38,14 +38,16 @@ _Example Response_
 
 ```json
 {
-    "results": [{
-            "linkCode": "1334-2993-7207",
-            "isFavorite": false,
-            "lastVisited": null,
-            "globalCCU": 3,
-            "score": 9.348631,
-            "lockStatus": "UNLOCKED",
-            "lockStatusReason": "NONE"
-        }]  
+  "results": [
+    {
+      "linkCode": "1334-2993-7207",
+      "isFavorite": false,
+      "lastVisited": null,
+      "globalCCU": 3,
+      "score": 9.348631,
+      "lockStatus": "UNLOCKED",
+      "lockStatusReason": "NONE"
+    }
+  ]
 }
 ```

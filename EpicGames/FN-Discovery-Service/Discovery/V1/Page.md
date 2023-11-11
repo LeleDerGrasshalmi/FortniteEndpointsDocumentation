@@ -52,10 +52,12 @@ _Example Response (shortened)_
 {
   "results": [
     {
-      "lastVisited": null,
-      "linkCode": "playlist_nobuildbr_solo",
-      "isFavorite": false,
-      "globalCCU": 58843
+      "linkCode": "campaign",
+      "isFavorite": true,
+      "globalCCU": 45383,
+      "lockStatus": "UNLOCKED",
+      "lockStatusReason": "NONE",
+      "isVisible": true
     }
   ],
   "hasMore": false

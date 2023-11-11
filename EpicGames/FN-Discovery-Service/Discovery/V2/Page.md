@@ -53,27 +53,21 @@ _Example Response (shortened)_
   "results": [
     {
       "lastVisited": null,
-      "linkCode": "3829-1693-8905",
+      "linkCode": "6599-0595-7925",
       "isFavorite": false,
-      "globalCCU": 2
+      "globalCCU": 19,
+      "lockStatus": "UNLOCKED",
+      "lockStatusReason": "NONE",
+      "isVisible": true
     },
     {
       "lastVisited": null,
-      "linkCode": "0482-1284-7823",
+      "linkCode": "2114-1274-7328",
       "isFavorite": false,
-      "globalCCU": 138
-    },
-    {
-      "lastVisited": null,
-      "linkCode": "3522-1332-2508",
-      "isFavorite": false,
-      "globalCCU": 1
-    },
-    {
-      "lastVisited": null,
-      "linkCode": "4243-3675-9905",
-      "isFavorite": false,
-      "globalCCU": -1
+      "globalCCU": -1,
+      "lockStatus": "UNLOCKED",
+      "lockStatusReason": "NONE",
+      "isVisible": true
     }
   ],
   "hasMore": false,

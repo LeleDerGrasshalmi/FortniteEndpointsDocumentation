@@ -51,28 +51,34 @@ _Example Response (shortened)_
 
 ```json
 {
-  "testVariantName": "BrowseVariant1",
-  "testName": "BrowseManyVariants_DiffFeatured",
-  "testAnalyticsId": "v2|939|9c3e989d15fcfceb4ea90f08af55ad67",
-  "testVariantAnalyticsId": "v2_v1_c1396",
+  "testVariantName": "V1_EU_1_4",
+  "testName": "27.00_11/03/2023_HomebarRPTest",
+  "testAnalyticsId": "v2|1011|6e5dfa45cf32e36e3e75c7ac47514fc3",
+  "testVariantAnalyticsId": "v2_v22_c1665",
   "panels": [
     {
-      "panelName": "Featured_B",
-      "panelDisplayName": "Featured",
-      "featureTags": null,
+      "panelName": "Homebar2",
+      "panelDisplayName": "Homebar",
+      "featureTags": ["col:5", "homebar"],
       "firstPage": {
         "results": [
           {
             "lastVisited": null,
-            "linkCode": "reference_panel_new_combat",
+            "linkCode": "reference_joinableparties_2",
             "isFavorite": false,
-            "globalCCU": -1
+            "globalCCU": -1,
+            "lockStatus": "UNLOCKED",
+            "lockStatusReason": "NONE",
+            "isVisible": true
           },
           {
             "lastVisited": null,
-            "linkCode": "reference_panel_horror",
+            "linkCode": "reference_current_island",
             "isFavorite": false,
-            "globalCCU": -1
+            "globalCCU": -1,
+            "lockStatus": "UNLOCKED",
+            "lockStatusReason": "NONE",
+            "isVisible": true
           }
         ],
         "hasMore": false,
@@ -82,22 +88,19 @@ _Example Response (shortened)_
       "playHistoryType": null
     },
     {
-      "panelName": "BrowseNewUpdatesThisWeek",
-      "panelDisplayName": "New Updates This Week",
-      "featureTags": null,
+      "panelName": "ByEpicNoBigBattle6ColRanked",
+      "panelDisplayName": "By Epic",
+      "featureTags": ["col:5"],
       "firstPage": {
         "results": [
           {
-            "lastVisited": null,
-            "linkCode": "0482-1284-7823",
-            "isFavorite": false,
-            "globalCCU": 166
-          },
-          {
-            "lastVisited": null,
-            "linkCode": "4196-3017-8839",
-            "isFavorite": false,
-            "globalCCU": -1
+            "lastVisited": "2023-09-24T13:23:39.954Z",
+            "linkCode": "playlist_playgroundv2",
+            "isFavorite": true,
+            "globalCCU": 46479,
+            "lockStatus": "UNLOCKED",
+            "lockStatusReason": "NONE",
+            "isVisible": true
           }
         ],
         "hasMore": false,
