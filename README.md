@@ -31,6 +31,7 @@ Web APIs however are a bit different, these require web login cookies.
   - [PRM Dialog Service](./EpicGames/PRMDialogService)
   - [Stats Proxy Service](./EpicGames/StatsProxyService)
   - [User Search Service](./EpicGames/UserSearchService)
+  - [Wasp Service](./EpicGames/WaspService)
   - [Wex Service](./EpicGames/WexService)
   - [Web APIs](./EpicGames/Web)
     - [Affiliate (SAC)](./EpicGames/Web/Affiliate)
