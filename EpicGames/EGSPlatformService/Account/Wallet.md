@@ -1,4 +1,4 @@
-## EGS Platform Service - Account Wallet
+## EGS Platform Service - Account: Wallet
 
 URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/account/wallet \
 Method: GET \
@@ -11,7 +11,7 @@ Auth Required: Yes (apparently `reward:public:{accountId}:reward-accounts	READ`)
 
 ---
 
-Example Response
+_Example Response_
 
 ```json
 {

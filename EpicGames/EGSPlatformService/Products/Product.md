@@ -16,7 +16,7 @@ Auth Required: No
 
 ---
 
-Example Response
+_Example Response_
 
 ```json
 {
