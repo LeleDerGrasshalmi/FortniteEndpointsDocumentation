@@ -1,5 +1,12 @@
 # Epic Games - API Documentation
 
+## Getting started
+
+If you are new to this, you should first check out the [getting started guide for authentication](./EpicGames/AccountService/Authentication/README.md#getting-started).
+
+All requests that require normal authentication require the `Authentication` header with the access token, like `bearer {accessToken}`. <br/>
+Web APIs however are a bit different, these require web login cookies.
+
 ## Content
 
 - [Epic Games](./EpicGames)
