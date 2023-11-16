@@ -13,6 +13,4 @@ Auth Required: Yes
 
 `playlist`: e.g. `pc_m0_p10` (PC - Duos)
 
----
-
-Has been removed ages ago.
+> Has been removed ages ago.
