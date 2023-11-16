@@ -24,8 +24,8 @@ Auth Required: Yes (`discovery:search:{accountId} READ`)
 `locale`: Language of your input <br/>
 `search`: Search Query Input <br/>
 `orderBy`: What key the entries should be ordered by <br/>
-`ratingAuthority`: Unknown, iarc? <br/>
-`rating`: Unknown <br/>
+`ratingAuthority`: The Authority used by the client e.g. `USK` <br/>
+`rating`: The Rating expected by the client for the given authority, e.g. `USK_AGE_12` for USK 12+
 `page`: Paging
 
 ## Query Parameters

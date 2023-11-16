@@ -2,7 +2,7 @@
 
 URL: https://emerald-service-live.ecosec.on.epicgames.com/emerald/v1/upload/init \
 Method: POST \
-Auth Required: Yes (`emerald:upload	CREATE`)
+Auth Required: Yes (`emerald:upload CREATE`)
 
 ---
 

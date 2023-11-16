@@ -6,7 +6,9 @@ Auth Required: Yes (`discovery:{accountId}:links:lock-management READ`)
 
 ```json
 {
-  "linkCodes": ["1111-1111-1111"]
+  "linkCodes": ["1111-1111-1111"],
+  "ratingAuthority": "USK",
+  "rating": "USK_AGE_12"
 }
 ```
 
@@ -16,7 +18,9 @@ Auth Required: Yes (`discovery:{accountId}:links:lock-management READ`)
 
 ## Parameters
 
-`linkCodes`: The Mnemonics to check
+`linkCodes`: The Mnemonics to check <br/>
+`ratingAuthority`: The Authority used by the client e.g. `USK` <br/>
+`rating`: The Rating expected by the client for the given authority, e.g. `USK_AGE_12` for USK 12+
 
 ---
 

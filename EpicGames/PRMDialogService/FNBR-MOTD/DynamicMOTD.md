@@ -20,6 +20,8 @@ Auth Required: Yes (Account - `eg1`)
   "filterConsent": false,
   "filterLimited": false,
   "allowedContentTypes": ["functional", "experience", "marketing"],
+  "ratingAuthority": "USK",
+  "rating": "USK_AGE_12",
   "totalHoursPlayed": 10.916666984558105,
   "daysSinceLastSession": 34.688118587962961,
   "dateLastPlayed": "2023-09-26T17:14:13.000Z",

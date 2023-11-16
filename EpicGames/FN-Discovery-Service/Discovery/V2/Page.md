@@ -19,7 +19,9 @@ Auth Required: Yes (`discovery:surface:query READ`)
   "partyMemberIds": ["94b1569506b04f9f8557af611e8c5e47"],
   "matchmakingRegion": "EU",
   "platform": "Windows",
-  "isCabined": false
+  "isCabined": false,
+  "ratingAuthority": "USK",
+  "rating": "USK_AGE_12"
 }
 ```
 
@@ -35,7 +37,9 @@ Auth Required: Yes (`discovery:surface:query READ`)
 `partyMemberIds`: Array of the party member account ids (or an empty array) <br/>
 `matchmakingRegion`: Your matchmaking region (e.g. `EU`) <br/>
 `platform`: Your platform (e.g. `Windows`) <br/>
-`isCabined`: If your Account is in Cabined Mode (from [own account info](../../../AccountService/Account/Lookup/AccountId.md))
+`isCabined`: If your Account is in Cabined Mode (from [own account info](../../../AccountService/Account/Lookup/AccountId.md)) <br/>
+`ratingAuthority`: The Authority used by the client e.g. `USK` <br/>
+`rating`: The Rating expected by the client for the given authority, e.g. `USK_AGE_12` for USK 12+
 
 > Technically the request wont fail if only `testVariantName`, `panelName` and `pageIndex` are provided
 
