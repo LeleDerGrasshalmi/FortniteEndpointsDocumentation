@@ -19,7 +19,9 @@ Auth Required: Yes (`discovery:surface:query READ`)
   "locale": "en",
   "matchmakingRegion": "EU",
   "platform": "Windows",
-  "isCabined": false
+  "isCabined": false,
+  "ratingAuthority": "USK",
+  "rating": "USK_AGE_12"
 }
 ```
 
@@ -36,7 +38,9 @@ Auth Required: Yes (`discovery:surface:query READ`)
 `locale`: Defines in which locale the panel names and data should be <br/>
 `matchmakingRegion`: Your matchmaking region (e.g. `EU`) <br/>
 `platform`: Your platform <br/>
-`isCabined`: If your Account is in Cabined Mode (from [own account info](../../../AccountService/Account/Lookup/AccountId.md))
+`isCabined`: If your Account is in Cabined Mode (from [own account info](../../../AccountService/Account/Lookup/AccountId.md)) <br/>
+`ratingAuthority`: The Authority used by the client e.g. `USK` <br/>
+`rating`: The Rating expected by the client for the given authority, e.g. `USK_AGE_12` for USK 12+
 
 > Technically the request wont fail if you send an empty payload
 

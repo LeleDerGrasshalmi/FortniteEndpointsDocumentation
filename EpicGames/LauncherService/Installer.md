@@ -18,6 +18,7 @@ Auth Required: No
 | UnrealEngineInstaller.msi            | Win UE Installer            | 1.11.4-2452818 |
 | UnrealEngine.dmg                     | Mac EG-Launcher             | 1.11.4-2452818 |
 | F924A9B4AE2D430992775190A895B65A.apk | FN Installer                | 5.2.0          |
+| F924A9B4AE2D430992775190A895B65A.apk | FN Installer                | 5.3.0          |
 | BuildPatchTool.zip                   | BuildPatchTool Files        | 1.5.1          |
 
 ---
