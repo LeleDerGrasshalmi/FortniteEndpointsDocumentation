@@ -13,7 +13,7 @@ Auth Required: Yes (client_credentials of the client you are trying to authentic
 
 ## Parameters
 
-`continuation`: From the Error Response <br/>
+`continuation`: From the [Error Response](./README.md) <br/>
 `dateOfBirth`: Format is `YYYY-MM-DD`
 
 ---
