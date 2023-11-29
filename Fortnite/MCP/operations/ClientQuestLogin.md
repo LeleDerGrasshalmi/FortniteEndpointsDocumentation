@@ -1,6 +1,6 @@
 # ClientQuestLogin
 
-**Description**: `Generates Quests, if not already done` \
+**Description**: `Updates Profile (used for checking if quest state changed)` \
 **Profiles**: `athena`, `campaign`
 
 ## Body
