@@ -10,7 +10,7 @@ Auth Required: Yes (`rankings:{namespace}:tracks READ`)
 
 # Query Parameters
 
-`endsAfter`: (optional), ISO Date (Start Date of the Data)
+`endsAfter`: (optional), ISO Date (Filteres that the tracks end after that date)
 
 ---
 
