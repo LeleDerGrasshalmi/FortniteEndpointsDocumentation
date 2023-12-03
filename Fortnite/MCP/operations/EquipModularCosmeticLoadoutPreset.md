@@ -1,6 +1,6 @@
-# DeleteModularCosmeticLoadout
+# EquipModularCosmeticLoadoutPreset
 
-**Description**: `Delete cosmetic loadout for a specific section` \
+**Description**: `Equip a specific loadout section` \
 **Profiles**: `athena`
 
 ## Body
