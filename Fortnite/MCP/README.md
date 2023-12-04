@@ -35,6 +35,7 @@
 | theater1                    | Events Backpack (e.g. Frostnite, Hit the Road etc...)                                                       |
 | theater2                    | Ventures data                                                                                               |
 | recycle_bin                 | Stw Recycle Bin                                                                                             |
+| proto_juno                  | Related to `ProtoJuno_*` Operations, relict from lego testing (now its a own service, not mcp related)      |
 | profile0                    | Relict that doesnt exist anymore since a long time, basicly like common_core from alpha/beta                |
 
 <br/>

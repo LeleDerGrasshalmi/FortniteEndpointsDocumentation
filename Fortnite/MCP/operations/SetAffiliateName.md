@@ -7,6 +7,6 @@
 
 ```js
 {
-    "affiliateName": "Lele"
+    "affiliateName": "Lele" // new sac
 }
 ```
