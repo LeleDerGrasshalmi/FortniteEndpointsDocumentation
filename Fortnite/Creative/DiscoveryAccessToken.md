@@ -56,3 +56,4 @@ _Example Response_
 | ++Fortnite+Release-27.10 | JtloXbI7IemVrVupzhgqpOxUQ1aGHNJbJulU4w8AO+4= | Lele                                                                                                               |
 | ++Fortnite+Release-27.11 | Kgw5gZDIH+KhwXb+k7J2RBUMJYaUUNqPhGWVl44VMsg= | Lele                                                                                                               |
 | ++Fortnite+Release-28.00 | q5WPkpqBgE/m3M/nrBnvz5909Ko5WzcEeCUaxhCYfIg= | Anto                                                                                                               |
+| ++Fortnite+Release-28.01 | VcNps1e7qJEqZbQ2tzEb5OOD+JM7McOPu7H4hyap6PE= | Anto                                                                                                               |
