@@ -1,6 +1,6 @@
 ## Wasp Service - Create World within Namespace
 
-URL: https://wasp-service-prod-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/account/:accountId \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/account/:accountId \
 Method: POST \
 Auth Required: Yes (`wasp:{namespaceId}:world CREATE`)
 

@@ -1,6 +1,6 @@
 ## Wasp Service - Get Account World Grants
 
-URL: https://wasp-service-prod-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/grants/world/:worldId/account/:accountId \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/grants/world/:worldId/account/:accountId \
 Method: GET \
 Auth Required: Yes (`wasp:{namespaceId}:grant READ`)
 

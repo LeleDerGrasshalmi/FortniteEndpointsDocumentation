@@ -1,6 +1,6 @@
 ## Wasp Service - Generate World Token (For MMS)
 
-URL: https://wasp-service-prod-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/attest/:accountId \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/attest/:accountId \
 Method: GET \
 Auth Required: Yes (`wasp:{namespaceId}:world READ`)
 

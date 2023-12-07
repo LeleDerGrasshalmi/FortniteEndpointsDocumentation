@@ -1,6 +1,6 @@
 ## Wasp Service - Delete World within Namespace
 
-URL: https://wasp-service-prod-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId \
 Method: DELETE \
 Auth Required: Yes (`wasp:{namespaceId}:world DELETE`)
 

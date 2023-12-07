@@ -1,6 +1,6 @@
 ## Wasp Service - Heartbeat World Session within Namespace
 
-URL: https://wasp-service-prod-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/session/heartbeat \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/session/heartbeat \
 Method: PUT \
 Auth Required: Yes (`wasp:{namespaceId}:session UPDATE`)
 
