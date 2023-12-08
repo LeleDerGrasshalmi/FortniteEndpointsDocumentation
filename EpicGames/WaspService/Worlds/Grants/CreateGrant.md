@@ -1,7 +1,7 @@
 ## Wasp Service - Create Worlds Grant
 
 URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/grants/world/:worldId \
-Method: GET \
+Method: POST \
 Auth Required: Yes (`wasp:{namespaceId}:grant CREATE`)
 
 ## Path Parameters

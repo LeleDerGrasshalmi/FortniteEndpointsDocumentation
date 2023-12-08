@@ -11,6 +11,21 @@ Auth Required: Yes (`wasp:{namespaceId}:session READ`)
 
 ---
 
+_Example Response_
+
+```json
+{
+  "namespaceId": "fn",
+  "worldId": "9f5f4fe52d594e0abe3bca3edf62899f",
+  "owningSessionId": "a9c000a954e64c328fd925b5953f30b5",
+  "sessionKey": "AFD235593B504E6EA9007E1FB5BC8F20",
+  "currentPlayers": ["94b1569506b04f9f8557af611e8c5e47"],
+  "sessionCreatedAt": "2023-12-08T16:51:31.912Z",
+  "lastServerHeartbeat": "2023-12-08T18:48:07.543112137Z",
+  "totalSecondsPlayed": null
+}
+```
+
 _Example Response (no session)_
 
 ```json

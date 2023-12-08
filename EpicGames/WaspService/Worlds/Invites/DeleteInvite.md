@@ -1,7 +1,7 @@
 ## Wasp Service - Delete World Invite
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/ownedBy/:accountId \
-Method: POST \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/invites/world/:worldId \
+Method: DELETE \
 Auth Required: Yes (`wasp:{namespaceId}:invite DELETE`)
 
 ## Path Parameters

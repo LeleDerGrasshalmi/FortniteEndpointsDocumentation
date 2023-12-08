@@ -1,6 +1,6 @@
 ## Wasp Service - World Invites
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/ownedBy/:accountId \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/invites/world/:worldId \
 Method: GET \
 Auth Required: Yes (`wasp:{namespaceId}:invite READ`)
 
