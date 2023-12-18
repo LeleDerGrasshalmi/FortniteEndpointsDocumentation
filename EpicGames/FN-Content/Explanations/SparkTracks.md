@@ -73,13 +73,13 @@ Each Track is a object in the root object, each `track` object has the following
 | siv                  | string   |                                 |
 | su                   | string   | Event UUID                      |
 | in                   | object   |                                 |
-| in.pb                | int      |                                 |
-| in.pd                | int      |                                 |
-| in.vl                | int      |                                 |
-| in.pg                | int      |                                 |
-| in.gr                | int      |                                 |
-| in.ds                | int      |                                 |
-| in.ba                | int      |                                 |
+| in.pb                | int      | Plastic Bass Difficulty         |
+| in.pd                | int      | Plastic Drums Difficulty        |
+| in.vl                | int      | Vocals Difficulty               |
+| in.pg                | int      | Plastic Guitar Difficulty       |
+| in.gr                | int      | Guitar Difficulty               |
+| in.ds                | int      | Drums Difficulty                |
+| in.ba                | int      | Bass Difficulty                 |
 | ry                   | int      | Track Release Year              |
 | mt                   | int      |                                 |
 | mu                   | string   | binary data url                 |
