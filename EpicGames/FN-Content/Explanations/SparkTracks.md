@@ -70,9 +70,9 @@ Each Track is a object in the root object, each `track` object has the following
 | -------------------- | -------- | ------------------------------- |
 | tt                   | string   | Track title                     |
 | mm                   | string   | MIDI Type                       |
-| siv                  | string   |                                 |
+| siv                  | string   | Starting Instrument Vocals      |
 | su                   | string   | Event UUID                      |
-| in                   | object   |                                 |
+| in                   | object   | Song Difficulties               |
 | in.pb                | int      | Plastic Bass Difficulty         |
 | in.pd                | int      | Plastic Drums Difficulty        |
 | in.vl                | int      | Vocals Difficulty               |
@@ -82,24 +82,24 @@ Each Track is a object in the root object, each `track` object has the following
 | in.ba                | int      | Bass Difficulty                 |
 | ry                   | int      | Track Release Year              |
 | mt                   | int      |                                 |
-| mu                   | string   | binary data url                 |
+| mu                   | string   | MIDI Data URL                   |
 | dn                   | int      |                                 |
-| sib                  | string   |                                 |
+| sib                  | string   | Starting Instrument Bass        |
 | an                   | string   | Artist name                     |
 | gt                   | string[] | Gameplay tags                   |
-| sid                  | string   |                                 |
-| sig                  | string   |                                 |
-| au                   | string   | song icon url                   |
+| sid                  | string   | Starting Instrument Drums       |
+| sig                  | string   | Starting Instrument Guitar      |
+| au                   | string   | Album Art URL                   |
 | ti                   | string   | Template Id                     |
-| qi                   | string   | Stringified json object         |
+| qi                   | string   | Quicksilver Data                |
 | qi.sid               | string   | Song streaming UUID             |
 | qi.pid               | string   | Preview streaming UUID          |
 | qi.title             | string   | Short song title                |
 | qi.tracks            | object[] | Track data                      |
 | qi.preview           | object   | Preview data                    |
 | qi.preview.starttime | float    | Preview start time (in seconds) |
-| ld                   | string   | lipsync data url                |
-| jc                   | string   | Join code (link code)           |
+| ld                   | string   | Lipsync Data URL                |
+| jc                   | string   | Jam Link Code                   |
 | sn                   | string   | Track Name for API              |
 | ge                   | string[] | Song Genre                      |
-| mk                   | string   |                                 |
+| mk                   | string   | Music Key                       |
