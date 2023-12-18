@@ -15,7 +15,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | fortniteCNGameClient                               | efe3cbb938804c74b20e109d0efc1548 | 6e31bdbae6a44f258474733db74f39ba     |
 | fortniteComClient                                  | cd2b7c19c9734a2ab98dc251868d7724 |                                      |
 | fortnitePS4EUGameClient                            | 79a931b375334570ac369234f5da05ec |                                      |
-| fortnitePS4USGameClient                            | d8566f2e7f5c48f89683173eb529fee1 |                                      |
+| fortnitePS4USGameClient                            | d8566f2e7f5c48f89683173eb529fee1 | 255c7109c8274241986616e3702678b5     |
 | fortnitePS5EUGameClient                            | 386cbbc78d57464181005c3f7edfad0d |                                      |
 | fortnitePS5USGameClient                            | 03f2645147214e1ab368caa78c5fca81 |                                      |
 | fortnitePS5USGameClientTest                        | 3cf19c6ba05a4fa3997957491e15ba1c |                                      |
