@@ -80,7 +80,7 @@ Each Track is a object in the root object, each `track` object has the following
 | in.gr                | int      |                                 |
 | in.ds                | int      |                                 |
 | in.ba                | int      |                                 |
-| ry                   | int      |                                 |
+| ry                   | int      | Track Release Year              |
 | mt                   | int      |                                 |
 | mu                   | string   | binary data url                 |
 | dn                   | int      |                                 |
@@ -100,6 +100,6 @@ Each Track is a object in the root object, each `track` object has the following
 | qi.preview.starttime | float    | Preview start time (in seconds) |
 | ld                   | string   | lipsync data url                |
 | jc                   | string   | Join code (link code)           |
-| sn                   | string   |                                 |
-| ge                   | string[] |                                 |
+| sn                   | string   | Track Name for API              |
+| ge                   | string[] | Song Genre                      |
 | mk                   | string   |                                 |
