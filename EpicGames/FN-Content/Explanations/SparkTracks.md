@@ -69,7 +69,7 @@ Each Track is a object in the root object, each `track` object has the following
 | Property             | Type     | Explanaition                    |
 | -------------------- | -------- | ------------------------------- |
 | tt                   | string   | Track title                     |
-| mm                   | string   |                                 |
+| mm                   | string   | MIDI Type                       |
 | siv                  | string   |                                 |
 | su                   | string   | Event UUID                      |
 | in                   | object   |                                 |
