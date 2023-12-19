@@ -83,7 +83,7 @@ Each Track is a object in the root object, each `track` object has the following
 | ry                   | int      | Track Release Year              |
 | mt                   | int      | BPM/tempo                       |
 | mu                   | string   | MIDI Data URL                   |
-| dn                   | int      |                                 |
+| dn                   | int      | Duration in seconds             |
 | sib                  | string   | Starting Instrument Bass        |
 | an                   | string   | Artist name                     |
 | gt                   | string[] | Gameplay tags                   |
