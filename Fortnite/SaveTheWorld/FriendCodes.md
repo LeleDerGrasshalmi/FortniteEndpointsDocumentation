@@ -19,7 +19,7 @@ _Example Response_
     "codeId": "WD3TC352GE84SCLPEXMA",
     "codeType": "CodeToken:mobileinvite",
     "dateCreated": "2018-03-27T16:54:41.385Z"
-  }
+  },
   {
     "codeId": "WD3TC352GE84SCLPEXMA",
     "codeType": "CodeToken:founderfriendinvite",
