@@ -81,7 +81,7 @@ Each Track is a object in the root object, each `track` object has the following
 | in.ds                | int      | Drums Difficulty                |
 | in.ba                | int      | Bass Difficulty                 |
 | ry                   | int      | Track Release Year              |
-| mt                   | int      |                                 |
+| mt                   | int      | BPM/tempo                       |
 | mu                   | string   | MIDI Data URL                   |
 | dn                   | int      |                                 |
 | sib                  | string   | Starting Instrument Bass        |
@@ -102,4 +102,4 @@ Each Track is a object in the root object, each `track` object has the following
 | jc                   | string   | Jam Link Code                   |
 | sn                   | string   | Track Name for API              |
 | ge                   | string[] | Song Genre                      |
-| mk                   | string   | Music Key                       |
+| mk                   | string   | related to the chord (A-G)      |

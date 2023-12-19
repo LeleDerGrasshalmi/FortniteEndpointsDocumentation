@@ -28,8 +28,7 @@ _Example Response_
       "hasBattlePass": false,
       "playRegion": "EUROPE",
       "hasCrewMembership": false,
-      "languages": ["en"],
-      "seasonLevel": 1
+      "languages": ["en"]
     }
   ]
 }
