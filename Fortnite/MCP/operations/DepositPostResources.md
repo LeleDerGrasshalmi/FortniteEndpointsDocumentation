@@ -1,7 +1,7 @@
 # DepositPostResources
 
 **Description**: `Transfer items from backpack to deposit` \
-**Profiles**: `theater0`
+**Profiles**: `theater0` \
 **Note**: `DedicatedServer ONLY`
 
 
