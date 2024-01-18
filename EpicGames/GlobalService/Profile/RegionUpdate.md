@@ -17,6 +17,7 @@ Auth Required: Yes (No Perm required)
 `play_region`:
 
 - UNDEFINED_REGION
+- NA_CENTRAL
 - NA_EAST
 - NA_WEST
 - EUROPE
