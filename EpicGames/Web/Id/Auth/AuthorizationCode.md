@@ -6,17 +6,24 @@ Auth Required: Yes
 
 ## Query Parameters
 
-`clientId`: The Id of the Client that the Authorization Code should be issued for <br/>
-`responseType`: Must be `code` <br/>
+`clientId`: The ID of the Client that the Authorization Code should be issued for <br/>
+`responseType`: The responseType you want to use (for non-EOS Clients: `code`, `eula_token` for EOS Clients: `code`) <br/>
+`provider`: (optional) The external account provider (ex. psn, nintendo, ps5, xbox, vk, apple, lego) <br/>
+`state`: (optional) The login state obtained from [here](../CreateOAuthState.md) <br/>
+`userCode`: (optional) A valid [User Code](../../../AccountService/Authentication/DeviceCode/Create.md) <br/>
+`continuation`: (optional) A valid Continuation Token <br/>
 `exchangeCode`: (optional), a valid exchange code (the usage is unknown) <br/>
 `codeChallenge`: (optional), a PKCE code challenge <br/>
 `codeChallengeMethod`: (optional), the method used to generate the code challenge (`S256` or `plain`) <br/>
-`scope`: (optional), a space seperated list of scopes <br/>
+`nonce`: (optional) A valid [OpenID Nonce](https://curity.io/resources/learn/nonce-authenticator-pattern/#:~:text=The%20nonce%20authenticator%20pattern%20enables,session%20in%20the%20target%20application.&usg=AOvVaw2AvRUGFE9xV6e0C4-ifp_P&opi=89978449) <br/>
+`scope`: (optional), A space seperated list of scopes <br/>
+`eula`: (optional, deprecated), A valid eula ID (ex. `fn`, `tos`) <br/>
+`prompt`: (optional), The redirect prompt, (ex. `none`, `login`, `new_session`, `register`, `consent`, `pass_through`, `2nd_domain`, `upgrade`)  <br/>
 `redirectUrl`: (optional), Automaticly redirect to that URL with the `code` Query being set to the created Authorization Code
 
 ---
 
-_Example Response_
+_Example Response (responseType=code)_
 
 ```json
 {
@@ -24,5 +31,15 @@ _Example Response_
   "authorizationCode": "c5a0b794bd5b4fb39d5d7b9e32b43f12",
   "exchangeCode": null
   "sid": null
+}
+```
+_Example Response (responseType=eula_token or no responseType specified)_
+
+```json
+{
+   "redirectUrl":"https://epicgames.com/account/personal",
+   "authorizationCode":null,
+   "exchangeCode":null,
+   "sid":"54719c4b12444f6695f4c2aab2fced99"
 }
 ```
