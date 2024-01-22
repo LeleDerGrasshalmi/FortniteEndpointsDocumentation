@@ -19,7 +19,7 @@ Auth Required: Yes
 `scope`: (optional), A space seperated list of scopes <br/>
 `eula`: (optional, deprecated), A valid eula ID (ex. `fn`, `tos`) <br/>
 `prompt`: (optional), The redirect prompt, (ex. `none`, `login`, `new_session`, `register`, `consent`, `pass_through`, `2nd_domain`, `upgrade`)  <br/>
-`redirectUrl`: (optional), The URL to redirect with the `code` Param being set to the created Authorization Code
+`redirectUrl`: (optional), The URL to redirect t
 
 ---
 
