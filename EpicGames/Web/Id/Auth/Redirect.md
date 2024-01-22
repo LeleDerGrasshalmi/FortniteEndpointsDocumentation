@@ -15,7 +15,7 @@ Auth Required: Yes
 `exchangeCode`: (optional), a valid exchange code (the usage is unknown) <br/>
 `codeChallenge`: (optional), a PKCE code challenge <br/>
 `codeChallengeMethod`: (optional), the method used to generate the code challenge (`S256` or `plain`) <br/>
-`nonce`: (optional) A valid [OpenID Nonce](https://curity.io/resources/learn/nonce-authenticator-pattern/#:~:text=The%20nonce%20authenticator%20pattern%20enables,session%20in%20the%20target%20application.&usg=AOvVaw2AvRUGFE9xV6e0C4-ifp_P&opi=89978449) <br/>
+`nonce`: (optional) A random value used to associate a request to a token. This value is reflected inside of epic_id tokens and id tokens. <br/>
 `scope`: (optional), A space seperated list of scopes <br/>
 `eula`: (optional, deprecated), A valid eula ID (ex. `fn`, `tos`) <br/>
 `prompt`: (optional), The redirect prompt, (ex. `none`, `login`, `new_session`, `register`, `consent`, `pass_through`, `2nd_domain`, `upgrade`)  <br/>
