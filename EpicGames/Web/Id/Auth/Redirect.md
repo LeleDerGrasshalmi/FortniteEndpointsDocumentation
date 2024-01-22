@@ -1,4 +1,4 @@
-## Id Web - Create Authorization Code
+## Id Web - Redirect
 
 URL: https://www.epicgames.com/id/api/redirect \
 Method: GET \
