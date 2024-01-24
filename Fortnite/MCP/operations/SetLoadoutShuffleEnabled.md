@@ -1,12 +1,12 @@
 # SetLoadoutShuffleEnabled
-**Description**: `Enables Loadout Shuffle` \
+**Description**: `Enables shuffle for the specified loadout section.` \
 **Profile**: `athena`
 
 ## Body
 
 ```js
 {
-    "loadoutType": "CosmeticLoadout:LoadoutSchema_Jam", // The Loadout Schema you want to use (see formating in the example!)
-    "bEnabled": false // false or true
+    "loadoutType": ":LoadoutSchema_Jam", // The Loadout Section, see 'PutModularCosmeticLoadout' operation for possible values
+    "bEnabled": false // Boolean
 }
 ```
