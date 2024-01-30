@@ -70,7 +70,7 @@ Each Track is a object in the root object, each `track` object has the following
 | -------------------- | -------- | ------------------------------- |
 | tt                   | string   | Track Title                     |
 | mm                   | string   | Scale                           |
-| mk                   | string   | Key                             |
+| siv                  | string   | Starting Instrument Vocals      |
 | su                   | string   | Event UUID                      |
 | in                   | object   | Song Difficulties               |
 | in.pb                | int      | Plastic Bass Difficulty         |
@@ -84,10 +84,9 @@ Each Track is a object in the root object, each `track` object has the following
 | mt                   | int      | BPM/Tempo                       |
 | mu                   | string   | Encrypted MIDI Data URL         |
 | dn                   | int      | Duration (in seconds)           |
+| sib                  | string   | Starting Instrument Bass        |
 | an                   | string   | Artist Name                     |
 | gt                   | string[] | Gameplay Tags                   |
-| sib                  | string   | Starting Instrument Bass        |
-| siv                  | string   | Starting Instrument Vocals      |
 | sid                  | string   | Starting Instrument Drums       |
 | sig                  | string   | Starting Instrument Guitar      |
 | au                   | string   | Album Art URL                   |
@@ -103,3 +102,4 @@ Each Track is a object in the root object, each `track` object has the following
 | jc                   | string   | Jam Link Code                   |
 | sn                   | string   | Track Name for API              |
 | ge                   | string[] | Song Genre                      |
+| mk                   | string   | Key                             |
