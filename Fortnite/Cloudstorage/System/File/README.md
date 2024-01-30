@@ -4,7 +4,7 @@ There are restricted System Files, examples for those are the Dedicated Server h
 
 ---
 
-Back then you used to get a permission erorr like the following:
+Back then you used to get a permission error like the following:
 
 ```json
 {

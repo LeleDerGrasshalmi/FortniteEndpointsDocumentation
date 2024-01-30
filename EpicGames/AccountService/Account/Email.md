@@ -7,3 +7,9 @@ Auth Required: Yes (`account:accounts:email:sendConfirmation CREATE`)
 ## Path Parameters
 
 `accountId`: The target account id
+
+---
+
+_Example Response_
+
+Status 204

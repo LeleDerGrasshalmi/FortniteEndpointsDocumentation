@@ -44,7 +44,7 @@ When you decide to authenticate as a account, you need to choose the way to auth
 Using the authorization code is usually the easiest:
 
 1. Login to epicgames.com
-2. Check out the [authorization code creation web api](../../Web/Id/Auth/AuthorizationCode.md) docs how to create such a code
+2. Check out the [authorization code creation web api](../../Web/Id/Auth/Redirect.md) docs how to create such a code
 3. Send the request to exchange the code for a authentication session
 
 ```http
