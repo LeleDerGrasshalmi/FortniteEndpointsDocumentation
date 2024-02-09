@@ -1,6 +1,6 @@
 ## Fortnite - Cloudstorage: Create User File
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId \
 Method: POST \
 Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{filename} CREATE`)
 
