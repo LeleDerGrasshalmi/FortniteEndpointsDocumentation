@@ -6,8 +6,8 @@ Auth Required: Yes (User Auth for FN)
 
 # Path Parameters
 
-`friendId`: Your Friends Account Id <br/>
-`offerId`: The Url Encoded Offer Id
+`friendId`: Friends account id <br/>
+`offerId`: URL encoded offer id
 
 ---
 

@@ -4,6 +4,10 @@ URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/keyc
 Method: GET \
 Auth Required: Yes (`fortnite:storefront READ`)
 
+## Query Parameters
+
+`numKeysDownloaded`: optional parameter, that is always 0 and has a unknown meaning
+
 ---
 
 _Example Response (shortened)_
