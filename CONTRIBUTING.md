@@ -9,8 +9,6 @@
 - Markdown formatting (Visual Studio Code)
 - Include an example response (shortened)
 
-<br/>
-
 ---
 
 ## APIs
@@ -73,7 +71,7 @@ Auth Required: {Yes/No} ({Permission})
 # [h1] {Operation}
 
 **Description**: `{description}` <br/>
-**Profiles**: `{profileId1}`, `{profileId2}`
+**Profiles**: `{profile_id_1}`, `{profile_id_2}`
 
 ## Body
 
@@ -81,7 +79,7 @@ Auth Required: {Yes/No} ({Permission})
 
 ```js
 {
-    "{property}": "{example_value}" // {property_description}
+    "{property_name}": "{example_value}" // {property_description}
 }
 ```
 
@@ -89,3 +87,4 @@ Auth Required: {Yes/No} ({Permission})
 
 - 1 Space after the Comment Start
 - Dont use all LowerCase e.g. "item guid" -> "Item GUID"
+- If its an enum, then include all possible values
