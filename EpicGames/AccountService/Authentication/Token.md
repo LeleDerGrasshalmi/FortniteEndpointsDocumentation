@@ -9,6 +9,7 @@ Auth Required: Yes (Basic Authentication where the username is the Client Id and
 ## Headers
 
 `Content-Type`: application/x-www-form-urlencoded
+`X-Epic-Device-ID`: A random value used to identify a device.
 
 ## Body
 
