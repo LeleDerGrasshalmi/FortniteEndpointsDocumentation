@@ -1,3 +1,4 @@
 # Fortnite Service
 
-Source Package: `com.epicgames.fortnite`
+Source Package: `com.epicgames.fortnite` <br/>
+Language: `Java`
