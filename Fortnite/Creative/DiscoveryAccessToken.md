@@ -61,3 +61,4 @@ _Example Response_
 | ++Fortnite+Release-28.20 | gDeqj6HKzLl/QIVFRhXf7t8jh7nTZ7espP2EERWGUdg= | Squark                                                                                                             |
 | ++Fortnite+Release-28.30 | MTjc84QkNA2CYmorxk6NoqhmvFlmxN3E8g1CC3Wip88= | Lele                                                                                                               |
 | ++Fortnite+Release-29.00 | FbYgXjfhIa9jDnlYo8Nf/YowC781cKcGxeAgI3CpNXE= | Lele                                                                                                               |
+| ++Fortnite+Release-29.01 | IAAPLh+h1418OUgGJJ32J+VVl0+y0J32n2sG+txMBzg= | Lele                                                                                                               |
