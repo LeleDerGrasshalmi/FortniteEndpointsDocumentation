@@ -1,0 +1,137 @@
+# Profile Version History (Migrations)
+
+## Athena
+
+- style_adds_streetracers_fishguy_may_2019
+- season19_1910_GrantWeeklyTokens_Jan_2022
+- season19_1920_ValueAdds_Feb_2022
+- season19_1940_ValueAdds_Mar_2022
+- season20_2000_CleanupVariantTokens_Mar_2022
+- season20_2030_ValueAdds_May_2022
+- season20_2040_FixBeachJules_May_2022
+- season21_2100_CleanupConsoleStyleBVariants_Jun_2022
+- season21_2110_Elastic_Monochrome_V4_Jun_2022
+- season21_2130_ValueAdds_Jul_2022
+- season21_2140_ValueAdds_Aug_2022
+- season21_2150_Kintoun_Tokenless_Refund_Aug_2022
+- season22_2200_ValueAdds_Sep_2022
+- season22_2210_ValueAdds_Oct_2022
+- season22_2220_ValueAdds_Oct_2022
+- season22_2230_FixupLoadingScreenPurchase_Nov_2022
+- season22_2240_RepairS17ChallengeBundle_Nov_2022
+- season23_2300_Chap4LobbyMusicGrant_Dec_2022
+- season23_2310_ValueAdds_Dec_2022
+- season23_2320_CleanupWeeklyQuests_Jan_2023
+- season23_2340_ValueAdds_Feb_2023
+- season24_2400_ExtendProgressiveBackblingEvent_Mar_2023
+- season24_2410_FixupSpringActivationBundle_Mar_2023
+- season24_2420_ValueAdds_Mar_2023
+- season25_2500_FixMayaVariantLockerRandomizer_June_2023
+- season25_2510_HandleRenamedQuestTemplate_June_2023
+- season25_2511_WeeklyQuestRewardGrant_June_2023
+- season25_2520_FixQuestFromCompetitive_July_2023
+- season25_2530_StoriesQuestBundleFix_Aug_2023
+- season26_2600_FixBelongTreatyQuests_Aug_2023
+- season26_2630_ValueAddsPart2_Oct_2023
+- season27_2700_FixCreativeGranterQuests_Nov_2023
+- season27_2711_RemoveOrphanLollipopQuest_Nov_2023
+- season28_2800_DurianMakeGoodBackbling_Dec_2023
+- season28_2810_DefaultVehicleCosmetics_Jan_2024
+- season28_2830_FixSparksPlayEventQuest_LinedNotebook_Punchcard_Feb_2024
+- season29_2900_RemoveOrphanedCreativeLinedNotebookQuests_Mar_2024
+- season29_2901_FixupSpeedRunQuests_Mar_2024
+
+## Common Core
+
+- refund_token_refresh_fixup_dec_2021
+- auto_favorite_stw_feb_2022
+- the_great_spectator_token_reset_feb_2022 2022-04-21T06:02:41.695Z
+- beachJules_tokenless_refund_may_2022
+- fixupRefreshTimers_Oct_2022
+- liveMigration_Nov_2022
+- season26_2610_JumpSuitPurchaseHistory_Sept_2023
+
+## Creative
+
+- ensure_project_ids_october_2021
+- add_creator_portal_permission_march_2023
+
+## Collections
+
+- season18_1810_clean_character_empty_contextTags_dev_profiles_sept_2021
+- season20_2010_fix_fish_collection_incorrect_items_apr_2022
+- season24_2400_collect_starting_augments_set
+
+## Campaign
+
+- fix_missing_alterations_for_val_march_2021
+- grant_default_lobby_music_february_2022
+- grant_rewards_for_early_quests_march_2022
+- make_good_migration_april_2022
+- refund_gia_perk_august_2022
+- refund_teddy_perks_september_2022
+- stw_quest_xp_november_2022
+- grant_missing_xp_tracking_tokens_december_2022
+- extend_no_dancing_february_2023
+- cleanup_quest_completion_stat_data_bloat_march_2023
+- grant_early_rewards_june_2023
+- season26_2630_RemoveBadBanner_Oct_2023
+- season28_2800_MultiProductLoadouts_Dec_2023
+- cleanup_cosmetics_december_2023
+- refund_blakebeard_feb_2024
+
+## Common Public
+
+- outpost_name_wipe_march_2023
+
+## Metdata
+
+- recover_outpost_metadata_april_2022
+
+## Theater0
+
+- remove_hero_ability_weapons_from_world_items_mar_2019
+- clawback_promotion_dupe_august_2020
+- remove_bars_from_profile_mar_2022
+- remove_bars_from_profile_may_2023
+
+## Theater1
+
+- convert_alteration_definitions_on_world_items_jan_2018
+- remove_bars_from_profile_mar_2022
+
+## Theater2
+
+- clawback_promotion_dupe_august_2020
+- remove_bars_from_profile_mar_2022
+- remove_bars_from_profile_may_2023
+
+## Outpost0
+
+- clawback_promotion_dupe_august_2020
+- remove_bars_from_profile_mar_2022
+- remove_bars_from_profile_may_2023
+
+## Collection Book People
+
+- fix_worker_portrait_name_full_february_2021
+- refund_gia_perk_august_2022
+- refund_plasmacannon_december_2022
+- refund_blakebeard_feb_2024
+
+## Collection Book Schematics
+
+- stw_nerf_resets_december_2019
+- fix_worker_portrait_name_full_february_2021
+- refund_gia_perk_august_2022
+- refund_plasmacannon_december_2022
+- refund_blakebeard_feb_2024
+
+## Recycle Bin
+
+- stw_nerf_resets_december_2019
+- fix_worker_portrait_name_full_february_2021
+
+## Proto Juno
+
+- proto_juno_start
