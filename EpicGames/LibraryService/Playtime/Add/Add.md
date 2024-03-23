@@ -6,10 +6,12 @@ Auth Required: Yes (`library:public:{accountId}:playtime UPDATE`)
 
 ```json
 {
-  "machineId": "0327b13a-27c1-41a0-9478-5c7cf125c48c",
+  "machineId": "5058da6a-4ee8-4370-967f-4bff47a77114",
+  "artifactId": "Fortnite",
   "startTime": "2023-08-25T16:51:36.056Z",
-  "endTime": "2023-08-25T18:10:16.254Z",
-  "artifactId": "Fortnite"
+  "endTime": "2023-08-25T18:13:56.495Z",
+  "startSegment": true,
+  "endSegment": true
 }
 ```
 
@@ -19,10 +21,12 @@ Auth Required: Yes (`library:public:{accountId}:playtime UPDATE`)
 
 ## Parameters
 
-`machineId`: UUIDv4? <br/>
+`machineId`: This is a UUIDv4 <br/>
+`artifactId`: The Artifact Id, e.g. `Fortnite` for Fortnite (See [How to obtain it](../../README.md#obtaining-the-artifact-id)) <br/>
 `startTime`: ISO Start Date (should not be that much before the end date, otherwhise it won't add the playtime) <br/>
 `endTime`: ISO Date, likely the current Date <br/>
-`artifactId`: The Artifact Id, e.g. `Fortnite` for Fortnite (See [How to obtain it](../../README.md#obtaining-the-artifact-id))
+`startSegment`: Unknown, but EGL sets it to true <br/>
+`endSegment`: Unknown, but EGL sets it to true
 
 ---
 
