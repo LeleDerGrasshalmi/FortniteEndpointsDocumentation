@@ -4,6 +4,8 @@ URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/gua
 Method: POST \
 Auth Required: Yes (`account:public:guardians CREATE`)
 
+> This API has been deprecated/removed
+
 ```json
 {
   "guardianEmail": "lele@example.com",
