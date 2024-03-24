@@ -3,10 +3,16 @@
 ## Athena
 
 - style_adds_streetracers_fishguy_may_2019
+- season13_1330_ValueAdds_July_2020
+- season17_1710_RegrantKymera_V2_Jun_2021
+- season17_1720_ValueAdds_Jul_2021
+- season19_1901_RemoveDupeMilestone_Dec_2021
+- season19_1901_SH_MCP_StopTimers_Dec_2021
 - season19_1910_GrantWeeklyTokens_Jan_2022
 - season19_1920_ValueAdds_Feb_2022
 - season19_1940_ValueAdds_Mar_2022
 - season20_2000_CleanupVariantTokens_Mar_2022
+- season20_2010_ValueAdds_Apr_2022
 - season20_2030_ValueAdds_May_2022
 - season20_2040_FixBeachJules_May_2022
 - season21_2100_CleanupConsoleStyleBVariants_Jun_2022
@@ -34,6 +40,7 @@
 - season26_2600_FixBelongTreatyQuests_Aug_2023
 - season26_2630_ValueAddsPart2_Oct_2023
 - season27_2700_FixCreativeGranterQuests_Nov_2023
+- season27_2710_FixupSurvivorTierQuests_Nov_2023
 - season27_2711_RemoveOrphanLollipopQuest_Nov_2023
 - season28_2800_DurianMakeGoodBackbling_Dec_2023
 - season28_2810_DefaultVehicleCosmetics_Jan_2024
@@ -43,6 +50,7 @@
 
 ## Common Core
 
+- disney_promo_reminder_december_2020
 - refund_token_refresh_fixup_dec_2021
 - auto_favorite_stw_feb_2022
 - the_great_spectator_token_reset_feb_2022 2022-04-21T06:02:41.695Z
@@ -53,6 +61,7 @@
 
 ## Creative
 
+- fix_empty_users_again_july_2019
 - ensure_project_ids_october_2021
 - add_creator_portal_permission_march_2023
 
@@ -82,6 +91,7 @@
 
 ## Common Public
 
+- fortnite_start
 - outpost_name_wipe_march_2023
 
 ## Metdata
