@@ -3,6 +3,7 @@
 ## Athena
 
 - style_adds_streetracers_fishguy_may_2019
+- season12_houseparty_trivia_reward_April_2020
 - season13_1330_ValueAdds_July_2020
 - season17_1710_RegrantKymera_V2_Jun_2021
 - season17_1720_ValueAdds_Jul_2021
@@ -32,6 +33,8 @@
 - season24_2400_ExtendProgressiveBackblingEvent_Mar_2023
 - season24_2410_FixupSpringActivationBundle_Mar_2023
 - season24_2420_ValueAdds_Mar_2023
+- season24_2430_RemoveAccoladeItems_May_2023
+- season24_2440_FixBadQuestData_May_2023
 - season25_2500_FixMayaVariantLockerRandomizer_June_2023
 - season25_2510_HandleRenamedQuestTemplate_June_2023
 - season25_2511_WeeklyQuestRewardGrant_June_2023
@@ -50,6 +53,7 @@
 
 ## Common Core
 
+- grant_new_banner_colors_october_2019
 - disney_promo_reminder_december_2020
 - refund_token_refresh_fixup_dec_2021
 - auto_favorite_stw_feb_2022
@@ -103,17 +107,21 @@
 - remove_hero_ability_weapons_from_world_items_mar_2019
 - clawback_promotion_dupe_august_2020
 - remove_bars_from_profile_mar_2022
+- fixup_missing_build_tools_mar_2023
 - remove_bars_from_profile_may_2023
 
 ## Theater1
 
 - convert_alteration_definitions_on_world_items_jan_2018
 - remove_bars_from_profile_mar_2022
+- fixup_missing_build_tools_mar_2023
+- remove_bars_from_profile_may_2023
 
 ## Theater2
 
 - clawback_promotion_dupe_august_2020
 - remove_bars_from_profile_mar_2022
+- fixup_missing_build_tools_mar_2023
 - remove_bars_from_profile_may_2023
 
 ## Outpost0
