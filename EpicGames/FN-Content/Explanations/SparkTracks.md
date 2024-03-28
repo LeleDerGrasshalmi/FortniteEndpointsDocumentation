@@ -17,6 +17,17 @@ The `spark-tracks` sub-page has a heavily shortened structure as shown below.
     "_title": "butterbarnhoedown",
     "track": {
       "tt": "Butter Barn Hoedown",
+      "ry": 2021,
+      "dn": 157,
+      "sib": "Bass",
+      "sid": "Drum",
+      "sig": "Guitar",
+      "qi": "{\"sid\":\"764abe5f-8530-42f3-b235-7661b2dc7c66\",\"pid\":\"ac07da2b-d589-4d96-b1a4-62a7be6cb47e\",\"title\":\"butterbarnhoedown\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":44.0816}}",
+      "sn": "butterbarnhoedown",
+      "ge": [
+        "Country"
+      ],
+      "mk": "D",
       "mm": "Major",
       "ab": "Fortnite",
       "siv": "Vocals",
@@ -31,28 +42,22 @@ The `spark-tracks` sub-page has a heavily shortened structure as shown below.
         "ds": 2,
         "ba": 1
       },
-      "ry": 2021,
       "mt": 98,
       "_type": "SparkTrack",
       "mu": "https://cdn2.unrealengine.com/fkrvlnrmue22iamp-fa60196359dc.dat",
-      "dn": 157,
-      "sib": "Bass",
       "an": "Epic Games",
-      "gt": ["Jam-LoopIsUnpitched-Beat"],
-      "sid": "Drum",
-      "sig": "Guitar",
-      "au": "https://cdn2.unrealengine.com/8trfqm9nofp8xeoj-512x512-93503ff352b2.png",
+      "gt": [
+        "Jam-LoopIsUnpitched-Beat"
+      ],
+      "ar": "E",
+      "au": "https://cdn2.unrealengine.com/8trfqm9nofp8xeoj-512x512-4d008e153456.jpg",
       "ti": "SparksSong:sid_placeholder_02",
-      "qi": "{\"sid\":\"bf582ade-70ac-4c56-be34-cb26f768c2c9\",\"pid\":\"049f79c3-8af5-4355-ba81-7d273850ad89\",\"title\":\"butterbarnhoedown\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":44.0816}}",
       "ld": "https://cdn2.unrealengine.com/butterbarnhoedown-dea9cb878493.lad",
-      "jc": "2966-7543-4422",
-      "sn": "butterbarnhoedown",
-      "ge": ["Country"],
-      "mk": "D"
+      "jc": "2966-7543-4422"
     },
     "_noIndex": false,
     "_activeDate": "2023-10-09T18:12:20.689Z",
-    "lastModified": "2023-12-05T22:07:18.035Z",
+    "lastModified": "2024-02-15T21:26:26.912Z",
     "_locale": "en-US",
     "_templateName": "track"
   },
@@ -69,7 +74,23 @@ Each Track is a object in the root object, each `track` object has the following
 | Property             | Type     | Explanaition                    |
 | -------------------- | -------- | ------------------------------- |
 | tt                   | string   | Track Title                     |
+| ry                   | int      | Release Year                    |
+| dn                   | int      | Duration (in seconds)           |
+| sib                  | string   | Starting Instrument Bass        |
+| sid                  | string   | Starting Instrument Drums       |
+| sig                  | string   | Starting Instrument Guitar      |
+| qi                   | string   | Quicksilver Data                |
+| qi.sid               | string   | Song streaming UUID             |
+| qi.pid               | string   | Preview streaming UUID          |
+| qi.title             | string   | Short song title                |
+| qi.tracks            | object[] | Track Data                      |
+| qi.preview           | object   | Preview Data                    |
+| qi.preview.starttime | float    | Preview start time (in seconds) |
+| sn                   | string   | Track Name for API              |
+| ge                   | string[] | Song Genre                      |
+| mk                   | string   | Key                             |
 | mm                   | string   | Scale                           |
+| ab                   | string   | Album Name                      |
 | siv                  | string   | Starting Instrument Vocals      |
 | su                   | string   | Event UUID                      |
 | in                   | object   | Song Difficulties               |
@@ -80,26 +101,13 @@ Each Track is a object in the root object, each `track` object has the following
 | in.gr                | int      | Guitar Difficulty               |
 | in.ds                | int      | Drums Difficulty                |
 | in.ba                | int      | Bass Difficulty                 |
-| ry                   | int      | Release Year                    |
 | mt                   | int      | BPM/Tempo                       |
 | mu                   | string   | Encrypted MIDI Data URL         |
-| dn                   | int      | Duration (in seconds)           |
-| sib                  | string   | Starting Instrument Bass        |
 | an                   | string   | Artist Name                     |
 | gt                   | string[] | Gameplay Tags                   |
-| sid                  | string   | Starting Instrument Drums       |
-| sig                  | string   | Starting Instrument Guitar      |
+| isrc                 | string   | ISR Code (ISRC)                 |
+| ar                   | string   | ISRB Rating                     |
 | au                   | string   | Album Art URL                   |
 | ti                   | string   | Template ID                     |
-| qi                   | string   | Quicksilver Data                |
-| qi.sid               | string   | Song streaming UUID             |
-| qi.pid               | string   | Preview streaming UUID          |
-| qi.title             | string   | Short song title                |
-| qi.tracks            | object[] | Track Data                      |
-| qi.preview           | object   | Preview Data                    |
-| qi.preview.starttime | float    | Preview start time (in seconds) |
 | ld                   | string   | Lipsync Data URL                |
 | jc                   | string   | Jam Link Code                   |
-| sn                   | string   | Track Name for API              |
-| ge                   | string[] | Song Genre                      |
-| mk                   | string   | Key                             |
