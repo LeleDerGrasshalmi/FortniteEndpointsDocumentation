@@ -1,6 +1,6 @@
 # ProtoJuno_UpdateWorldLastAccessTime
 
-**Description**: `Relict Lego test operation, set the world last access time to the current time` \
+**Description**: `Relict Lego test operation, set the world last access time to the current time (operation got removed)` \
 **Profiles**: `proto_juno`
 
 ## Body
