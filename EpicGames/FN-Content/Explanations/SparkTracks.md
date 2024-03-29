@@ -71,7 +71,7 @@ The `spark-tracks` sub-page has a heavily shortened structure as shown below.
 
 Each Track is a object in the root object, each `track` object has the following structure.
 
-| Property             | Type     | Explanaition                    |
+| Property             | Type     | Explanation                     |
 | -------------------- | -------- | ------------------------------- |
 | tt                   | string   | Track Title                     |
 | ry                   | int      | Release Year                    |
