@@ -138,6 +138,7 @@
 - clawback_promotion_dupe_august_2020
 - remove_bars_from_profile_mar_2022
 - remove_bars_from_profile_may_2023
+- restore_outpost_backups_march_2024
 
 ## Collection Book People
 
