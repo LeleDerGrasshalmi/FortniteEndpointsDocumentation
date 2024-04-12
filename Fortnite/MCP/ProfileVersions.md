@@ -55,6 +55,7 @@
 - season29_2900_RemoveOrphanedCreativeLinedNotebookQuests_Mar_2024
 - season29_2901_FixupSpeedRunQuests_Mar_2024
 - season29_2910_FixUpBonusGoalsMissingProgress_March_2024
+- season29_2920_FixupProgressQuestCount_Apr_2024
 
 ## Common Core
 
