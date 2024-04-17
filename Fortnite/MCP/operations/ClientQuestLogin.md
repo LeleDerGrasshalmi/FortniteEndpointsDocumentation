@@ -7,6 +7,6 @@
 
 ```js
 {
-   "streamingAppKey": "" // Well, exists since end of season20 (I noticed it on 19.05.2022) ig its for GeForceNow or XboxCloud stuff
+   "streamingAppKey": "" //It can be an empty string
 }
 ```
