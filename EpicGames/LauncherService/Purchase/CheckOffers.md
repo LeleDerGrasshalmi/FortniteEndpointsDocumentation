@@ -4,8 +4,6 @@ URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public
 Method: POST \
 Auth Required: Yes (~~`purchase:offers READ`~~ `launcher:purchase:offers READ`)
 
-This endpoint is now deprecated
-
 ## Headers
 
 `Content-Type`: `application/x-www-form-urlencoded`
@@ -33,3 +31,5 @@ _Example Response_
   }
 }
 ```
+
+> This endpoint is now deprecated
