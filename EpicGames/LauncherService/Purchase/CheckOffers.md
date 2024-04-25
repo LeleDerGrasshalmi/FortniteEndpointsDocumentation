@@ -31,3 +31,5 @@ _Example Response_
   }
 }
 ```
+
+> This endpoint is now deprecated
