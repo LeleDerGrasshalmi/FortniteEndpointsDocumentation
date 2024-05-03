@@ -57,6 +57,7 @@
 - season29_2910_FixUpBonusGoalsMissingProgress_March_2024
 - season29_2920_FixupProgressQuestCount_Apr_2024
 - season29_2930_GeneralReconcileTokenProgress
+- season29_2940_RemoveOrphanedColdDayQuests_May_2024
 
 ## Common Core
 
@@ -71,6 +72,7 @@
 - fixupRefreshTimers_Oct_2022
 - liveMigration_Nov_2022
 - season26_2610_JumpSuitPurchaseHistory_Sept_2023
+- season29_2940_cleanupItemsWithMissingTemplates_May_2024
 
 ## Creative
 
@@ -120,6 +122,7 @@
 - remove_bars_from_profile_mar_2022
 - fixup_missing_build_tools_mar_2023
 - remove_bars_from_profile_may_2023
+- season29_2940_cleanupItemsWithMissingTemplates_May_2024
 
 ## Theater1
 
@@ -127,6 +130,7 @@
 - remove_bars_from_profile_mar_2022
 - fixup_missing_build_tools_mar_2023
 - remove_bars_from_profile_may_2023
+- season29_2940_cleanupItemsWithMissingTemplates_May_2024
 
 ## Theater2
 
@@ -134,6 +138,7 @@
 - remove_bars_from_profile_mar_2022
 - fixup_missing_build_tools_mar_2023
 - remove_bars_from_profile_may_2023
+- season29_2940_cleanupItemsWithMissingTemplates_May_2024
 
 ## Outpost0
 
@@ -141,6 +146,7 @@
 - remove_bars_from_profile_mar_2022
 - remove_bars_from_profile_may_2023
 - restore_outpost_backups_march_2024
+- season29_2940_cleanupItemsWithMissingTemplates_May_2024
 
 ## Collection Book People
 
@@ -148,6 +154,7 @@
 - refund_gia_perk_august_2022
 - refund_plasmacannon_december_2022
 - refund_blakebeard_feb_2024
+- season29_2940_cleanupItemsWithMissingTemplates_May_2024
 
 ## Collection Book Schematics
 
@@ -156,6 +163,7 @@
 - refund_gia_perk_august_2022
 - refund_plasmacannon_december_2022
 - refund_blakebeard_feb_2024
+- season29_2940_cleanupItemsWithMissingTemplates_May_2024
 
 ## Recycle Bin
 
