@@ -2,6 +2,7 @@
 
 ## Athena
 
+- fortnite_start
 - season5_cumulative_adding_week_8and9_aug_18
 - fortnitemares_part4_fixup_oct_18
 - style_adds_streetracers_fishguy_may_2019
@@ -113,10 +114,12 @@
 
 ## Metdata
 
+- fortnite_start
 - recover_outpost_metadata_april_2022
 
 ## Theater0
 
+- clean_theater_profile
 - remove_hero_ability_weapons_from_world_items_mar_2019
 - clawback_promotion_dupe_august_2020
 - remove_bars_from_profile_mar_2022
@@ -142,6 +145,7 @@
 
 ## Outpost0
 
+- clean_outpost_profile
 - clawback_promotion_dupe_august_2020
 - remove_bars_from_profile_mar_2022
 - remove_bars_from_profile_may_2023
@@ -150,6 +154,7 @@
 
 ## Collection Book People
 
+- fortnite_start
 - fix_worker_portrait_name_full_february_2021
 - refund_gia_perk_august_2022
 - refund_plasmacannon_december_2022
@@ -158,6 +163,7 @@
 
 ## Collection Book Schematics
 
+- fortnite_start
 - stw_nerf_resets_december_2019
 - fix_worker_portrait_name_full_february_2021
 - refund_gia_perk_august_2022
@@ -172,4 +178,12 @@
 
 ## Proto Juno
 
+> Deprecated lego test worlds profile
+
 - proto_juno_start
+
+## Profile0
+
+> Profile that existed very early and got moved to common core & campaign
+
+- skill_tree_fixup_oct_2017

@@ -11,3 +11,9 @@ _Example Response_
 ```json
 []
 ```
+
+_Example Response (2017)_
+
+```json
+["store"]
+```
