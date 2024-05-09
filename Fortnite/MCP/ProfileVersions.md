@@ -112,10 +112,11 @@
 - fortnite_start
 - outpost_name_wipe_march_2023
 
-## Metdata
+## Metadata
 
 - fortnite_start
 - recover_outpost_metadata_april_2022
+- restore_outpost_backups_march_2024
 
 ## Theater0
 
@@ -175,6 +176,7 @@
 
 - stw_nerf_resets_december_2019
 - fix_worker_portrait_name_full_february_2021
+- refund_blakebeard_feb_2024
 
 ## Proto Juno
 
