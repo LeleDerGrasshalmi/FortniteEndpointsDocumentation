@@ -1,4 +1,4 @@
-# Spark Tracks (Jam Tracks) Structure
+## FN - Content API - Spark Tracks (Jam Tracks) Structure
 
 The `spark-tracks` sub-page has a heavily shortened structure as shown below.
 
@@ -24,9 +24,7 @@ The `spark-tracks` sub-page has a heavily shortened structure as shown below.
       "sig": "Guitar",
       "qi": "{\"sid\":\"764abe5f-8530-42f3-b235-7661b2dc7c66\",\"pid\":\"ac07da2b-d589-4d96-b1a4-62a7be6cb47e\",\"title\":\"butterbarnhoedown\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":44.0816}}",
       "sn": "butterbarnhoedown",
-      "ge": [
-        "Country"
-      ],
+      "ge": ["Country"],
       "mk": "D",
       "mm": "Major",
       "ab": "Fortnite",
@@ -46,9 +44,7 @@ The `spark-tracks` sub-page has a heavily shortened structure as shown below.
       "_type": "SparkTrack",
       "mu": "https://cdn2.unrealengine.com/fkrvlnrmue22iamp-fa60196359dc.dat",
       "an": "Epic Games",
-      "gt": [
-        "Jam-LoopIsUnpitched-Beat"
-      ],
+      "gt": ["Jam-LoopIsUnpitched-Beat"],
       "ar": "E",
       "au": "https://cdn2.unrealengine.com/8trfqm9nofp8xeoj-512x512-4d008e153456.jpg",
       "ti": "SparksSong:sid_placeholder_02",

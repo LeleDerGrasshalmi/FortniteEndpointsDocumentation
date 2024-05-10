@@ -1,4 +1,4 @@
-## Fortnite Content - Content for Subkey
+## FN - Content API - Content for Subkey
 
 URL: https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/:key/:subKey \
 Method: GET \

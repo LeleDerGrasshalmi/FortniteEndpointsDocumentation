@@ -1,4 +1,4 @@
-## FN - Discovery Search Service: Search
+## FN - Discovery Search Service - Search
 
 URL: https://fn-service-discovery-search-live-public.ogs.live.on.epicgames.com/api/v1/search \
 Method: POST \

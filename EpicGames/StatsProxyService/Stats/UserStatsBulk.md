@@ -24,7 +24,7 @@ Auth Required: Yes (`fortnite:stats READ`)
 
 ## Query Parameters
 
-`category`: Optional, if used `stats` in the body shouldnt be used, allows fetching a Collection, valid values:
+`category`: Optional, if used `stats` in the body should not be used, allows fetching a Collection, valid values:
 
 - `collection_fish`
 - `collection_character`

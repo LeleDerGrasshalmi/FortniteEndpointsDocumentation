@@ -72,7 +72,7 @@ The example payload is a real world payload sent by the client on v28.00.
   These boolean like values can be `On` or `Off`.
   The `mode` can be `Survival` or `Sandbox`.
 
-- `nometadata`: doesnt require any fields, leave the `metadata` object empty
+- `nometadata`: Requires that the `metadata` is empty
 
 ---
 
