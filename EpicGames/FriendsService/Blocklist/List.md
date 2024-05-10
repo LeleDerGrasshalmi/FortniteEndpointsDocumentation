@@ -1,4 +1,4 @@
-## Friends Service - Blocklist
+## Friends Service - Block List
 
 URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/blocklist \
 Method: GET \
@@ -15,8 +15,8 @@ _Example Response_
 ```json
 [
   {
-    "accountId": "aa69b4fda8064d31a33af9e33d819f07",
-    "created": "2023-08-30T17:06:06.733Z"
+    "accountId": "5f38c3127c8f44f9b59ae33b095d60b0",
+    "created": "2024-05-10T11:03:43.976Z"
   }
 ]
 ```

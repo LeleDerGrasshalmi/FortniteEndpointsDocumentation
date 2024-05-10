@@ -17,4 +17,4 @@ _Example Response_
 ["736120836fd04049b9d9fca94d35898e", "6c10bed53c144a17adc797ec43083cf8"]
 ```
 
-> Returns Mutual Friend Ids
+> Returns Mutual friends account Ids

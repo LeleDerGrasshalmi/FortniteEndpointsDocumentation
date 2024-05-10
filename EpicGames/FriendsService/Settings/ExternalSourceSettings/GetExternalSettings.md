@@ -7,7 +7,7 @@ Auth Required: Yes (`friends:{accountId} READ`)
 ## Path Parameters
 
 `accountId`: Your Account Id <br/>
-`source`: See [Readme](README.md)
+`source`: See [README](README.md)
 
 ---
 

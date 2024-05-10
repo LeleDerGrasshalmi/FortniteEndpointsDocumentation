@@ -1,7 +1,7 @@
-## Friends Service - Block Account
+## Friends Service - Block Account (Old)
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/blocklist/:userId \
-Method: POST \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/public/blocklist/:accountId/:userId \
+Method: GET \
 Auth Required: Yes (`blockList:{accountId} UPDATE`)
 
 ## Path Parameters

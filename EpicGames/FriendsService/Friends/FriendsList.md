@@ -1,45 +1,26 @@
-## Friends Service - Summary (Friends, Outgoing, Incoming, Blocklist, Suggested, Settings)
-
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/summary \
-Method: GET \
-Auth Required: Yes
-
-<br/>
-
-## Friends Service - Incoming
-
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/incoming \
-Method: GET \
-Auth Required: Yes
-
-<br/>
-
-## Friends Service - Outgoing
-
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/outgoing \
-Method: GET \
-Auth Required: Yes
-
-<br/>
-
-## Friends Service - Suggested
-
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/suggested \
-Method: GET \
-Auth Required: Yes
-
-<br/>
-
-## Friends Service - Friends
+## Friends Service - Friends List
 
 URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends \
 Method: GET \
-Auth Required: Yes
+Auth Required: Yes (`friends:{accountId} READ`)
 
-<br/>
+## Path Parameters
 
-## Friends Service - Friends (Old)
+`accountId`: Your Account Id
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/public/friends/:accountId \
-Method: GET \
-Auth Required: Yes
+---
+
+_Example Response_
+
+```json
+[
+  {
+    "accountId": "94b1569506b04f9f8557af611e8c5e47",
+    "groups": [],
+    "alias": "lele test",
+    "note": "hello from lele's epic api docs",
+    "favorite": false,
+    "created": "2024-05-10T09:16:39.913Z"
+  }
+]
+```

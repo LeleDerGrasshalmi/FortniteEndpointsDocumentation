@@ -31,7 +31,6 @@ _Example Response_
 }
 ```
 
-### RELICT
-
-The Method orginally was `PUT` but is `PATCH` now, `PUT` is a relict, it only updates the `acceptInvites` setting. <br/>
-Even if both settings are required in the body, likely cause by the same requet model, instead of fixing the `PUT` they just added `PATCH` and use that now.
+> **Historic Note** <br/>
+> The Method originally was `PUT` but is `PATCH` now, `PUT` is a relict, it only updates the `acceptInvites` setting. <br/>
+> Even if both settings are required in the body, likely caused by the fact, that they share the same request payload model.
