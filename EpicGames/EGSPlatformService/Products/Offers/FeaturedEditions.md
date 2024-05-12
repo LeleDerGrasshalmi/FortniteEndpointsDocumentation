@@ -1,6 +1,6 @@
-## EGS Platform Service - Product Offer Age Rating
+## EGS Platform Service - Product Featured Editions
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId/featured-offers/add-ons \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId/featured-offers/editions \
 Method: GET \
 Auth Required: No
 

@@ -23,15 +23,15 @@ _Example Response_
 {
   "__typename": "AgeRating",
   "ageGate": {
-    "gate": "no-gate"
+    "gate": "age-gate"
   },
   "ageRating": {
-    "ageControl": 16,
+    "ageControl": 17,
     "contentDescriptors": [],
     "interactiveElements": [],
-    "ratingImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/esr_16_390x450-904d1ed3d452c95f3d86a8f56e6cd62f",
-    "ratingSystem": "EPIC SUGGESTED RATING",
-    "title": "16+"
+    "ratingImage": "https://cdn1.epicgames.com/gameRating/gameRating/ESRB_RP17_136_136x136-d2458f66245ec23152ff2846c7b6de7e",
+    "ratingSystem": "ESRB",
+    "title": "RATING PENDING"
   }
 }
 ```

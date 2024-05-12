@@ -16,7 +16,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+_Example Response (correct pin)_
 
 ```json
 {

@@ -40,10 +40,10 @@ _Example Response_
   },
   "media": {
     "card16x9": {
-      "imageSrc": "https://cdn1.epicgames.com/offer/fn/26BR_C4S4_EGS_Launcher_Blade_2560x1440_2560x1440-2f0e6725b93cd1b8450d82cf04f722c8"
+      "imageSrc": "https://cdn1.epicgames.com/offer/fn/Blade_2560x1440_2560x1440-95718a8046a942675a0bc4d27560e2bb"
     },
     "card3x4": {
-      "imageSrc": "https://cdn1.epicgames.com/offer/fn/26BR_C4S4_EGS_Launcher_Blade_1200x1600_1200x1600-72d477839e2f1e1a9b3847d0998f50bc"
+      "imageSrc": "https://cdn1.epicgames.com/offer/fn/Blade_1200x1600_1200x1600-fcea56f5eb92df731a89121e2b4416b5"
     },
     "logo": {
       "altText": "Fortnite Logo",
@@ -51,14 +51,14 @@ _Example Response_
     }
   },
   "publishers": ["Epic Games"],
-  "shortDescription": "Grab all of your friends and drop into Epic Games' Fortnite, a massive 100-player face-off that combines looting, crafting, shootouts and chaos. The result is a completely unpredictable competitive online experience that gets bigger and even wilder with every new season.",
+  "shortDescription": "Create, play, and battle with friends for free in Fortnite. Be the last player standing in Battle Royale and Zero Build, experience a concert or live event, or discover over a million creator made games, including racing, parkour, zombie survival, and more.  Each Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite ... Drop In.",
   "supportedModules": {
     "addOns": true,
     "criticReviews": {
       "openCritic": true
     },
     "editions": false,
-    "experiences": false,
+    "experiences": true,
     "mods": "Unsupported"
   },
   "tags": {

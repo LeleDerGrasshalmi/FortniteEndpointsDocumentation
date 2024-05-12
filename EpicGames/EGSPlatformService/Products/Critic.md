@@ -40,32 +40,10 @@ _Example Response_
             "totalStars": 5
           },
           "url": "https://www.gamesradar.com/fortnite-review/"
-        },
-        {
-          "author": "Austen Goslin",
-          "body": "Thanks to the freedom of its outstanding building mechanic, Fortnite Battle Royale isn't just a great battle royale game – it's one of the best multiplayer games in recent history.",
-          "outlet": "IGN",
-          "score": {
-            "__typename": "CriticReviewNumericScore",
-            "earnedScore": 9.6,
-            "totalScore": 10
-          },
-          "url": "https://www.ign.com/articles/2018/03/27/fortnite-battle-royale-review"
-        },
-        {
-          "author": "Daniel Tack",
-          "body": "Playable, watchable, understandable, and enjoyable by just about anyone with a pulse, Fortnite is an absolute blast",
-          "outlet": "Game Informer",
-          "score": {
-            "__typename": "CriticReviewNumericScore",
-            "earnedScore": 9.5,
-            "totalScore": 10
-          },
-          "url": "https://www.gameinformer.com/review/fortnite/an-epic-epoch"
         }
       ],
       "paging": {
-        "count": 3,
+        "count": 1,
         "start": 0,
         "total": 3
       }
