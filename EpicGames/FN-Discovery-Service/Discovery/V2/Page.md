@@ -21,7 +21,8 @@ Auth Required: Yes (`discovery:surface:query READ`)
   "platform": "Windows",
   "isCabined": false,
   "ratingAuthority": "USK",
-  "rating": "USK_AGE_12"
+  "rating": "USK_AGE_12",
+  "numLocalPlayers": 1
 }
 ```
 
@@ -39,7 +40,8 @@ Auth Required: Yes (`discovery:surface:query READ`)
 `platform`: Your platform (e.g. `Windows`) <br/>
 `isCabined`: If your Account is in Cabined Mode (from [own account info](../../../AccountService/Account/Lookup/AccountId.md)) <br/>
 `ratingAuthority`: The Authority used by the client e.g. `USK` <br/>
-`rating`: The Rating expected by the client for the given authority, e.g. `USK_AGE_12` for USK 12+
+`rating`: The Rating expected by the client for the given authority, e.g. `USK_AGE_12` for USK 12+ <br/>
+`numLocalPlayers`: The count of players in the party
 
 > Technically the request wont fail if only `testVariantName`, `panelName` and `pageIndex` are provided
 

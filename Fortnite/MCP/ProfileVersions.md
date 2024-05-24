@@ -9,6 +9,7 @@
 - season12_houseparty_trivia_reward_April_2020
 - season12_1261_Maya_Makegood_May_2020
 - season13_1330_ValueAdds_July_2020
+- season15_1521_T800_TokenlessRefund_Jan_2021
 - season17_1700_AstroAssassin_TokenlessRefund_Jun_2021
 - season17_1710_RegrantKymera_V2_Jun_2021
 - season17_1720_ValueAdds_Jul_2021
@@ -59,6 +60,7 @@
 - season29_2920_FixupProgressQuestCount_Apr_2024
 - season29_2930_GeneralReconcileTokenProgress
 - season29_2940_RemoveOrphanedColdDayQuests_May_2024
+- season30_3000_FixMissingKickoffPunchCardProgress
 
 ## Common Core
 
@@ -115,6 +117,7 @@
 ## Metdata
 
 - fortnite_start
+- remove_edit_permissions_august_2019
 - recover_outpost_metadata_april_2022
 
 ## Theater0
