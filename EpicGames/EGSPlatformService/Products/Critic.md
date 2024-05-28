@@ -9,7 +9,7 @@ Auth Required: No
 `count`: (required) self explaining <br/>
 `locale`: (required) e.g. 'de' (German), fallback is 'en' <br/>
 `start`: (required) start index <br/>
-`store`: (required) only `EGS` is known to be valid
+`store`: (required) valid Catalog Service Stores, e.g. `EGS`
 
 ## Path Parameters
 

@@ -8,7 +8,7 @@ Auth Required: Yes
 
 `country`: (required) ISO 3166 - Alpha 2 Code <br/>
 `locale`: (required) e.g. 'de' (German), fallback is 'en' <br/>
-`store`: (required) only `EGS` is known to be valid
+`store`: (required) valid Catalog Service Stores, e.g. `EGS`
 
 ## Path Parameters
 
