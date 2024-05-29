@@ -7,10 +7,17 @@
 
 ```js
 {
-    "archetypeGroup": "", // e.g. CosmeticArchetype:LoadoutArchetype_Vehicles
-    "archetype": "" // e.g. Vehicle.Archetype.SportsCar
+    "archetypeGroup": "", // Check available values below
+    "archetype": "" // Check available values below
 }
 ```
+
+`archetypeGroup` (which loadout archetype to modify)
+- `CosmeticArchetype:LoadoutArchetype_Vehicles`
+
+`archetype` (which archetype group tag to set)
+- `Vehicle.Archetype.SUV`
+- `Vehicle.Archetype.SportsCar`
 
 _An example of the profile stat affected by this request_
 
