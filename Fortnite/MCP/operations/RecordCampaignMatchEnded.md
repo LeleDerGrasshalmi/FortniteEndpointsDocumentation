@@ -1,6 +1,6 @@
 # RecordCampaignMatchEnded
 
-**Description**: `Records that a STW match ended` \
+**Description**: `Used at the end of campaign matches (usage is unknown)` \
 **Profiles**: `athena`
 
 ## Body
