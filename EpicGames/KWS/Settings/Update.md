@@ -1,8 +1,8 @@
 ## KWS - Update Settings
 
 URL: https://api.kws.ol.epicgames.com/v1/epic-settings/public/users/:accountId/values \
-Method: GET \
-Auth Required: Yes (`epic-settings:public:games:{game} READ`)
+Method: PATCH \
+Auth Required: Yes (`epic-settings:public:games:{game} UPDATE`)
 
 ```json
 {
@@ -46,16 +46,16 @@ _Example Response (shortened)_
   "response": {
     "settings": [
       {
-        "namespace": "profile",
-        "settingName": "allow-non-squad-users-to-see-my-username",
+        "namespace": "stats",
+        "settingName": "show-in-leaderboard",
         "effectiveValue": true,
         "effectiveSource": "preference"
       }
     ]
   },
   "meta": {
-    "requestId": "cce500d0-a0dd-11ed-9f30-8bbd96c54a31",
-    "timestamp": "2023-01-30T20:36:40.413Z"
+    "requestId": "48a54900-1eaa-11ef-b3fd-b19a317b502f",
+    "timestamp": "2024-05-30T17:30:18.384Z"
   }
 }
 ```
