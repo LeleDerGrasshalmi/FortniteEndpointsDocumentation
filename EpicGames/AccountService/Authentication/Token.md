@@ -8,10 +8,10 @@ Auth Required: Yes (Basic Authentication where the username is the Client Id and
 
 ## Headers
 
-`Content-Type`: application/x-www-form-urlencoded
+`Content-Type`: application/x-www-form-urlencoded <br/>
 `X-Epic-Device-ID`: A random value used to identify a device.
 
-<br/>
+## Parameters
 
 `grant_type`: see [Grants and their required fields](./GrantTypes/) <br/>
 `includePerms`: boolean (optional), if the Permissions for the Session should be included <br/>
