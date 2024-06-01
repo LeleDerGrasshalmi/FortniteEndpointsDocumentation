@@ -22,6 +22,7 @@ Web APIs however are a bit different, these require web login cookies.
   - [FN - Discovery Service](./EpicGames/FN-Discovery-Service)
   - [FN - Discovery Search Service](./EpicGames/FN-Discovery-Search-Service)
   - [FN - Habanero Service](./EpicGames/FN-Habanero-Service)
+  - [FN - Hotconfig](./EpicGames/FN-Hotconfig)
   - [Friends Service](./EpicGames/FriendsService)
   - [Global Service](./EpicGames/GlobalService)
   - [IP Data Service](./EpicGames/IPDataService)
