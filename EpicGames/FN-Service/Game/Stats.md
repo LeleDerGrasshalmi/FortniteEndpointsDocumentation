@@ -1,6 +1,6 @@
 ## FN Service - User Stats (V1)
 
-URL: https://fortnite-public-service-prod11.ol.epicgames.com/fortnite/api/stats/accountId/:accountId/bulk/window/:windowId \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/stats/accountId/:accountId/bulk/window/:windowId \
 Method: GET \
 Auth Required: Yes
 
