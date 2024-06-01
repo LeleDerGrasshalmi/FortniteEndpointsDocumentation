@@ -14,6 +14,7 @@ Web APIs however are a bit different, these require web login cookies.
   - [Persona Service](./EpicGames/PersonaService)
   - [Artifact Delivery Service](./EpicGames/ArtifactDeliveryService)
   - [Caldera Service](./EpicGames/CalderaService)
+  - [Data Asset Directory Service](./EpicGames/DataAssetDirectoryService)
   - [EGS Platform Service](./EpicGames/EGSPlatformService)
   - [Emerald Service](./EpicGames/EmeraldService)
   - [Events Service](./EpicGames/EventsService)
