@@ -11,7 +11,6 @@ Web APIs however are a bit different, these require web login cookies.
 
 - [Epic Games](./EpicGames)
   - [Account Service](./EpicGames/AccountService)
-  - [Persona Service](./EpicGames/PersonaService)
   - [Artifact Delivery Service](./EpicGames/ArtifactDeliveryService)
   - [Caldera Service](./EpicGames/CalderaService)
   - [Data Asset Directory Service](./EpicGames/DataAssetDirectoryService)
@@ -33,6 +32,7 @@ Web APIs however are a bit different, these require web login cookies.
   - [Lightswitch Service](./EpicGames/LightswitchService)
   - [Links Service](./EpicGames/LinksService)
   - [Nelly Service](./EpicGames/NellyService)
+  - [Persona Service](./EpicGames/PersonaService)
   - [PRM Dialog Service](./EpicGames/PRMDialogService)
   - [Stats Proxy Service](./EpicGames/StatsProxyService)
   - [Tag Management Service](./EpicGames/TagManagementService)
@@ -46,12 +46,6 @@ Web APIs however are a bit different, these require web login cookies.
     - [UE](./EpicGames/Web/UE)
       - [Marketplace](./EpicGames/Web/UE/Marketplace)
 - [Epic Games Store](./EpicGamesStore)
-- [Fortnite](./Fortnite)
-  - [Catalog](./Fortnite/Catalog)
-  - [Cloudstorage](./Fortnite/Cloudstorage)
-  - [Creative](./Fortnite/Creative)
-  - [MCP](./Fortnite/MCP)
-  - [StW](./Fortnite/SaveTheWorld)
 - [Playstation Store](./PlaystationStore)
 
 ## Contributions

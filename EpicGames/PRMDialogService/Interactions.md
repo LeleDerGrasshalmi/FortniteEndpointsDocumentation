@@ -37,7 +37,7 @@ Auth Required: Yes (Account - `eg1`)
 
 ## Parameters
 
-`sessionId`: Can be extracted from the JWT (`jti`), or grabbed from [Verifying the Token](../../AccountService/Authentication/Verify.md) <br/>
+`sessionId`: Can be extracted from the JWT (`jti`), or grabbed from [Verifying the Token](../AccountService/Authentication/Verify.md) <br/>
 `sessionStartTimestamp`: When your Session started <br/>
 `sessionEndTimestamp`: When your Session ends (current timestamp) <br/>
 `surfaces[].surfaceId`: The SurfaceId that the interaction belongs to (see [Surfaces](README.md#surfaces)) <br/>
