@@ -1,6 +1,6 @@
 # AssignWorkerToSquad
 
-**Description**: `Set an Survivor to an Survivor Suqad` \
+**Description**: `Set an Survivor to an Survivor Squad` \
 **Profiles**: `campaign`
 
 ## Body
