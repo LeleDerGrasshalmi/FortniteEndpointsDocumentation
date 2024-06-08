@@ -6,7 +6,7 @@ Auth Required: Yes (No Permission required)
 
 ## Query Parameters
 
-`accountId`: Accound Ids, you can use the query multiple times **[Max 100 per Request]**
+`accountId`: Account Ids, you can use the query multiple times **[Max 100 per Request]**
 
 ---
 
