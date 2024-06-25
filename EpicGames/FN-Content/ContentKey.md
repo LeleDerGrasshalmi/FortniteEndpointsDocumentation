@@ -1,4 +1,4 @@
-## Fortnite Content - Content for Key
+## FN - Content API - Content for Key
 
 URL: https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/:key \
 Method: GET \

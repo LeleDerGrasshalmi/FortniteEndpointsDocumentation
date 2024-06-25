@@ -1,4 +1,4 @@
-## Friends Service - Unblock **All** Users
+## Friends Service - Clear Block List
 
 URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/public/blocklist/:accountId \
 Method: DELETE \

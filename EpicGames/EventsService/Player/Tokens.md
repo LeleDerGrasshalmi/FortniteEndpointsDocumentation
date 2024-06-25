@@ -2,7 +2,7 @@
 
 URL: https://events-public-service-live.ol.epicgames.com/api/v1/players/:gameId/tokens \
 Method: GET \
-Auth Required: No
+Auth Required: Yes
 
 ## Path Parameters
 

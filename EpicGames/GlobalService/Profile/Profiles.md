@@ -29,7 +29,7 @@ _Example Response_
       "playRegion": "EUROPE",
       "hasCrewMembership": false,
       "languages": ["en"],
-      "seasonLevel": 1
+      "seasonLevel": 10
     }
   ]
 }

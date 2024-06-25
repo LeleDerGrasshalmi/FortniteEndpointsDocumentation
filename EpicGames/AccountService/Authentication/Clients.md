@@ -15,7 +15,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | fortniteCNGameClient                               | efe3cbb938804c74b20e109d0efc1548 | 6e31bdbae6a44f258474733db74f39ba     |
 | fortniteComClient                                  | cd2b7c19c9734a2ab98dc251868d7724 |                                      |
 | fortnitePS4EUGameClient                            | 79a931b375334570ac369234f5da05ec |                                      |
-| fortnitePS4USGameClient                            | d8566f2e7f5c48f89683173eb529fee1 |                                      |
+| fortnitePS4USGameClient                            | d8566f2e7f5c48f89683173eb529fee1 | 255c7109c8274241986616e3702678b5     |
 | fortnitePS5EUGameClient                            | 386cbbc78d57464181005c3f7edfad0d |                                      |
 | fortnitePS5USGameClient                            | 03f2645147214e1ab368caa78c5fca81 |                                      |
 | fortnitePS5USGameClientTest                        | 3cf19c6ba05a4fa3997957491e15ba1c |                                      |
@@ -104,6 +104,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | fortnite_vbulletin                                 | 52b63176173444eb8291b0dd60586e04 |                                      |
 | devEpicgamesWebsiteClient                          | 1412c33087cc452283d371665a8e5fbc |                                      |
 | fulfillmentClient                                  | b3a0d1d6558b788e27a8c044083375ef |                                      |
+| Dauntless                                          | 12c4279862ab4460a25c2e9fa535fb7e |                                      |
 
 <br/>
 
@@ -174,5 +175,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Gama-Gama.ru                                     | xyza78910V8IRzOkRlM9GiGylg2SWpxn |                                             |
 | Unreal Revision Control                          | xyza7891cMeUNk9wopbK9jlds3KUKclS |                                             |
 | LEGO Account                                     | xyza7891t8nxvz3IoSNmFMy3xjTSWFuZ |                                             |
+| The Elder Scrolls® Online                        | xyza78917Vz8AxXWCf6z9ACLzejhn3SJ |                                             |
+| Redpoint Games"                                  | xyza7891x7U0mokjrVQagoFKVimFTT8a |                                             |
 
 Additionally check out [Jarens Client Collection](https://egs.jaren.wtf)

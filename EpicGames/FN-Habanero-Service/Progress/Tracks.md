@@ -9,6 +9,10 @@ Auth Required: Yes (`rankings:{namespace}:playerprogress READ`)
 `namespace`: `fortnite` <br/>
 `accountId`: Can be any Account Id (works for any User, currently even if stats are private)
 
+# Query Parameters
+
+`endsAfter`: (optional), ISO Date (Start Date of the Data)
+
 ---
 
 _Example Response_

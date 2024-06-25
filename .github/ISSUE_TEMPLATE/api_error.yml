@@ -1,0 +1,55 @@
+name: Request/API Error
+description: You need help while resolving an Error returned by the API
+body:
+  - type: checkboxes
+    attributes:
+      label: Issue Checklist
+      options:
+        - label: I have properly named the issue
+        - label: I looked in issues/discussions, if my question was previously anwsered
+
+  - type: dropdown
+    attributes:
+      label: What is the Request Method?
+      options:
+        - GET
+        - HEAD
+        - POST
+        - PUT
+        - PATCH
+        - DELETE
+        - Other (note in additional context)
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: What is the Request URL?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: What are your Request Headers (if applicable)?
+
+  - type: textarea
+    attributes:
+      label: What are your Request Payload/Body (if applicable)?
+
+  - type: input
+    attributes:
+      label: What is the Response Status Code?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: What are the Response Headers (if applicable)?
+
+  - type: textarea
+    attributes:
+      label: What is the Response Content? (if applicable)
+
+  - type: textarea
+    attributes:
+      label: Additional Context (if applicable)

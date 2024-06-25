@@ -9,6 +9,12 @@ Auth Required: Yes (`links:{namespace} READ`)
 `namespace`: For Fortnite it's 'fn' <br/>
 `mnemonic`: e.g. `1111-1111-1111` for FN Creative Island
 
+## Query Parameters
+
+`type`: Mnemonic Type e.g. 'Creative:Island' or 'BR:Playlist' <br/>
+`v`: Mnemonic Version to lookup, omit for latest <br/>
+`includeActivationHistory`: Optional boolean to include the activation history
+
 ---
 
 _Example Response_
@@ -43,5 +49,44 @@ _Example Response_
   "published": "2021-08-03T15:27:20.799Z",
   "descriptionTags": [],
   "moderationStatus": "Unmoderated"
+}
+```
+
+_Example Response (with activation history)_
+
+```json
+{
+  "namespace": "fn",
+  "accountId": "epic",
+  "creatorName": "Epic",
+  "mnemonic": "set_delmar_mrs_ranked",
+  "linkType": "ModeSet",
+  "metadata": {
+    "lobby_background_image_urls": {
+      "url": "https://cdn2.unrealengine.com/delmarlobby-4096x2048-d68bbc69fdab.jpg"
+    },
+    "frontend_plugin": "DelMarFrontend",
+    "image_url": "https://cdn2.unrealengine.com/rocketracing-launchtile-1920x1080-4c78a6359538.jpg",
+    "title": "Rocket Racing",
+    "locale": "en",
+    "product_tag": "Product.DelMar",
+    "tagline": "From the developers of Rocket League comes Rocket Racing, a supersonic arcade racer that lets you drift, fly, and boost with your friends through an ever-growing selection of tracks. It's Season Zero, hop into a rocket-powered car and put your skills to the test!"
+  },
+  "version": 1,
+  "active": true,
+  "disabled": false,
+  "created": "2023-11-30T19:04:39.696Z",
+  "published": "2023-11-30T19:04:39.696Z",
+  "descriptionTags": [],
+  "moderationStatus": "Approved",
+  "lastActivatedDate": "2023-12-02T22:56:20.965Z",
+  "discoveryIntent": "PUBLIC",
+  "activationHistory": [
+    {
+      "mnemonic": "set_delmar_mrs_ranked",
+      "version": 1,
+      "activated": "2023-12-02T22:56:20.967Z"
+    }
+  ]
 }
 ```

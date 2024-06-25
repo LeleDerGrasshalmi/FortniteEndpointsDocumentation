@@ -9,7 +9,7 @@ Auth Required: Yes (`links:{namespace}:{accountId} CREATE`)
   "creatorName": "Lele",
   "linkType": "Creative:Island",
   "metadata": {},
-  "descriptionTags": [],
+  "descriptionTags": ["pve"],
   "discoveryIntent": "PRIVATE"
 }
 ```
@@ -23,9 +23,9 @@ Auth Required: Yes (`links:{namespace}:{accountId} CREATE`)
 
 `creatorName`: required - Creators name <br/>
 `linkType`: required - the type of the Link e.g. 'valkyrie:application' (UEFN Project) or 'Creative:Island' (Creative V1 Island) <br/>
-`metadata`: required - Main Link Metadata <br/>
-`descriptionTags`: optional - Array of Tags (Strings) e.g. ["pve"] (StW) <br/>
-`discoveryIntent`: optional - valid Values: "**PUBLIC**" (Default) or "**PRIVATE**"
+`metadata`: required - Main Link Metadata (Type is `Record<string, object>`) <br/>
+`descriptionTags`: optional - Array of Tags (Strings), the example above shows the tags for StW <br/>
+`discoveryIntent`: optional - valid Values: `PUBLIC` (Default) or `PRIVATE`
 
 ---
 

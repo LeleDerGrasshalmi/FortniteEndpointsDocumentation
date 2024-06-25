@@ -1,21 +1,24 @@
 ## Account Service - Auth: Token
 
+If you need help check out the [getting started guide](./README.md#getting-started)
+
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token \
 Method: POST \
 Auth Required: Yes (Basic Authentication where the username is the Client Id and the password is the Client Secret)
 
 ## Headers
 
-`Content-Type`: application/x-www-form-urlencoded
+`Content-Type`: application/x-www-form-urlencoded <br/>
+`X-Epic-Device-ID`: A random value used to identify a device.
 
 ## Parameters
 
 `grant_type`: see [Grants and their required fields](./GrantTypes/) <br/>
 `includePerms`: boolean (optional), if the Permissions for the Session should be included <br/>
-`token_type`: (optional) see below \
-`deployment_id`: (optional) an EOS [deployment](https://dev.epicgames.com/docs/dev-portal/product-management#deployments) id
+`deployment_id`: (optional) an EOS [deployment id](https://dev.epicgames.com/docs/dev-portal/product-management#deployments) <br/>
+`token_type`: (optional) see below
 
-| token_type | Allowed | Description                                                                                                                                          |
+| Token Type | Allowed | Description                                                                                                                                          |
 | ---------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `*`        | ✅      | A 16 byte hexadecimal session id. (default)                                                                                                          |
 | `eg1`      | ✅      | A signed jwt prefixed with `eg1~`.                                                                                                                   |

@@ -10,10 +10,6 @@ Auth Required: Yes (`rankings:{namespace}:playerprogress READ`)
 `accountId`: Can be any Account Id (works for any User, currently even if stats are private) <br/>
 `trackguid`: The `trackguid` from the Tracks List
 
-# Query Parameters
-
-`endsAfter`: (optional), ISO Date (Start Date of the Data)
-
 ---
 
 _Example Response_

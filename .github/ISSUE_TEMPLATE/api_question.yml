@@ -1,0 +1,15 @@
+name: API/Docs Question
+description: Ask anything about this Documentation or Epic Games APIs
+body:
+  - type: checkboxes
+    attributes:
+      label: Issue Checklist
+      options:
+        - label: I have properly named the issue
+        - label: I looked in issues/discussions, if my question was previously anwsered
+
+  - type: textarea
+    attributes:
+      label: What is your question?
+    validations:
+      required: true

@@ -1,8 +1,8 @@
-## KWS - Setting Definitions
+## KWS - Update Settings
 
 URL: https://api.kws.ol.epicgames.com/v1/epic-settings/public/users/:accountId/values \
-Method: GET \
-Auth Required: Yes (`epic-settings:public:games:{game} READ`)
+Method: PATCH \
+Auth Required: Yes (`epic-settings:public:games:{game} UPDATE`)
 
 ```json
 {
@@ -10,12 +10,12 @@ Auth Required: Yes (`epic-settings:public:games:{game} READ`)
   "parentPIN": "",
   "settings": [
     {
-      "namespace": "profile",
-      "settingName": "allow-non-squad-users-to-see-my-username",
+      "namespace": "stats",
+      "settingName": "show-in-leaderboard",
       "preferredValue": true
     }
   ],
-  "initialSync": true
+  "initialSync": false
 }
 ```
 
@@ -25,14 +25,17 @@ Auth Required: Yes (`epic-settings:public:games:{game} READ`)
 
 ## Parameters
 
-`game`: Same as your query 'game' <br/>
-`parentPIN`: The PIN if Parental Controls are enabled <br/>
+`game`: Same as your `game` query <br/>
+`parentPIN`: The PIN if Parental Controls are enabled and if the pin required (e.g. changing `stats`.`show-in-leaderboard` doesnt require it) <br/>
 `settings`: New Setting Values <br/>
+`settings.namespace`: The namespace of the setting, e.g. `stats` <br/>
+`settings.settingName`: The name of the setting, e.g. `show-in-leaderboard` <br/>
+`settings.preferredValue`: The new setting value, check the setting definition for the expected type <br/>
 `initialSync`: Whether you are first creating the Settings/KWS
 
 ## Query Parameters
 
-`game`: For Fortnite it's 'fn'
+`game`: For Fortnite it's `fn`
 
 ---
 
@@ -43,44 +46,16 @@ _Example Response (shortened)_
   "response": {
     "settings": [
       {
-        "namespace": "profile",
-        "settingName": "allow-non-squad-users-to-see-my-username",
-        "preferredValue": true,
-        "preferredValueFromOrgLevel": true,
+        "namespace": "stats",
+        "settingName": "show-in-leaderboard",
         "effectiveValue": true,
-        "effectiveSource": "default",
-        "isOrgLevel": true,
-        "definition": {
-          "orgId": "cc5b83aa-cb5c-4b4b-a800-a7dd64edacc0",
-          "productId": "6fdb114c-3fbc-4ced-bc5b-55bcdba5c8f6",
-          "namespace": "profile",
-          "settingName": "allow-non-squad-users-to-see-my-username",
-          "valueType": "boolean",
-          "allowProductOverrides": "ageBrackets",
-          "inheritFromOrg": true,
-          "translations": {
-            "en": {
-              "label": "Display username to non-squad users",
-              "userNotice": "Determines if your username can be shown to non-squad users",
-              "parentNotice": "Determines if your child''s username can be shown to non-squad users"
-            }
-          },
-          "options": [],
-          "restrictiveOrder": "falseRestrictive",
-          "userHidden": false,
-          "userReadOnly": false,
-          "required": false,
-          "ageBracket": {
-            "consentTypeRequired": "none",
-            "defaultValue": true
-          }
-        }
+        "effectiveSource": "preference"
       }
     ]
   },
   "meta": {
-    "requestId": "3ba7b140-a0af-11ed-8e07-95866a481c07",
-    "timestamp": "2023-01-30T15:03:19.892Z"
+    "requestId": "48a54900-1eaa-11ef-b3fd-b19a317b502f",
+    "timestamp": "2024-05-30T17:30:18.384Z"
   }
 }
 ```

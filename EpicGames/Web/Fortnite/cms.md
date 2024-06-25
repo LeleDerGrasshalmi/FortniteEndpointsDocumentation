@@ -1,4 +1,4 @@
-# Fortnite Website Cms
+# Fortnite Website CMS
 
 ## Request
 
@@ -6,26 +6,46 @@ URL: https://fortnite.com/:language/api/cms/:key \
 Method: GET \
 Auth Required: No
 
-## Keys
+## Known Keys
 
-| Keys                                    | Description              |
-| --------------------------------------- | ------------------------ |
-| blackout                                | Used When Event Downtime |
-| c4-s1-ua                                |                          |
-| cloud-gaming                            |                          |
-| creative-mode                           |                          |
-| island                                  |                          |
-| marketing-ua                            |                          |
-| mobile-landing-page                     |                          |
-| mobile-landing-page%2Fgeforce-now       |                          |
-| mobile-landing-page%2Fandroid           |                          |
-| mobile-landing-page%2Fxbox-cloud-gaming |                          |
-| mobile-landing-page%2Fsamsung           |                          |
-| no-build-mode                           |                          |
-| reboot-rally                            |                          |
-| safety-and-security                     |                          |
-| spotify                                 |                          |
-| help-center                             |                          |
+> The key must be URL encoded!
+
+| Keys                                  | Description              |
+| ------------------------------------- | ------------------------ |
+| battle-pass                           |                          |
+| battle-pass/take-over                 |                          |
+| blackout                              | Used When Event Downtime |
+| bundles                               |                          |
+| bundles/anime-legends-pack            |                          |
+| c4-s1-ua                              |                          |
+| chapter2                              |                          |
+| cloud-gaming                          |                          |
+| cosplay                               |                          |
+| creative-mode                         |                          |
+| creative-mode/creative-faq            |                          |
+| help-center                           |                          |
+| home                                  |                          |
+| home-season-7                         |                          |
+| island                                |                          |
+| landing-pages                         |                          |
+| marketing-ua                          |                          |
+| mobile                                |                          |
+| mobile/android-download               |                          |
+| mobile/android-mobile-sign-up         |                          |
+| mobile/mobile-create-account          |                          |
+| mobile-landing-page                   |                          |
+| mobile-landing-page/amazon-luna       |                          |
+| mobile-landing-page/android           |                          |
+| mobile-landing-page/geforce-now       |                          |
+| mobile-landing-page/samsung           |                          |
+| mobile-landing-page/xbox-cloud-gaming |                          |
+| no-build-mode                         |                          |
+| reboot-rally                          |                          |
+| redeem-code                           |                          |
+| rift-tour                             |                          |
+| safety-and-security                   |                          |
+| secure-your-fortnite-account          |                          |
+| spotify                               |                          |
 
 ## Languages
 

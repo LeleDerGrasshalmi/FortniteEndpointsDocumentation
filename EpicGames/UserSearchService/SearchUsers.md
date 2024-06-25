@@ -10,7 +10,7 @@ Auth Required: Yes (`social:search:{accountId} READ`)
 
 ## Query Parameters
 
-`platform`: (required), known valid values: `epic`, `psn`, `xbl`, `steam` <br/>
+`platform`: (required), known valid values: `epic`, `psn` (Playstation), `xbl` (Xbox), `steam`, `nsw` (Nintendo Switch) <br/>
 `prefix`: (required), the name you are searching for
 
 ---

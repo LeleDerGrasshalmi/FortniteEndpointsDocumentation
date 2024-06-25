@@ -11,13 +11,15 @@ Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 
 ## Query Parameters
 
-`region`: e.g. EU <br/>
-`platform`: e.g. Windows <br/>
-`teamAccountIds`: Account Ids seperated by a comma `,`
+`region`: optional, e.g. EU (if not specified shows for all regions!) <br/>
+`showPastEvents`: optional, boolean <br/>
+`showPrivateEvents`: optional, boolean, throws if you dont have access (normal people dont have access)
 
 ---
 
 _Example Response (shortened)_
+
+> Same response as [`download api`](./Download.md), but `data api` includes the player info, so look there for a full response
 
 ```json
 {

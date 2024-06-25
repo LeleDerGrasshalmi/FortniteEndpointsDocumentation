@@ -1,6 +1,6 @@
-## Friends Service - Accept Incoming (BULK)
+## Friends Service - Accept Incoming Friend Requests (Bulk)
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/incoming/accept?targetIds=XXXX,YYYY,ZZZZ \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/incoming/accept \
 Method: POST \
 Auth Required: Yes (`friends:{accountId} UPDATE`)
 
@@ -10,7 +10,7 @@ Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ## Query Parameters
 
-`targetIds`: Comma seperated Account Ids
+`targetIds`: Comma separated Account Ids
 
 ---
 

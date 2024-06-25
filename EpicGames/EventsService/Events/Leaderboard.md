@@ -16,7 +16,8 @@ Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 `page`: 0 (0 - 100) <br/>
 `rank`: 1 (The rank is used if page and rank are given (e.g. 54 would still goto page 1 and start at rank 1)) <br/>
 `showLiveSessions`: boolean <br/>
-`teamAccountIds`: Account Ids seperated by a comma `,`
+`teamAccountIds`: Account Ids seperated by a comma `,` <br/>
+`appId`: fortnite
 
 ---
 

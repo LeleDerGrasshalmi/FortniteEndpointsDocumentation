@@ -1,4 +1,4 @@
-## Friends Service - Block User
+## Friends Service - Block Account
 
 URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/blocklist/:userId \
 Method: POST \

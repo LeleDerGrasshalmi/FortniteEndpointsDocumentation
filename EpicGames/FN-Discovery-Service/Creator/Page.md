@@ -22,10 +22,13 @@ _Example Response_
   "creatorId": "4c2342479c23474daf0c38f64c7d7871",
   "links": [
     {
-      "linkCode": "6843-3677-1390",
-      "lastActivatedDate": "2023-05-13T23:38:32.569Z",
+      "linkCode": "1234-1234-1234",
+      "lastActivatedDate": "2023-11-10T18:28:27.283Z",
       "isFavorite": false,
-      "globalCCU": 218
+      "globalCCU": 94,
+      "lockStatus": "UNLOCKED",
+      "lockStatusReason": "NONE",
+      "isVisible": true
     }
   ],
   "hasMore": false
