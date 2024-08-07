@@ -16,7 +16,7 @@ Auth Required: Yes (No special permission required)
 
 _Example Response_
 
-```json
+```js
 {
     "type": "NO_UPDATE" // Could be one of these depending on version state: NO_UPDATE, NOT_ENABLED, SOFT_UPDATE, HARD_UPDATE, APP_REDIRECT
 }
