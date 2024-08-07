@@ -61,6 +61,10 @@
 - season29_2930_GeneralReconcileTokenProgress
 - season29_2940_RemoveOrphanedColdDayQuests_May_2024
 - season30_3000_FixMissingKickoffPunchCardProgress
+- season30_3010_RemoveOrphanedBundleQuests_June_2024
+- season30_3020_replaceJamTrackswithMusicInLocker_June_2024
+- season30_3020_FixupJunoFTUE_BB_Quests_June_2024
+- season30_3030_removeOrphanedS29Quests_July_2024
 
 ## Common Core
 
@@ -82,6 +86,7 @@
 - fix_empty_users_again_july_2019
 - ensure_project_ids_october_2021
 - add_creator_portal_permission_march_2023
+- season30_3010_cleanupItemsWithMissingTemplates_June_2024
 
 ## Collections
 
@@ -90,6 +95,7 @@
 - season20_2010_fix_fish_collection_incorrect_items_apr_2022
 - season24_2400_collect_starting_augments_set
 - season29_2910_cleanupItemsWithMissingTemplates_Apr_2024
+- season30_3010_cleanupItemsWithMissingTemplates_June_2024
 
 ## Campaign
 
@@ -108,6 +114,8 @@
 - season28_2800_MultiProductLoadouts_Dec_2023
 - cleanup_cosmetics_december_2023
 - refund_blakebeard_feb_2024
+- season30_3010_FixDelMarTokens_June_2024
+- season30_3030_CleanupStainlessCampaignResources_July_2024
 
 ## Common Public
 
