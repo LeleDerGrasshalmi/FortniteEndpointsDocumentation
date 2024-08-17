@@ -22,3 +22,12 @@ _Example Response_
 }
 ```
 
+_Example Response (If type is APP_REDIRECT)_
+
+```js
+{
+    "type": "APP_REDIRECT",
+    "appRedirect": "FortniteDevTesting"
+}
+```
+
