@@ -22,6 +22,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | fortnitePCQAGameClientTest                         | 81ffd992c8a94ccaaaa6bd74c073ce6a |                                      |
 | fortniteEsportsComClient                           | 0fa561666d6e41cb95b2a357a8b4a6f3 |                                      |
 | fortnite.com                                       | a485a2fde2e343dfb7559d5efeaf35d9 |                                      |
+| item-shop-data-service-prod                        | 221c4f5d40ef4d63ace234a940c2a711 |                                      |
 | KairosPC                                           | 5b685653b9904c1d92495ee8859dcb00 | 7Q2mcmneyuvPmoRYfwM7gfErA6iUjhXr     |
 | Kairos Android                                     | 0716a69cb8b2422fbb2a8b0879501471 | cGthdfG68tyE7M3ZHMu3sXUBwqhibKFp     |
 | Kairos iOS                                         | 61d2f70175e84a6bba80a5089e597e1c | FbiZv3wbiKpvVKrAeMxiR6WhxZWVbrvA     |
