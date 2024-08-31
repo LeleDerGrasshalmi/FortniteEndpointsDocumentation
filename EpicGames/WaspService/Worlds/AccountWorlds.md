@@ -17,36 +17,45 @@ _Example Response_
 [
   {
     "namespaceId": "fn",
-    "worldId": "b29a32d96cb449e7b4bd677f4503d997",
+    "worldId": "17abf5d94fd74b9383f4cf3a05bf2472",
     "ownerAccountId": "94b1569506b04f9f8557af611e8c5e47",
     "version": 0,
     "currentVersion": 0,
-    "name": "6",
-    "createdAt": "2023-11-12T12:17:25.584193993Z",
-    "updatedAt": "2023-11-12T12:17:25.592478165Z",
+    "name": "3",
+    "customName": "finalyl",
+    "customNameChangeAllowedAt": "2024-08-31T10:10:15.70652891Z",
+    "createdAt": "2023-12-08T22:11:21.621143112Z",
+    "updatedAt": "2024-05-09T09:17:11.816934562Z",
     "sanction": null,
     "metadataConstraint": "juno_default",
     "metadata": {
-      "seed": 818
+      "mode": "Survival",
+      "friendlyCreatures": "On",
+      "hostileCreatures": "On",
+      "npcs": "Off",
+      "dropInventoryOnDeath": "Off",
+      "seed": 18937492,
+      "death": "On",
+      "temperature": "On",
+      "thumbnailTableRowName": "test",
+      "staminaDrain": "On",
+      "hunger": "On",
+      "devSettings": "[]"
     },
-    "session": {
-      "owningSessionId": null,
-      "sessionKey": null,
-      "currentPlayers": null,
-      "sessionCreatedAt": null,
-      "lastServerHeartbeat": null,
-      "totalSecondsPlayed": 0
-    }
+    "session": null,
+    "pendingActions": []
   },
   {
     "namespaceId": "fn",
-    "worldId": "ed22688b9545447b8c458afb3007d464",
+    "worldId": "52e1e576226c42ad9563503254f866c1",
     "ownerAccountId": "94b1569506b04f9f8557af611e8c5e47",
     "version": 0,
     "currentVersion": 0,
-    "name": "1",
-    "createdAt": "2023-11-10T23:25:52.331111261Z",
-    "updatedAt": "2023-11-10T23:25:52.334501405Z",
+    "name": "5",
+    "customName": null,
+    "customNameChangeAllowedAt": null,
+    "createdAt": "2024-05-07T17:13:58.250022091Z",
+    "updatedAt": "2024-05-07T17:17:52.993752952Z",
     "sanction": null,
     "metadataConstraint": "nometadata",
     "metadata": {},
@@ -55,9 +64,10 @@ _Example Response_
       "sessionKey": null,
       "currentPlayers": null,
       "sessionCreatedAt": null,
-      "lastServerHeartbeat": null,
-      "totalSecondsPlayed": 0
-    }
+      "lastServerHeartbeat": "2024-08-31T10:08:45.556731589Z",
+      "totalSecondsPlayed": 215
+    },
+    "pendingActions": []
   }
 ]
 ```

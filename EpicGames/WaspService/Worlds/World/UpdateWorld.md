@@ -8,7 +8,8 @@ Auth Required: Yes (`wasp:{namespaceId}:world UPDATE`)
 {
   "metadata": {
     "seed": 72
-  }
+  },
+  "customName": "my new name"
 }
 ```
 
@@ -19,7 +20,8 @@ Auth Required: Yes (`wasp:{namespaceId}:world UPDATE`)
 
 ## Parameters
 
-`metadata`: Based on the `metadataConstraint` you need different fields, this are the same metadata fields from the [world creation](./WorldInfo.md)
+`metadata`: Based on the `metadataConstraint` you need different fields, this are the same metadata fields from the [world creation](./WorldInfo.md), but most props wont be modifiable <br/>
+`customName`: The new custom world name
 
 ---
 
@@ -28,19 +30,27 @@ _Example Response_
 ```json
 {
   "namespaceId": "fn",
-  "worldId": "d4bf6ca6b65a497b94ad5225a40624b6",
+  "worldId": "52e1e576226c42ad9563503254f866c1",
   "ownerAccountId": "94b1569506b04f9f8557af611e8c5e47",
   "version": 0,
   "currentVersion": 0,
-  "name": "7",
-  "createdAt": "2023-11-11T09:58:25.215958467Z",
-  "updatedAt": "2023-11-12T12:35:30.781087513Z",
+  "name": "5",
+  "customName": "my custom name",
+  "customNameChangeAllowedAt": "2024-08-31T10:26:32.394266599Z",
+  "createdAt": "2024-05-07T17:13:58.250022091Z",
+  "updatedAt": "2024-05-07T17:17:52.993752952Z",
   "sanction": null,
-  "metadataConstraint": "juno_default",
-  "metadata": {
-    "seed": 72
+  "metadataConstraint": "nometadata",
+  "metadata": {},
+  "session": {
+    "owningSessionId": null,
+    "sessionKey": null,
+    "currentPlayers": null,
+    "sessionCreatedAt": null,
+    "lastServerHeartbeat": "2024-08-31T10:08:45.556731589Z",
+    "totalSecondsPlayed": 215
   },
-  "session": null
+  "pendingActions": []
 }
 ```
 

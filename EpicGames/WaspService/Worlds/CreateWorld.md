@@ -7,9 +7,10 @@ Auth Required: Yes (`wasp:{namespaceId}:world CREATE`)
 ```json
 {
   "namespaceId": "",
-  "worldId": "34f6b0c0-4780-4958-65d2-318f79d82296",
+  "worldId": "77455b75-464a-8f68-60dc-0ea9327b2306",
   "ownerAccountId": "94b1569506b04f9f8557af611e8c5e47",
   "name": "",
+  "customName": "hello github - whats up",
   "sanction": {
     "worldLocked": false,
     "worldOwnerFix": false,
@@ -19,7 +20,25 @@ Auth Required: Yes (`wasp:{namespaceId}:world CREATE`)
   },
   "version": 0,
   "metadataConstraint": "juno_default",
-  "metadata": {},
+  "metadata": {
+    "seed": 40928926,
+    "mode": "Cozy",
+    "hostileCreatures": "On",
+    "friendlyCreatures": "On",
+    "dropInventoryOnDeath": "Off",
+    "hunger": "Off",
+    "staminaDrain": "Off",
+    "npcs": "On",
+    "thumbnailTableRowName": "Night_01",
+    "temperature": "Off",
+    "death": "On",
+    "friendlyFire": "Off",
+    "powerSystem": "Off",
+    "recruitedCreaturePermaDeath": "Off",
+    "difficulty": "Easy",
+    "eliteHostileCreatures": "Off",
+    "flying": "Off"
+  },
   "session": {
     "namespaceId": "",
     "worldId": "",
@@ -27,7 +46,8 @@ Auth Required: Yes (`wasp:{namespaceId}:world CREATE`)
     "sessionKey": "",
     "currentPlayers": [],
     "totalSecondsPlayed": 0
-  }
+  },
+  "pendingActions": []
 }
 ```
 
@@ -39,15 +59,17 @@ Auth Required: Yes (`wasp:{namespaceId}:world CREATE`)
 ## Parameters
 
 There are many parameters that may seem useless, however the client sends them, so they are documented here. <br/>
-The example payload is a real world payload sent by the client on v28.00.
+The example payload is a real world payload sent by the client on v31.00.
 
 `namespaceId`: Leave as an empty string, its ignored by the server <br/>
 `worldId`: A UUIDv4, its ignored by the server <br/>
 `ownerAccountId`: Your Account Id, its ignored by the server <br/>
 `name`: Leave as an empty string, its ignored by the server <br/>
+`customName`: Custom world display name <br/>
 `sanction`: Leave like the example, its ignored by the server <br/>
 `session`: Leave like the example, its ignored by the server <br/>
-`version`: Leave as 0 its ignored by the server <br/>
+`version`: Leave as 0, its ignored by the server <br/>
+`pendingActions`: Leave as empty array, its ignored by the server <br/>
 `metadataConstraint`: Either `nometadata` or `juno_default` (`juno:default` got deprecated) <br/>
 `metadata`: Based on the `metadataConstraint` you need different fields:
 
