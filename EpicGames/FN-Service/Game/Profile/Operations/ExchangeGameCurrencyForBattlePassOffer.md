@@ -7,21 +7,17 @@
 
 ```js
 {
-   "offerItemIdList":[
-      
-   ], // Battle Pass Item Offer Ids
-   "additionalData":{
-      "islandId":"",
-      "islandTitle":"",
-      "productTag":"Product.FNE.Hub",
-      "storeContext":"",
-      "sourceContext":"",
-      "checkoutProperties":{
-         
-      },
-      "storefront":"",
-      "storeId":"",
-      "groupId":""
-   }
+    "offerItemIdList": [], // Battle Pass Item Offer Ids
+    "additionalData": {
+        "islandId": "",
+        "islandTitle": "",
+        "productTag": "Product.FNE.Hub",
+        "storeContext": "",
+        "sourceContext": "",
+        "checkoutProperties": {},
+        "storefront": "",
+        "storeId": "",
+        "groupId": ""
+    }
 }
 ```
