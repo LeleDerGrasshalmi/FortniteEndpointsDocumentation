@@ -116,9 +116,9 @@
 - refund_blakebeard_feb_2024
 - season30_3010_FixDelMarTokens_June_2024
 - season30_3030_CleanupStainlessCampaignResources_July_2024
+- season30_3040_CleanupGreenhouseCampaignResources_August_2024
 
 ## Common Public
-
 - fortnite_start
 - outpost_name_wipe_march_2023
 
