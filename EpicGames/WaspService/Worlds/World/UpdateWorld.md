@@ -7,7 +7,7 @@ Auth Required: Yes (`wasp:{namespaceId}:world UPDATE`)
 ```json
 {
   "metadata": {
-    "seed": 72
+    "recruitedCreaturePermaDeath": "On"
   },
   "customName": "my new name"
 }
