@@ -24,6 +24,7 @@ Web APIs however are a bit different, these require web login cookies.
   - [FN - Habanero Service](./EpicGames/FN-Habanero-Service)
   - [FN - Hotconfig](./EpicGames/FN-Hotconfig)
   - [Friends Service](./EpicGames/FriendsService)
+  - [Fulfillment Service](./EpicGames/FulfillmentService)
   - [Global Service](./EpicGames/GlobalService)
   - [IP Data Service](./EpicGames/IPDataService)
   - [KWS](./EpicGames/KWS)
