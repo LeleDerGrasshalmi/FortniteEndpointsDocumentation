@@ -9,3 +9,5 @@ Known `rankingType`'s
 - `ranked-br` (Battle Royale)
 - `ranked-zb` (Zero Build)
 - `delmar-competitive` (Rocket Racing)
+- `ranked_blastberry_build` (Reload Battle Royale)
+- `ranked_blastberry_nobuild` (Reload Zero Build)
