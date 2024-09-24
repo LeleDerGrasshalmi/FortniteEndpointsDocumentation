@@ -21,26 +21,42 @@ _Example Response_
 [
   {
     "gameId": "fortnite",
-    "trackguid": "dmd372",
+    "trackguid": "rrzuel",
     "rankingType": "delmar-competitive",
-    "beginTime": "2023-12-07T00:00:18Z",
-    "endTime": "2025-01-01T07:00:17Z",
+    "beginTime": "2024-07-23T06:00:00Z",
+    "endTime": "2024-10-11T08:00:00Z",
     "divisionCount": 18
   },
   {
     "gameId": "fortnite",
-    "trackguid": "EYpme7",
+    "trackguid": "S4LT3D",
     "rankingType": "ranked-br",
-    "beginTime": "2023-12-03T08:00:18Z",
-    "endTime": "2025-01-01T07:00:17Z",
+    "beginTime": "2024-08-16T04:00:01Z",
+    "endTime": "2024-11-02T23:59:00Z",
     "divisionCount": 18
   },
   {
     "gameId": "fortnite",
-    "trackguid": "d0zEcd",
+    "trackguid": "P0T4T0",
     "rankingType": "ranked-zb",
-    "beginTime": "2023-12-03T08:00:18Z",
-    "endTime": "2025-01-01T07:00:17Z",
+    "beginTime": "2024-08-16T04:00:01Z",
+    "endTime": "2024-11-02T23:59:00Z",
+    "divisionCount": 18
+  },
+  {
+    "gameId": "fortnite",
+    "trackguid": "M4rC4S",
+    "rankingType": "ranked_blastberry_build",
+    "beginTime": "2024-09-24T13:00:00Z",
+    "endTime": "2025-01-26T17:59:00Z",
+    "divisionCount": 18
+  },
+  {
+    "gameId": "fortnite",
+    "trackguid": "L4nC3r",
+    "rankingType": "ranked_blastberry_nobuild",
+    "beginTime": "2024-09-24T13:00:00Z",
+    "endTime": "2025-01-26T17:59:00Z",
     "divisionCount": 18
   }
 ]
