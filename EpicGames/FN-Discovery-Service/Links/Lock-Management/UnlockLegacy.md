@@ -1,4 +1,4 @@
-## FN - Discovery Service: Unlock Legacy Links?
+## FN - Discovery Service: Unlock Legacy Links
 
 URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/legacy-unlock/:accountId \
 Method: DELETE \
