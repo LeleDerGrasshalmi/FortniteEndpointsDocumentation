@@ -6,7 +6,7 @@ Auth Required: Yes (`discovery:surface:query READ`)
 
 ## Headers
 
-`X-Epic-Access-Token`: The [current discovery access token](/Fortnite/Creative/DiscoveryAccessToken.md)
+`X-Epic-Access-Token`: The [current discovery access token](/EpicGames/FN-Service/Game/Creative/DiscoveryAccessToken.md)
 
 <br/>
 
@@ -57,63 +57,64 @@ _Example Response (shortened)_
 
 ```json
 {
-  "testVariantName": "V1_EU_1_4",
-  "testName": "27.00_11/03/2023_HomebarRPTest",
-  "testAnalyticsId": "v2|1011|6e5dfa45cf32e36e3e75c7ac47514fc3",
-  "testVariantAnalyticsId": "v2_v22_c1665",
+  "testVariantName": "Baseline",
+  "testName": "31.30_31.40_EpicPage",
+  "testAnalyticsId": "v2|5117|1cf3c6c8329b7f8040f39fec1712d1dd",
+  "testVariantAnalyticsId": "v2_v0_c7790",
   "panels": [
     {
-      "panelName": "Homebar2",
-      "panelDisplayName": "Homebar",
-      "featureTags": ["col:5", "homebar"],
+      "panelName": "Featured_EpicPage",
+      "panelDisplayName": "Featured",
+      "panelSubtitle": null,
+      "featureTags": [
+        "hasViewAll:true",
+        "horizontalScroll:false",
+        "maxVisibleRows:2",
+        "panelType:featured",
+        "showIfEmpty:false",
+        "squareTiles:false"
+      ],
       "firstPage": {
         "results": [
           {
-            "lastVisited": null,
-            "linkCode": "reference_joinableparties_2",
-            "isFavorite": false,
-            "globalCCU": -1,
+            "lastVisited": "2024-08-31T10:40:42.535Z",
+            "linkCode": "playlist_juno",
+            "isFavorite": true,
+            "globalCCU": 56152,
             "lockStatus": "UNLOCKED",
-            "lockStatusReason": "NONE",
-            "isVisible": true
-          },
-          {
-            "lastVisited": null,
-            "linkCode": "reference_current_island",
-            "isFavorite": false,
-            "globalCCU": -1,
-            "lockStatus": "UNLOCKED",
-            "lockStatusReason": "NONE",
+            "lockStatusReason": "RATING_THRESHOLD",
             "isVisible": true
           }
         ],
         "hasMore": false,
-        "panelTargetName": null
+        "panelTargetName": null,
+        "pageMarker": null
       },
       "panelType": "CuratedList",
-      "playHistoryType": null
+      "playHistoryType": null,
+      "panelContexts": {}
     },
     {
-      "panelName": "ByEpicNoBigBattle6ColRanked",
-      "panelDisplayName": "By Epic",
-      "featureTags": ["col:5"],
+      "panelName": "PublishedIslands",
+      "panelDisplayName": "More Islands",
+      "panelSubtitle": null,
+      "featureTags": [
+        "hasViewAll:true",
+        "horizontalScroll:false",
+        "maxVisibleRows:2",
+        "panelType:published",
+        "showIfEmpty:false",
+        "squareTiles:false"
+      ],
       "firstPage": {
-        "results": [
-          {
-            "lastVisited": "2023-09-24T13:23:39.954Z",
-            "linkCode": "playlist_playgroundv2",
-            "isFavorite": true,
-            "globalCCU": 46479,
-            "lockStatus": "UNLOCKED",
-            "lockStatusReason": "NONE",
-            "isVisible": true
-          }
-        ],
+        "results": [],
         "hasMore": false,
-        "panelTargetName": null
+        "panelTargetName": null,
+        "pageMarker": null
       },
-      "panelType": "AnalyticsList",
-      "playHistoryType": null
+      "panelType": "PublishedIslands",
+      "playHistoryType": null,
+      "panelContexts": {}
     }
   ]
 }

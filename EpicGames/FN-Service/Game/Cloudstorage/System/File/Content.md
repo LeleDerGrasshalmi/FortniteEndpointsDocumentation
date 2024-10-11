@@ -10,9 +10,9 @@ Auth Required: Yes (`fortnite:cloudstorage:system:{uniqueFilename} READ`)
 
 ---
 
-_Example Response (Branch-Release-24.40_XSX_Engine.ini)_
+_Example Response (`XB1JunoGameNativeDeviceProfiles.ini`)_
 
 ```ini
-[ConsoleVariables]
-Fort.MLDeformer.DisableComponent=1
+[RuntimeDeviceProfileRule]
++CVars=IA.ViewDistanceQuality=2
 ```

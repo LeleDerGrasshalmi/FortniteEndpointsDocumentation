@@ -6,7 +6,7 @@ Auth Required: Yes (`discovery:surface:query READ`)
 
 ## Headers
 
-`X-Epic-Access-Token`: The [current discovery access token](/Fortnite/Creative/DiscoveryAccessToken.md)
+`X-Epic-Access-Token`: The [current discovery access token](/EpicGames/FN-Service/Game/Creative/DiscoveryAccessToken.md)
 
 <br/>
 
@@ -59,24 +59,16 @@ _Example Response (shortened)_
   "results": [
     {
       "lastVisited": null,
-      "linkCode": "6599-0595-7925",
+      "linkCode": "set_habanero_blastberry_playlists",
       "isFavorite": false,
-      "globalCCU": 19,
+      "globalCCU": 370554,
       "lockStatus": "UNLOCKED",
-      "lockStatusReason": "NONE",
-      "isVisible": true
-    },
-    {
-      "lastVisited": null,
-      "linkCode": "2114-1274-7328",
-      "isFavorite": false,
-      "globalCCU": -1,
-      "lockStatus": "UNLOCKED",
-      "lockStatusReason": "NONE",
+      "lockStatusReason": "RATING_THRESHOLD",
       "isVisible": true
     }
   ],
   "hasMore": false,
-  "panelTargetName": null
+  "panelTargetName": null,
+  "pageMarker": null
 }
 ```

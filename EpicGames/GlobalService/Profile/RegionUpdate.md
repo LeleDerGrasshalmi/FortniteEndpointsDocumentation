@@ -6,8 +6,8 @@ Auth Required: Yes (No Perm required)
 
 ```json
 {
-  "namespace": "",
-  "play_region": ""
+  "namespace": "Fortnite",
+  "play_region": "EUROPE"
 }
 ```
 

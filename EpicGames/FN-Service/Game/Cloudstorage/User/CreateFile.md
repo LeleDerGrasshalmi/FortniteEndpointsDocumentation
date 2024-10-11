@@ -6,6 +6,10 @@ Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{filename} CREATE`)
 
 File Content (Binary) - **File-Body**
 
+## Path Parameters
+
+`accountId`: Your Account Id
+
 ## Query Parameters
 
 `filename`: The filename of the file to create

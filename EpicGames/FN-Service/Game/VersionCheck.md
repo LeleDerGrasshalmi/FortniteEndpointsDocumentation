@@ -1,4 +1,4 @@
-  ## FN Service - Version Check
+## FN Service - Version Check
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/v2/versioncheck/:platform \
 Method: GET \
@@ -22,7 +22,7 @@ _Example Response_
 }
 ```
 
-_Example Response (If type is APP_REDIRECT)_
+_Example Response (If type is `APP_REDIRECT`)_
 
 ```js
 {
@@ -30,4 +30,3 @@ _Example Response (If type is APP_REDIRECT)_
     "appRedirect": "FortniteDevTesting"
 }
 ```
-

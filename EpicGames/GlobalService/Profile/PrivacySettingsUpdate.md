@@ -6,11 +6,11 @@ Auth Required: Yes (No Perm required)
 
 ```json
 {
-  "namespace": "",
+  "namespace": "Fortnite",
   "privacy_settings": {
-    "playRegion": "",
-    "languages": "",
-    "badges": ""
+    "playRegion": "PUBLIC",
+    "languages": "FRIENDS_ONLY",
+    "badges": "PRIVATE"
   }
 }
 ```

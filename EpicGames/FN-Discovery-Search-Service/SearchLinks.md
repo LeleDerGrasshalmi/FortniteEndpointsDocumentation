@@ -40,13 +40,24 @@ _Example Response_
 {
   "results": [
     {
-      "linkCode": "1334-2993-7207",
+      "linkCode": "1269-6181-1603",
       "isFavorite": false,
       "lastVisited": null,
-      "globalCCU": 3,
-      "score": 9.348631,
+      "globalCCU": 1,
+      "score": 2.3827636,
       "lockStatus": "UNLOCKED",
-      "lockStatusReason": "NONE"
+      "lockStatusReason": "RATING_THRESHOLD",
+      "isVisible": true
+    },
+    {
+      "linkCode": "6608-3568-6843",
+      "isFavorite": true,
+      "lastVisited": 1700589249.54,
+      "globalCCU": -1,
+      "score": 1.5033565,
+      "lockStatus": "LOCKED",
+      "lockStatusReason": "RATING_THRESHOLD",
+      "isVisible": true
     }
   ]
 }

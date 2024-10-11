@@ -10,7 +10,7 @@ _Example Response_
 
 ```json
 {
-  "lastUpdated": "2023-05-18T23:19:43.753Z",
+  "lastUpdated": "2024-10-11T19:34:56.833Z",
   "disableV2": false,
   "isAuthenticated": true,
   "enumerateFilesPath": "/api/cloudstorage/system",

@@ -6,7 +6,7 @@ Auth Required: Yes (`fortnite:cloudstorage:user:{accountId} READ`)
 
 ## Path Parameters
 
-`accountId`: your Account Id
+`accountId`: Your Account Id
 
 ---
 

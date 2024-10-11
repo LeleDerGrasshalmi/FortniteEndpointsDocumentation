@@ -19,15 +19,23 @@ _Example Response_
 
 ```json
 {
-  "creatorId": "4c2342479c23474daf0c38f64c7d7871",
+  "creatorId": "epic",
   "links": [
     {
-      "linkCode": "1234-1234-1234",
-      "lastActivatedDate": "2023-11-10T18:28:27.283Z",
+      "linkCode": "set_habanero_nobuild_blastberry_playlists",
+      "lastActivatedDate": "2024-07-26T19:18:11.047Z",
       "isFavorite": false,
-      "globalCCU": 94,
+      "globalCCU": 55827,
       "lockStatus": "UNLOCKED",
-      "lockStatusReason": "NONE",
+      "lockStatusReason": "RATING_THRESHOLD",
+      "isVisible": true
+    },
+    {
+      "linkCode": "campaign",
+      "isFavorite": true,
+      "globalCCU": 16647,
+      "lockStatus": "UNLOCKED",
+      "lockStatusReason": "RATING_THRESHOLD",
       "isVisible": true
     }
   ],

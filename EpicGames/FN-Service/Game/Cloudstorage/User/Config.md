@@ -10,11 +10,11 @@ _Example Response_
 
 ```json
 {
-  "lastUpdated": "2023-05-18T23:00:17.902Z",
-  "disableV2": true,
+  "lastUpdated": "2024-10-11T19:38:41.720Z",
+  "disableV2": false,
   "isAuthenticated": true,
   "enumerateFilesPath": "/api/cloudstorage/user",
-  "enableMigration": false,
+  "enableMigration": true,
   "enableWrites": true,
   "epicAppName": "Live",
   "transports": {

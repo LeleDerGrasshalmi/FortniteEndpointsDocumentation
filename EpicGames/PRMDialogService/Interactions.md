@@ -1,6 +1,6 @@
 ## PRM Dialog Service - Interactions
 
-URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/interactions/contentHash \
+URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/interactions \
 Method: POST \
 Auth Required: Yes (Account - `eg1`)
 

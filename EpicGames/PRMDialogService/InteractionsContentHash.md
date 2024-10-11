@@ -4,6 +4,8 @@ URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v
 Method: POST \
 Auth Required: Yes (Account - `eg1`)
 
+> Removed as of 30.09.2024
+
 ```json
 {
   "sessionId": "21BED1F74D434A9678C4E584A4CF4257",

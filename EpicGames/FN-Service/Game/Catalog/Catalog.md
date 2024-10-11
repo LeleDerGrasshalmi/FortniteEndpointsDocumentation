@@ -19,32 +19,41 @@ _Example Response (heavily shortened)_
   "expiration": "2023-05-18T23:00:00.000Z",
   "storefronts": [
     {
+      "name": "BRSpecialFeatured",
+      "catalogEntries": []
+    },
+    {
       "name": "BRWeeklyStorefront",
       "catalogEntries": [
         {
-          "devName": "[VIRTUAL]1 x Fishy for 300 MtxCurrency",
-          "offerId": "v2:/2cccc4c4c393a0d1438f41a4d7e60bbac9cde165f37be73cee93c0827586b718",
+          "devName": "[VIRTUAL]1 x Mi Gente for 500 MtxCurrency",
+          "offerId": "v2:/01412ed4948d000bede257d1295b5e4bb454c986fa70d25842abf0b3241c9183",
           "fulfillmentIds": [],
           "dailyLimit": -1,
           "weeklyLimit": -1,
           "monthlyLimit": -1,
-          "categories": ["Panel03"],
+          "categories": [],
           "prices": [
             {
               "currencyType": "MtxCurrency",
               "currencySubType": "",
-              "regularPrice": 300,
-              "dynamicRegularPrice": 300,
-              "finalPrice": 300,
+              "regularPrice": 500,
+              "dynamicRegularPrice": 500,
+              "finalPrice": 500,
               "saleExpiration": "9999-12-31T23:59:59.999Z",
-              "basePrice": 300
+              "basePrice": 500
             }
           ],
           "meta": {
-            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Wrap_073_TeriyakiFish2.DAv2_Wrap_073_TeriyakiFish2",
-            "SectionId": "Featured2",
-            "TileSize": "Small",
-            "AnalyticOfferGroupId": "1"
+            "NewDisplayAssetPath": "sid_placeholder_34",
+            "offertag": "sparksjamloop",
+            "LayoutId": "JamTracks1011.97",
+            "TileSize": "Size_1_x_1",
+            "AnalyticOfferGroupId": "JamTracks1011",
+            "templateId": "SparksSong:sid_placeholder_34",
+            "webURL": "/item-shop/jam-tracks/mi-gente-e03f6f8d",
+            "inDate": "2024-08-16T00:00:00.000Z",
+            "outDate": "2024-11-28T23:59:59.999Z"
           },
           "matchFilter": "",
           "filterWeight": 0.0,
@@ -52,7 +61,7 @@ _Example Response (heavily shortened)_
           "requirements": [
             {
               "requirementType": "DenyOnItemOwnership",
-              "requiredId": "AthenaItemWrap:wrap_073_teriyakifish2",
+              "requiredId": "SparksSong:sid_placeholder_34",
               "minQuantity": 1
             }
           ],
@@ -67,26 +76,49 @@ _Example Response (heavily shortened)_
           "metaInfo": [
             {
               "key": "NewDisplayAssetPath",
-              "value": "/Game/Catalog/NewDisplayAssets/DAv2_Wrap_073_TeriyakiFish2.DAv2_Wrap_073_TeriyakiFish2"
+              "value": "sid_placeholder_34"
             },
             {
-              "key": "SectionId",
-              "value": "Featured2"
+              "key": "offertag",
+              "value": "sparksjamloop"
+            },
+            {
+              "key": "LayoutId",
+              "value": "JamTracks1011.97"
             },
             {
               "key": "TileSize",
-              "value": "Small"
+              "value": "Size_1_x_1"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "JamTracks1011"
+            },
+            {
+              "key": "templateId",
+              "value": "SparksSong:sid_placeholder_34"
+            },
+            {
+              "key": "webURL",
+              "value": "/item-shop/jam-tracks/mi-gente-e03f6f8d"
+            },
+            {
+              "key": "inDate",
+              "value": "2024-08-16T00:00:00.000Z"
+            },
+            {
+              "key": "outDate",
+              "value": "2024-11-28T23:59:59.999Z"
             }
           ],
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Wrap_073_TeriyakiFish2.DA_Featured_Wrap_073_TeriyakiFish2",
           "itemGrants": [
             {
-              "templateId": "AthenaItemWrap:wrap_073_teriyakifish2",
+              "templateId": "SparksSong:sid_placeholder_34",
               "quantity": 1
             }
           ],
           "additionalGrants": [],
-          "sortPriority": -9,
+          "sortPriority": -233,
           "catalogGroupPriority": 0
         }
       ]
@@ -137,24 +169,34 @@ _Example Response (heavily shortened)_
           ],
           "metaInfo": [
             {
+              "key": "SectionID",
+              "value": "LimitedTime"
+            },
+            {
               "key": "NewDisplayAssetPath",
               "value": "/Game/Catalog/NewDisplayAssets/S23/DAv2_RMT_ColdestCircles_QP.DAv2_RMT_ColdestCircles_QP"
+            },
+            {
+              "key": "TileSize",
+              "value": "Size_2_x_2"
+            },
+            {
+              "key": "HideRarityBorder",
+              "value": "true"
+            },
+            {
+              "key": "ViolatorTag",
+              "value": "ColdestCirclesQP"
             }
           ],
           "catalogGroup": "",
           "catalogGroupPriority": 0,
-          "sortPriority": 19,
-          "title": "Coldest Circles Quest Pack",
+          "sortPriority": 13,
+          "title": "",
           "shortDescription": "",
-          "description": "When fiends freeze over you get the Coldest Circles Quest Pack. Complete Quests to unlock 1 Outfit, 1 Back Bling, 1 Pickaxe and a Wrap.",
-          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_ColdestCirclesQP.DA_Featured_ColdestCirclesQP",
-          "itemGrants": [
-            {
-              "templateId": "ChallengeBundleSchedule:season24_darkice_schedule",
-              "quantity": 1,
-              "attributes": {}
-            }
-          ]
+          "description": "",
+          "displayAssetPath": "/OfferCatalog/DisplayAssets/DA_Featured_ColdestCirclesQP.DA_Featured_ColdestCirclesQP",
+          "itemGrants": []
         }
       ]
     }

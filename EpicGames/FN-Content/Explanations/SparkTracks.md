@@ -22,7 +22,7 @@ The `spark-tracks` sub-page has a heavily shortened structure as shown below.
       "sib": "Bass",
       "sid": "Drum",
       "sig": "Guitar",
-      "qi": "{\"sid\":\"764abe5f-8530-42f3-b235-7661b2dc7c66\",\"pid\":\"ac07da2b-d589-4d96-b1a4-62a7be6cb47e\",\"title\":\"butterbarnhoedown\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":44.0816}}",
+      "qi": "{\"sid\":\"764abe5f-8530-42f3-b235-7661b2dc7c66\",\"pid\":\"ac07da2b-d589-4d96-b1a4-62a7be6cb47e\",\"stereoId\":\"5a52481b-092e-432a-a847-f3b43b4e0ec9\",\"instrumentalId\":\"e1ea6bc3-e790-44f8-a45a-9ed0b10f91a2\",\"title\":\"butterbarnhoedown\",\"tracks\":[{\"part\":\"ds\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"bs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"gs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"vs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]},{\"part\":\"fs\",\"channels\":[\"FL\",\"FR\"],\"vols\":[4,4]}],\"preview\":{\"starttime\":44.0816}}",
       "sn": "butterbarnhoedown",
       "ge": ["Country"],
       "mk": "D",
@@ -53,7 +53,7 @@ The `spark-tracks` sub-page has a heavily shortened structure as shown below.
     },
     "_noIndex": false,
     "_activeDate": "2023-10-09T18:12:20.689Z",
-    "lastModified": "2024-02-15T21:26:26.912Z",
+    "lastModified": "2024-09-13T02:31:08.018Z",
     "_locale": "en-US",
     "_templateName": "track"
   },
@@ -78,6 +78,8 @@ Each Track is a object in the root object, each `track` object has the following
 | qi                   | string   | Quicksilver Data                |
 | qi.sid               | string   | Song streaming UUID             |
 | qi.pid               | string   | Preview streaming UUID          |
+| qi.stereoId          | string   | Stereo streaming UUID           |
+| qi.instrumentalId    | string   | Instrumental streaming UUID     |
 | qi.title             | string   | Short song title                |
 | qi.tracks            | object[] | Track Data                      |
 | qi.preview           | object   | Preview Data                    |

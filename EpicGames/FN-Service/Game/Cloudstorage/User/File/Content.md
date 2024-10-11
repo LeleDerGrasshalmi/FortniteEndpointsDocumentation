@@ -6,5 +6,5 @@ Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} REA
 
 ## Path Parameters
 
-`accountId`: your Account Id <br/>
-`uniqueFilename`: the filename, e.g. `ClientSettings.sav` or `ClientSettingsPS5.sav`
+`accountId`: Your Account Id <br/>
+`uniqueFilename`: The `uniqueFilename` from list, e.g. `ClientSettings.sav` or `ClientSettingsPS5.sav`

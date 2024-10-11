@@ -6,7 +6,7 @@ Auth Required: Yes (No Perm required)
 
 ```json
 {
-  "namespace": ""
+  "namespace": "Fortnite"
 }
 ```
 
