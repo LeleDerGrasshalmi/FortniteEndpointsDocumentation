@@ -6,8 +6,8 @@ Auth Required: Yes (`wasp:{namespaceId}:world DELETE`)
 
 ## Path Parameters
 
-`namespaceId`: Check [Readme](../README.md) <br/>
-`worldId` The World Id from the [worlds list](./AccountAccessibleWorld.md)
+`namespaceId`: Check [Readme](../../README.md) <br/>
+`worldId` The World Id from the [worlds list](../AccountAccessibleWorld.md)
 
 ---
 
