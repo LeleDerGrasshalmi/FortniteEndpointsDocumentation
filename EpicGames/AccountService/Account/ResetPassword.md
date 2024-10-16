@@ -1,7 +1,7 @@
 ## Account Service - Send Password Reset
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/resetPassword \
-Method: GET \
+Method: POST \
 Auth Required: Yes (`account:accounts:password:sendResetCode CREATE`)
 
 ## Path Parameters
