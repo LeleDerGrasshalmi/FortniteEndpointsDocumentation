@@ -73,3 +73,5 @@ _Example Response_
 | ++Fortnite+Release-31.10 | 1PwQh/Q7gH6O940VGPwnTks0o68ifaBXDIsRoac/FjE= | Lele   |
 | ++Fortnite+Release-31.20 | Missing                                      |        |
 | ++Fortnite+Release-31.30 | 6liJ9OTYJpwtx0+jApUc/OYtq2eHDXFHTIp4nfJgduc= | Lele   |
+| ++Fortnite+Release-31.40 | YYBC/9XIKm8AaXJlY4IXEAWd64hzs5pvjZrtE7CnwSg= | Lele   |
+| ++Fortnite+Release-31.41 | Jh3NW1zIiDoZbq6uoDmlRTH26vl8VWtgI168IfI1gI0= | Lele   |
