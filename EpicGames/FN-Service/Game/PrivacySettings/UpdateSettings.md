@@ -4,7 +4,7 @@ URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/privacy/ac
 Method: POST \
 Auth Required: Yes (`fortnite:profile:{accountId}:commands ALL`)
 
-```json
+```js
 {
   "optOutOfPublicLeaderboards": true,
   "optOutOfFriendsLeaderboards": false, // obsolete
