@@ -6,24 +6,29 @@ Auth Required: Yes (`discovery:search:{accountId} READ`)
 
 ```json
 {
-  "term": "epic"
+  "creatorTerm": "epic"
 }
 ```
 
 ## Parameters
 
-`term`: Search Query Input
+`creatorTerm`: Creator Search Input
 
 ---
 
-_Example Response (Not working yet)_
+_Example Response (shortened)_
 
 ```json
 {
-  "timestamp": 1725056523599,
-  "path": "/api/v1/creators/search",
-  "status": 500,
-  "error": "Internal Server Error",
-  "requestId": "fdf04b93-1072598"
+  "results": [
+    {
+      "accountId": "epic",
+      "score": 4.3400574
+    },
+    {
+      "accountId": "1bd256a05c1842cbbcb1e4133bd47fec",
+      "score": 3.7241647
+    }
+  ]
 }
 ```
