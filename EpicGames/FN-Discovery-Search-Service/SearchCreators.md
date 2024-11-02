@@ -14,6 +14,10 @@ Auth Required: Yes (`discovery:search:{accountId} READ`)
 
 `creatorTerm`: Creator Search Input
 
+## Query Parameters
+
+`accountId`: Your Account Id
+
 ---
 
 _Example Response (shortened)_
