@@ -5,6 +5,7 @@ How to get [Client Info](../../Web/Id/Client.md).
 | Name                                               | Id                               | Secret                               |
 | -------------------------------------------------- | -------------------------------- | ------------------------------------ |
 | fortnitePCGameClient                               | ec684b8c687f479fadea3cb2ad83f5c6 | e1f31c211f28413186262d37a13fc84d     |
+| fortniteIOSGameClientEUAppstore                    | af43dc71dd91452396fcdffbd7a8e8a9 | 4YXvSEBLFRPLh1hzGZAkfOi5mqupFohZ     |
 | fortniteIOSGameClient                              | 3446cd72694c4a4485d81b77adbb2141 | 9209d4a5e25a457fb9b07489d313b41a     |
 | fortniteSwitchGameClient                           | 5229dcd3ac3845208b496649092f251b | e3bd2d3e-bf8c-4857-9e7d-f3d947d220c7 |
 | fortniteNewSwitchGameClient                        | 98f7e42c2e3a4f86a74eb43fbb41ed39 | 0a2449a2-001a-451e-afec-3e812901c4d7 |
