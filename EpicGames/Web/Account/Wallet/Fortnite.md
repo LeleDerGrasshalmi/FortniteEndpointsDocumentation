@@ -1,4 +1,4 @@
-## Account Web - Wllet: Fortnite
+## Account Web - Wallet: Fortnite
 
 URL: https://www.epicgames.com/account/v2/api/wallet/fortnite \
 Method: GET \
