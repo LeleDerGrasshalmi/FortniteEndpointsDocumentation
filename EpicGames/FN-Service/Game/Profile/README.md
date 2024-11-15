@@ -45,5 +45,5 @@
 | ProfileId        | Description                                                                                           |
 | ---------------- | ----------------------------------------------------------------------------------------------------- |
 | client           | The one you usually use                                                                               |
-| public           | Only used for [QueryPublicProfile](./operations/QueryPublicProfile.md)                                |
+| public           | Only used for [QueryPublicProfile](./Operations/QueryPublicProfile.md)                                |
 | dedicated_server | Server Route, requires `fortnite:fortnite_role:dedicated_server ALL` Permission (aka you cant use it) |
