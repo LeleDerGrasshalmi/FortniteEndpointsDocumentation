@@ -7,7 +7,8 @@ Auth Required: No
 ## Query Parameters
 
 `locale`: The requested Language, defaults to english <br/>
-`country`: Show all promos available in the requested Country
+`country`: Determines the price and which currency is shown<br/>
+`allowCountries`: Show all promos available in the requested Countries
 
 > All Query Params are optional and there may be more
 

@@ -1,4 +1,4 @@
-## FN Service - Inventory: Player Inventory
+# FN EOS Inventory Service: Player Inventory
 
 URL: https://fngw-svc-ds-livefn.ol.epicgames.com/api/inventory/v3/:deploymentId/players/:productUserId/:inventoryName \
 Method: GET \

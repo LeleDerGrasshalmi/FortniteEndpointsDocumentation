@@ -1,4 +1,4 @@
-# FN Service - Inventory APIs
+# FN - EOS Services Authentication
 
 **_These APIs require EOS Connect authentication, an example how to get such an token is shown below._** <br/>
 _Therefore the permission(s) listed in the requests are policy permissions, not client permissions (thats how EOS works)_
@@ -29,15 +29,23 @@ _Example Response_
 {
   "access_token": "REDACTED",
   "token_type": "bearer",
-  "expires_at": "2024-06-01T11:20:31.816Z",
-  "nonce": "bjeOHUxt3Uywf8l2i10w6w",
-  "features": ["AntiCheat", "Connect", "Ecom", "Inventories"],
+  "expires_at": "2024-11-16T19:02:54.328Z",
+  "nonce": "_",
+  "features": [
+    "AntiCheat",
+    "Connect",
+    "ContentService",
+    "Ecom",
+    "Inventories",
+    "LockerService",
+    "Matchmaking Service"
+  ],
   "organization_id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "product_id": "prod-fn",
   "sandbox_id": "fn",
   "deployment_id": "62a9473a2dca46b29ccf17577fcf42d7",
-  "organization_user_id": "000186674fe94d2588baf3b0c0b5a446",
-  "product_user_id": "0002a5fd0cea4c649b10dca47f9f6d8d",
+  "organization_user_id": "00012606a6424b879ad5ef5978bfe879",
+  "product_user_id": "00023ceb23764ee6a3199c9f4a387a9e",
   "product_user_id_created": false,
   "id_token": "REDACTED",
   "expires_in": 3599
