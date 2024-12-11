@@ -11,3 +11,4 @@ Known `rankingType`'s
 - `delmar-competitive` (Rocket Racing)
 - `ranked_blastberry_build` (Reload Battle Royale)
 - `ranked_blastberry_nobuild` (Reload Zero Build)
+- `ranked-feral` (Ballistic)
