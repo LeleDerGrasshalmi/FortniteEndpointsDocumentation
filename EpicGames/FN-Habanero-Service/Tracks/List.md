@@ -21,42 +21,50 @@ _Example Response_
 [
   {
     "gameId": "fortnite",
-    "trackguid": "rrzuel",
+    "trackguid": "rrhr6d",
     "rankingType": "delmar-competitive",
-    "beginTime": "2024-07-23T06:00:00Z",
-    "endTime": "2024-10-11T08:00:00Z",
+    "beginTime": "2024-12-01T05:00:00Z",
+    "endTime": "2025-02-21T08:00:00Z",
     "divisionCount": 18
   },
   {
     "gameId": "fortnite",
-    "trackguid": "S4LT3D",
-    "rankingType": "ranked-br",
-    "beginTime": "2024-08-16T04:00:01Z",
-    "endTime": "2024-11-02T23:59:00Z",
-    "divisionCount": 18
-  },
-  {
-    "gameId": "fortnite",
-    "trackguid": "P0T4T0",
-    "rankingType": "ranked-zb",
-    "beginTime": "2024-08-16T04:00:01Z",
-    "endTime": "2024-11-02T23:59:00Z",
-    "divisionCount": 18
-  },
-  {
-    "gameId": "fortnite",
-    "trackguid": "M4rC4S",
+    "trackguid": "P3PP3R",
     "rankingType": "ranked_blastberry_build",
-    "beginTime": "2024-09-24T13:00:00Z",
-    "endTime": "2025-01-26T17:59:00Z",
+    "beginTime": "2024-11-02T06:00:01Z",
+    "endTime": "2025-02-21T23:59:00Z",
     "divisionCount": 18
   },
   {
     "gameId": "fortnite",
-    "trackguid": "L4nC3r",
+    "trackguid": "SP1D3R",
+    "rankingType": "ranked-zb",
+    "beginTime": "2024-12-01T06:00:06Z",
+    "endTime": "2025-02-21T23:59:00Z",
+    "divisionCount": 18
+  },
+  {
+    "gameId": "fortnite",
+    "trackguid": "Gl4ss1",
+    "rankingType": "ranked-br",
+    "beginTime": "2024-12-01T06:00:06Z",
+    "endTime": "2025-02-21T23:59:00Z",
+    "divisionCount": 18
+  },
+  {
+    "gameId": "fortnite",
+    "trackguid": "W4FFL3",
     "rankingType": "ranked_blastberry_nobuild",
-    "beginTime": "2024-09-24T13:00:00Z",
-    "endTime": "2025-01-26T17:59:00Z",
+    "beginTime": "2024-11-02T06:00:01Z",
+    "endTime": "2025-02-21T23:59:00Z",
+    "divisionCount": 18
+  },
+  {
+    "gameId": "fortnite",
+    "trackguid": "G4RL1C",
+    "rankingType": "ranked-feral",
+    "beginTime": "2024-12-11T14:00:00Z",
+    "endTime": "2025-02-21T23:59:00Z",
     "divisionCount": 18
   }
 ]
