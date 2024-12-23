@@ -66,6 +66,14 @@ _Example Response_
     "beginTime": "2024-12-11T14:00:00Z",
     "endTime": "2025-02-21T23:59:00Z",
     "divisionCount": 18
+  },
+  {
+    "gameId": "fortnite",
+    "trackguid": "G4RL1C",
+    "rankingType": "ranked-feral",
+    "beginTime": "2024-12-11T14:00:00Z",
+    "endTime": "2025-02-21T23:59:00Z",
+    "divisionCount": 18
   }
 ]
 ```
