@@ -15,3 +15,15 @@ When an corrective action is required, you will get such an error response when 
   "correctiveAction": "DATE_OF_BIRTH"
 }
 ```
+
+Known `correctiveAction` values:
+
+- `CONFIRM_DISPLAY_NAME`, see [confirmDisplayName](./ConfirmDisplayName.md)
+- `DATE_OF_BIRTH`, see [dateOfBirth](./DateOfBirth.md)
+- `EULA_ACCEPTANCE`, see [acceptEula](./AcceptEula.md)
+- `EXTERNAL_AUTH_NOT_FOUND`
+- `GUARDIAN_EMAIL`, see [guardianEmail](./GuardianEmail.md)
+- `LINK_REAL_ID`
+- `SCOPE_CONSENT`
+- `SUPPLEMENTAL_CONSENT`
+- `PENDING_DELETION`, see [cancelPendingDeletion](./CancelPendingDeletion.md)

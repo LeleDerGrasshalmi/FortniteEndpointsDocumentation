@@ -1,4 +1,4 @@
-## Account Service - Corrections: Displayname
+## Account Service - Corrections: Confirm Display Name
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/corrections/confirmDisplayName \
 Method: PUT \
