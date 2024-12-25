@@ -10,7 +10,7 @@ _Example Response_
 
 ```json
 {
-  "lastUpdated": "2024-10-11T19:38:41.720Z",
+  "lastUpdated": "2024-12-25T16:04:04.393Z",
   "disableV2": false,
   "isAuthenticated": true,
   "enumerateFilesPath": "/api/cloudstorage/user",
@@ -42,7 +42,7 @@ _Example Response_
       "name": "DssDirectTransport",
       "type": "DirectDss",
       "appName": "fortnite",
-      "isEnabled": false,
+      "isEnabled": true,
       "isRequired": false,
       "isPrimary": false,
       "timeoutSeconds": 30,
