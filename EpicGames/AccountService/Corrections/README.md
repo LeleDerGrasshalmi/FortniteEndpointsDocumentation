@@ -24,6 +24,7 @@ Known `correctiveAction` values:
 - `EXTERNAL_AUTH_NOT_FOUND`
 - `GUARDIAN_EMAIL`, see [guardianEmail](./GuardianEmail.md)
 - `LINK_REAL_ID`
+- `PENDING_DELETION`, see [cancelPendingDeletion](./CancelPendingDeletion.md)
+- `PROMOTE_ACCOUNT`, see [promoteAccount](./PromoteAccount.md)
 - `SCOPE_CONSENT`
 - `SUPPLEMENTAL_CONSENT`
-- `PENDING_DELETION`, see [cancelPendingDeletion](./CancelPendingDeletion.md)
