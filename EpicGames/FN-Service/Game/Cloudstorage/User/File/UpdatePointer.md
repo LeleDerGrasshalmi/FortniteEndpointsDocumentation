@@ -18,9 +18,16 @@ Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} UPD
 `accountId`: Your Account Id <br/>
 `uniqueFilename`: The `uniqueFilename` from list, e.g. `ClientSettings.sav` or `ClientSettingsPS5.sav`
 
+## Parameters
+
+`moduleName`: Only `DSS` is known to support pointer updates <br/>
+`pointer`: Pointer reference within the module <br/>
+`fileHash`: File SHA1 Hash <br/>
+`length`: File Byte Count
+
 ## Query Parameters
 
-`shouldMigrate`: Used for migrations
+`shouldMigrate`: Boolean, that is used for migrations
 
 ---
 
