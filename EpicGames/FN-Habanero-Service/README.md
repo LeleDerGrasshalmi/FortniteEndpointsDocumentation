@@ -4,7 +4,7 @@ Source Package: `com.epicgames.dbs.rankingservice`
 
 This is the Backend API for the [Fortnite Ranked Mode](https://www.fortnite.com/news/fortnite-ranked-play-is-coming-to-battle-royale-and-zero-build).
 
-Known `rankingType`'s
+Known `rankingType` values:
 
 - `ranked-br` (Battle Royale)
 - `ranked-zb` (Zero Build)
@@ -12,4 +12,5 @@ Known `rankingType`'s
 - `ranked_blastberry_build` (Reload Battle Royale)
 - `ranked_blastberry_nobuild` (Reload Zero Build)
 - `ranked-feral` (Ballistic)
-- `ranked-figment-build` (OG Build Ranked)
+- `ranked-figment-build` (OG Build)
+- `ranked-figment-nobuild` (OG Zero Build)
