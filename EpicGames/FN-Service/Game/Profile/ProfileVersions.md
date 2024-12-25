@@ -65,6 +65,15 @@
 - season30_3020_replaceJamTrackswithMusicInLocker_June_2024
 - season30_3020_FixupJunoFTUE_BB_Quests_June_2024
 - season30_3030_removeOrphanedS29Quests_July_2024
+- season31_3100_fixupMetallicaBonusGoalPunchcards_Aug2024
+- season31_3110_FixS19BadQuestSetup_Sept_2024
+- season31_3120_FixMissingBPCharacterTokens_Sept_2024
+- season31_3130_ValueAdds_Oct_2024
+- season31_3140_RemoveOldQuestContent_Oct_2024
+- season32_3200_ReconcileReloadQuests_Nov_2024
+- season32_3210_GrantBattlePassCobblers_Nov_2024
+- season33_3300_MigrationSeasonItem_Dec_2024
+- season33_3310_JunoPassMakeGood_Dec_2024
 
 ## Common Core
 
@@ -117,6 +126,8 @@
 - season30_3010_FixDelMarTokens_June_2024
 - season30_3030_CleanupStainlessCampaignResources_July_2024
 - season30_3040_CleanupGreenhouseCampaignResources_August_2024
+- season31_3140_RemoveOldQuestContent_Oct_2024
+- season33_3300_PrimalFlamebowMakegood_Dec_2024
 
 ## Common Public
 
@@ -173,6 +184,7 @@
 - refund_plasmacannon_december_2022
 - refund_blakebeard_feb_2024
 - season29_2940_cleanupItemsWithMissingTemplates_May_2024
+- season33_3300_RefundPrimalFlamebow_Dec_2024
 
 ## Collection Book Schematics
 
@@ -183,6 +195,7 @@
 - refund_plasmacannon_december_2022
 - refund_blakebeard_feb_2024
 - season29_2940_cleanupItemsWithMissingTemplates_May_2024
+- season33_3300_RefundPrimalFlamebow_Dec_2024
 
 ## Recycle Bin
 
