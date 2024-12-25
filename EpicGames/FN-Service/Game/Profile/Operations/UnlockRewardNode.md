@@ -7,8 +7,8 @@
 
 ```js
 {
-    "nodeId": "", // The rewards nodeId you want to open
+    "nodeId": "", // The rewards nodeId you want to open (from gamefiles)
     "rewardGraphId": "", // The RewardGraph Item GUID
-    "rewardCfg": "" // Can be left empty
+    "rewardCfg": "" // Unknown, the game uses an empty string
 }
 ```

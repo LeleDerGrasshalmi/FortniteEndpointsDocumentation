@@ -30,17 +30,43 @@ _Example Response_
     "parent_set": "set_br_playlists",
     "favorite_override": "set_br_playlists",
     "play_history_override": "set_br_playlists",
-    "image_url": "https://cdn2.unrealengine.com/s24-trios-1920-1920x1080-3e751867870b.jpg",
+    "alt_title": {
+      "de": "Trio",
+      "ru": "Трио",
+      "ko": "트리오",
+      "pt-BR": "Trios",
+      "zh-hans": "三人",
+      "en": "Trio",
+      "it": "Terzetti",
+      "fr": "Trios",
+      "zh-CN": "",
+      "es": "Tríos",
+      "es-MX": "En trío",
+      "zh": "",
+      "ar": "ثلاثي",
+      "zh-Hant": "",
+      "ja": "トリオ",
+      "pl": "Trójki",
+      "es-419": "En trío",
+      "tr": "Üçlü"
+    },
+    "image_url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg",
+    "product_tag": "Product.BR.Build.Trio",
     "image_urls": {
-      "url_s": "https://cdn2.unrealengine.com/s24-trios-480-480x270-42df252e6002.jpg",
-      "url_xs": "https://cdn2.unrealengine.com/s24-trios-256-256x144-0585c93c17fe.jpg",
-      "url_m": "https://cdn2.unrealengine.com/s24-trios-640-640x360-242337935fac.jpg",
-      "url": "https://cdn2.unrealengine.com/s24-trios-1920-1920x1080-3e751867870b.jpg"
+      "url_s": "https://cdn2.unrealengine.com/triossize-480-480x270-e63ad326c057.jpg",
+      "url_xs": "https://cdn2.unrealengine.com/triossize-256-256x144-20919940fe51.jpg",
+      "url_m": "https://cdn2.unrealengine.com/triossize-640-640x360-ab65f15eb2e0.jpg",
+      "url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg"
+    },
+    "dynamicXp": {
+      "uniqueGameVersion": 95,
+      "calibrationPhase": "LiveXp"
     },
     "matchmaking": {
       "override_playlist": "playlist_trios"
     },
-    "video_vuid": "taqdZkWyokbCyEFWld"
+    "video_vuid": "taqdZkWyokbCyEFWld",
+    "title": "Trio"
   },
   "version": 95,
   "active": true,
@@ -62,15 +88,86 @@ _Example Response (with activation history)_
   "mnemonic": "set_delmar_mrs_ranked",
   "linkType": "ModeSet",
   "metadata": {
+    "extra_video_vuids": ["ae921b8f-ceea-428b-8b4b-c83f2f77fd8f"],
     "lobby_background_image_urls": {
-      "url": "https://cdn2.unrealengine.com/delmarlobby-4096x2048-d68bbc69fdab.jpg"
+      "url": "https://cdn2.unrealengine.com/delmar-lobby-notext-4096x2048-1fcb8f7605ac.jpg"
     },
+    "blog_category": "rocket-racing",
     "frontend_plugin": "DelMarFrontend",
     "image_url": "https://cdn2.unrealengine.com/rocketracing-launchtile-1920x1080-4c78a6359538.jpg",
+    "image_urls": {
+      "url_s": "https://cdn2.unrealengine.com/rr-playlisttile-2-480-480x270-b5a5fdfb40ba.jpg",
+      "url_xs": "https://cdn2.unrealengine.com/rr-playlisttile-2-256-256x144-53baf8c6588e.jpg",
+      "url_m": "https://cdn2.unrealengine.com/rocketracing-launchtile-640-640x360-17247961b9e5.jpg",
+      "url": "https://cdn2.unrealengine.com/rocketracing-launchtile-1920x1080-4c78a6359538.jpg"
+    },
     "title": "Rocket Racing",
     "locale": "en",
+    "video_vuid": "nKaFcQbEhacuiRdfFD",
+    "unlockConditions": {
+      "allOf": {
+        "conditions": []
+      },
+      "partyEligibility": "EVERYONE"
+    },
+    "sub_link_codes": [
+      "playlist_delmar_ranked_root",
+      "playlist_delmar_bronze06_nux"
+    ],
+    "matchmakingV2": {
+      "ratingType": "delmar-competitive",
+      "isRanked": true
+    },
+    "alt_title": {
+      "de": "Rocket Racing"
+    },
+    "alt_tagline": {
+      "de": "Starte deine Motoren und drifte, fliege und rase in einem Auto mit Raketenantrieb ins Ziel! Steige in den Rängen auf und zeige dein Können in „Ranked“ oder genieße ein Zwangloses Rennen ohne den ganzen Druck. Du möchtest ein Rennen gegen die Zeit fahren? Dann schau beim Zeitfahren vorbei und schaffe es auf die Bestenliste."
+    },
+    "matchmaking_plugins": [
+      "DelMarMatchmakingErrors",
+      "DelMarGracefulUpgrade",
+      "DelMarMatchmakingSettingsButton"
+    ],
     "product_tag": "Product.DelMar",
-    "tagline": "From the developers of Rocket League comes Rocket Racing, a supersonic arcade racer that lets you drift, fly, and boost with your friends through an ever-growing selection of tracks. It's Season Zero, hop into a rocket-powered car and put your skills to the test!"
+    "ratings": {
+      "rating_received_time": "2023-12-02T12:29:33.028Z",
+      "boards": {
+        "USK": {
+          "descriptors": [],
+          "rating_overridden": false,
+          "rating": "USK_AGE_12",
+          "initial_rating": "USK_AGE_12",
+          "interactive_elements": [
+            "IE_UsersInteract",
+            "IE_InGamePurchases_v7_1"
+          ]
+        }
+      }
+    },
+    "ccu_source_links": [
+      "playlist_delmar_ranked_root",
+      "playlist_delmar_bronze06_nux",
+      "playlist_delmar_bronze10_nux"
+    ],
+    "fallback_links": {
+      "graceful": "playlist_delmar_racing_root"
+    },
+    "tagline": "Start your engines then drift, fly, and boost your way to the finish in a rocket-powered car! Climb the ranks and test your skills in Ranked or pull up to Casual Racing and enjoy the thrill of racing without high stakes. Want to race against the clock? Drop into Speed Run and put your best time on the leaderboard.",
+    "extra_image_urls": [
+      {
+        "url_s": "https://fortnite-vod.akamaized.net/qpdchKarjFnwpdEnYj/39723da0-b595-4f92-9a98-c35ebb75bae3/rr_gameplay_screenshot_pov1_1920x1080-sm.jpg",
+        "url_m": "https://fortnite-vod.akamaized.net/qpdchKarjFnwpdEnYj/39723da0-b595-4f92-9a98-c35ebb75bae3/rr_gameplay_screenshot_pov1_1920x1080-md.jpg",
+        "url": "https://fortnite-vod.akamaized.net/qpdchKarjFnwpdEnYj/39723da0-b595-4f92-9a98-c35ebb75bae3/rr_gameplay_screenshot_pov1_1920x1080-lg.jpg"
+      }
+    ],
+    "square_image_urls": {
+      "url": "https://cdn2.unrealengine.com/en-rr-launch-discovery-tile-square-sq-480x480-cf65dc7c8a8b.jpg"
+    },
+    "corresponding_sets": {
+      "unranked": "set_delmar_casual"
+    },
+    "default_sub_link_code": "playlist_delmar_ranked_root"
   },
   "version": 1,
   "active": true,
@@ -87,6 +184,7 @@ _Example Response (with activation history)_
       "version": 1,
       "activated": "2023-12-02T22:56:20.967Z"
     }
-  ]
+  ],
+  "linkCategory": "ROCKET RACING"
 }
 ```
