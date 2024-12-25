@@ -12,3 +12,4 @@ Known `rankingType`'s
 - `ranked_blastberry_build` (Reload Battle Royale)
 - `ranked_blastberry_nobuild` (Reload Zero Build)
 - `ranked-feral` (Ballistic)
+- `ranked-figment-build` (OG Build Ranked)
