@@ -25,6 +25,7 @@ Known `correctiveAction` values:
 - `GUARDIAN_EMAIL`, see [guardianEmail](./GuardianEmail.md)
 - `LINK_REAL_ID`
 - `PENDING_DELETION`, see [cancelPendingDeletion](./CancelPendingDeletion.md)
+- `PRIVACY_POLICY_ACCEPTANCE`, see [acceptPrivacyPolicy](./AcceptPrivacyPolicy.md)
 - `PROMOTE_ACCOUNT`, see [promoteAccount](./PromoteAccount.md)
 - `SCOPE_CONSENT`
 - `SUPPLEMENTAL_CONSENT`
