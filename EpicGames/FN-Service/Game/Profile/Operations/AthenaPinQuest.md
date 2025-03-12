@@ -1,6 +1,6 @@
 # AthenaPinQuest
 
-**Description**: `Pins the Quest (Tracked Quest in BR)` \
+**Description**: `Pins the Quest (Tracked Quest in BR) [replaced by AthenaTrackQuests]` \
 **Profiles**: `athena`
 
 ## Body
