@@ -11,7 +11,8 @@ Auth Required: Yes (`discovery:{accountId}:creator:page READ` - Your Account Id)
 ## Query Parameters
 
 `playerId`: Your Account Id <br/>
-`limit`: Count of Results (Limit is 100)
+`limit`: Count of Results (Limit is 100) <br/>
+`olderThan`: For pagination, when there are more links than the specified page size
 
 ---
 
