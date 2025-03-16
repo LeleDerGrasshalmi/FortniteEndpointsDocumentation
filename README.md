@@ -34,6 +34,7 @@ Web APIs however are a bit different, these require web login cookies.
   - [Links Service](./EpicGames/LinksService)
   - [Nelly Service](./EpicGames/NellyService)
   - [Persona Service](./EpicGames/PersonaService)
+  - [Pops Service](./EpicGames/PopsService)
   - [PRM Dialog Service](./EpicGames/PRMDialogService)
   - [Stats Proxy Service](./EpicGames/StatsProxyService)
   - [Tag Management Service](./EpicGames/TagManagementService)
