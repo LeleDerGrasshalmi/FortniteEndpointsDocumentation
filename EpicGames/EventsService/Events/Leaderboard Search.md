@@ -26,7 +26,8 @@ Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 `findTeams`: boolean, Searches for the entire team if only one account Id is provided (e.g., in a Trio Cup) <br/>
 
 Either `fromIndex` or `aroundTeamId` is required! <br/>
-If using `aroundTeamId`, all the `accountId`s of the specified team must be included in the request body!
+If using `aroundTeamId`, all the `accountId`s of the specified team must be included in the request body! <br/>
+Does not work for events before Season 22!
 
 ---
 
