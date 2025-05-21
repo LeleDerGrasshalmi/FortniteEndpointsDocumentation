@@ -7,7 +7,7 @@
 
 ```js
 {
-	"offerItemIdList": [""], // Season Pass Item Offer Ids
+  "offerItemIdList": [""], // Season Pass Item Offer Ids
   "seasonPassTemplateId": "AthenaSeason:athenaseason35", // Season Pass Template Id
   "additionalData": {
      "islandId": "",
@@ -23,6 +23,6 @@
      "storefront": "",
      "storeId": "",
      "groupId": ""
-	}
+   }
 }
 ```
