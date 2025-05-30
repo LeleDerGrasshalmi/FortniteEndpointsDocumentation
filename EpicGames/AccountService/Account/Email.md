@@ -1,8 +1,8 @@
-## Account Service - Send Confirmation Email
+## Account Service - Get Email
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/email \
 Method: GET \
-Auth Required: Yes (`account:accounts:email:sendConfirmation CREATE`)
+Auth Required: Yes
 
 ## Path Parameters
 
@@ -12,4 +12,15 @@ Auth Required: Yes (`account:accounts:email:sendConfirmation CREATE`)
 
 _Example Response_
 
-Status 204
+```json
+{
+    "accountId": "3de909f841c14552aef616973dc680a1",
+    "email": {
+            "email": "s.censor123@gmail.com",
+            "verified": true,
+            "default": true
+    },
+    "lastEmailUpdate": "2024-06-15T08:21:01.412Z",
+    "canUpdateEmail": true
+}
+```
