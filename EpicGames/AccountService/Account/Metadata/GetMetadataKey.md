@@ -7,7 +7,7 @@ Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} READ`)
 ## Path Parameters
 
 `accountId`: Your Account Id <br/>
-`key`: The Metadata `key` to delete
+`key`: The Metadata `key` to get
 
 ---
 
