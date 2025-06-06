@@ -4,10 +4,6 @@ URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/aut
 Method: PUT \
 Auth Required: Yes (`links:{namespace}:{accountId} UPDATE`)
 
-```json
-unknown
-```
-
 ## Path Parameters
 
 `namespace`: For Fortnite it's 'fn' <br/>
