@@ -12,6 +12,7 @@
 | --------- | ----------- | ------------- |
 | profileId | {profileId} | common_core   |
 | rvn       | -1          | -1            |
+| dataOmissionGroup       | {dataOmissionGroup}          | Locker            |
 
 **NOTE**: if its a "DedicatedServer ONLY" operation you cant use it
 
