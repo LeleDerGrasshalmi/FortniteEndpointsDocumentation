@@ -8,7 +8,7 @@ EpicGamesのAPIにリクエストするにはHTTPヘッダーに{bearer}:{アク
 ただし、WebAPIには、クッキーが必要です。
 
 
-## Content
+## APIカテゴリ
 
 - [Epic Games](./EpicGames)
   - [Account Service](./EpicGames/AccountService)
