@@ -17,10 +17,10 @@ EpicGamesのAPIにリクエストするにはHTTPヘッダーにAuthorizationに
   - [データアセット](./EpicGames/DataAssetDirectoryService)
   - [EGS Platform Service](./EpicGames/EGSPlatformService)
   - [Emerald Service](./EpicGames/EmeraldService)
-  - [Events Service](./EpicGames/EventsService)
+  - [イベントサービス](./EpicGames/EventsService)
   - [FN - Service](./EpicGames/FN-Service)
   - [FN - Content API](./EpicGames/FN-Content)
-  - [FN - Discovery Service](./EpicGames/FN-Discovery-Service)
+  - [Fortniteディスカバリーサービス](./EpicGames/FN-Discovery-Service)
   - [Fortniteディスカバリー検索サービス](./EpicGames/FN-Discovery-Search-Service)
   - [FN - Habanero Service](./EpicGames/FN-Habanero-Service)
   - [Fortniteホットコンフィグ](./EpicGames/FN-Hotconfig)
@@ -50,11 +50,9 @@ EpicGamesのAPIにリクエストするにはHTTPヘッダーにAuthorizationに
 - [Epic Games Store](./EpicGamesStore)
 - [Playstation Store](./PlaystationStore)
 
-## Contributions
 
-Checkout the [Contribution Info](./CONTRIBUTING.md)
 
-## Authors
+## ドキュメントの著者
 
 - [Jem](https://twitter.com/jemfleaks) (jemcer#1009)
 - [Lele](https://twitter.com/lel3x) (LeleDerGrasshalm#1872) - Most part
