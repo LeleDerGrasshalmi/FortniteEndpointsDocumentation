@@ -3,7 +3,7 @@
 ## 初めに
 
 EpicGamesの多くのAPIには**認証**が必要です。アクセストークンを取得するには、[アクセストークン取得ガイド](./EpicGames/AccountService/Authentication/README.md#getting-started)　をご参照してください。
-EpicGamesのAPIにリクエストするにはHTTPヘッダーに{bearer}:{アクセストークン}が必要です。
+EpicGamesのAPIにリクエストするにはHTTPヘッダーにAuthorizationに、{bearer}:{アクセストークン}を指定する必要があります。
 
 ただし、WebAPIには、クッキーが必要です。
 
@@ -11,20 +11,20 @@ EpicGamesのAPIにリクエストするにはHTTPヘッダーに{bearer}:{アク
 ## APIカテゴリ
 
 - [Epic Games](./EpicGames)
-  - [Account Service](./EpicGames/AccountService)
-  - [Artifact Delivery Service](./EpicGames/ArtifactDeliveryService)
-  - [Caldera Service](./EpicGames/CalderaService)
-  - [Data Asset Directory Service](./EpicGames/DataAssetDirectoryService)
+  - [アカウントサービス](./EpicGames/AccountService)
+  - [アーティファクトディスカバリー](./EpicGames/ArtifactDeliveryService)
+  - [カルデラ](./EpicGames/CalderaService)
+  - [データアセット](./EpicGames/DataAssetDirectoryService)
   - [EGS Platform Service](./EpicGames/EGSPlatformService)
   - [Emerald Service](./EpicGames/EmeraldService)
   - [Events Service](./EpicGames/EventsService)
   - [FN - Service](./EpicGames/FN-Service)
   - [FN - Content API](./EpicGames/FN-Content)
   - [FN - Discovery Service](./EpicGames/FN-Discovery-Service)
-  - [FN - Discovery Search Service](./EpicGames/FN-Discovery-Search-Service)
+  - [Fortniteディスカバリー検索サービス](./EpicGames/FN-Discovery-Search-Service)
   - [FN - Habanero Service](./EpicGames/FN-Habanero-Service)
-  - [FN - Hotconfig](./EpicGames/FN-Hotconfig)
-  - [Friends Service](./EpicGames/FriendsService)
+  - [Fortniteホットコンフィグ](./EpicGames/FN-Hotconfig)
+  - [フレンドサービス](./EpicGames/FriendsService)
   - [Fulfillment Service](./EpicGames/FulfillmentService)
   - [Global Service](./EpicGames/GlobalService)
   - [IP Data Service](./EpicGames/IPDataService)
