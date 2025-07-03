@@ -1,4 +1,4 @@
-# Epic Games - API Documentation
+# Epic Games - API ドキュメント
 
 ## Getting started
 
