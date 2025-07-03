@@ -1,11 +1,12 @@
 # Epic Games - API ドキュメント
 
-## Getting started
+## 初めに
 
-If you are new to this, you should first check out the [getting started guide for authentication](./EpicGames/AccountService/Authentication/README.md#getting-started).
+EpicGamesの多くのAPIには**認証**が必要です。アクセストークンを取得するには、[アクセストークン取得ガイド](./EpicGames/AccountService/Authentication/README.md#getting-started)　をご参照してください。
+EpicGamesのAPIにリクエストするにはHTTPヘッダーに{bearer}:{アクセストークン}が必要です。
 
-All requests that require normal authentication require the `Authorization` header with the access token, like `bearer {accessToken}`. <br/>
-Web APIs however are a bit different, these require web login cookies.
+ただし、WebAPIには、クッキーが必要です。
+
 
 ## Content
 
