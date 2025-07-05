@@ -1,21 +1,21 @@
-## Stats Proxy: User Stats
+## 統計プロキシ-ユーザー統計
 
 URL: https://statsproxy-public-service-live.ol.epicgames.com/statsproxy/api/statsv2/account/:accountId \
-Method: GET \
-Auth Required: Yes (`fortnite:stats READ`)
+メソッド: GET \
+認証の有無: Yes (`fortnite:stats READ`)
 
-## Path Parameters
+## パスパラメータ
 
-`accountId`: target User Account Id
+`accountId`: アカウント
 
-## Query Parameters
+## クエリパラメータ
 
-`startTime`: optional, 0 (for alltime) or set for custom time-window <br/>
-`endTime`: optional, 9223372036854775807 (for alltime) or set for custom time-window <br/>
+`startTime`: 既定:0,カスタム時間枠に設定可能 <br/>
+`endTime`: カスタム時間枠に設定可能<br/>
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 {
@@ -31,4 +31,4 @@ _Example Response_
 }
 ```
 
-_Example Response (Private Stats)_: Status 204
+__レスポンスの例(統計OFFのアカウントの場合)__:status204
