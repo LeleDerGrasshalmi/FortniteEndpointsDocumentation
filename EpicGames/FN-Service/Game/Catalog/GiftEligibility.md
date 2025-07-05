@@ -2,7 +2,7 @@
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/gift/check_eligibility/recipient/:friendId/offer/:offerId \
 メソッド: GET \
-認証の有無: Yes (User Auth for FN)
+認証の有無: Yes 
 
 # パスパラメータ
 
