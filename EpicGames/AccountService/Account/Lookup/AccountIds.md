@@ -1,16 +1,15 @@
-## Account Service - Lookup by Account Ids
+## アカウントサービス-アカウントIDの検索
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account \
-Method: GET \
-Auth Required: Yes (No Permission required)
+メソッド: GET \
+認証の有無: Yes (権限不要)
 
-## Query Parameters
+## クエリパラメータ
 
-`accountId`: Account Ids, you can use the query multiple times **[Max 100 per Request]**
-
+`accountId`: アカウントID-クエリは複数設定で来ます（最大**100件**)
 ---
 
-_Example Response_
+__レスポンス例__
 
 ```json
 [
