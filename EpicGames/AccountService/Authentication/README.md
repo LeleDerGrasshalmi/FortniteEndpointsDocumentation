@@ -9,11 +9,12 @@ EpicGamesのAPIの認証には**OAuth2**を利用します。
 手順3:次にクライアントとして認証するか、アカウントとして認証するかを決めないといけません。多くのEpicGamesのAPIではアカウント認証を必要とします。場合によっては、eg1（JWT）アクセストークンも必要になる可能性があることを覚えておいてください。アクセストークンはトークンリクエストにこのパラメータを含めることで取得できます。**パラメータ**:`token_type`
 
 
-## Client Authentication
+## クライアント認証
 
-When you want to authenticate as a client, you will need to use the [`client_credentials`](./GrantTypes/client_credentials.md) Grant Type.
+クライアントとして認証するためには、 [`client_credentials`](./GrantTypes/client_credentials.md) Grant Type を使用する必要があります。
 
-So this would be an example http request for the `fortnitePCGameClient` client.
+
+以下はクライアントに対するHTTPリクエストの例になります。
 
 ```http
 POST /account/api/oauth/token HTTP/1.1
@@ -24,7 +25,7 @@ Authorization: Basic ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI
 grant_type=client_credentials
 ```
 
-Which will respond with the authentication session.
+認証セッションで応答します。
 
 ```json
 {
@@ -40,7 +41,7 @@ Which will respond with the authentication session.
 }
 ```
 
-## Account Authentication
+## アカウント認証
 
 When you decide to authenticate as a account, you need to choose the way to authenticate (e.g. external auth like playstation, authorization code, etc.)
 
