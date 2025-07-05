@@ -1,1 +1,1 @@
-not documented yet, but the "fnauth" service located on /auth on the fortnite service
+まだ文章化されていないため、文章化されたら更新します📢
