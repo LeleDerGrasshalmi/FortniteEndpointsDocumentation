@@ -1,9 +1,9 @@
-# Stats Proxy Service
+# 統計プロキシサービス
 
-This is the Fortnite User Stats Backend.
+これは Fortnite ユーザー統計バックエンドです。
 
 <br/>
 
-# Data
+# データ
 
-`startTime` and `endTime` values are in seconds since epoch.
+`startTime` と `endTime` の値はEpicからの秒数です。
