@@ -1,13 +1,13 @@
-## Account Service - Auth: Delete External Auth
+## アカウントサービス-外部認証の削除
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/externalAuths/:externalAuthType \
-Method: DELETE \
-Auth Required: Yes (`account:public:account:externalAuths DELETE`)
+メソッド: DELETE \
+認証の有無: Yes (`account:public:account:externalAuths DELETE`)
 
-## Path Parameters
+## パスパラメータ
 
-`externalAuthType`: See via [External Auth Readme](./README.md)
+`externalAuthType`: [こちら](./README.md)を参照してください。
 
 ---
 
-_Example Response_: Status 204
+__レスポンス例__: Status 204
