@@ -1,8 +1,8 @@
-## Account Service - Auth: Create External Auth
+## アカウント認証-外部認証
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/externalAuths \
-Method: POST \
-Auth Required: Yes (`account:public:account:externalAuths CREATE`)
+メソッド: POST \
+認証の有無: Yes (`account:public:account:externalAuths CREATE`)
 
 ```json
 {
@@ -11,14 +11,13 @@ Auth Required: Yes (`account:public:account:externalAuths CREATE`)
 }
 ```
 
-## Parameters
+## パラメータ
 
-`authType`: See via [External Auth Readme](./README.md) and also check the [External Auth Grant Type](../../Authentication/GrantTypes/external_auth.md#body) <br/>
-`externalAuthToken`: Issued by the External Provider, check the [External Auth Grant Type](../../Authentication/GrantTypes/external_auth.md#body) for more Info
-
+`authType`: [External Auth Readme](./README.md) と [External Auth Grant Type](../../Authentication/GrantTypes/external_auth.md#body) のドキュメントを参照してください。
+`externalAuthToken`:外部プロバイダーが発行します。詳細は [こちら](../../Authentication/GrantTypes/external_auth.md#body) を参照してください。
 ---
 
-_Example Response (Same as from Info)_
+__レスポンス例__
 
 ```json
 {
