@@ -1,4 +1,4 @@
-# Fortnite Service
+# フォートナイトサービス
 
-Source Package: `com.epicgames.fortnite` <br/>
-Language: `Java`
+ソースパッケージ: `com.epicgames.fortnite` <br/>
+言語: `Java`
