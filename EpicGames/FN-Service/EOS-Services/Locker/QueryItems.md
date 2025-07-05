@@ -1,17 +1,17 @@
-## FN EOS Locker Service: Query Items
+## ロッカーサービス-クエリ項目
 
 URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/items \
-Method: GET \
-Auth Required: Yes (`locker:items`)
+メソッド: GET \
+認証の有無: Yes (`locker:items`)
 
-## Path Parameters
+## パスパラメータ
 
-`deploymentId`: The Deployment Id from env configuration, for `live-fn` it is `62a9473a2dca46b29ccf17577fcf42d7` <br/>
-`accountId`: Your Account Id
+`deploymentId`:環境設定からのデプロイメントID。 `live-fn`の場合は`62a9473a2dca46b29ccf17577fcf42d7`です。 <br/>
+`accountId`: アカウントID
 
 ---
 
-_Example Response (shortened)_
+__レスポンスの例(短縮)__
 
 ```json
 {
