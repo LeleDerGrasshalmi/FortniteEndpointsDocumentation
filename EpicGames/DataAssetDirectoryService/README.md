@@ -1,3 +1,3 @@
-# DAD Service
+# DADサービス
 
-Used in fortnite.
+このAPIはフォートナイトで使用されます。
