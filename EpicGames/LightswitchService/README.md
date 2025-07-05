@@ -1,6 +1,5 @@
-# Hosts
-
-This are some (probably not all) Hosts that you can access the Lightswitch Service from
+# ホスト
+以下はライトスイッチサービスでアクセスできるホストの一部です。
 
 - lightswitch-public-service-prod-m.ol.epicgames.com
 - lightswitch-public-service-prod-origin.ak.epicgames.com
@@ -10,18 +9,18 @@ This are some (probably not all) Hosts that you can access the Lightswitch Servi
 
 <br/>
 
-Recommended Hosts:
+**推奨ホスト**
 
 - lightswitch-public-service-prod.ol.epicgames.com
 - lightswitch-public-service-prod06.ol.epicgames.com
 
-## Service Ids
+## サービスID
 
-Here are some Service Ids, that you may need, all are case insensitive.
+必要になる可能性のあるサービス ID をいくつか示します。また、すべて大文字と小文字は区別されません。
 
 | ServiceId                         | Description                            |
 | --------------------------------- | -------------------------------------- |
-| `Kairos`                          | Party Hub                              |
+| `Kairos`                          |パーティーハブ                           |
 | `WorldExplorersLive`              | Battle Breakers                        |
 | `Fortnite`                        | Fortnite                               |
 | `FortnitePublicTest`              | Fortnite (PublicTest)                  |
@@ -47,4 +46,4 @@ Here are some Service Ids, that you may need, all are case insensitive.
 | `FortniteEvents`                  | Fortnite (Events)                      |
 | `FortniteFloss`                   | Fortnite (Floss)                       |
 
-And a lot more fortnite dev servers....
+ほかにも多くのフォートナイト開発サーバーにもアクセスできます.....
