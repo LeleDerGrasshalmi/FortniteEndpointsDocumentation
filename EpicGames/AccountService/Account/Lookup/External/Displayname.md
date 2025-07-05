@@ -1,21 +1,21 @@
-## Account Service - Lookup by External Display Name
+## アカウントサービス-外部表示名の検索
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/lookup/externalAuth/:externalAuthType/displayName/:displayName \
-Method: GET \
-Auth Required: Yes (`account:public:account:lookup:externalDisplayName:{externalAuthType} READ`)
+メソッド: GET \
+認証の有無: Yes (`account:public:account:lookup:externalDisplayName:{externalAuthType} READ`)
 
-## Query Parameters
+## クエリパラメータ
 
-`caseInsensitive`: boolean (optional), just make it always true, theres no reason to care about the exact case
+`caseInsensitive`: boolean。つねにtrueにするだけで、特に気にかける必要はありません。
 
-## Path Parameters
+## パスパラメータ
 
-`externalAuthType`: See via [External Auth Readme](../../ExternalAuth/README.md) <br/>
-`displayName`: External Provider User Displayname
+`externalAuthType`:  [こちら](../../ExternalAuth/README.md) を参照してください。<br/>
+`displayName`: 外部プロバイダーのディスプレイネーム
 
 ---
 
-_Example Response_
+__レスポンス例__
 
 ```json
 [
