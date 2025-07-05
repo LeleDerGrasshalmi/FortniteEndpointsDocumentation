@@ -10,7 +10,7 @@ URL: https://persona-public-service-prod06.ol.epicgames.com/persona/api/public/a
 
 ---
 
-_ レスポンスの例 _
+_レスポンスの例_
 
 ```json
 {
