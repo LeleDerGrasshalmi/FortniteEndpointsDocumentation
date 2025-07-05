@@ -1,16 +1,16 @@
-## FN Service - Keychain
+## キーチェーン
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/keychain \
-Method: GET \
-Auth Required: Yes (`fortnite:storefront READ`)
+メソッド: GET \
+認証の有無: Yes (`fortnite:storefront READ`)
 
-## Query Parameters
+## クエリパラメータ
 
-`numKeysDownloaded`: optional parameter, that is always 0 and has a unknown meaning
+`numKeysDownloaded`:特に設定は不要
 
 ---
 
-_Example Response (shortened)_
+__レスポンスの例(短縮)__
 
 ```json
 [
