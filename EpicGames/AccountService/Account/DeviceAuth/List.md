@@ -1,12 +1,12 @@
-## Account Service - Auth: Device Auth List
+## アカウントサービス-デバイス認証のセッションリスト
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/deviceAuth \
-Method: GET \
-Auth Required: Yes (`account:public:account:deviceAuths READ`)
+メソッド: GET \
+認証の有無: Yes (`account:public:account:deviceAuths READ`)
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 [
