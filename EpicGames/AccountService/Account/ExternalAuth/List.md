@@ -1,8 +1,8 @@
 ## アカウントサービス-外部認証のセッションリスト
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/externalAuths \
-Method: GET \
-Auth Required: Yes (`account:public:account:externalAuths READ`)
+メソッド: GET \
+認証の有無: Yes (`account:public:account:externalAuths READ`)
 
 ---
 
