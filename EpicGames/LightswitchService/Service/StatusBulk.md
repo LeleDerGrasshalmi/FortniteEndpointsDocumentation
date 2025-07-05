@@ -1,16 +1,18 @@
-## Lightswitch Service - Status (Bulk)
+## フォートナイトサーバーステータス-一括取得
 
 URL: https://lightswitch-public-service-prod06.ol.epicgames.com/lightswitch/api/service/bulk/status \
-Method: GET \
-Auth Required: Yes (no perm needed)
+メソッド: GET \
+認証の有無: Yes (no perm needed)
 
-## Query Parameters
+**APIカテゴリ:ライトスイッチ**
 
-`serviceId`: You can use the query multiple times. See [Readme](../README.md) for examples
+## クエリパラメータ
+
+`serviceId`: [こちら](../README.md)を参照してください。また、クエリは複数の指定が可能です。
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 [
