@@ -2,6 +2,7 @@
 
 ## 初めに
 
+
 EpicGamesの多くのAPIには**認証**が必要です。アクセストークンを取得するには、[アクセストークン取得ガイド](./EpicGames/AccountService/Authentication/README.md#getting-started)　をご参照してください。
 EpicGamesのAPIにリクエストするにはHTTPヘッダーにAuthorizationに、{bearer}:{アクセストークン}を指定する必要があります。
 
