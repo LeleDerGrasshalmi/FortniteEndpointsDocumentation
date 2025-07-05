@@ -1,8 +1,8 @@
-## FN EOS Locker Service: Locker Active Loadout Group
+## フォートナイト　ロッカーのロードアウトサービス
 
 URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/active-loadout-group \
-Method: PUT \
-Auth Required: Yes (`locker:{accountId} UPDATE`)
+メソッド: PUT \
+認証の有無: Yes (`locker:{accountId} UPDATE`)
 
 ```json
 {
@@ -91,14 +91,14 @@ Auth Required: Yes (`locker:{accountId} UPDATE`)
 }
 ```
 
-## Path Parameters
+## パスパラメータ
 
-`deploymentId`: The Deployment Id from env configuration, for `live-fn` it is `62a9473a2dca46b29ccf17577fcf42d7` <br/>
-`accountId`: Your Account Id
+`deploymentId`:env設定からのデプロイメントID。`live-fn` の場合は、 `62a9473a2dca46b29ccf17577fcf42d7`です。 <br/>
+`accountId`: アカウントID
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 {
