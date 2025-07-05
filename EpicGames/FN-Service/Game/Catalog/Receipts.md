@@ -1,16 +1,15 @@
-## FN Service - Receipts
+## 購入証明書
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/receipts/v1/account/:accountId/receipts \
-Method: GET \
-Auth Required: Yes (`fortnite:profile:{accountId}:receipts ALL`)
+メソッド: GET \
+認証の有無: Yes (`fortnite:profile:{accountId}:receipts ALL`)
 
-# Path Parameters
-
-`accountId`: Your Account Id
+# パスパラメータ
+`accountId`: アカウントID
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 [
