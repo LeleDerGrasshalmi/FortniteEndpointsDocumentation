@@ -25,7 +25,7 @@ Authorization: Basic ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI
 grant_type=client_credentials
 ```
 
-認証セッションで応答します。
+レスポンスはこちらです。
 
 ```json
 {
@@ -43,14 +43,15 @@ grant_type=client_credentials
 
 ## アカウント認証
 
-When you decide to authenticate as a account, you need to choose the way to authenticate (e.g. external auth like playstation, authorization code, etc.)
+アカウントとして認証する場合は、認証方法（プレイステーションなどの外部認証、認証コードなど）を選択しないといけません。
 
 Using the authorization code is usually the easiest:
 
-1. Login to epicgames.com
-2. Check out the [authorization code creation web api](../../Web/Id/Auth/Redirect.md) docs how to create such a code
-3. Send the request to exchange the code for a authentication session
+手順1: `epicgames.com`にログイン
 
+手順2:認証コードを作成するには [こちらのドキュメント](../../Web/Id/Auth/Redirect.md) を参照してください。
+
+手順3:認証セッションのコード交換リクエストを送信する
 ```http
 POST /account/api/oauth/token HTTP/1.1
 Host: account-public-service-prod.ol.epicgames.com
@@ -60,7 +61,7 @@ Authorization: Basic ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI
 grant_type=authorization_code&code=REPLACE_THIS
 ```
 
-Which will respond with
+レスポンスはこちら
 
 ```json
 {
