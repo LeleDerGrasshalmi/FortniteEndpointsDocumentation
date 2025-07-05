@@ -1,12 +1,12 @@
-## Stats Proxy - Stat Leaderboard
+## 統計プロキシ-リーダーボード
 
 URL: https://statsproxy-public-service-live.ol.epicgames.com/statsproxy/api/statsv2/leaderboards/:leaderboardName \
-Method: GET \
-Auth Required: Yes (`fortnite:stats READ`)
+メソッド: GET \
+認証の有無: Yes (`fortnite:stats READ`)
 
-## Path Parameters
+## パスパラメータ
 
-`leaderboardName`: Only known supported ones:
+`leaderboardName`: サポートされているもののみ
 
 - `br_placetop1_keyboardmouse_m0_playlist_defaultsolo`
 - `br_placetop1_keyboardmouse_m0_playlist_defaultduo`
@@ -14,7 +14,7 @@ Auth Required: Yes (`fortnite:stats READ`)
 
 ---
 
-_Example Response (`br_placetop1_keyboardmouse_m0_playlist_defaultsolo`)_
+__レスポンスの例__
 
 ```json
 {
@@ -32,7 +32,7 @@ _Example Response (`br_placetop1_keyboardmouse_m0_playlist_defaultsolo`)_
 }
 ```
 
-_Example Response (Invalid leaderboard)_
+__レスポンスの例(無効なリーダーボード)__
 
 ```json
 {
