@@ -1,17 +1,17 @@
-## FN Service - Check Gifting Friend Status
+## ギフトを送る相手のステータスを確認するAPI
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/gift/check_eligibility/recipient/:friendId/offer/:offerId \
-Method: GET \
-Auth Required: Yes (User Auth for FN)
+メソッド: GET \
+認証の有無: Yes (User Auth for FN)
 
-# Path Parameters
+# パスパラメータ
 
-`friendId`: Friends account id <br/>
-`offerId`: URL encoded offer id
+`friendId`: アカウントID<br/>
+`offerId`:URLエンコードされたオファーID
 
 ---
 
-_Example Response (Not Owned)_
+__レスポンスの例(相手がアイテムを所有していない場合)__
 
 ```json
 {
