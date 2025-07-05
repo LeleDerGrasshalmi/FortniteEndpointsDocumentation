@@ -1,18 +1,18 @@
-## FN EOS Inventory Service: Player Inventory
+## EOS インベントリサービス: プレイヤーインベントリ
 
 URL: https://fngw-svc-ds-livefn.ol.epicgames.com/api/inventory/v3/:deploymentId/players/:productUserId/:inventoryName \
-Method: GET \
-Auth Required: Yes (`inventories:readPlayerInventoryForLocalUser`)
+メソッド: GET \
+認証の有無: Yes (`inventories:readPlayerInventoryForLocalUser`)
 
-## Path Parameters
+## パスパラメータ
 
-`deploymentId`: The Deployment Id from env configuration, for `live-fn` it is `62a9473a2dca46b29ccf17577fcf42d7` <br/>
-`productUserId`: Your EOS Connect Product User Id <br/>
-`inventoryName`: The inventory name, _must be URL Encoded_, currently only `/br` is known
+`deploymentId`: 環境変数のデプロイメントID`live-fn` <br/>
+`productUserId`: EOS Connect製品のユーザーID<br/>
+`inventoryName`: インベントリ名はURLエンコードされている必要があり、現在は次の名前のみが知られています。<br/>
 
 ---
 
-_Example Response (played s30)_
+__レスポンスの例(s30)
 
 ```json
 {
@@ -31,7 +31,7 @@ _Example Response (played s30)_
 }
 ```
 
-_Example Response (didnt play s30)_
+__レスポンスの例(s30以外)__
 
 ```json
 {
@@ -50,4 +50,4 @@ _Example Response (didnt play s30)_
 }
 ```
 
-> `instance` has been redacted
+
