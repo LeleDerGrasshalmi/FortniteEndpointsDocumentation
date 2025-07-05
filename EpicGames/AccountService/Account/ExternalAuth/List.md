@@ -1,4 +1,4 @@
-## Account Service - Auth: External Auth List
+## アカウントサービス-外部認証のセッションリスト
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/externalAuths \
 Method: GET \
@@ -6,7 +6,7 @@ Auth Required: Yes (`account:public:account:externalAuths READ`)
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 [
