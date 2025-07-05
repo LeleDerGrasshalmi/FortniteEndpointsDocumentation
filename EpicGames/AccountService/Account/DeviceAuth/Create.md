@@ -1,12 +1,12 @@
-## Account Service - Auth: Create Device Auth
+## アカウントサービス-デバイスの認証
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/deviceAuth \
-Method: POST \
-Auth Required: Yes (`account:public:account:deviceAuths CREATE`)
+メソッド: POST \
+認証の有無: Yes (`account:public:account:deviceAuths CREATE`)
 
 ---
 
-_Example Response_
+_レスポンスの例_
 
 ```json
 {
