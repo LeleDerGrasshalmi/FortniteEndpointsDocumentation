@@ -1,9 +1,9 @@
-## Account Service - Auth: Delete Device Auth
+## アカウントサービス-デバイス認証の削除
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/deviceAuth/:deviceId \
-Method: DELETE \
-Auth Required: Yes (`account:public:account:deviceAuths DELETE`)
+メソッド: DELETE \
+認証の有無: Yes (`account:public:account:deviceAuths DELETE`)
 
 ---
 
-_Example Response_: Status 204
+__レスポンスの例__: Status 204
