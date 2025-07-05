@@ -6,7 +6,7 @@ URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/acc
 
 ## パスパラメータ
 
-`displayName`: dディスプレイネーム
+`displayName`: ディスプレイネーム
 
 ---
 
