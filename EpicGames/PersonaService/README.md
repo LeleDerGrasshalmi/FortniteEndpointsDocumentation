@@ -1,5 +1,5 @@
-# Persona Service
+# ペルソナサービス
 
-Persona Account Service was shutdown on the 19th of February 2020.
+このサービスは**2020 年 2 月 19 日**に終了しました。
 
-Source Package: `com.epicgames.persona`
+ソースパッケージ: `com.epicgames.persona`
