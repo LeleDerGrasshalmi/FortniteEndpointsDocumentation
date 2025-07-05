@@ -1,3 +1,3 @@
-# FN EOS Inventory Service
+# フォートナイト　EpicOnlineservice-イベントり
 
-This service requires [fortnite eos connect authentication](../README.md).
+このサービスを利用するためには [EOS認証](../README.md)が必要です。
