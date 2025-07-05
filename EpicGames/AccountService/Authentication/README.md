@@ -1,6 +1,6 @@
 # アクセストークンの取得方法
 
-Epic Games uses [OAuth2](https://auth0.com/intro-to-iam/what-is-oauth-2) for authentication.
+EpicGamesのAPIの認証には**OAuth2**を利用します。
 
 1. In order to authenticate you first need to decide for which client you want to authenticate for. A list of clients can be found [here](./Clients.md) or on https://egs.jaren.wtf, which also allows to search by permission.
 2. Now you need to build the [basic auth header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication#basic_authentication_scheme). So you will need to base64 encode the following formatted string `{clientId}:{clientSecret}` (replace the variables). <br/> So for the `fortnitePCGameClient` client this would be`ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ=`.
