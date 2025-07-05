@@ -1,3 +1,3 @@
-# FN EOS Locker Service
+# フォートナイトロッカーサービス
 
-This service requires [fortnite eos connect authentication](../README.md)
+このAPIを利用するためには [EOS認証](../README.md)が必要です。
