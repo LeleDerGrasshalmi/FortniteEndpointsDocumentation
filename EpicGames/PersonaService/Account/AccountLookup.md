@@ -1,16 +1,16 @@
-## Persona Service - Lookup by Display Name
+##　ペルソナサービス-ディスプレイネーム検索サービス
 
 URL: https://persona-public-service-prod06.ol.epicgames.com/persona/api/public/account/lookup \
-Method: GET \
-Auth Required: Yes (`persona:account:lookup READ`)
+メソッド: GET \
+認証の有無: Yes (`persona:account:lookup READ`)
 
-## Query Parameters
+## クエリパラメータ
 
-`q`: The account's DisplayName to lookup (q stands for Query)
+`q`: 検索するディスプレイネーム（qはクエリの略だそうです....)
 
 ---
 
-_Example Response_
+_ レスポンスの例 _
 
 ```json
 {
