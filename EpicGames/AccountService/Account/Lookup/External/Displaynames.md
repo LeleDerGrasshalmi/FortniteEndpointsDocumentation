@@ -1,8 +1,8 @@
-## Account Service - Lookup by External Display Name (Bulk)
+## アカウントサービス-外部ディスプレイネームの一括検索
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/lookup/externalDisplayName \
-Method: POST \
-Auth Required: Yes (`account:public:account:lookup:externalDisplayName:{externalAuthType} READ`)
+メソッド: POST \
+認証の有無: Yes (`account:public:account:lookup:externalDisplayName:{externalAuthType} READ`)
 
 ```json
 {
@@ -11,14 +11,14 @@ Auth Required: Yes (`account:public:account:lookup:externalDisplayName:{external
 }
 ```
 
-## Parameters
+## パラメータ
 
-`authType`: See via [External Auth Readme](../../ExternalAuth/README.md) <br/>
-`displayNames`: Displaynames, CaseSensitive **[Max 100 per Request]**
+`authType`: [こちら](../../ExternalAuth/README.md) を参照してください。<br/>
+`displayNames`:  表示名、大文字と小文字を区別[**リクエストあたり最大100**]
 
 ---
 
-_Example Response_
+__レスポンス例__
 
 ```json
 {
