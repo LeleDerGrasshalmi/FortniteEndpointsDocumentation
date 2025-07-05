@@ -1,16 +1,16 @@
-## Account Service - Lookup by Display Name
+## アカウントサービス-ディスプレイネームの検索
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/displayName/:displayName \
-Method: GET \
-Auth Required: Yes (`account:public:account READ`)
+メソッド: GET \
+認証の有無: Yes (`account:public:account READ`)
 
-## Path Parameters
+## パスパラメータ
 
-`displayName`: The Display Name to search for
+`displayName`: dディスプレイネーム
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 {
