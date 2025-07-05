@@ -1,13 +1,13 @@
-# External Auth
+# 外部認証
 
-> Your Linked Accounts from external Providers.
 
-See All supported Types in [the External Auth Grant Type](../../Authentication/GrantTypes/external_auth.md#parameter). <br/>
-This are the ones, that are supported on [Epics Website](https://www.epicgames.com/account/connections)
+
+ [外部認証付与](../../Authentication/GrantTypes/external_auth.md#parameter).でサポートされているタイプを検索してください。 <br/>
+これらは [EpicGamesのWebサイト](https://www.epicgames.com/account/connections)でサポートされているものです。
 
 - steam
 - github
 - twitch
-- xbl
-- psn
-- nintendo
+- Xbox S|X
+- PS4/5
+- Nintendswitch/2
