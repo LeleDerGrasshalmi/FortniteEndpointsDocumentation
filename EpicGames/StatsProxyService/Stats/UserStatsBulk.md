@@ -1,8 +1,8 @@
-## Stats Proxy: User Stats (Bulk)
+## 統計プロキシ-ユーザー統計一括取得
 
 URL: https://statsproxy-public-service-live.ol.epicgames.com/statsproxy/api/statsv2/query \
-Method: POST \
-Auth Required: Yes (`fortnite:stats READ`)
+メソッド: POST \
+認証の有無: Yes (`fortnite:stats READ`)
 
 ```json
 {
@@ -14,26 +14,26 @@ Auth Required: Yes (`fortnite:stats READ`)
 }
 ```
 
-## Parameters
+## パラメータ
 
-`appId`: only `Fortnite` is known to be valid <br/>
-`startDate`: 0 (for alltime) or set for custom time-window <br/>
-`endDate`: 9223372036854775807 (for alltime) or set for custom time-window <br/>
-`owners`: the Account Ids to query Stats from <br/>
-`stats`: Optional, incase you only want to query specific Stat Ids <br/>
+`appId`:  `Fortnite`有効であるアカウント <br/>
+`startDate`: カスタム時間枠に設定可能（デフォルト:0) <br/>
+`endDate`:カスタム時間枠に設定可能（デフォルト：9223372036854775807） <br/>
+`owners`: 統計をリクエストするアカウントID<br/>
+`stats`: 特定の統計 ID のみを照会する場合のオプション <br/>
 
-## Query Parameters
+## クエリパラメータ
 
-`category`: Optional, if used `stats` in the body should not be used, allows fetching a Collection, valid values:
+`category`:オプション:
 
 - `collection_fish`
 - `collection_character`
 
 ---
 
-> When the Stats are private there won't be an Entry for the given Account
+> 統計が公開されていないアカウントは204が返ってきます。
 
-_Example Response for Collection Data_
+__コレクションデータに対するレスポンスの例__
 
 ```json
 [
@@ -57,7 +57,7 @@ _Example Response for Collection Data_
 ]
 ```
 
-_Example Response for Stats Data with only the `s23_social_bp_level` Stat_
+__統計データのみの応答例__
 
 ```json
 [
