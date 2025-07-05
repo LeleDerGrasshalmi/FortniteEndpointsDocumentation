@@ -1,16 +1,16 @@
-## FN Service - Storefront
+## フォートナイトサービス-ショップ
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/catalog \
-Method: GET \
-Auth Required: Yes (`fortnite:storefront READ`)
+メソッド: GET \
+認証の有無: Yes (`fortnite:storefront READ`)
 
-## Headers
+## ヘッダー
 
-`X-EpicGames-Language`: optional, response language, e.g. `de` (German)
+`X-EpicGames-Language`: 言語(例`ja`)
 
 ---
 
-_Example Response (heavily shortened)_
+__レスポンスの例(短縮)__
 
 ```json
 {
