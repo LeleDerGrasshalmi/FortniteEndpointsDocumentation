@@ -1,62 +1,61 @@
-# Contributing
+# 貢献
 
-## Important
+## 重要なこと
 
-- Go into the Markdown Source Code to get the actual formatting
-- **Only** contribute if you actually know what you are doing and talking about on the API / Operation
-- If you modify multiple files **dont** make a commit for each file, rather for each service
-- Good Naming for PRs, Issues, Commits... (**NOT** modified file.md, say what you want / changed)
-- Markdown formatting (Visual Studio Code)
-- Include an example response (shortened)
+-実際のフォーマットを取得するには、Markdownソースコードにアクセスしてください。
+-API / オペレーションに関して、自分が何をしているか、何を話しているかを実際に理解している場合のみ、貢献してください。
+-複数のファイルを変更する場合は、ファイルごとにコミットするのではなく、サービスごとにコミットしてください。
+-PR、問題、コミットなどに適した名前付け（変更されたファイル.mdではなく、希望する内容/変更した内容を記載してください）
+-Markdown フォーマット (Visual Studio Code)
+-回答例（短縮版）を含める
 
 ---
 
-## APIs
+## API
 
-## [h2] {Service} - {Topic}: {What}
+## {サービス}-{トピック}:{内容}
 
-{optional_description}
+**オプション**
 
 URL: {URL} <br/>
-Method: {Method} <br/>
-Auth Required: {Yes/No} ({Permission})
+メソッド: {Method} <br/>
+認証の有無: {Yes/No} ({Permission})
 
-## [h2] Headers [if required]
+## ヘッダー [認証が必要な場合のみ]
 
 `<key>`: `<description>`
 
 <br/>
 
-[JSON Code Block]
-[if required]
+Jsonコードブロック（認証が必要な場合)
 
 ```json
 <Body>
 ```
 
-## [h2] Path Parameters [if required]
+## パスパラメータ(認証が必要な場合）
 
 `<key>`: `<description>`
 
 <br/>
 
-## [h2] Parameters [if required]
+## パラメータ（認証が必要な場合)
 
 `<key>`: `<description>`
 
 <br/>
 
-## [h2] Query Parameters [if required]
+## クエリパラメータ(認証が必要な場合）
 
 `<key>`: `<description>`
 
 ---
 
-> `---` Horizontal Line
 
-`*Example Response*`
 
-[JSON] Codeblock / Note which Status to expect if no content is returned
+`レスポンスの例`
+
+[JSON] コードブロック / コンテンツが返されない場合に期待されるステータスに注意してください
 
 ```json
 {
@@ -66,16 +65,16 @@ Auth Required: {Yes/No} ({Permission})
 
 <br/>
 
-## MCP Operations
+## MCP オペレーション
 
-# [h1] {Operation}
+#  {操作}
 
-**Description**: `{description}` <br/>
-**Profiles**: `{profile_id_1}`, `{profile_id_2}`
+**説明**: `{description}` <br/>
+**プロファイル**: `{profile_id_1}`, `{profile_id_2}`
 
-## Body
+## ボディ
 
-[JS Code Block]
+[JavaScriptコードブロック]
 
 ```js
 {
@@ -83,8 +82,8 @@ Auth Required: {Yes/No} ({Permission})
 }
 ```
 
-[Property Description]:
+[物件の説明]:
 
-- 1 Space after the Comment Start
-- Dont use all LowerCase e.g. "item guid" -> "Item GUID"
-- If its an enum, then include all possible values
+
+- すべて小文字を使用しない。例: "item guid" -> "Item GUID"
+- 列挙型の場合は、すべての可能な値を含める
