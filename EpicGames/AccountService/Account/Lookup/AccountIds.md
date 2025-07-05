@@ -6,7 +6,8 @@ URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/acc
 
 ## クエリパラメータ
 
-`accountId`: アカウントID-クエリは複数設定で来ます（最大**100件**)
+`accountId`:  アカウントID-クエリは複数設定で来ます（最大**100件**)
+
 ---
 
 __レスポンス例__
