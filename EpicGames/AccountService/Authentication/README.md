@@ -4,9 +4,10 @@ EpicGamesのAPIの認証には**OAuth2**を利用します。
 
 手順1:認証を行うためにはまず、どのクライアントに対して認証するかを決めないといけません。クライアントリストは[こちら](./Clients.md)をご参照ください。
 
-1. In order to authenticate you first need to decide for which client you want to authenticate for. A list of clients can be found [here](./Clients.md) or on https://egs.jaren.wtf, which also allows to search by permission.
-2. Now you need to build the [basic auth header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication#basic_authentication_scheme). So you will need to base64 encode the following formatted string `{clientId}:{clientSecret}` (replace the variables). <br/> So for the `fortnitePCGameClient` client this would be`ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ=`.
-3. Then you need to decide, if you want to authenticate as the client, or as a account. You should remember that many apis require account authentication and possibly also require an eg1 (JWT) access token, which can be gotten with including the `token_type` parameter with the `eg1` value in the token request.
+手順2:アクセストークンを取得するためには、ヘッダーに以下の要素を構築する必要があります。以下の文字列をBase64でエンコードしないといけません。`{clientId}:{clientSecret}`（それぞれEpicGamesDevポータルで取得したクライアントID/シークレットIDに置き換えてください）
+
+手順3:次にクライアントとして認証するか、アカウントとして認証するかを決めないといけません。多くのEpicGamesのAPIではアカウント認証を必要とします。場合によっては、eg1（JWT）アクセストークンも必要になる可能性があることを覚えておいてください。アクセストークンはトークンリクエストにこのパラメータを含めることで取得できます。**パラメータ**:`token_type`
+
 
 ## Client Authentication
 
