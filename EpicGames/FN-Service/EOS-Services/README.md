@@ -1,29 +1,29 @@
-# FN - EOS Services Authentication
+# Epic Online Servicesの認証
 
-**_These APIs require EOS Connect authentication, an example how to get such an token is shown below._** <br/>
-_Therefore the permission(s) listed in the requests are policy permissions, not client permissions (thats how EOS works)_
+これらのAPIはEOS Connect認証を必要とします。トークンの取得方法の例を以下に示します。
+したがって、リクエストにリストされている権限はポリシー権限であり、クライアント権限ではありません（これがEOSの仕組みです）。
 
 ---
 
 URL: https://api.epicgames.dev/auth/v1/oauth/token \
-Method: POST \
-Auth Required: Yes (Basic Authentication where the username is the Client Id and the password is the Client Secret)
+メソッド: POST \
+認証の有無: Yes (`ユーザー名`がクライアントID、`パスワード`がクライアントシークレットである基本認証)
 
-## Headers
+## ヘッダー
 
-`Content-Type`: application/x-www-form-urlencoded
+`Content-Type`: `application/x-www-form-urlencoded`
 
-## Parameters
+## パラメータ
 
 `grant_type`: `external_auth` <br/>
 `external_auth_type`: `epicgames_access_token` <br/>
-`external_auth_token`: Your normal epic games access token (EG1, Opaque, EAS) <br/>
-`deployment_id`: The Deployment Id from env configuration, for `live-fn` it is `62a9473a2dca46b29ccf17577fcf42d7` <br/>
-`nonce`: Random nonce string
+`external_auth_token`:通常のアクセストークン <br/>
+`deployment_id`: 環境変数からのデプロイメントID <br/>
+`nonce`: ランダムなノンス文字列
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 {
@@ -54,7 +54,7 @@ _Example Response_
 
 ---
 
-Example plain http request sent by the game
+ゲームから送信されるプレーンなhttpリクエストの例
 
 ```http
 POST https://api.epicgames.dev/auth/v1/oauth/token HTTP/1.1
