@@ -1,8 +1,8 @@
-## DAD Service - Assets (Gamefile Overwrites)
+## DAD サービスアセット（ゲームファイルの上書き）
 
 URL: https://data-asset-directory-public-service-prod.ol.epicgames.com/api/v1/assets/:gameId/:branch/:changelist \
-Method: POST \
-Auth Required: Yes (`dad:{gameId}:assets:* READ`)
+メソッド: POST \
+認証の有無: Yes (`dad:{gameId}:assets:* READ`)
 
 ```json
 {
@@ -30,19 +30,19 @@ Auth Required: Yes (`dad:{gameId}:assets:* READ`)
 }
 ```
 
-## Path Parameters
+## パスパラメータ
 
-`gameId`: `Fortnite` (Lowercased for the Permission) <br/>
-`branch`: The Build Branch, e.g. `++Fortnite+Release-26.10` <br/>
-`changelist`: The Version Changelist, e.g. `27681420`
+`gameId`: `Fortnite` (小文字で表現) <br/>
+`branch`: ビルドバージョン. `++Fortnite+Release-36.10` <br/>
+`changelist`: バージョン更新リスト,例. `27681420`
 
-## Query Parameters
+## クエリパラメータ
 
 `appId`: `Fortnite`
 
 ---
 
-_Example Response (heavily shortened)_
+__レスポンスの例(短縮版)__
 
 ```json
 {
