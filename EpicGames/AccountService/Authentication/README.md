@@ -1,4 +1,4 @@
-# Getting started
+# アクセストークンの取得方法
 
 Epic Games uses [OAuth2](https://auth0.com/intro-to-iam/what-is-oauth-2) for authentication.
 
