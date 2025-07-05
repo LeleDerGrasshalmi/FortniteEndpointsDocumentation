@@ -1,16 +1,16 @@
-## Account Service - Auth: External Auth Info
+## アカウントサービス-外部認証の情報
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/externalAuths/:externalAuthType \
-Method: GET \
-Auth Required: Yes (`account:public:account:externalAuths READ`)
+メソッド: GET \
+認証の有無: Yes (`account:public:account:externalAuths READ`)
 
-## Path Parameters
+## パスパラメータ
 
-`externalAuthType`: See via [External Auth Readme](./README.md)
+`externalAuthType`:  [こちら](./README.md)を参照してください。
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 {
