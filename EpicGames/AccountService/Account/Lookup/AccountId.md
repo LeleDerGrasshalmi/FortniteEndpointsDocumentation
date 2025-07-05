@@ -1,16 +1,16 @@
-## Account Service - Lookup by Account Id
+## アカウントサービス-アカウントIDの検索
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId \
-Method: GET \
-Auth Required: Yes (`account:public:account READ`)
+メソッド: GET \
+認証の有無: Yes (`account:public:account READ`)
 
-## Path Parameters
+## パスパラメータ
 
-`accountId`: The Target Account Id to lookup
+`accountId`: 検索する**アカウントID**
 
 ---
 
-_Example Response (Own Account)_
+__レスポンスの例（自分のアカウントの場合)__
 
 ```json
 {
@@ -43,7 +43,7 @@ _Example Response (Own Account)_
 }
 ```
 
-_Example Response (Not Own Account)_
+__レスポンスの例(自分のアカウント以外のアカウント)__
 
 ```json
 {
