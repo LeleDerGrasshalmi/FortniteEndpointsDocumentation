@@ -19,7 +19,7 @@ EpicGamesのAPIにリクエストするにはHTTPヘッダーにAuthorizationに
   - [Emerald Service](./EpicGames/EmeraldService)
   - [イベントサービス](./EpicGames/EventsService)
   - [FN - Service](./EpicGames/FN-Service)
-  - [FN - Content API](./EpicGames/FN-Content)
+  - [フォートナイトコンテンツAPI](./EpicGames/FN-Content)
   - [Fortniteディスカバリーサービス](./EpicGames/FN-Discovery-Service)
   - [Fortniteディスカバリー検索サービス](./EpicGames/FN-Discovery-Search-Service)
   - [FN - Habanero Service](./EpicGames/FN-Habanero-Service)
