@@ -1,4 +1,4 @@
-##　ペルソナサービス-ディスプレイネーム検索サービス
+## ペルソナサービス-ディスプレイネーム検索サービス
 
 URL: https://persona-public-service-prod06.ol.epicgames.com/persona/api/public/account/lookup \
 メソッド: GET \
