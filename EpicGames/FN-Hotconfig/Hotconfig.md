@@ -1,16 +1,16 @@
-## FN Hotconfig
+## ホットコンフィグ
 
-Updates the Game Service MCPs Host.
+ゲーム サービス MCP ホストを更新します。
 
 URL: https://fn-hotconfigs.ogs.live.on.epicgames.com/hotconfigs/v2/:filename \
-Method: GET \
-Auth Required: No
+メソッド: GET \
+認証の有無: No
 
 ## Path Parameters
 
 `filename`:
 
-| Environment | Filename     | Description                           |
+| 環境        | ファイル名    | 説明                                   |
 | ----------- | ------------ | ------------------------------------- |
 | ci          | ci.json      |                                       |
 | gamedev     | gamedev.json |                                       |
@@ -20,7 +20,7 @@ Auth Required: No
 
 ---
 
-_Example Response (`livefn.json`)_
+__レスポンスの例__
 
 ```json
 {
