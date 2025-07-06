@@ -1,17 +1,17 @@
-## Account Service - Get Metadata Key
+## メタデータキーの取得
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/metadata/:key \
-Method: GET \
-Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} READ`)
+メソッド: GET \
+認証の有無: Yes (`account:accounts:{accountId}:metadata:{key} READ`)
 
-## Path Parameters
+## パスパラメータ
 
-`accountId`: Your Account Id <br/>
-`key`: The Metadata `key` to delete
+`accountId`: アカウントID <br/>
+`key`: メタデータ `key` 
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 true
