@@ -1,17 +1,17 @@
-## FN Service - STW Friend Codes
+# 世界を救え。フレンドコード
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/friendcodes/:accountId/:codeType \
-Method: GET \
-Auth Required: Yes (`fortnite:profile:{accountId}:friendcodes ALL`)
+メソッド: GET \
+認証の有無: Yes (`fortnite:profile:{accountId}:friendcodes ALL`)
 
-## Path Parameters
+## パスパラメータ
 
-`accountId`: Your Account Id <br/>
-`codeType`: `epic` or `xbox`
+`accountId`: アカウントID <br/>
+`codeType`: `epic` または`xbox`
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 [
