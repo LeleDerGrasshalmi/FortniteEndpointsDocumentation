@@ -1,11 +1,15 @@
-## FN Service - Check Entitlement
+## 資格の確認
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/entitlementCheck \
-Method: GET \
-Auth Required: Yes (No special Perm)
+メソッド: GET \
+認証の有無: Yes (No special Perm)
 
 ---
 
-_Example Response (Has Entitlement)_
+__レスポンスの例(資格がある場合)__
 
 `Status 204`
+
+__レスポンスの例(資格がない場合)__
+
+`status 503`
