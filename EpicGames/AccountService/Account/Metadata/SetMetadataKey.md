@@ -1,8 +1,8 @@
-## Account Service - Set Metadata Key
+## メタデータキーの設定API
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/metadata \
-Method: POST \
-Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} CREATE`)
+メソッド: POST \
+認証の有無: Yes (`account:accounts:{accountId}:metadata:{key} CREATE`)
 
 ```json
 {
@@ -11,15 +11,15 @@ Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} CREATE`)
 }
 ```
 
-## Path Parameters
+## パスパラメータ
 
-`accountId`: Your Account Id
+`accountId`: アカウントID
 
-## Parameters
+## パラメータ
 
-`key`: The Metadata `key` to Set <br/>
-`value`: The Metadata Value of the `key`
+`key`:  `yourkey`  <br/>
+`value`:  `yourkey`
 
 ---
 
-_Example Response_: Status 204
+__レスポンスの例__：status204
