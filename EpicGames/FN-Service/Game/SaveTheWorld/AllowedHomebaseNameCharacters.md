@@ -1,14 +1,14 @@
-## FN Service - STW Allowed Homebase Name Characters
+# 世界を救え。で許可される文字
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/homebase/allowed-name-chars \
-Method: GET \
-Auth Required: Yes
+メソッド: GET \
+認証の有無: Yes
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
-The response contains the decimal corresponding to a Unicode character.
+>レスポンスにはUnicodeに対応する10進数が含まれます。
 
 ```json
 {
