@@ -1,16 +1,16 @@
-## Account Service - Get Metadata
+## メタデータキーの取得
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/metadata \
-Method: GET \
-Auth Required: Yes (`account:accounts:{accountId}:metadata READ`)
+メソッド: GET \
+認証の有無: Yes (`account:accounts:{accountId}:metadata READ`)
 
-## Path Parameters
+## パスパラメータ
 
-`accountId`: Your Account Id
+`accountId`: アカウントID
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 {
