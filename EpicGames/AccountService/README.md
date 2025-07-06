@@ -1,6 +1,6 @@
-# Hosts
+# ホスト
 
-This are some (not all) Hosts that you can access the Account Service from
+アカウントサービスにアクセスできるホストの一部（すべてではありません）
 
 - account-public-service-prod-m.ol.epicgames.com
 - account-public-service-prod-origin.ak.epicgames.com
@@ -14,7 +14,7 @@ This are some (not all) Hosts that you can access the Account Service from
 
 <br/>
 
-Recommended Hosts:
+推奨されるホスト
 
 - account-public-service-prod.ol.epicgames.com
 - account-public-service-prod03.ol.epicgames.com
