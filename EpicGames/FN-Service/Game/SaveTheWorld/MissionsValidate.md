@@ -3,7 +3,7 @@
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/world/validate \
 メソッド: POST \
 認証の有無: Yes \
-****: `DedicatedServer ONLY`
+**注意**: `DedicatedServer ONLY`
 
 ## クエリパラメータ
 
