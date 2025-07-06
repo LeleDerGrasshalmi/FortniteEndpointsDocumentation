@@ -1,20 +1,20 @@
-## Epic Games Store - Free Promos (GraphQL Response)
+## 無料プロモーション（GraphQL レスポンス）
 
 URL: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions \
-Method: GET \
-Auth Required: No
+メソッド: GET \
+認証の有無: No
 
-## Query Parameters
+## クエリパラメータ
 
-`locale`: The requested Language, defaults to english <br/>
-`country`: Determines the price and which currency is shown<br/>
-`allowCountries`: Show all promos available in the requested Countries
+`locale`: 言語。デフォルトは`en` <br/>
+`country`: 価格と表示される通貨。例:`JPY` <br/>
+`allowCountries`: 要求された国で利用可能なすべてのプロモーションを表示します
 
-> All Query Params are optional and there may be more
+> すべてのクエリパラメータはオプションであり、さらに追加される可能性があります。
 
 ---
 
-_Example Response (shortened)_
+__レスポンスの例(短縮版)__
 
 ```json
 {
