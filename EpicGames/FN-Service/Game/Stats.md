@@ -1,19 +1,19 @@
-## FN Service - User Stats (V1)
+## ユーザー統計(**v1**)
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/stats/accountId/:accountId/bulk/window/:windowId \
-Method: GET \
-Auth Required: Yes
+メソッド: GET \
+認証の有無: Yes
 
-## Path Parameters
+## パスパラメータ
 
-`accountId`: The Target Account Id <br/>
-`windowId`: 'alltime' / 'weekly'
+`accountId`:アカウントID <br/>
+`windowId`: 期間
 
-> Has been removed ages ago.
+
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```json
 [
@@ -55,3 +55,5 @@ _Example Response_
   }
 ]
 ```
+
+>このAPIは削除されました。
