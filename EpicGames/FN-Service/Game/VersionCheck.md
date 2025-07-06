@@ -1,20 +1,21 @@
-## FN Service - Version Check
+## FN バージョンチェック
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/v2/versioncheck/:platform \
-Method: GET \
-Auth Required: Yes (No special permission required)
+メソッド: GET \
+認証の有無: Yes (No special permission required)
 
-## Path Parameters
+## パスパラメータ
 
-`platform`: The platform to check (ex. Windows)
+`platform`: プラットフォーム（例:Windows)
 
-## Query Parameters
+## クエリパラメータ
 
-`version`: The version to check (URL-Encoded, ex. ++Fortnite+Release-30.40-CL-35235494-Windows)
+`version`: バージョンID(例：++Fortnite+Release-30.40-CL-35235494-Windows)
+
 
 ---
 
-_Example Response_
+__レスポンスの例__
 
 ```js
 {
@@ -22,7 +23,7 @@ _Example Response_
 }
 ```
 
-_Example Response (If type is `APP_REDIRECT`)_
+__レスポンスの例__
 
 ```js
 {
