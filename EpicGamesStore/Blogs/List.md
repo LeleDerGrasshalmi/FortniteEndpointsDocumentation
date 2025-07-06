@@ -1,14 +1,16 @@
-## Epic Games Store - Blogs List
+## EpicGamesストアブログリスト
 
 URL: https://store-content-ipv4.ak.epicgames.com/api/:locale/content/blog \
-Method: GET \
-Auth Required: No
+メソッド: GET \
+認証の有無: No
 
-## Path Parameters
+## パスパラメータ
 
-`en-US`: The Locale / Language, e.g. `en-US`
+`en-US`: 言語。例:`ja-JP`
 
-_Example Response (shortened)_
+>このAPIはフォートナイトのブログのAPIではありません。
+
+__レスポンスの例(短縮版)__
 
 ```json
 [
