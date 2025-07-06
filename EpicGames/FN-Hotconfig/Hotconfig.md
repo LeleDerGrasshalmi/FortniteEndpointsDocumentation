@@ -14,7 +14,7 @@ URL: https://fn-hotconfigs.ogs.live.on.epicgames.com/hotconfigs/v2/:filename \
 | ----------- | ------------ | ------------------------------------- |
 | ci          | ci.json      |                                       |
 | gamedev     | gamedev.json |                                       |
-| livefn      | livefn.json  | This is what the Shipping Client uses |
+| livefn      | livefn.json  | 配送クライアントが使用するものです       |
 | prod        | prod.json    |                                       |
 | stage       | stage.json   |                                       |
 
