@@ -1,15 +1,15 @@
-## Epic Games Store - Product Page
+## ストアページ
 
 URL: https://store-content.ak.epicgames.com/api/:locale/content/products/:product \
-Method: GET \
-Auth Required: No
+メソッド: GET \
+認証の有無: No
 
-## Path Parameters
+## パスパラメータ
 
-`en-US`: The Locale / Language, e.g. `en-US` <br/>
-`product`: The Product Slug e.g. `fortnite`
+`en-US`: ローカル言語,(例:`ja-JP`) <br/>
+`product`:製品スラッグ。例: `fortnite`
 
-_Example Response (shortened)_
+__レスポンスの例（短縮版）__
 
 ```json
 {
