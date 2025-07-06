@@ -1,14 +1,14 @@
-## Account Service - Delete Metadata Key
+## メタデータキーの削除
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/metadata/:key \
-Method: DELETE \
-Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} DELETE`)
+メソッド: DELETE \
+認証の有無: Yes (`account:accounts:{accountId}:metadata:{key} DELETE`)
 
-## Path Parameters
+## パスパラメータ
 
-`accountId`: Your Account Id <br/>
-`key`: The Metadata `key` to query
+`accountId`: アカウントID <br/>
+`key`: メタデータ`key` 
 
 ---
 
-_Example Response_: Status 204
+__レスポンスの例__:status 204
