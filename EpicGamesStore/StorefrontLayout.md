@@ -1,18 +1,18 @@
-## Epic Games Store - Storefront Layout (GraphQL Response)
+## ストアフロントレイアウト (GraphQL レスポンス)
 
 URL: https://store-site-backend-static-ipv4.ak.epicgames.com/storefrontLayout \
-Method: GET \
-Auth Required: No
+メソッド: GET \
+認証の有無: No
 
-## Query Parameters
+## クエリパラメータ
 
-`locale`: The requested Language, defaults to english
+`locale`: 言語（デフォルトは`en`)
 
-> All Query Params are optional and there may be more
+> すべてのクエリパラメータはオプションであり、さらに追加される可能性があります。
 
 ---
 
-_Example Response (shortened)_
+__レスポンスの例(短縮)__
 
 ```json
 {
