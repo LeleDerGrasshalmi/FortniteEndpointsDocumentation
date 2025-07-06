@@ -1,12 +1,14 @@
-## FN Service - Validate STW Missions
+# 世界を救え。クエスト検証
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/world/validate \
-Method: POST \
-Auth Required: Yes \
-**Note**: `DedicatedServer ONLY`
+メソッド: POST \
+認証の有無: Yes \
+****: `DedicatedServer ONLY`
 
-## Query Parameters
+## クエリパラメータ
 
-`sessionId`: The Matchmaking Session Id
+`sessionId`: セッションID
 
 `Response from /world/info` (Body)
+
+>このAPIのレスポンス例がありません。取得でき次第掲載する予定です。
