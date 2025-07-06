@@ -1,16 +1,16 @@
-## FN Service - Stat Leaderboard (V1)
+## 統計リーダーボード(**v1**)
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/leaderboards/cohort/:accountId \
-Method: GET \
-Auth Required: Yes
+メソッド: GET \
+認証の有無: Yes
 
-## Path Parameters
+## パスパラメータ
 
-`accountId`: Your Account Id <br/>
-`windowId`: 'alltime' / 'weekly'
+`accountId`:アカウントID <br/>
+`windowId`: 期間の設定
 
 ## Query Parameters
 
-`playlist`: e.g. `pc_m0_p10` (PC - Duos)
+`playlist`: (例:`pc_m0_p10`)
 
-> Has been removed ages ago.
+> このAPIは提供が終了しました。
