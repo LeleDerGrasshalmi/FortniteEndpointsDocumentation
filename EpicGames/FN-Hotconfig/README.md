@@ -1,3 +1,3 @@
-# FN Hotconfig
+#ホットコンフィグ
 
-Used to dynamicly override the MCP host for fortnite.
+フォートナイト の MCP ホストを動的にオーバーライドするために使用されます。
