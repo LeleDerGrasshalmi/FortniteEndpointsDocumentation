@@ -2,7 +2,7 @@
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/v2/versioncheck/:platform \
 メソッド: GET \
-認証の有無: Yes (No special permission required)
+認証の有無: Yes (特別な権限は不要)
 
 ## パスパラメータ
 
