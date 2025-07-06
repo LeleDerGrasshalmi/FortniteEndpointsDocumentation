@@ -1,15 +1,15 @@
-## Epic Games Store - Blog Info by Slug
+## Slugブログ情報
 
 URL: https://store-content-ipv4.ak.epicgames.com/api/:locale/content/blog/:slug \
-Method: GET \
-Auth Required: No
+メソッド: GET \
+認証の有無: No
 
-## Path Parameters
+## パスパラメータ
 
-`en-US`: The Locale / Language, e.g. `en-US` <br/>
-`slug`: The Slug from the blogost
+`en-US`:言語。例: `ja-JP` <br/>
+`slug`: ブログスラッグ
 
-_Example Response (shortened)_
+__レスポンスの例(短縮)__
 
 ```json
 {
