@@ -29,23 +29,26 @@ _Example Response_
 {
   "access_token": "REDACTED",
   "token_type": "bearer",
-  "expires_at": "2024-11-16T19:02:54.328Z",
+  "expires_at": "2025-07-15T19:44:49.812Z",
   "nonce": "_",
   "features": [
     "AntiCheat",
     "Connect",
     "ContentService",
     "Ecom",
+    "EpicConnect",
     "Inventories",
     "LockerService",
-    "Matchmaking Service"
+    "Matchmaking Service",
+    "PCBService",
+    "QuestService"
   ],
   "organization_id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
   "product_id": "prod-fn",
   "sandbox_id": "fn",
   "deployment_id": "62a9473a2dca46b29ccf17577fcf42d7",
-  "organization_user_id": "00012606a6424b879ad5ef5978bfe879",
-  "product_user_id": "00023ceb23764ee6a3199c9f4a387a9e",
+  "organization_user_id": "000135c3d47e4198a91a01320374fd4d",
+  "product_user_id": "0002968544584824a0c528dad8b75bf9",
   "product_user_id_created": false,
   "id_token": "REDACTED",
   "expires_in": 3599
