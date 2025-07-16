@@ -1,6 +1,6 @@
 ## FN - Discovery Search Service - Search Links
 
-URL: https://fn-service-discovery-search-live-public.ogs.live.on.epicgames.com/api/v1/search \
+URL: https://fn-service-discovery-search-live-public.ogs.live.on.epicgames.com/api/v1/islands/search \
 Method: POST \
 Auth Required: Yes (`discovery:search:{accountId} READ`)
 
