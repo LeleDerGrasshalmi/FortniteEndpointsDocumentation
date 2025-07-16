@@ -1,4 +1,4 @@
-## FN EOS Progress Service: Progress
+## FN EOS Quests Service: Quests
 
 URL: https://fngw-svc-ds-livefn.ol.epicgames.com/api/quest/v3/:deploymentId/progress/account/:accountId \
 Method: GET \
