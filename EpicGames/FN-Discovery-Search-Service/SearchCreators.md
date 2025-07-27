@@ -1,6 +1,6 @@
 ## FN - Discovery Search Service - Search Creators
 
-URL: https://fn-service-discovery-search-live-public.ogs.live.on.epicgames.com/api/v1/creators/search \
+URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/creator-search/v1/search \
 Method: POST \
 Auth Required: Yes (`discovery:search:{accountId} READ`)
 
