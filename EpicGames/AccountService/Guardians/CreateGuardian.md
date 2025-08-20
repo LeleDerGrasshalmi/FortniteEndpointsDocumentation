@@ -17,7 +17,7 @@ Auth Required: Yes (`account:public:guardians CREATE`)
 ## Parameters
 
 `guardianEmail`: Email of the guardian <br/>
-`country`: ISO Country Code of the guardian <br/>
+`country`: ISO 3166 - Alpha 2 Code of the guardian <br/>
 `dateOfBirth`: Date of birth of the account
 
 ---
