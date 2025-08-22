@@ -1,8 +1,8 @@
 ## FN Service - Receipts
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/receipts/v1/account/:accountId/receipts \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/receipts/:accountId \
 Method: GET \
-Auth Required: Yes (`fortnite:profile:{accountId}:receipts ALL`)
+Auth Required: Yes (`fortnite:profile:{accountId}:commands ALL`)
 
 # Path Parameters
 
