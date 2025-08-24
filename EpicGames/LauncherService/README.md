@@ -23,4 +23,4 @@ Recommended Hosts:
 
 # Data
 
-`platform`: Windows, Android, IOS, XSX,XB1, PS4, PS5, Switch,Switch2
+`platform`: Windows, Android, IOS, XSX, XB1, PS4, PS5, Switch, Switch2
