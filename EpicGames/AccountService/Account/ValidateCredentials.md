@@ -3,6 +3,7 @@
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/validateCreds \
 Method: POST \
 Auth Required: Yes (`account:public:account:validateCreds READ`)
+Note: Deprecated as of September 4th, 2025.
 
 ## Headers
 
