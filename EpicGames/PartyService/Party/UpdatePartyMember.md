@@ -2,7 +2,7 @@
 
 URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/members/:accountId/meta
 Method: PATCH \
-Auth Required: Yes (social:party)
+Auth Required: Yes (`social:party`)
 
 ```json
 {
