@@ -12,7 +12,7 @@ Auth Required: Yes (`social:party`)
 
 ## Path Parameters
 
-`friendId`: Friend AccountId
+`friendId`: Friend AccountId <br/>
 `accountId`: Your AccountId
 
 ## Parameters

@@ -6,7 +6,7 @@ Auth Required: Yes (`social:party`)
 
 ## Path Parameters
 
-`accountId`: Your AccountId
+`accountId`: Your AccountId <br/>
 `pingerId`: AccountId of who invited you
 
 _Example Response (shortened)_

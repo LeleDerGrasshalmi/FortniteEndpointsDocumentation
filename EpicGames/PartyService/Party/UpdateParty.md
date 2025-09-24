@@ -22,7 +22,7 @@ Auth Required: Yes (`social:party`)
 
 ## Parameters
 
-`revision`: An number that increments with every party meta change.
+`revision`: An number that increments with every party meta change. <br/>
 `meta.update`: An object with the specific key you want updated. (Some values might be required to be stringified)
 
 _Example Reponse_: Status 204
