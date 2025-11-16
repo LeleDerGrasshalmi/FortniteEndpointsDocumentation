@@ -1,7 +1,7 @@
 ## FN Service - Request Entitlement Access
 
 URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storeaccess/v1/request_access/:accountId \
-Method: GET \
+Method: POST \
 Auth Required: Yes (Fortnite Account Auth)
 
 ## Path Parameters
