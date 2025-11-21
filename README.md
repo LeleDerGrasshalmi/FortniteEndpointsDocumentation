@@ -33,6 +33,7 @@ Web APIs however are a bit different, these require web login cookies.
   - [Lightswitch Service](./EpicGames/LightswitchService)
   - [Links Service](./EpicGames/LinksService)
   - [Nelly Service](./EpicGames/NellyService)
+  - [Party Service](./EpicGames/PartyService)
   - [Persona Service](./EpicGames/PersonaService)
   - [Pops Service](./EpicGames/PopsService)
   - [PRM Dialog Service](./EpicGames/PRMDialogService)
