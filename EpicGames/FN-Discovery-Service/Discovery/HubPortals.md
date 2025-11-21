@@ -9,3 +9,5 @@ Auth Required: Yes (`fortnite:fortnite_role:dedicated_server READ`)
 `appId`: `Fortnite` <br/>
 `wellKnownIslandsName`: The Islands Name <br/>
 `revision`: The revision, use `-1` for latest
+
+> This endpoint is now deprecated

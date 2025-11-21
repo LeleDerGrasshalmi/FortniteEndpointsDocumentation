@@ -15,10 +15,10 @@ _Example Response (Party not found)_
 
 ```json
 {
-	"errorCode": "errors.com.epicgames.social.party.party_not_found",
-	"errorMessage": "Party [226d9232419440f3a53578a3185f9933] does not exist.",
-	"numericErrorCode": 51002,
-	"originatingService": "party",
-	"intent": "prod"
+  "errorCode": "errors.com.epicgames.social.party.party_not_found",
+  "errorMessage": "Party [226d9232419440f3a53578a3185f9933] does not exist.",
+  "numericErrorCode": 51002,
+  "originatingService": "party",
+  "intent": "prod"
 }
 ```

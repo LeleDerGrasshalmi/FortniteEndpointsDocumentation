@@ -32,19 +32,19 @@ _Example Response (`livefn.json`)_
         {
           "ModuleName": "GameServiceMcp",
           "Endpoints": {
-            "Android": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "DedicatedServer": "fngw-mcp-ds-livefn.ol.epicgames.com",
-            "Default": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "IOS": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "Linux": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "Mac": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "PS4": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "PS5": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "Switch": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "Windows": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "XB1": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "XSX": "fngw-mcp-gc-livefn.ol.epicgames.com",
-            "XboxOneGDK": "fngw-mcp-gc-livefn.ol.epicgames.com"
+            "Android": "mcp-gc.live.fngw.ol.epicgames.com",
+            "DedicatedServer": "mcp-ds.live.fngw.ol.epicgames.com",
+            "Default": "mcp-gc.live.fngw.ol.epicgames.com",
+            "IOS": "mcp-gc.live.fngw.ol.epicgames.com",
+            "Linux": "mcp-gc.live.fngw.ol.epicgames.com",
+            "Mac": "mcp-gc.live.fngw.ol.epicgames.com",
+            "PS4": "mcp-gc.live.fngw.ol.epicgames.com",
+            "PS5": "mcp-gc.live.fngw.ol.epicgames.com",
+            "Switch": "mcp-gc.live.fngw.ol.epicgames.com",
+            "Windows": "mcp-gc.live.fngw.ol.epicgames.com",
+            "XB1": "mcp-gc.live.fngw.ol.epicgames.com",
+            "XSX": "mcp-gc.live.fngw.ol.epicgames.com",
+            "XboxOneGDK": "mcp-gc.live.fngw.ol.epicgames.com"
           }
         }
       ]

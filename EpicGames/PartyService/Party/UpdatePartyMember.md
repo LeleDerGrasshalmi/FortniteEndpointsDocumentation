@@ -6,10 +6,10 @@ Auth Required: Yes (`social:party`)
 
 ```json
 {
-	"revision": 2,
-	"update": {
-		"Default:FrontendEmote_j": "{\"FrontendEmote\":{\"emoteItemDef\":\"/SparksSongTemplates/Items/JamEmotes/EID_Placeholder_35_Drum.EID_Placeholder_35_Drum\"}}"
-	}
+  "revision": 2,
+  "update": {
+    "Default:FrontendEmote_j": "{\"FrontendEmote\":{\"emoteItemDef\":\"/SparksSongTemplates/Items/JamEmotes/EID_Placeholder_35_Drum.EID_Placeholder_35_Drum\"}}"
+  }
 }
 ```
 
@@ -29,10 +29,10 @@ _Example Response (Incorrect revision number)_
 
 ```json
 {
-	"errorCode": "errors.com.epicgames.social.party.stale_revision",
-	"errorMessage": "Provided revision [2] does not match the current one [1].",
-	"numericErrorCode": 51018,
-	"originatingService": "party",
-	"intent": "prod"
+  "errorCode": "errors.com.epicgames.social.party.stale_revision",
+  "errorMessage": "Provided revision [2] does not match the current one [1].",
+  "numericErrorCode": 51018,
+  "originatingService": "party",
+  "intent": "prod"
 }
 ```

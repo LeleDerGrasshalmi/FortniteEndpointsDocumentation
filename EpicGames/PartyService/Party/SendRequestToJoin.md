@@ -6,7 +6,7 @@ Auth Required: Yes (`social:party`)
 
 ```json
 {
-    "urn:epic:invite:platformdata_s": "",
+  "urn:epic:invite:platformdata_s": ""
 }
 ```
 

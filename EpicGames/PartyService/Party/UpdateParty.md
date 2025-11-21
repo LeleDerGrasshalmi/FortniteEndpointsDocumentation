@@ -13,7 +13,6 @@ Auth Required: Yes (`social:party`)
     }
   }
 }
-
 ```
 
 ## Path Parameters
@@ -31,10 +30,10 @@ _Example Response (Incorrect revision number)_
 
 ```json
 {
-	"errorCode": "errors.com.epicgames.social.party.stale_revision",
-	"errorMessage": "Provided revision [2] does not match the current one [1].",
-	"numericErrorCode": 51018,
-	"originatingService": "party",
-	"intent": "prod"
+  "errorCode": "errors.com.epicgames.social.party.stale_revision",
+  "errorMessage": "Provided revision [2] does not match the current one [1].",
+  "numericErrorCode": 51018,
+  "originatingService": "party",
+  "intent": "prod"
 }
 ```
