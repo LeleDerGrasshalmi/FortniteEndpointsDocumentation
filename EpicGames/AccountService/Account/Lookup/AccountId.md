@@ -52,3 +52,27 @@ _Example Response (Not Own Account)_
   "externalAuths": {}
 }
 ```
+
+__Example Response (Headless Account)__
+```json
+{
+    "id": "81cadc1577984266b796865188ff0082",
+    "failedLoginAttempts": 0,
+    "lastLogin": "2025-12-07T02:55:40.323Z",
+    "numberOfDisplayNameChanges": 0,
+    "ageGroup": "UNKNOWN",
+    "headless": true,
+    "country": "GB",
+    "preferredLanguage": "en",
+    "canUpdateDisplayName": true,
+    "tfaEnabled": false,
+    "emailVerified": false,
+    "minorVerified": false,
+    "minorExpected": false,
+    "minorStatus": "NOT_MINOR",
+    "siweNotificationEnabled": true,
+    "cabinedMode": false,
+    "hasHashedEmail": false,
+    "lastReviewedSecuritySettings": "2025-12-07T00:00:59.294Z"
+}
+```
