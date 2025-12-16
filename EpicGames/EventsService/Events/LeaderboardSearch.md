@@ -1,4 +1,4 @@
-## Events Service - Event Window Leaderboard Search
+## Events Service - Event Window Leaderboard Scores
 
 This endpoint is used for retrieving the friends leaderboard in-game.
 
