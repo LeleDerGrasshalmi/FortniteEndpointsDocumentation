@@ -2,7 +2,7 @@
 
 URL: https://data-asset-directory-public-service-prod.ol.epicgames.com/api/v1/assets/:gameId/:branch/:changelist \
 Method: POST \
-Auth Required: Yes (`dad:{gameId}:assets:* READ`)
+Auth Required: Yes (`dad:{gameId}:assets:updateCheck READ`)
 
 ```json
 {
