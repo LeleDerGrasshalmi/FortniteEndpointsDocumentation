@@ -12,7 +12,8 @@ Auth Required: No
   "epic_app": "",
   "nvidia": false,
   "luna": false,
-  "salmon": false
+  "salmon": false,
+  "gdk_mode": false
 }
 ```
 
@@ -24,7 +25,8 @@ Auth Required: No
 `epic_app`: The App you want to launch e.g. `fortnite` <br/>
 `nvidia`: Used for the NVidia GeForce Now Cloud-Gaming <br/>
 `luna`: Used for the Amazon Luna Cloud-Gaming <br/>
-`salmon`: Used for the some Cloud-Gaming service (unknown as of now as salmon is a codename, **wip parameter**)
+`salmon`: Used for the some Cloud-Gaming service (unknown as of now as salmon is a codename, **wip parameter**) <br/>
+`gdk_mode`: Used for the Microsoft Store Build of Fortnite
 
 Any of the following Parameters is `true`, then all other Parameters can be ignored
 
