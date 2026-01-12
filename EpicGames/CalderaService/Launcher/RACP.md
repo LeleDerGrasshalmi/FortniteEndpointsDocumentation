@@ -12,7 +12,8 @@ Auth Required: No
   "epic_app": "",
   "nvidia": false,
   "luna": false,
-  "salmon": false
+  "salmon": false,
+  "gdk_mode": false
 }
 ```
 
