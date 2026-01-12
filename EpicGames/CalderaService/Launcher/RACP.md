@@ -25,6 +25,7 @@ Auth Required: No
 `nvidia`: Used for the NVidia GeForce Now Cloud-Gaming <br/>
 `luna`: Used for the Amazon Luna Cloud-Gaming <br/>
 `salmon`: Used for the some Cloud-Gaming service (unknown as of now as salmon is a codename, **wip parameter**)
+`gdk_mode`: Used for the Microsoft Store Build of Fortnite <br/>
 
 Any of the following Parameters is `true`, then all other Parameters can be ignored
 
