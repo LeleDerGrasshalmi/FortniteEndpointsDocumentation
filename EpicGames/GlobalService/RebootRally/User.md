@@ -4,6 +4,8 @@ URL: https://global-profile-service.game-social.epicgames.com/v1/rebootrally/eli
 Method: PUT (No Body) \
 Auth Required: Yes (No Perm required)
 
+> Reboot Rally endpoints no longer exist
+
 > Always returns invalid auth
 >
 > ```json

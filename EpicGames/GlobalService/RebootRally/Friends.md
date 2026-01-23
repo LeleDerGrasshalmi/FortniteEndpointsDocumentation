@@ -6,6 +6,8 @@ Auth Required: Yes (No Perm required)
 
 ---
 
+> Reboot Rally endpoints no longer exist
+
 _Example Response_
 
 ```json

@@ -74,6 +74,32 @@
 - season32_3210_GrantBattlePassCobblers_Nov_2024
 - season33_3300_MigrationSeasonItem_Dec_2024
 - season33_3310_JunoPassMakeGood_Dec_2024
+- season33_3320_CarDecalValueAdds_Jan_2025
+- season33_3330_ValueAdds_Jan_2025
+- season34_3400_RemoveDuplicateLobbyTracks_Feb_2025
+- season34_3410_GrantMissingRankedBonusGoalReward_Mar_2025
+- season34_3420_FixupSeasonalActivationRewards_Mar_2025
+- season34_3430_RefundS07MusicPassGiftTokens_Apr_2025
+- season34_3440_Fixup_Apr_2025
+- season35_3500_ValueAdds_May_2025
+- season35_3520_CleanAutoSpendSeasonCurrency_May_2025
+- season36_3600_ValueAdds_Jun_2025
+- season36_3610_FixWrongBPItem_Jun_2025
+- season36_3620_EventLoadingScreenGiftbox_July_2025
+- season36_3630_FixBentBatonVariants_July_2025
+- season37_3700_ForbiddenFruitMakeGood_Aug_2025
+- season37_3710_Makegood_wealthlamb3_Aug_2025
+- season37_3720_RemoveExtraRestedXP_Sep_2025
+- season37_3740_AutoCompleteLockJawQuests_Oct_2025
+- season37_3750_MigrateToLockerReadDualWriteAndBackfillMissingData_Oct_2025
+- season38_3800_cleanupItems_Nov_2025
+- season38_3810_FixCreativeWeeklies_Nov_2025
+- season38_3811_FixupSproutQuests_Nov_2025
+- season39_3900_fixupGlavinatorPickaxe_Nov_2025
+- season39_3910_GrantUnlockedStylesToMatchingInstrumentBackblingPickaxe_Dec_2025
+- season39_3911_ReconcileRefundedCosmetics_Dec_2025
+- season39_3920_BackfillMissingCosmeticData_Jan_2026
+- season39_3930_FixDyePacketVariants_Jan_2026
 
 ## Common Core
 
@@ -89,6 +115,10 @@
 - liveMigration_Nov_2022
 - season26_2610_JumpSuitPurchaseHistory_Sept_2023
 - season29_2940_cleanupItemsWithMissingTemplates_May_2024
+- season37_3750_topUpPlayerWallet_Oct_2025
+- season38_3800_topUpPlayerWallet_Nov_2025
+- season38_3811_FixupCanineCronutBundleRefund_Nov_2025
+- season39_3911_CorrectTracking_Dec_2025
 
 ## Creative
 
@@ -128,6 +158,14 @@
 - season30_3040_CleanupGreenhouseCampaignResources_August_2024
 - season31_3140_RemoveOldQuestContent_Oct_2024
 - season33_3300_PrimalFlamebowMakegood_Dec_2024
+- season33_3320_FixMissingTutorialToken_Jan_2025
+- season36_3630_RemoveIncorrectlyExportedQuests_July_2025
+- season37_3750_XenonBowWeaponReset_October_2025
+- season37_3751_UnredeemedMissionAlertMTXFixup_October_2025
+- season38_3800_ShortenHuntTheTitan_November_2025
+- season38_3810_UnredeemedMissionAlertMTXFixup_November_2025
+- season39_3900_ChangesToAccountLevelCommanderRewards_November_2025
+- season39_3910_FixedChangesToAccountLevelCommanderRewards_November_2025
 
 ## Common Public
 
@@ -185,6 +223,9 @@
 - refund_blakebeard_feb_2024
 - season29_2940_cleanupItemsWithMissingTemplates_May_2024
 - season33_3300_RefundPrimalFlamebow_Dec_2024
+- season33_3330_FixMissingPageSectionCompletions_Jan_2025
+- season36_3620_WeaponBalanceReset_July_2025
+- season37_3750_XenonBowWeaponReset_October_2025
 
 ## Collection Book Schematics
 
@@ -196,6 +237,9 @@
 - refund_blakebeard_feb_2024
 - season29_2940_cleanupItemsWithMissingTemplates_May_2024
 - season33_3300_RefundPrimalFlamebow_Dec_2024
+- season33_3330_FixMissingPageSectionCompletions_Jan_2025
+- season36_3620_WeaponBalanceReset_July_2025
+- season37_3750_XenonBowWeaponReset_October_2025
 
 ## Recycle Bin
 
