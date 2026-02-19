@@ -41,7 +41,7 @@ Example Response (NVIDIA Mode)
 {
   "provider": "EasyAntiCheat",
   "jwt": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X2lkIjoiXHUwMDNjbnZpZGlhXHUwMDNlIiwiZ2VuZXJhdGVkIjoxNjgzMDQ3OTk4LCJjYWxkZXJhR3VpZCI6IjYxNDIzMjQxLWE4MWYtNGEzYS05YjM4LTUxNjVmNWJlYmMzOSIsImFjUHJvdmlkZXIiOiJFYXN5QW50aUNoZWF0Iiwibm90ZXMiOiI4MzFhNDkzYy1kYzYxLTQ0NTgtYjI1YS05OGYwZjMxMTUzMTgiLCJmYWxsYmFjayI6ZmFsc2V9.OHZR7bElxV1RmoQaXPTPGcv6TgNBwQ7GI2so_JSlHG8LXlV5sBlfazWlV3WjxsT7V2T6iL0E1YnZD6J6bQMs0A",
- "deployment_id":"62a9473a2dca46b29ccf17577fcf42d7",
- "sandbox_id":"fn"
+  "deployment_id": "62a9473a2dca46b29ccf17577fcf42d7",
+  "sandbox_id": "fn"
 }
 ```
