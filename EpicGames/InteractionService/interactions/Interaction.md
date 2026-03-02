@@ -8,8 +8,8 @@
 `accountId`: Your AccountId
 
 ## Query Parameters
-`limit`: Max 200 per request  
-`preferredInteractionType`: Filter preferred interaction type (e.g. `FriendshipDelete`, `FriendshipAcceptReceived`, `PartyJoined`,  `FriendshipAcceptSent`)
+`limit`: (Optional) Max 200 per request  
+`preferredInteractionType`: (Optional) Filter preferred interaction type (e.g. `FriendshipDelete`, `FriendshipAcceptReceived` or `PartyJoined`)
 
 ---
 
