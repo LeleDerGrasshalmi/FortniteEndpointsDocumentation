@@ -9,6 +9,11 @@ Auth Required: Yes (`locker:items`)
 `deploymentId`: The Deployment Id from env configuration, for `live-fn` it is `62a9473a2dca46b29ccf17577fcf42d7` <br/>
 `accountId`: Your Account Id
 
+# Query Parameters
+
+`limit`: optional, how many items to include (limit 100) <br/>
+`nextToken`: optional, the token from a previous response used to fetch more items
+
 ---
 
 _Example Response (shortened)_
