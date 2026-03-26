@@ -2,8 +2,6 @@
 
 **Description**: `Assigns a Defender to a Defender slot in a Loadout` \
 **Profiles**: `campaign`
-### Note
-As of v40.00 this operation is unusable, as no one has unlocked any of the 3 Defender slots for their Loadout yet
 
 ## Body
 
