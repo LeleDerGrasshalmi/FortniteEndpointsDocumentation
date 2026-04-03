@@ -1,6 +1,6 @@
 ## Lightswitch Service - Status
 
-URL: http://lightswitch-public-service-prod.ol.epicgames.com/lightswitch/api/service/:serviceId/status \
+URL: https://lightswitch-public-service-prod.ol.epicgames.com/lightswitch/api/service/:serviceId/status \
 Method: GET \
 Auth Required: Yes (no perm needed)
 

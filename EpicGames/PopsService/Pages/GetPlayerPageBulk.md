@@ -31,14 +31,14 @@ _Example Response_
       "displayName": "pandvil",
       "isFollowed": false,
       "images": {
-        "avatar": "https://cdn-0001.qstv.on.epicgames.com/05vZ2nB1k38ZkStczM7WG1/image.jpg",
+        "avatar": "https://cdn-0001.qstv.on.epicgames.com/06xTpVCh5zKWvOBU3idIw3/image.jpg",
         "banner": null
       }
     },
     {
       "playerId": "epic",
       "displayName": "Epic Games",
-      "isFollowed": true,
+      "isFollowed": false,
       "images": {
         "avatar": "https://cdn2.unrealengine.com/epicgames-cretorprofile-192x192-cd5708661249.jpg",
         "banner": null

@@ -44,11 +44,12 @@ _Example Response (shortened)_
     "linkType": "BR:Playlist",
     "metadata": {
       "parent_set": "set_br_playlists",
-      "favorite_override": "set_br_playlists",
-      "play_history_override": "set_br_playlists",
+      "favorite_override": "experience_br",
       "alt_title": {
         "de": "Solo"
       },
+      "play_history_override": "experience_br",
+      "parent_experience": "experience_br",
       "image_url": "https://cdn2.unrealengine.com/solosize-1920-1920x1080-741c5c77900f.jpg",
       "product_tag": "Product.BR.Build.Solo",
       "image_urls": {
@@ -61,17 +62,18 @@ _Example Response (shortened)_
         "uniqueGameVersion": 95,
         "calibrationPhase": "LiveXp"
       },
+      "title": "Solo",
       "matchmaking": {
         "override_playlist": "playlist_defaultsolo"
       },
-      "video_vuid": "taqdZkWyokbCyEFWld",
-      "title": "Solo"
+      "video_vuid": "taqdZkWyokbCyEFWld"
     },
     "version": 95,
     "active": true,
     "disabled": false,
     "created": "2021-10-01T00:56:43.870Z",
     "published": "2021-08-03T15:27:17.540Z",
+    "updated": "2025-09-17T23:51:16.629Z",
     "descriptionTags": [],
     "moderationStatus": "Unmoderated"
   },
@@ -83,11 +85,12 @@ _Example Response (shortened)_
     "linkType": "BR:Playlist",
     "metadata": {
       "parent_set": "set_br_playlists",
-      "favorite_override": "set_br_playlists",
-      "play_history_override": "set_br_playlists",
+      "favorite_override": "experience_br",
       "alt_title": {
         "de": "Duo"
       },
+      "play_history_override": "experience_br",
+      "parent_experience": "experience_br",
       "image_url": "https://cdn2.unrealengine.com/duossize-1920-1920x1080-284f117a184a.jpg",
       "product_tag": "Product.BR.Build.Duo",
       "image_urls": {
@@ -100,19 +103,21 @@ _Example Response (shortened)_
         "uniqueGameVersion": 95,
         "calibrationPhase": "LiveXp"
       },
+      "title": "Duo",
       "matchmaking": {
         "override_playlist": "playlist_defaultduo"
       },
-      "video_vuid": "taqdZkWyokbCyEFWld",
-      "title": "Duo"
+      "video_vuid": "taqdZkWyokbCyEFWld"
     },
     "version": 95,
     "active": true,
     "disabled": false,
     "created": "2021-10-01T00:56:46.389Z",
     "published": "2021-08-03T15:27:17.523Z",
+    "updated": "2025-09-17T23:51:45.494Z",
     "descriptionTags": [],
-    "moderationStatus": "Unmoderated"
+    "moderationStatus": "Unmoderated",
+    "discoveryIntent": "PUBLIC"
   }
 ]
 ```

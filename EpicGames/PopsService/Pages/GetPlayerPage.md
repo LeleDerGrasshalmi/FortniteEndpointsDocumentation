@@ -18,11 +18,13 @@ _Example Response_
 
 ```json
 {
-  "isFollowed": true,
+  "isFollowed": false,
+  "isSubscribed": false,
+  "subscriptions": [],
   "displayName": "Epic Games",
   "surfaceName": "CreativeDiscoverySurface_EpicPage",
   "bio": "Play Fortnite your way. Choose an island and drop in!",
-  "followerCount": 2536748,
+  "followerCount": 6113220,
   "images": {
     "avatar": "https://cdn2.unrealengine.com/epicgames-cretorprofile-192x192-cd5708661249.jpg",
     "banner": "https://cdn2.unrealengine.com/epic-creator-profile-no-logo-2800x960-b1cee1ac257e.jpg"

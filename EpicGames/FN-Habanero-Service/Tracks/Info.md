@@ -20,6 +20,7 @@ _Example Response (shortened)_
   "rankingType": "ranked-br",
   "beginTime": "2023-04-01T00:00:00Z",
   "endTime": "2023-06-20T08:00:00Z",
-  "divisionCount": 18
+  "divisionCount": 18,
+  "leaderboardTrackingEventId": "epicgames_ranked_br_season24"
 }
 ```
