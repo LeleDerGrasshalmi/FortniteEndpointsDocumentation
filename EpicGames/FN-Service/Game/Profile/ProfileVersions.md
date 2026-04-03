@@ -100,6 +100,10 @@
 - season39_3911_ReconcileRefundedCosmetics_Dec_2025
 - season39_3920_BackfillMissingCosmeticData_Jan_2026
 - season39_3930_FixDyePacketVariants_Jan_2026
+- season39_3940_PowerHourConversion_Feb_2026
+- season39_3950_ValueAdds_Feb_2026
+- season40_4000_ReconcileRefundedCosmetics_Mar_2026
+- season40_4010_fixMissingCategoryUnlockPassOfferPurchaseRecords_Apr_2026
 
 ## Common Core
 
@@ -119,6 +123,7 @@
 - season38_3800_topUpPlayerWallet_Nov_2025
 - season38_3811_FixupCanineCronutBundleRefund_Nov_2025
 - season39_3911_CorrectTracking_Dec_2025
+- season40_4000_BannerTokenFixup_Mar_2026
 
 ## Creative
 
@@ -166,6 +171,7 @@
 - season38_3810_UnredeemedMissionAlertMTXFixup_November_2025
 - season39_3900_ChangesToAccountLevelCommanderRewards_November_2025
 - season39_3910_FixedChangesToAccountLevelCommanderRewards_November_2025
+- season40_4000_EconomyProgression_CollectionBookMigration_March_2026
 
 ## Common Public
 
