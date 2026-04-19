@@ -7,7 +7,7 @@
 
 ```js
 {
-    "requiredXp": 3613250, // XP for the Collection Book Level
+    "requiredXP": 3613250, // XP for the Collection Book Level
     "selectedRewardIndex": -1 // If there are multiple rewards possible select the index of the reward
 }
 ```
