@@ -1,11 +1,12 @@
 ## Interactions Service - Aggregated
 
-URL: https://interactions-service-prod.ol.epicgames.com/api/v2/interactions/aggregated/Fortnite/:accountId \
+URL: https://interactions-service-prod.ol.epicgames.com/api/v2/interactions/aggregated/:namespace/:accountId \
 Method: GET  \
-Auth Required: Yes
+Auth Required: Yes (`interactions:{namespace}:{accountId}`)
 
 ## Path Parameters
 `accountId`: Your AccountId
+`namespace`: e.g. `Fortnite`
 
 ## Query Parameters
 `limit`: (Optional) Max 200 per request  
