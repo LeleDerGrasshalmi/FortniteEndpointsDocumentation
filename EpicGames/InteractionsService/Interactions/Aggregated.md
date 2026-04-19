@@ -2,7 +2,7 @@
 
 URL: https://interactions-service-prod.ol.epicgames.com/api/v2/interactions/aggregated/:namespace/:accountId \
 Method: GET  \
-Auth Required: Yes (`interactions:{namespace}:{accountId}`)
+Auth Required: Yes (`interactions:{namespace}:{accountId} READ`)
 
 ## Path Parameters
 `accountId`: Your AccountId
