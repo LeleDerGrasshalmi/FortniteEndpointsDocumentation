@@ -8,6 +8,10 @@ Auth Required: Yes (`friends:{accountId} READ`)
 
 `accountId`: Your Account Id
 
+## Query Parameters
+
+`includePending`: boolean (optional), if the response should include pending requests
+
 ---
 
 _Example Response_
