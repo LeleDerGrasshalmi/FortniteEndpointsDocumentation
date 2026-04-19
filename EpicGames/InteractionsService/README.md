@@ -1,4 +1,4 @@
-## Interaction Service
+## Interactions Service
 
 Endpoint used in Fortnite To Check The Interactions In Game
 

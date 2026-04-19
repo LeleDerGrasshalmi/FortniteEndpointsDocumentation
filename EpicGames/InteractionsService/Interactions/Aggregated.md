@@ -1,4 +1,4 @@
-## Interaction Service - Aggregated
+## Interactions Service - Aggregated
 
 URL: https://interactions-service-prod.ol.epicgames.com/api/v2/interactions/aggregated/Fortnite/:accountId \
 Method: GET  \
