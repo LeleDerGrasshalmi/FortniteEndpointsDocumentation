@@ -2,7 +2,7 @@
 
 URL: https://presence-public-service-prod.ol.epicgames.com/presence/api/v1/_/:accountId/presence \
 Method: GET \
-Auth Required: Yes (`presence:{namespace}:{accountId} UPDATE`)
+Auth Required: Yes (`presence:_:{accountId} READ`)
 
 ## Path Parameters
 
