@@ -4,7 +4,7 @@ URL: https://presence-public-service-prod.ol.epicgames.com/presence/api/v1/:name
 Method: PATCH \
 Auth Required: Yes (`presence:{namespace}:{accountId} UPDATE`)
 
-> Also available on eos under `https://api.epicgames.dev/epic/presence/v1/_:deploymentId_/:accountId/presence/:connectionId`
+> Also available on eos under `https://api.epicgames.dev/epic/presence/v1/:deploymentId/:accountId/presence/:connectionId`
 
 ## Path Parameters
 
