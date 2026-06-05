@@ -5,6 +5,7 @@ Method: GET \
 Auth Required: Yes (`presence:{namespace}:{accountId}:lastOnline READ`)
 
 ## Path Parameters
+
 `accountId`: Your AccountId
 `namespace`: e.g. `_` or `Fortnite`
 
