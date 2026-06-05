@@ -6,7 +6,7 @@ Auth Required: Yes (`presence:{namespace}:{accountId}:lastOnline READ`)
 
 ## Path Parameters
 
-`accountId`: Your AccountId
+`accountId`: Your AccountId <br/>
 `namespace`: e.g. `_` or `Fortnite`
 
 ---
