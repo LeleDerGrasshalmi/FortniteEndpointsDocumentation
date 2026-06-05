@@ -1,6 +1,6 @@
-## Presence Service 
+## Presence Service
 
-Used in Fortnite for Checking Friends Current Presence
+Used in Fortnite for Self and Friends Presence
 
 ## Hosts
 
