@@ -9,6 +9,7 @@ Auth Required: Yes (`account:public:account CREATE`)
   "name": "_",
   "lastName": "_",
   "preferredLanguage": "de",
+  "country": "DE",
   "displayName": "lele test",
   "phoneNumber": "0123456789",
   "company": "Lele Exploits",
@@ -18,8 +19,7 @@ Auth Required: Yes (`account:public:account CREATE`)
   "externalAuth": {
     "authType": "google",
     "externalAuthToken": "_"
-  },
-  "country": "DE"
+  }
 }
 ```
 
@@ -34,6 +34,7 @@ Auth Required: Yes (`account:public:account CREATE`)
 `name`: Optional, Your Firstname <br/>
 `lastName`: Optional, Your Lastname <br/>
 `preferredLanguage`: Optional, Your new Preferred Language <br/>
+`country`: Optional, Your Country Code <br/>
 `displayName`: Optional, Your Display Name <br/>
 `phoneNumber`: Optional, Your Phone-Number <br/>
 `company`: Optional, Your Company <br/>
