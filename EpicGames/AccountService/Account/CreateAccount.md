@@ -14,7 +14,12 @@ Auth Required: Yes (`account:public:account CREATE`)
   "company": "Lele Exploits",
   "email": "lele@exmaple.com",
   "password": "hey123!",
-  "dateOfBirth": "2000-12-24"
+  "dateOfBirth": "2000-12-24",
+  "externalAuth": {
+    "authType": "google",
+    "externalAuthToken": "_"
+  },
+  "country": "DE"
 }
 ```
 
@@ -35,6 +40,7 @@ Auth Required: Yes (`account:public:account CREATE`)
 `email`: Optional, Your Email <br/>
 `username`: Optional, Your Username (could be used instead of an email back then) <br/>
 `password`: Optional, Your Password (required if email/username is specified) <br/>
+`externalAuth`: Optional, Payload of [External Auth Create](./ExternalAuth/Create.md#body) <br/>
 `dateOfBirth`: required, Your BirthDate
 
 ---
