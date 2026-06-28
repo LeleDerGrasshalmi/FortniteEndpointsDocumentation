@@ -6,15 +6,20 @@ Auth Required: Yes (`account:public:account CREATE`)
 
 ```json
 {
+  "dateOfBirth": "2000-12-24",
   "name": "_",
   "lastName": "_",
   "preferredLanguage": "de",
+  "country": "DE",
   "displayName": "lele test",
   "phoneNumber": "0123456789",
   "company": "Lele Exploits",
   "email": "lele@exmaple.com",
   "password": "hey123!",
-  "dateOfBirth": "2000-12-24"
+  "externalAuth": {
+    "authType": "google",
+    "externalAuthToken": "_"
+  }
 }
 ```
 
@@ -26,16 +31,19 @@ Auth Required: Yes (`account:public:account CREATE`)
 
 ## Parameters
 
+
+`dateOfBirth`: Required, Your BirthDate <br/>
 `name`: Optional, Your Firstname <br/>
 `lastName`: Optional, Your Lastname <br/>
 `preferredLanguage`: Optional, Your new Preferred Language <br/>
+`country`: Optional, Your Country Code <br/>
 `displayName`: Optional, Your Display Name <br/>
 `phoneNumber`: Optional, Your Phone-Number <br/>
 `company`: Optional, Your Company <br/>
 `email`: Optional, Your Email <br/>
 `username`: Optional, Your Username (could be used instead of an email back then) <br/>
 `password`: Optional, Your Password (required if email/username is specified) <br/>
-`dateOfBirth`: required, Your BirthDate
+`externalAuth`: Optional, Payload of [External Auth Create](./ExternalAuth/Create.md#body)
 
 ---
 
