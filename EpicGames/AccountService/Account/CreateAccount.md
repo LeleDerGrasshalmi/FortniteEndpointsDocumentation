@@ -6,6 +6,7 @@ Auth Required: Yes (`account:public:account CREATE`)
 
 ```json
 {
+  "dateOfBirth": "2000-12-24",
   "name": "_",
   "lastName": "_",
   "preferredLanguage": "de",
@@ -15,7 +16,6 @@ Auth Required: Yes (`account:public:account CREATE`)
   "company": "Lele Exploits",
   "email": "lele@exmaple.com",
   "password": "hey123!",
-  "dateOfBirth": "2000-12-24",
   "externalAuth": {
     "authType": "google",
     "externalAuthToken": "_"
@@ -31,6 +31,8 @@ Auth Required: Yes (`account:public:account CREATE`)
 
 ## Parameters
 
+
+`dateOfBirth`: Required, Your BirthDate <br/>
 `name`: Optional, Your Firstname <br/>
 `lastName`: Optional, Your Lastname <br/>
 `preferredLanguage`: Optional, Your new Preferred Language <br/>
@@ -41,8 +43,7 @@ Auth Required: Yes (`account:public:account CREATE`)
 `email`: Optional, Your Email <br/>
 `username`: Optional, Your Username (could be used instead of an email back then) <br/>
 `password`: Optional, Your Password (required if email/username is specified) <br/>
-`externalAuth`: Optional, Payload of [External Auth Create](./ExternalAuth/Create.md#body) <br/>
-`dateOfBirth`: required, Your BirthDate
+`externalAuth`: Optional, Payload of [External Auth Create](./ExternalAuth/Create.md#body)
 
 ---
 
