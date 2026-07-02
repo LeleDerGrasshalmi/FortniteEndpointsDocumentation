@@ -15,7 +15,7 @@ Auth Required: Yes (`social:party`)
 
 ## Path Parameters
 
-`partyId`: Party Id
+`partyId`: Party Id <br/>
 `accountId`: Your AccountId
 
 ## Parameters
