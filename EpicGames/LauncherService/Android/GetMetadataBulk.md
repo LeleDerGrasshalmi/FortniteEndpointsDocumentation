@@ -1,4 +1,4 @@
-## Launcher Service - Android: Asset MetadataBulk
+## Launcher Service - Android: Asset Metadata (Bulk)
 
 URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/android/v1/metadata/bulk \
 Method: POST \
@@ -6,17 +6,13 @@ Auth Required: Yes (`launcher:download:android:metadata:bulk READ`)
 
 ```json
 {
-    "androidMetadataKeys": [
-        {
-            "namespace": "fn",
-            "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
-            "label": "Live"
-        }
-    ],
+    "androidMetadataKeys": [{
+        "namespace": "fn",
+        "catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
+        "label": "Live"
+    }],
     "attributes": {
-        "abis": [
-            "arm64-v8a"
-        ],
+        "abis": ["arm64-v8a"],
         "apiLevel": 35,
         "coreCount": 8,
         "hardwareName": "generic",
@@ -26,9 +22,7 @@ Auth Required: Yes (`launcher:download:android:metadata:bulk READ`)
         "platform": "Android",
         "renderingDevice": "Adreno (TM) 750",
         "renderingDriver": "",
-        "textureCompressionFormats": [
-            "ASTC"
-        ],
+        "textureCompressionFormats": ["ASTC"],
         "version": "15",
         "versionCode": 35,
         "launcher": ""
