@@ -1,12 +1,12 @@
 ## FN Service - STW Tile
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/world/tile/:uniqueId/:tileTag \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/world/tile/:TheaterId/:TileTag \
 Method: GET \
 Auth Required: Yes
 
 ## Path Parameters
 
-`uniqueId`: The Theater GUID. Example: Hestia `C4C2925C466832846A042E97F00FE5CF` <br/>
+`theaterId`: The Theater GUID. Example: Hestia `C4C2925C466832846A042E97F00FE5CF` <br/>
 `tileTag`: The Tile Tag. Example: `Theater.Tile.Homebase`
 
 ---
