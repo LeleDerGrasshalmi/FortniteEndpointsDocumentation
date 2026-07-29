@@ -1,6 +1,6 @@
 ## FN Service - STW Tile
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/world/tile/:TheaterId/:TileTag \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/world/tile/:theaterId/:tileTag \
 Method: GET \
 Auth Required: Yes
 
