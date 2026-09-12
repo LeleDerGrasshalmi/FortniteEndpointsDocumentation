@@ -10,3 +10,10 @@
     "command": "" // Lobby Hack Code
 }
 ```
+
+## Notifications
+
+| Notification Type                                                  | Description                                          |
+| ------------------------------------------------------------------ | ---------------------------------------------------- |
+| [terminalCommandResult](../Notifications/terminalCommandResult.md) | Contains metadata for the command                    |
+| [questClaim](../Notifications/questClaim.md)                       | Lists rewards of hidden quest claimed by the command |

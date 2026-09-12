@@ -31,3 +31,9 @@
     }
 }
 ```
+
+## Notifications
+
+| Notification Type                                      | Description           |
+| ------------------------------------------------------ | --------------------- |
+| [catalogPurchase](../Notifications/catalogPurchase.md) | Lists purchased items |

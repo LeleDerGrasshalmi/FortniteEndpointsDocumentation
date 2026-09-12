@@ -10,3 +10,9 @@
     "cardPackItemIds": [] // Cardpack Item GUIDs
 }
 ```
+
+## Notifications
+
+| Notification Type                                    | Description                            |
+| ---------------------------------------------------- | -------------------------------------- |
+| [cardPackResult](../Notifications/cardPackResult.md) | Lists contents of all opened CardPacks |
