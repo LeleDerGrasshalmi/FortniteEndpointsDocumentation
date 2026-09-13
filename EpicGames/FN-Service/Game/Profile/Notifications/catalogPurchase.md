@@ -8,12 +8,12 @@
 ```js
 {
    // standard profile notification content
-   "type": "catalogPurchase",
-   "primary": true,
-   "client_request_id": "",
-   
-   //specific to this notification
-   "lootResult": {
+    "type": "catalogPurchase",
+    "primary": true,
+    "client_request_id": "",
+    
+    //specific to this notification
+    "lootResult": {
        "items": [
            {
               "itemType": "AccountResource:reagent_evolverarity_r",

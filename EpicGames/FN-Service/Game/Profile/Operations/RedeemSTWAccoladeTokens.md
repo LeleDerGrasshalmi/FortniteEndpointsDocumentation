@@ -8,3 +8,9 @@
 ```js
 {}
 ```
+
+## Notifications
+
+| Notification Type                                      | Description                                 |
+| ------------------------------------------------------ | ------------------------------------------- |
+| [redeemStwTokens](../Notifications/redeemStwTokens.md) | Contains the XP gained from Accolade Tokens |

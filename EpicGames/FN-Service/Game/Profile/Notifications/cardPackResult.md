@@ -7,13 +7,13 @@
 
 ```js
 {
-   // standard profile notification content
-   "type": "cardPackResult",
-   "primary": true,
-   "client_request_id": "",
+    // standard profile notification content
+    "type": "cardPackResult",
+    "primary": true,
+    "client_request_id": "",
 
-   //specific to this notification
-   "lootGranted": {
+    //specific to this notification
+    "lootGranted": {
         "tierGroupName": "CardPack_Event_Persistent_Lunar", //absent when using OpenCardPackBatch
         "items": [
             {
