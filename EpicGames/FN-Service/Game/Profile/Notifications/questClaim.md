@@ -26,6 +26,18 @@
             //...
         ]
     },
-    "questsAndRewards": [] // unknown purpose
+    // when claiming multiple quests at once
+    "questsAndRewards": [{
+            "questId": "Quest:quest_s28_winterfest_dailygift_q01",
+            "loot": {
+                "items": [{
+                    "itemType": "AthenaBackpack:backpack_wintergift",
+                    "itemGuid": "dbf80ea6-fa45-490b-a747-24ee705263a5",
+                    "itemProfile": "athena",
+                    "quantity": 1
+                }]
+            }
+        }
+    ]
 }
 ```
