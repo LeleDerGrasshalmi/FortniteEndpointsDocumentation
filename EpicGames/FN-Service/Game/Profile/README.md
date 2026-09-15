@@ -8,10 +8,11 @@
 
 ## Query Parameters
 
-| Name      | Value       | Default Value |
-| --------- | ----------- | ------------- |
-| profileId | {profileId} | common_core   |
-| rvn       | -1          | -1            |
+| Name         | Value       | Default Value |
+| ---------    | ----------- | ------------- |
+| profileId    | {profileId} | common_core   |
+| rvn          | -1          | -1            |
+| leanResponse | {boolean}   | false         |
 
 **NOTE**: if its a "DedicatedServer ONLY" operation you cant use it
 
