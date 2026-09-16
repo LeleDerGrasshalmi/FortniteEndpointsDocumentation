@@ -10,3 +10,9 @@
     "templateId": "" // Item Template Id
 }
 ```
+
+## Notifications
+
+| Notification Type                                                                | Description                                          |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| [collectionBookResearchedItem](../Notifications/collectionBookResearchedItem.md) | Contains UUID and Template ID of the Researched Item |

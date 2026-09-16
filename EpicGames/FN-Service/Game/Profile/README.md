@@ -16,7 +16,9 @@
 
 **NOTE**: if its a "DedicatedServer ONLY" operation you cant use it
 
-<br/>
+## Notifications
+Some profile operations may include Notifications in a `notifications` property. Documented Operations will list links to any known Notifications that may be returned by the Operation, along with a summary of what they're used for.
+
 
 ## Profiles
 
