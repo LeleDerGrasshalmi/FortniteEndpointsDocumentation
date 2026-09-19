@@ -2,7 +2,8 @@
 
 URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/guardians/challenges \
 Method: GET \
-Auth Required: Yes (`account:public:guardians READ`)
+Auth Required: Yes (`account:public:guardians READ`) \
+Note: Has been removed as of September 15th 2026
 
 ---
 
