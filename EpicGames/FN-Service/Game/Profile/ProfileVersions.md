@@ -197,6 +197,7 @@
 
 ## Theater1
 
+- clean_theater_profile
 - convert_alteration_definitions_on_world_items_jan_2018
 - remove_bars_from_profile_mar_2022
 - fixup_missing_build_tools_mar_2023
@@ -205,6 +206,7 @@
 
 ## Theater2
 
+- clean_theater_profile
 - clawback_promotion_dupe_august_2020
 - remove_bars_from_profile_mar_2022
 - fixup_missing_build_tools_mar_2023
