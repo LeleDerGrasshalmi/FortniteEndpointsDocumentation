@@ -8,6 +8,10 @@ Auth Required: Yes (`fortnite:storefront READ`)
 
 `X-EpicGames-Language`: optional, response language, e.g. `de` (German)
 
+## Query Parameters
+
+`ignoreStorefronts`: optional, Name of storefronts (sections) to be removed from the response (e.g. `ignoreStorefronts=WinterQuest2019,JunoSeason04Pass`)
+
 ---
 
 _Example Response (heavily shortened)_
