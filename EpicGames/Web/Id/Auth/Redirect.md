@@ -40,7 +40,7 @@ _Example Response (responseType=eula_token or no responseType specified)_
 
 ```json
 {
-  "warning": "Do not share this code with any 3rd party service. It allows full access to your Epic account.",
+   "warning": "Do not share this code with any 3rd party service. It allows full access to your Epic account.",
    "redirectUrl":"https://epicgames.com/account/personal",
    "authorizationCode":null,
    "exchangeCode":null,
