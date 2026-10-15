@@ -7,7 +7,7 @@ Auth Required: Yes
 ## Query Parameters
 
 `clientId`: (optional) The ID of the client you are redirecting to <br/>
-`responseType`: (optional) The responseType you want to use (for non-EOS Clients: `code`, `eula_token` for EOS Clients: `code`) <br/>
+`responseType`: (optional) The responseType you want to use (for non-EOS Clients: `code`, `eula_token`, `none`, `redirect_only` for EOS Clients: `code`, `none`, `redirect_only`) <br/>
 `provider`: (optional) The external account provider (ex. psn, nintendo, ps5, xbox, vk, apple, lego) <br/>
 `state`: (optional) The login state obtained from [here](../CreateOAuthState.md) <br/>
 `userCode`: (optional) A valid [User Code](../../../AccountService/Authentication/DeviceCode/Create.md) <br/>
