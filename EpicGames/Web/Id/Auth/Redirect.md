@@ -6,7 +6,7 @@ Auth Required: Yes
 
 ## Query Parameters
 
-`clientId`: (optiona) The ID of the client you are redirecting to <br/>
+`clientId`: (optional) The ID of the client you are redirecting to <br/>
 `responseType`: (optional) The responseType you want to use (for non-EOS Clients: `code`, `eula_token` for EOS Clients: `code`) <br/>
 `provider`: (optional) The external account provider (ex. psn, nintendo, ps5, xbox, vk, apple, lego) <br/>
 `state`: (optional) The login state obtained from [here](../CreateOAuthState.md) <br/>
