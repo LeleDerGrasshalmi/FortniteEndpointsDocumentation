@@ -4,7 +4,7 @@ Look up a Support-A-Creator code (slug). Useful to validate a code before applyi
 
 URL: https://affiliate-public-service-prod.ol.epicgames.com/affiliate/api/public/affiliates/slug/:slug \
 Method: GET \
-Auth Required: Yes (any token, `client_credentials` works)
+Auth Required: Yes (`affiliate:public:affiliate READ`)
 
 ## Path Parameters
 
