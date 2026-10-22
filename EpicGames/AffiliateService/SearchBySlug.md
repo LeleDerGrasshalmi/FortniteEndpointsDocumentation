@@ -4,7 +4,7 @@ Search Support-A-Creator codes (slugs) that start with a term. Results are sorte
 
 URL: https://affiliate-public-service-prod.ol.epicgames.com/affiliate/api/public/affiliates/search \
 Method: GET \
-Auth Required: Yes (any token, `client_credentials` works)
+Auth Required: Yes (`affiliate:public:affiliate READ`)
 
 ## Query Parameters
 
