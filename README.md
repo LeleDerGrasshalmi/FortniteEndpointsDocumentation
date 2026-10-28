@@ -11,6 +11,7 @@ Web APIs however are a bit different, these require web login cookies.
 
 - [Epic Games](./EpicGames)
   - [Account Service](./EpicGames/AccountService)
+  - [Affiliate Service](./EpicGames/AffiliateService)
   - [Artifact Delivery Service](./EpicGames/ArtifactDeliveryService)
   - [Caldera Service](./EpicGames/CalderaService)
   - [Data Asset Directory Service](./EpicGames/DataAssetDirectoryService)
