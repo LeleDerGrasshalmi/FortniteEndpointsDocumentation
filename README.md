@@ -18,6 +18,7 @@ Web APIs however are a bit different, these require web login cookies.
   - [Chat Service](./EpicGames/ChatService)
   - [Compass Service](./EpicGames/CompassService)
   - [Data Asset Directory Service](./EpicGames/DataAssetDirectoryService)
+  - [Deck](./EpicGames/DeckService)
   - [Ecommerce Integration Service](./EpicGames/EcommerceIntegrationService)
   - [EGS Platform Service](./EpicGames/EGSPlatformService)
   - [Emerald Service](./EpicGames/EmeraldService)
