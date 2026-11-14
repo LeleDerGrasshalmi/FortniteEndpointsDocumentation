@@ -34,3 +34,5 @@ _Example Response_
   "expiresAt": "2023-06-11T20:05:47Z"
 }
 ```
+
+The response also contains `createdAt`. The ticket is valid for 5 minutes. `signedTicket` is a base64 JSON payload (`shardId`, `artifactId`, `grantAccessToDependencies`, `expiresAt`, `accountId`, `binaryVersion`) and a base64 signature, joined by `.`.
