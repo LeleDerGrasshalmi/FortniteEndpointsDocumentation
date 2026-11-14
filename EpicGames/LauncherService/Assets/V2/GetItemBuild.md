@@ -56,3 +56,44 @@ _Example Response (shortened)_
   ]
 }
 ```
+
+The `queryParams` token of each mirror (`cf_token`, `ak_token`, `f_token`) is `<unix expiry>_<signature>` and expires about 5 minutes after this call. Builds of titles that have them also return `sdMetaHash` (name of the `.sdmeta` file) and `sidecar`.
+
+_Example Response (add-on / game not owned)_
+
+```json
+{
+  "errorCode": "errors.com.epicgames.launcher.not_entitled",
+  "errorMessage": "missing entitlement.",
+  "messageVars": [],
+  "numericErrorCode": 30000,
+  "originatingService": "launcher-service",
+  "intent": "prod"
+}
+```
+
+_Example Response (title without an Epic build, e.g. installed through the EA app)_
+
+```json
+{
+  "errorCode": "errors.com.epicgames.launcher.download_info_not_found",
+  "errorMessage": "Could not find download info",
+  "messageVars": [],
+  "numericErrorCode": 30006,
+  "originatingService": "launcher-service",
+  "intent": "prod"
+}
+```
+
+_Example Response (catalog item and app name do not belong together)_
+
+```json
+{
+  "errorCode": "errors.com.epicgames.launcher.invalid_catalog_item",
+  "errorMessage": "the catalog item is invalid.",
+  "messageVars": [],
+  "numericErrorCode": 30009,
+  "originatingService": "launcher-service",
+  "intent": "prod"
+}
+```

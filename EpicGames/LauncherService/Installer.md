@@ -20,6 +20,9 @@ Auth Required: No
 | F924A9B4AE2D430992775190A895B65A.apk | FN Installer                | 5.2.0          |
 | F924A9B4AE2D430992775190A895B65A.apk | FN Installer                | 5.3.0          |
 | BuildPatchTool.zip                   | BuildPatchTool Files        | 1.5.1          |
+| EpicGamesLauncherInstaller.exe       | Win EG-Launcher Installer   | 20.3.3         |
+| install_linux.sh                     | Linux EG-Launcher Installer | 20.3.3         |
+| linux-manifest.txt                   | Linux Installer Manifest    | 20.3.3         |
 
 ---
 

@@ -35,3 +35,20 @@ Auth Required: Yes (`library:public:{accountId}:playtime UPDATE`)
 ---
 
 _Example Response_: Status 204
+
+The interval is added to the artifact's total right away (a 2 minute interval raised `totalTime` from [Artifact Playtime](../Info/Artifact.md) by exactly 120). An interval whose `endTime` is before its `startTime` also returns 204 but adds nothing.
+
+_Example Response (`playtimeAddList` empty)_
+
+```json
+{
+  "errorCode": "errors.com.epicgames.library.missing_argument",
+  "errorMessage": "playtimeAddList must be supplied with the request.",
+  "messageVars": [],
+  "numericErrorCode": 53001,
+  "originatingService": "library-service",
+  "intent": "prod"
+}
+```
+
+A missing `machineId` returns the same error with `machineId must be supplied with the request.`
