@@ -22,6 +22,7 @@ Web APIs however are a bit different, these require web login cookies.
   - [EGS Platform Service](./EpicGames/EGSPlatformService)
   - [Emerald Service](./EpicGames/EmeraldService)
   - [EOS SDK Config Service](./EpicGames/EOSSDKConfigService)
+  - [EULA Tracking Service](./EpicGames/EulaTrackingService)
   - [Events Service](./EpicGames/EventsService)
   - [FN - Service](./EpicGames/FN-Service)
   - [FN - Content API](./EpicGames/FN-Content)
