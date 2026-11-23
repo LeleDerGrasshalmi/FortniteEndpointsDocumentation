@@ -1,7 +1,7 @@
 ## Stats Proxy: User Stats (Bulk)
 
-URL: https://statsproxy-public-service-live.ol.epicgames.com/statsproxy/api/statsv2/query \
-Method: POST \
+URL: https://statsproxy-public-service-live.ol.epicgames.com/statsproxy/api/statsv2/query <br/>
+Method: POST <br/>
 Auth Required: Yes (`fortnite:stats READ`)
 
 ```json
@@ -33,7 +33,9 @@ Auth Required: Yes (`fortnite:stats READ`)
 
 > When the Stats are private there won't be an Entry for the given Account
 
-_Example Response for Collection Data_
+---
+
+*Example Response for Collection Data*
 
 ```json
 [
@@ -57,7 +59,7 @@ _Example Response for Collection Data_
 ]
 ```
 
-_Example Response for Stats Data with only the `s23_social_bp_level` Stat_
+*Example Response for Stats Data with only the `s23_social_bp_level` Stat*
 
 ```json
 [
