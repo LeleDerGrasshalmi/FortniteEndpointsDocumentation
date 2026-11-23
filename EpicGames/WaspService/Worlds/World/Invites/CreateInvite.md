@@ -1,7 +1,7 @@
 ## Wasp Service - Create World Invite
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/invites/world/:worldId \
-Method: POST \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/invites/world/:worldId <br/>
+Method: POST <br/>
 Auth Required: Yes (`wasp:{namespaceId}:invite CREATE`)
 
 ```json
@@ -17,7 +17,7 @@ Auth Required: Yes (`wasp:{namespaceId}:invite CREATE`)
 ## Path Parameters
 
 `namespaceId`: Check [Readme](../../README.md) <br/>
-`worldId` The World Id from the [worlds list](../AccountAccessibleWorld.md)
+`worldId`: The World Id from the [worlds list](../AccountAccessibleWorld.md)
 
 ## Parameters
 
@@ -29,6 +29,8 @@ Auth Required: Yes (`wasp:{namespaceId}:invite CREATE`)
 
 --
 
-_Example Response_
+---
+
+*Example Response*
 
 `Status 201 (but no content)`

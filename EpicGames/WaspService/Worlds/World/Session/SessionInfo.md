@@ -1,17 +1,17 @@
 ## Wasp Service - Get World Session within Namespace
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/session \
-Method: GET \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/session <br/>
+Method: GET <br/>
 Auth Required: Yes (`wasp:{namespaceId}:session READ`)
 
 ## Path Parameters
 
 `namespaceId`: Check [Readme](../../README.md) <br/>
-`worldId` The World Id from the [worlds list](../AccountAccessibleWorld.md)
+`worldId`: The World Id from the [worlds list](../AccountAccessibleWorld.md)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
@@ -26,7 +26,7 @@ _Example Response_
 }
 ```
 
-_Example Response (no session)_
+*Example Response (no session)*
 
 ```json
 {
