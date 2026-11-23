@@ -1,7 +1,7 @@
 ## PRM Dialog Service - Channel MOTD
 
-URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/channel/:channelId/target \
-Method: POST \
+URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/channel/:channelId/target <br/>
+Method: POST <br/>
 Auth Required: Yes (Account - `eg1`)
 
 ```json
@@ -36,22 +36,22 @@ Auth Required: Yes (Account - `eg1`)
 }
 ```
 
+## Path Parameters
+
+`channelId`: `motd`
+
 ## Parameters
 
 `parameters`: These are personalized, there are also season specific parameters, this example above is from v30.20 with season specific params removed <br/>
 `tags`: All Product Tags that motd's should be returned for. These can obtained via gameplaytags staring with `Product.`
 
-## Path Parameters
-
-`channelId`: `motd`
-
 ---
 
-_Example Response (no motd currently)_:
+*Example Response (no motd currently)*:
 
 `Status 204`
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {
