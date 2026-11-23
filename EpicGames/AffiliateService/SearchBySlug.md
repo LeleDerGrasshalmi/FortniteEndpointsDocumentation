@@ -2,8 +2,8 @@
 
 Search Support-A-Creator codes (slugs) that start with a term. Results are sorted alphabetically by slug, an exact match comes first.
 
-URL: https://affiliate-public-service-prod.ol.epicgames.com/affiliate/api/public/affiliates/search \
-Method: GET \
+URL: https://affiliate-public-service-prod.ol.epicgames.com/affiliate/api/public/affiliates/search <br/>
+Method: GET <br/>
 Auth Required: Yes (`affiliate:public:affiliate READ`)
 
 ## Query Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes (`affiliate:public:affiliate READ`)
 
 ---
 
-_Example Response (shortened, `slugSearchTerm=ninja&count=3`)_
+*Example Response (shortened, `slugSearchTerm=ninja&count=3`)*
 
 ```json
 {
@@ -42,7 +42,7 @@ _Example Response (shortened, `slugSearchTerm=ninja&count=3`)_
 }
 ```
 
-_Example Response (term shorter than 3 characters or missing, `400`)_
+*Example Response (term shorter than 3 characters or missing, `400`)*
 
 ```json
 {

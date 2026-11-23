@@ -2,8 +2,8 @@
 
 Look up a Support-A-Creator code (slug). Useful to validate a code before applying it with the [`SetAffiliateName`](../FN-Service/Game/Profile/Operations/SetAffiliateName.md) MCP operation. Lookups are case-insensitive.
 
-URL: https://affiliate-public-service-prod.ol.epicgames.com/affiliate/api/public/affiliates/slug/:slug \
-Method: GET \
+URL: https://affiliate-public-service-prod.ol.epicgames.com/affiliate/api/public/affiliates/slug/:slug <br/>
+Method: GET <br/>
 Auth Required: Yes (`affiliate:public:affiliate READ`)
 
 ## Path Parameters
@@ -12,7 +12,7 @@ Auth Required: Yes (`affiliate:public:affiliate READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
@@ -24,7 +24,7 @@ _Example Response_
 }
 ```
 
-_Example Response (code not found, `404`)_
+*Example Response (code not found, `404`)*
 
 ```json
 {
