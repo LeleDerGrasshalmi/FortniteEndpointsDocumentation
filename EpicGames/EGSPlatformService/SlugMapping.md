@@ -1,21 +1,21 @@
 ## EGS Platform Service - Slug Mapping
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/mappings/:slug \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/mappings/:slug <br/>
+Method: GET <br/>
 Auth Required: No
+
+## Path Parameters
+
+`slug`: The Offer Url slug, e.g. `fortnite` for Fortnite or `fortnite--uefn` for UEFN
 
 ## Query Parameters
 
 `country`: (required) ISO 3166 - Alpha 2 Code <br/>
 `locale`: (required) e.g. 'de' (German), fallback is 'en'
 
-## Path Parameters
-
-`slug`: The Offer Url slug, e.g. `fortnite` for Fortnite or `fortnite--uefn` for UEFN
-
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

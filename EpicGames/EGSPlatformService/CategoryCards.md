@@ -1,7 +1,7 @@
 ## EGS Platform Service - Category Cards
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/category-cards \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/category-cards <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Query Parameters
@@ -14,7 +14,7 @@ Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

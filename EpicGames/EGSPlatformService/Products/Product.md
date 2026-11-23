@@ -1,8 +1,12 @@
 ## EGS Platform Service - Product Info
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId <br/>
+Method: GET <br/>
 Auth Required: No
+
+## Path Parameters
+
+`productId`: self explaining, e.g. `prod-fn` for Fortnite
 
 ## Query Parameters
 
@@ -10,13 +14,9 @@ Auth Required: No
 `locale`: (required) e.g. 'de' (German), fallback is 'en' <br/>
 `store`: (required) valid Catalog Service Stores, e.g. `EGS`
 
-## Path Parameters
-
-`productId`: self explaining, e.g. `prod-fn` for Fortnite
-
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

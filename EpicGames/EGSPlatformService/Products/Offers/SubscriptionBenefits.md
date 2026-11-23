@@ -1,21 +1,21 @@
 ## EGS Platform Service - Subscription Benefits
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId/offers/:offerId/subscriptions/benefits \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId/offers/:offerId/subscriptions/benefits <br/>
+Method: GET <br/>
 Auth Required: No
-
-## Query Parameters
-
-`store`: (required) valid Catalog Service Stores, e.g. `EGS`
 
 ## Path Parameters
 
 `productId`: Self explaining, e.g. `prod-fn` for fortnite <br/>
 `offerId`: The offer id from catalog service of the `SUBSCRIPTION` offer <br/>
 
+## Query Parameters
+
+`store`: (required) valid Catalog Service Stores, e.g. `EGS`
+
 ---
 
-_Example Response (success)_
+*Example Response (success)*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## EGS Platform Service - Subscriptions
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/account/subscriptions \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/account/subscriptions <br/>
+Method: GET <br/>
 Auth Required: Yes (apparently `subscription:public:{accountId}:subscription READ`)
 
 ## Query Parameters
@@ -13,7 +13,7 @@ Auth Required: Yes (apparently `subscription:public:{accountId}:subscription REA
 
 ---
 
-_Example Response (missing perm)_
+*Example Response (missing perm)*
 
 ```json
 {
@@ -21,7 +21,7 @@ _Example Response (missing perm)_
 }
 ```
 
-_Example Response (success)_
+*Example Response (success)*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## EGS Platform Service - Claim Subscription Benefits
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/account/subscriptions/claim-benefit \
-Method: POST \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/account/subscriptions/claim-benefit <br/>
+Method: POST <br/>
 Auth Required: Yes (apparently `subscription:public:{accountId}:claim-benefit CREATE`)
 
 ```json
@@ -20,7 +20,7 @@ Auth Required: Yes (apparently `subscription:public:{accountId}:claim-benefit CR
 
 ---
 
-_Example Response (invalid request)_
+*Example Response (invalid request)*
 
 ```json
 {

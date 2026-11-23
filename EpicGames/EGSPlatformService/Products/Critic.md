@@ -1,8 +1,12 @@
 ## EGS Platform Service - Product Critic
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId/critic-reviews/open-critic \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId/critic-reviews/open-critic <br/>
+Method: GET <br/>
 Auth Required: No
+
+## Path Parameters
+
+`productId`: self explaining, e.g. `prod-fn` for Fortnite
 
 ## Query Parameters
 
@@ -11,13 +15,9 @@ Auth Required: No
 `start`: (required) start index <br/>
 `store`: (required) valid Catalog Service Stores, e.g. `EGS`
 
-## Path Parameters
-
-`productId`: self explaining, e.g. `prod-fn` for Fortnite
-
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

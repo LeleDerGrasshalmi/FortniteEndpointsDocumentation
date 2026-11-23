@@ -1,8 +1,13 @@
 ## EGS Platform Service - Product Offer Age Rating
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId/offers/:offerId/age-rating \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId/offers/:offerId/age-rating <br/>
+Method: GET <br/>
 Auth Required: No
+
+## Path Parameters
+
+`productId`: self explaining, e.g. `7c0a8a40ba4a47dd899eed51a8fbc3fe` for Rogue Company <br/>
+`offerId`: self explaining, e.g. `36bfbc7a0b664a2891c68dc947922469` for the Rogue Company Main Offer
 
 ## Query Parameters
 
@@ -10,14 +15,9 @@ Auth Required: No
 `locale`: (required) e.g. 'de' (German), fallback is 'en' <br/>
 `store`: (required) valid Catalog Service Stores, e.g. `EGS`
 
-## Path Parameters
-
-`productId`: self explaining, e.g. `7c0a8a40ba4a47dd899eed51a8fbc3fe` for Rogue Company <br/>
-`offerId`: self explaining, e.g. `36bfbc7a0b664a2891c68dc947922469` for the Rogue Company Main Offer
-
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

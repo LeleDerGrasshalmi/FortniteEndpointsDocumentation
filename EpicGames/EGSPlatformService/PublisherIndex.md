@@ -1,7 +1,7 @@
 ## EGS Platform Service - Publisher Index
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/publisher-index \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/publisher-index <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Query Parameters
@@ -13,7 +13,7 @@ Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
