@@ -1,7 +1,7 @@
 ## FN EOS Inventory Service: Player Inventory
 
-URL: https://fngw-svc-ds-livefn.ol.epicgames.com/api/inventory/v3/:deploymentId/players/:productUserId/:inventoryName \
-Method: GET \
+URL: https://fngw-svc-ds-livefn.ol.epicgames.com/api/inventory/v3/:deploymentId/players/:productUserId/:inventoryName <br/>
+Method: GET <br/>
 Auth Required: Yes (`inventories:readPlayerInventoryForLocalUser`)
 
 ## Path Parameters
@@ -12,7 +12,7 @@ Auth Required: Yes (`inventories:readPlayerInventoryForLocalUser`)
 
 ---
 
-_Example Response (played s30)_
+*Example Response (played s30)*
 
 ```json
 {
@@ -31,7 +31,7 @@ _Example Response (played s30)_
 }
 ```
 
-_Example Response (didnt play s30)_
+*Example Response (didnt play s30)*
 
 ```json
 {
