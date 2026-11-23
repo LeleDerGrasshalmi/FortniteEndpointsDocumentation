@@ -1,7 +1,7 @@
 ## Party Service - Send Request To Join
 
-URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/members/:friendId/intentions/:accountId \
-Method: POST \
+URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/members/:friendId/intentions/:accountId <br/>
+Method: POST <br/>
 Auth Required: Yes (`social:party`)
 
 ```json
@@ -18,3 +18,9 @@ Auth Required: Yes (`social:party`)
 ## Parameters
 
 `urn:epic:invite:platformdata_s`: Always empty
+
+---
+
+*Example Response*
+
+No example response or status is documented.

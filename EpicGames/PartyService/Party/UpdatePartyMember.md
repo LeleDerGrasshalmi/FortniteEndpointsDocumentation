@@ -1,7 +1,7 @@
 ## Party Service - Update Party Member Metadata
 
-URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/members/:accountId/meta
-Method: PATCH \
+URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/members/:accountId/meta <br/>
+Method: PATCH <br/>
 Auth Required: Yes (`social:party`)
 
 ```json
@@ -23,9 +23,11 @@ Auth Required: Yes (`social:party`)
 `revision`: An number that increments with every party meta change. <br/>
 `update`: An object with the specific key you want updated. (Some values might be required to be stringified)
 
-_Example Reponse_: Status 204
+---
 
-_Example Response (Incorrect revision number)_
+*Example Response*: Status 204
+
+*Example Response (Incorrect revision number)*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## Party Service - Invite
 
-URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/invites/:friendId?sendPing=true \
-Method: POST \
+URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/invites/:friendId?sendPing=true <br/>
+Method: POST <br/>
 Auth Required: Yes (`social:party`)
 
 ```json
@@ -31,9 +31,11 @@ Auth Required: Yes (`social:party`)
 
 `sendPing`: If your party is invite only, set to true
 
-_Example Response_: Status 204
+---
 
-_Example Response (Invite already sent)_
+*Example Response*: Status 204
+
+*Example Response (Invite already sent)*
 
 ```json
 {

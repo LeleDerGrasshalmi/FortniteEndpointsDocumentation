@@ -1,7 +1,7 @@
 ## Party Service - Promote
 
-URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/members/:memberId/promote \
-Method: POST \
+URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/members/:memberId/promote <br/>
+Method: POST <br/>
 Auth Required: Yes (`social:party`)
 
 ## Path Parameters
@@ -9,9 +9,11 @@ Auth Required: Yes (`social:party`)
 `partyId`: The current Party ID <br/>
 `memberId`: Party member AccountId
 
-_Example Response_: Status 204
+---
 
-_Example Response (User is not party leader)_
+*Example Response*: Status 204
+
+*Example Response (User is not party leader)*
 
 ```json
 {
