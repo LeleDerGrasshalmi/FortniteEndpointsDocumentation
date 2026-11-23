@@ -1,7 +1,7 @@
 ## Artifact Delivery Service - Patch
 
-URL: https://artifact-delivery-public-service-prod.beee.live.use1a.on.epicgames.com/artifact-delivery/api/public/v1/delivery/account/:accountId/patch \
-Method: POST \
+URL: https://artifact-delivery-public-service-prod.beee.live.use1a.on.epicgames.com/artifact-delivery/api/public/v1/delivery/account/:accountId/patch <br/>
+Method: POST <br/>
 Auth Required: Yes (`delivery:public:patch:{accountId} READ`)
 
 ```json
@@ -19,3 +19,9 @@ Auth Required: Yes (`delivery:public:patch:{accountId} READ`)
 `signedTicket`: The Signed Ticket that is obtained using the [Launcher Service Ticket API](/EpicGames/LauncherService/Assets/V2/Ticket/CreateTicket.md)
 
 > Payload not fully known
+
+---
+
+*Example Response*
+
+No example response or status is documented.
