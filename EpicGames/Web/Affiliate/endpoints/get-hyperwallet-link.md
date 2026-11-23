@@ -1,12 +1,12 @@
-# Get Hyperwallet Link
+## Get Hyperwallet Link
 
-URL: https://sac.epicgames.com/api/v1/get-hyperwallet-link \
-Method: GET \
+URL: https://sac.epicgames.com/api/v1/get-hyperwallet-link <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

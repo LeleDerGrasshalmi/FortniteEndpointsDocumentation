@@ -1,12 +1,12 @@
 ## Fortnite Website - Grant Mobile Entitlement
 
-URL: https://fortnite.com/api/grant-mobile-entitlement \
-Method: GET \
+URL: https://fortnite.com/api/grant-mobile-entitlement <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

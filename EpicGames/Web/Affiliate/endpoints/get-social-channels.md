@@ -1,12 +1,12 @@
-# Get Social Channels
+## Get Social Channels
 
-URL: https://sac.epicgames.com/api/get-social-channels \
-Method: GET \
+URL: https://sac.epicgames.com/api/get-social-channels <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

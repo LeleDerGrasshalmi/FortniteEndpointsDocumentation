@@ -1,7 +1,7 @@
 ## Id Web - Email Verify Send
 
-URL: https://www.epicgames.com/id/api/email/verify/send \
-Method: POST \
+URL: https://www.epicgames.com/id/api/email/verify/send <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -12,4 +12,4 @@ Auth Required: Yes
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204

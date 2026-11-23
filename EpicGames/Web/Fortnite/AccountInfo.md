@@ -1,7 +1,7 @@
 ## Fortnite Website - Account Info
 
-URL: https://www.fortnite.com/:locale/api/accountInfo \
-Method: GET \
+URL: https://www.fortnite.com/:locale/api/accountInfo <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response (logged in)_
+*Example Response (logged in)*
 
 ```json
 {
@@ -29,7 +29,7 @@ _Example Response (logged in)_
 }
 ```
 
-_Example Response (not logged in)_
+*Example Response (not logged in)*
 
 ```json
 {

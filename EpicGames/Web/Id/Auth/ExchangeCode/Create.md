@@ -1,12 +1,12 @@
 ## Id Web - Create Exchange Code
 
-URL: https://www.epicgames.com/id/api/exchange/generate \
-Method: POST \
+URL: https://www.epicgames.com/id/api/exchange/generate <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_:
+*Example Response*:
 
 ```json
 {

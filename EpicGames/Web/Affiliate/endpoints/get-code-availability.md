@@ -1,7 +1,7 @@
-# Get Code Availability
+## Get Code Availability
 
-URL: https://sac.epicgames.com/api/get-code-availability \
-Method: GET \
+URL: https://sac.epicgames.com/api/get-code-availability <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Query Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

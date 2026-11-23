@@ -1,7 +1,7 @@
 ## Id Web - Activate Device Code
 
-URL: https://www.epicgames.com/id/api/device/:userCode/activate \
-Method: POST \
+URL: https://www.epicgames.com/id/api/device/:userCode/activate <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -17,3 +17,9 @@ Auth Required: Yes
 ## Parameters
 
 `clientId`: Either you know the Id or get it with a [Lookup](./Info.md)
+
+---
+
+*Example Response*
+
+No example response or status is documented.

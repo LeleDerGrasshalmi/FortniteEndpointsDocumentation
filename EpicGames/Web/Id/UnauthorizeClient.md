@@ -1,13 +1,13 @@
 ## Id Web - Unauthorize Scope for Client
 
-URL: https://www.epicgames.com/id/api/client/:clientId/revoke \
-Method: POST \
+URL: https://www.epicgames.com/id/api/client/:clientId/revoke <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ## Path Parameters
 
-`id`: The Id of the Client
+`clientId`: The Id of the Client
 
 ---
 
-_Example Response (Successful)_: Status 200 (No Content)
+*Example Response (Successful)*: Status 200 (No Content)

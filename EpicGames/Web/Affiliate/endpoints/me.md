@@ -1,14 +1,14 @@
-# Me
+## Me
 
-URL: https://www.epicgames.com/account/v2/api/creator-programs/creator \
-Method: GET \
+URL: https://www.epicgames.com/account/v2/api/creator-programs/creator <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 > will be moved when account portal docs are pushed
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## Id Web - Exchange Code Info
 
-URL: https://www.epicgames.com/id/api/exchange/:exchangeCode \
-Method: GET \
+URL: https://www.epicgames.com/id/api/exchange/:exchangeCode <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
@@ -10,13 +10,13 @@ Auth Required: No
 
 ---
 
-_Example Response (Valid)_
+*Example Response (Valid)*
 
 ```json
 {}
 ```
 
-_Example Response (Invalid)_
+*Example Response (Invalid)*
 
 ```json
 {

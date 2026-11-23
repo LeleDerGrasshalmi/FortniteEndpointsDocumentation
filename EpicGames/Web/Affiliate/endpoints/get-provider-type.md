@@ -1,12 +1,12 @@
-# Get Provider Type (Payout)
+## Get Provider Type (Payout)
 
-URL: https://sac.epicgames.com/api/v1/get-provider-type \
-Method: GET \
+URL: https://sac.epicgames.com/api/v1/get-provider-type <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

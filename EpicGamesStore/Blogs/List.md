@@ -1,14 +1,16 @@
 ## Epic Games Store - Blogs List
 
-URL: https://store-content-ipv4.ak.epicgames.com/api/:locale/content/blog \
-Method: GET \
+URL: https://store-content-ipv4.ak.epicgames.com/api/:locale/content/blog <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
 
-`en-US`: The Locale / Language, e.g. `en-US`
+`locale`: The Locale / Language, e.g. `en-US`
 
-_Example Response (shortened)_
+---
+
+*Example Response (shortened)*
 
 ```json
 [

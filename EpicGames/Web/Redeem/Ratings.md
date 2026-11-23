@@ -1,7 +1,7 @@
 ## Redeem Web - Ratings
 
-URL: https://redeem.epicgames.com/api/product/age-rating \
-Method: GET \
+URL: https://redeem.epicgames.com/api/product/age-rating <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Query Parameters
@@ -11,7 +11,7 @@ Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

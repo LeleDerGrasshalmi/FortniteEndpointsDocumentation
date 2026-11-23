@@ -1,12 +1,12 @@
 ## UE Marketplace - Tags Info
 
-URL: https://www.unrealengine.com/marketplace/api/tags \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/tags <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

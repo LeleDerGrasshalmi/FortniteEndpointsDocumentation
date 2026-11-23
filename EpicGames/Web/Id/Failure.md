@@ -1,12 +1,16 @@
 ## Id Web - Failure Info
 
-URL: https://www.epicgames.com/id/api/failure/:failureId \
-Method: GET \
+URL: https://www.epicgames.com/id/api/failure/:failureId <br/>
+Method: GET <br/>
 Auth Required: No
+
+## Path Parameters
+
+`failureId`: The failure ID.
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,7 +1,7 @@
-# Get News
+## Get News
 
-URL: https://sac.epicgames.com/api/get-news \
-Method: GET \
+URL: https://sac.epicgames.com/api/get-news <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Query Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

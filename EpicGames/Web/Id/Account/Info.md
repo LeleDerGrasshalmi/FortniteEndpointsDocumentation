@@ -1,12 +1,12 @@
 ## Id Web - Account Info
 
-URL: https://www.epicgames.com/id/api/account \
-Method: GET \
+URL: https://www.epicgames.com/id/api/account <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,12 +1,12 @@
-# Get Tax Record
+## Get Tax Record
 
-URL: https://sac.epicgames.com/api/v1/get-tax-record \
-Method: GET \
+URL: https://sac.epicgames.com/api/v1/get-tax-record <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

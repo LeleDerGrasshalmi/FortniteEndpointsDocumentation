@@ -1,7 +1,7 @@
 ## Id Web - Login
 
-URL: https://www.epicgames.com/id/api/login \
-Method: POST \
+URL: https://www.epicgames.com/id/api/login <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -22,9 +22,9 @@ Auth Required: Yes
 
 ---
 
-_Example Response (Successful)_: Status 200 (No Content)
+*Example Response (Successful)*: Status 200 (No Content)
 
-_Example Response (Captcha or CSRF Token are invalid)_
+*Example Response (Captcha or CSRF Token are invalid)*
 
 ```json
 {

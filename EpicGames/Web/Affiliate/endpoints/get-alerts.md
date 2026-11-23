@@ -1,12 +1,12 @@
-# Get Alerts
+## Get Alerts
 
-URL: https://sac.epicgames.com/api/get-alerts \
-Method: GET \
+URL: https://sac.epicgames.com/api/get-alerts <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

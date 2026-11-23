@@ -1,7 +1,7 @@
 ## UE Marketplace - Tracking Info
 
-URL: https://www.unrealengine.com/marketplace/api/purchase/track \
-Method: POST \
+URL: https://www.unrealengine.com/marketplace/api/purchase/track <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -18,7 +18,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

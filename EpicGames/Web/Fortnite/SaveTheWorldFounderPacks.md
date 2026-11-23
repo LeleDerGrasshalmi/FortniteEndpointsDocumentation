@@ -1,12 +1,12 @@
 ## Fortnite Website - Founder Packs
 
-URL: https://fortnite.com/api/founders-packs \
-Method: GET \
+URL: https://fortnite.com/api/founders-packs <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

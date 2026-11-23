@@ -1,7 +1,7 @@
 ## Id Web - Send Analytics
 
-URL: https://www.epicgames.com/id/api/analytics \
-Method: POST \
+URL: https://www.epicgames.com/id/api/analytics <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -16,7 +16,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response (Successful)_: Status 200
+*Example Response (Successful)*: Status 200
 
 ```json
 {

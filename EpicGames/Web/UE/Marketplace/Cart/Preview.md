@@ -1,12 +1,12 @@
 ## UE Marketplace - Cart Preview
 
-URL: https://www.unrealengine.com/marketplace/api/shoppingCart/preview \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/shoppingCart/preview <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

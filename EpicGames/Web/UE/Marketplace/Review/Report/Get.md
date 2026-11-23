@@ -1,7 +1,7 @@
 ## UE Marketplace - Get Review Report
 
-URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/report \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/report <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

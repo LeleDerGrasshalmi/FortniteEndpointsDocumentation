@@ -1,12 +1,12 @@
 ## Fortnite Website - Get Subscription Status
 
-URL: https://fortnite.com/api/get-subcription-status \
-Method: GET \
+URL: https://fortnite.com/api/get-subcription-status <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

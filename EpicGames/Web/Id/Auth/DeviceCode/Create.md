@@ -1,7 +1,7 @@
 ## Id Web - Create Device Code
 
-URL: https://www.epicgames.com/id/api/device \
-Method: POST \
+URL: https://www.epicgames.com/id/api/device <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -22,7 +22,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

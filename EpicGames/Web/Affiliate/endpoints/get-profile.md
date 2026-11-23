@@ -1,12 +1,12 @@
-# Get Affiliate Profile
+## Get Affiliate Profile
 
-URL: https://sac.epicgames.com/api/get-profile \
-Method: GET \
+URL: https://sac.epicgames.com/api/get-profile <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

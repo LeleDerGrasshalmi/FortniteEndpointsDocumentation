@@ -1,12 +1,12 @@
 ## Fortnite Website - Chapter 2
 
-URL: https://fortnite.com/en-US/api/chapter2 \
-Method: GET \
+URL: https://fortnite.com/en-US/api/chapter2 <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

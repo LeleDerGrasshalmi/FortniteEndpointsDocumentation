@@ -1,15 +1,17 @@
 ## Epic Games Store - Product Page
 
-URL: https://store-content.ak.epicgames.com/api/:locale/content/products/:product \
-Method: GET \
+URL: https://store-content.ak.epicgames.com/api/:locale/content/products/:product <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
 
-`en-US`: The Locale / Language, e.g. `en-US` <br/>
+`locale`: The Locale / Language, e.g. `en-US` <br/>
 `product`: The Product Slug e.g. `fortnite`
 
-_Example Response (shortened)_
+---
+
+*Example Response (shortened)*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## Epic Games Store - Free Promos (GraphQL Response)
 
-URL: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions \
-Method: GET \
+URL: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Query Parameters
@@ -14,7 +14,7 @@ Auth Required: No
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

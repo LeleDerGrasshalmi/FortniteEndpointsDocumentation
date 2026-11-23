@@ -1,7 +1,7 @@
 ## Fortnite Website - POSA: Content
 
-URL: https://fortnite.com/:locale/api/posa/content \
-Method: GET \
+URL: https://fortnite.com/:locale/api/posa/content <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: No
 
 ---
 
-_Example Response (Shortened)_
+*Example Response (Shortened)*
 
 ```json
 {

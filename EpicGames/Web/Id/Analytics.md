@@ -1,10 +1,12 @@
 ## Id Web - Analytics Info
 
-URL: https://www.epicgames.com/id/api/analytics \
-Method: GET \
+URL: https://www.epicgames.com/id/api/analytics <br/>
+Method: GET <br/>
 Auth Required: Yes
 
-_Example Response_
+---
+
+*Example Response*
 
 ```json
 {

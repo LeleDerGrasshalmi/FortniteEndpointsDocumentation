@@ -1,12 +1,12 @@
 ## Fortnite Website - Pre Register
 
-URL: https://fortnite.com/api/pre-register \
-Method: GET \
+URL: https://fortnite.com/api/pre-register <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

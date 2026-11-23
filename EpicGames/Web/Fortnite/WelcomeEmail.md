@@ -1,12 +1,12 @@
 ## Fortnite Website - Welcome Email
 
-URL: https://fortnite.com/api/welcome-email \
-Method: GET \
+URL: https://fortnite.com/api/welcome-email <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

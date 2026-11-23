@@ -1,16 +1,16 @@
 ## UE Marketplace - Asset Info
 
-URL: https://www.unrealengine.com/marketplace/api/assets/asset/:asset \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/assets/asset/:asset <br/>
+Method: GET <br/>
 Auth Required: No
 
-### Path Parameters
+## Path Parameters
 
 `asset`: Asset id
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

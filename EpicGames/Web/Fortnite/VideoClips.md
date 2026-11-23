@@ -1,12 +1,16 @@
 ## Fortnite Website - Video Clips
 
-URL: https://fortnite.com/:language/api/video-clips \
-Method: GET \
+URL: https://fortnite.com/:language/api/video-clips <br/>
+Method: GET <br/>
 Auth Required: Yes
+
+## Path Parameters
+
+`language`: The language or locale code.
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
@@ -22,8 +26,8 @@ _Example Response_
 
 ## Fortnite Website - Video Clips Post
 
-URL: https://fortnite.com/:language/api/video-clips \
-Method: POST \
+URL: https://fortnite.com/:language/api/video-clips <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -44,3 +48,13 @@ Auth Required: Yes
 ```
 
 The values can be gotten from the get request if you're eligible
+
+## Path Parameters
+
+`language`: The language or locale code.
+
+---
+
+*Example Response*
+
+No example response or status is documented.
