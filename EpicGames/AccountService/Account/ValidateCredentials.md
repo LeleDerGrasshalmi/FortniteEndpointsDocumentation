@@ -1,9 +1,8 @@
 ## Account Service - Validate Credentials
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/validateCreds \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/validateCreds <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:account:validateCreds READ`)
-Note: Deprecated as of September 4th, 2025.
 
 ## Headers
 
@@ -11,9 +10,11 @@ Note: Deprecated as of September 4th, 2025.
 
 <br/>
 
-```
+```text
 usernameOrEmail=XXX&password=YYY
 ```
+
+Note: Deprecated as of September 4th, 2025.
 
 ## Path Parameters
 
@@ -26,13 +27,13 @@ usernameOrEmail=XXX&password=YYY
 
 ---
 
-_Example Response (Valid)_
+*Example Response (Valid)*
 
 Status 204
 
 <br/>
 
-_Example Response (Invalid)_
+*Example Response (Invalid)*
 
 Status 401
 

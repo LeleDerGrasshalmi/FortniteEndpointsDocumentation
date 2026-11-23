@@ -1,10 +1,10 @@
 ## Account Service - Auth: Create Exchange Code
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/exchange \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/exchange <br/>
+Method: GET <br/>
 Auth Required: Yes (`account:oauth:exchangeTokenCode CREATE`)
 
-### Query Parameters
+## Query Parameters
 
 `consumingClientId`: (optional), the id of the client that should redeem the exchange code <br/>
 `codeChallenge`: (optional), a PKCE code challenge <br/>
@@ -12,7 +12,7 @@ Auth Required: Yes (`account:oauth:exchangeTokenCode CREATE`)
 
 ---
 
-_Example Response (without `consumingClientId`)_
+*Example Response (without `consumingClientId`)*
 
 ```json
 {
@@ -22,7 +22,7 @@ _Example Response (without `consumingClientId`)_
 }
 ```
 
-_Example Response (with `consumingClientId`)_
+*Example Response (with `consumingClientId`)*
 
 ```json
 {

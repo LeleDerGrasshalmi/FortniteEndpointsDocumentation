@@ -1,7 +1,7 @@
 ## Account Service - Guardians: Create Guardian
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/guardians \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/guardians <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:guardians CREATE`)
 
 > This API has been deprecated/removed
@@ -22,7 +22,7 @@ Auth Required: Yes (`account:public:guardians CREATE`)
 
 ---
 
-_Example Response: (Success)_
+*Example Response: (Success)*
 
 ```json
 {

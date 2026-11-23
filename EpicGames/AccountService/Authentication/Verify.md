@@ -1,16 +1,16 @@
 ## Account Service - Auth: Verify
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/verify \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/verify <br/>
+Method: GET <br/>
 Auth Required: Yes
 
-### Query Parameters
+## Query Parameters
 
 `includePerms`: boolean (optional), if the `perms` field should be included (Defaults to `false`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

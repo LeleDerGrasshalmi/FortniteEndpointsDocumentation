@@ -1,7 +1,7 @@
 ## Account Service - Lookup by Email
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/email/:email \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/email/:email <br/>
+Method: GET <br/>
 Auth Required: Yes (~~`account:public:account:byEmail`~~ `account:public:account:lookup:email READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (~~`account:public:account:byEmail`~~ `account:public:account
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

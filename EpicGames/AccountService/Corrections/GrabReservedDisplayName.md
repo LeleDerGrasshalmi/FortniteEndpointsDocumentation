@@ -1,7 +1,7 @@
 ## Account Service - Corrections: Grab Reserved Display Name Conflict
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/corrections/resolveReservedDisplayName \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/corrections/resolveReservedDisplayName <br/>
+Method: GET <br/>
 Auth Required: Yes (client_credentials of the client you are trying to authenticate with)
 
 ## Query Parameters
@@ -10,4 +10,4 @@ Auth Required: Yes (client_credentials of the client you are trying to authentic
 
 ---
 
-_Example Response Status: 204 (No Content)_
+*Example Response Status: 204 (No Content)*

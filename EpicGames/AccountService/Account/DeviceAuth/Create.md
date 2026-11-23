@@ -1,12 +1,16 @@
 ## Account Service - Auth: Create Device Auth
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/deviceAuth \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/deviceAuth <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:account:deviceAuths CREATE`)
+
+## Path Parameters
+
+`accountId`: The account ID.
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

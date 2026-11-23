@@ -1,7 +1,7 @@
 ## Account Service - Lookup by Account Id
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`account:public:account READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`account:public:account READ`)
 
 ---
 
-_Example Response (Own Account)_
+*Example Response (Own Account)*
 
 ```json
 {
@@ -43,7 +43,7 @@ _Example Response (Own Account)_
 }
 ```
 
-_Example Response (Not Own Account)_
+*Example Response (Not Own Account)*
 
 ```json
 {

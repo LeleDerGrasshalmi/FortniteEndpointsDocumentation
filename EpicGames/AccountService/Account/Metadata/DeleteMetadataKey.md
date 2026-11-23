@@ -1,7 +1,7 @@
 ## Account Service - Delete Metadata Key
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/metadata/:key \
-Method: DELETE \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/metadata/:key <br/>
+Method: DELETE <br/>
 Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} DELETE`)
 
 ## Path Parameters
@@ -11,4 +11,4 @@ Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} DELETE`)
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204

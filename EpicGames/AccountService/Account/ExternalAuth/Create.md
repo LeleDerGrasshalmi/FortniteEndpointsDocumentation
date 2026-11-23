@@ -1,7 +1,7 @@
 ## Account Service - Auth: Create External Auth
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/externalAuths \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/externalAuths <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:account:externalAuths CREATE`)
 
 ```json
@@ -11,6 +11,10 @@ Auth Required: Yes (`account:public:account:externalAuths CREATE`)
 }
 ```
 
+## Path Parameters
+
+`accountId`: The account ID.
+
 ## Parameters
 
 `authType`: See via [External Auth Readme](./README.md) and also check the [External Auth Grant Type](../../Authentication/GrantTypes/external_auth.md#body) <br/>
@@ -18,7 +22,7 @@ Auth Required: Yes (`account:public:account:externalAuths CREATE`)
 
 ---
 
-_Example Response (Same as from Info)_
+*Example Response (Same as from Info)*
 
 ```json
 {

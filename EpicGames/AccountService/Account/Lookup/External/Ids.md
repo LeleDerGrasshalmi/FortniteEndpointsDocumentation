@@ -1,7 +1,7 @@
 ## Account Service - Lookup by External Id (Bulk)
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/lookup/externalId \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/lookup/externalId <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:account:lookup:externalId READ`)
 
 ```json
@@ -18,7 +18,7 @@ Auth Required: Yes (`account:public:account:lookup:externalId READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

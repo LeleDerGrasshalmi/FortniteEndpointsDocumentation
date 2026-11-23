@@ -1,7 +1,7 @@
 ## Account Service - Update Account
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId \
-Method: PUT \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId <br/>
+Method: PUT <br/>
 Auth Required: Yes (`account:public:account UPDATE`, some need `account:public:account:sensitive UPDATE`)
 
 ```json
@@ -34,11 +34,11 @@ Auth Required: Yes (`account:public:account UPDATE`, some need `account:public:a
 `username`: Optional, Your new Username (could be used instead of an email back then) `[*]` <br/>
 `password`: Optional, Your new Password `[*]` <br/>
 
-`[*]` - Requires the sensitive Permission
+`[*]`: Requires the sensitive Permission
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

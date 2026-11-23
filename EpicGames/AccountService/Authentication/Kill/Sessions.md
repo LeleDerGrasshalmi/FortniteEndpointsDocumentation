@@ -1,10 +1,10 @@
 ## Account Service - Auth: Kill Sessions
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/sessions/kill \
-Method: DELETE \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/sessions/kill <br/>
+Method: DELETE <br/>
 Auth Required: Yes
 
-### Query Parameters
+## Query Parameters
 
 `killType`: See below
 
@@ -19,4 +19,4 @@ Auth Required: Yes
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204

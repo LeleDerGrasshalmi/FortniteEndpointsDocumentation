@@ -1,12 +1,12 @@
 ## Account Service - Check Age Gate Requirement
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/ageGate \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/ageGate <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

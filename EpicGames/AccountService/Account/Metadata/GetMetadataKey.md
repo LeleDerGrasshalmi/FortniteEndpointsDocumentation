@@ -1,7 +1,7 @@
 ## Account Service - Get Metadata Key
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/metadata/:key \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/metadata/:key <br/>
+Method: GET <br/>
 Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} READ`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 true

@@ -1,21 +1,21 @@
 ## Account Service - Lookup by External Display Name
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/lookup/externalAuth/:externalAuthType/displayName/:displayName \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/lookup/externalAuth/:externalAuthType/displayName/:displayName <br/>
+Method: GET <br/>
 Auth Required: Yes (`account:public:account:lookup:externalDisplayName:{externalAuthType} READ`)
-
-## Query Parameters
-
-`caseInsensitive`: boolean (optional), just make it always true, theres no reason to care about the exact case
 
 ## Path Parameters
 
 `externalAuthType`: See via [External Auth Readme](../../ExternalAuth/README.md) <br/>
 `displayName`: External Provider User Displayname
 
+## Query Parameters
+
+`caseInsensitive`: boolean (optional), just make it always true, theres no reason to care about the exact case
+
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

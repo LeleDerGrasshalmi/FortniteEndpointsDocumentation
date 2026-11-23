@@ -1,7 +1,7 @@
 ## Account Service - Send Confirmation Email
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/email \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/email <br/>
+Method: GET <br/>
 Auth Required: Yes (`account:accounts:email:sendConfirmation CREATE`)
 
 ## Path Parameters
@@ -10,6 +10,6 @@ Auth Required: Yes (`account:accounts:email:sendConfirmation CREATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 Status 204

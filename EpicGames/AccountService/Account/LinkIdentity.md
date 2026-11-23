@@ -1,7 +1,7 @@
 ## Account Service - Set Link Identity Type
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/linkIdentity \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/linkIdentity <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:account:linkedIdentity CREATE`)
 
 ```json
@@ -22,7 +22,7 @@ Auth Required: Yes (`account:public:account:linkedIdentity CREATE`)
 
 ---
 
-_Example Response (Invalid Type)_
+*Example Response (Invalid Type)*
 
 ```json
 {

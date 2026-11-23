@@ -1,12 +1,17 @@
 ## Account Service - Auth: Device Auth Info
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/deviceAuth/:deviceId \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/deviceAuth/:deviceId <br/>
+Method: GET <br/>
 Auth Required: Yes (`account:public:account:deviceAuths READ`)
+
+## Path Parameters
+
+`accountId`: The account ID. <br/>
+`deviceId`: The device auth ID.
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
