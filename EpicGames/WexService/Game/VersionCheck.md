@@ -1,7 +1,7 @@
 ## Wex Service - Check Version
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/v2/versioncheck/:platform \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/v2/versioncheck/:platform <br/>
+Method: GET <br/>
 Auth Required: Yes (No perm required)
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes (No perm required)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

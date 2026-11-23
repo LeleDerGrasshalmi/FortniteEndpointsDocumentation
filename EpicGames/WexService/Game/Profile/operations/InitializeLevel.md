@@ -1,6 +1,6 @@
 # InitializeLevel
 
-**Description**: `Initializes and starts a level` \
+**Description**: `Initializes and starts a level` <br/>
 **Profiles**: `levels`
 
 ## Body

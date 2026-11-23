@@ -1,6 +1,6 @@
 # RedeemToken
 
-**Description**: `Used to redeem tokens (hero shards, legacy item upgrades, etc)` \
+**Description**: `Used to redeem tokens (hero shards, legacy item upgrades, etc)` <br/>
 **Profiles**: `profile0`
 
 ## Body

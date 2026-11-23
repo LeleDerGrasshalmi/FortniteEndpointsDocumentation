@@ -1,6 +1,6 @@
 # UpdateFriends
 
-**Description**: `Updates WEX snapshots of friends` \
+**Description**: `Updates WEX snapshots of friends` <br/>
 **Profiles**: `friends`
 
 ## Body

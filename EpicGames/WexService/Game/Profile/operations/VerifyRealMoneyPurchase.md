@@ -1,6 +1,6 @@
 # VerifyRealMoneyPurchase
 
-**Description**: `Verifies a receipt for a purchase and refreshes the profile` \
+**Description**: `Verifies a receipt for a purchase and refreshes the profile` <br/>
 **Profiles**: `profile0`
 
 ## Body

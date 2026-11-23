@@ -1,6 +1,6 @@
 # ClaimLoginReward
 
-**Description**: `Claims the daily reward` \
+**Description**: `Claims the daily reward` <br/>
 **Profiles**: `profile0`
 
 ## Body

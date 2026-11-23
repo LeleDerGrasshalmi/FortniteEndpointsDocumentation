@@ -1,6 +1,6 @@
 # OpenGiftBox
 
-**Description**: `Opens a gift box` \
+**Description**: `Opens a gift box` <br/>
 **Profiles**: `profile0`
 
 ## Body

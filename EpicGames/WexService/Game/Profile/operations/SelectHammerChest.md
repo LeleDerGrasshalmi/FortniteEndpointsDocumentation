@@ -1,6 +1,6 @@
 # SelectHammerChest
 
-**Description**: `Picks a chosen hammer chest` \
+**Description**: `Picks a chosen hammer chest` <br/>
 **Profiles**: `profile0`
 
 ## Body

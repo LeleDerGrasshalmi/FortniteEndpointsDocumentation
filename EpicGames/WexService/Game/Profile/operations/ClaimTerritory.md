@@ -1,6 +1,6 @@
 # ClaimTerritory
 
-**Description**: `Claims a territory once completing all levels at a difficulty` \
+**Description**: `Claims a territory once completing all levels at a difficulty` <br/>
 **Profiles**: `levels`
 
 ## Body

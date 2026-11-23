@@ -1,6 +1,6 @@
 # AddToMonsterPit
 
-**Description**: `Casts a hero/pet into the Monster Pit` \
+**Description**: `Casts a hero/pet into the Monster Pit` <br/>
 **Profiles**: `monsterpit`
 
 ## Body

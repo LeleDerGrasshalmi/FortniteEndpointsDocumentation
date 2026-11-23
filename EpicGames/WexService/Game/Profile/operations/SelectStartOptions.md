@@ -1,6 +1,6 @@
 # SelectStartOptions
 
-**Description**: `Sets up the profile after completing the onboarding tutorial` \
+**Description**: `Sets up the profile after completing the onboarding tutorial` <br/>
 **Profiles**: `profile0`
 
 ## Body

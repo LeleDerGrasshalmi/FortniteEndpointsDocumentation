@@ -1,6 +1,6 @@
 # RemoveFromMonsterPit
 
-**Description**: `Releases a Hero/Pet from the Monster Pit` \
+**Description**: `Releases a Hero/Pet from the Monster Pit` <br/>
 **Profiles**: `monsterpit`
 
 ## Body

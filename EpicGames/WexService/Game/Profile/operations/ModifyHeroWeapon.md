@@ -1,6 +1,6 @@
 # ModifyHeroWeapon
 
-**Description**: `Modifies the weapon on a hero` \
+**Description**: `Modifies the weapon on a hero` <br/>
 **Profiles**: `profile0`
 
 ## Body

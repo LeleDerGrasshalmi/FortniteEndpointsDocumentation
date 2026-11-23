@@ -1,7 +1,7 @@
 ## Wex Service - Push Notification: Register Device
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/push/:accountId/register \
-Method: POST \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/push/:accountId/register <br/>
+Method: POST <br/>
 Auth Required: Yes (`wexp:push:devices:{accountId} CREATE`)
 
 ## Path Parameters
@@ -10,14 +10,14 @@ Auth Required: Yes (`wexp:push:devices:{accountId} CREATE`)
 
 ## Query Parameters
 
-`deviceToken`: The device token to register with \
-`platform`: The platform of the device e.g. `ANDROID` \
-`locale`: The locale of the device e.g. `en-AU` \
-`tzOffset`: The timezone offset of the device e.g. `10` \
+`deviceToken`: The device token to register with <br/>
+`platform`: The platform of the device e.g. `ANDROID` <br/>
+`locale`: The locale of the device e.g. `en-AU` <br/>
+`tzOffset`: The timezone offset of the device e.g. `10` <br/>
 `rvn`: The profile0 revision number e.g. `40532`
 
 ---
 
-_Example Response_
+*Example Response*
 
 > Unknown

@@ -1,12 +1,12 @@
 ## Wex Service - Cloudstorage: System Files
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/cloudstorage/system \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/cloudstorage/system <br/>
+Method: GET <br/>
 Auth Required: Yes (`wexp:cloudstorage:system READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

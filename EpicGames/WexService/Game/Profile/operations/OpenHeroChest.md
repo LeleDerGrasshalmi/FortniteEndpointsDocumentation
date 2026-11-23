@@ -1,6 +1,6 @@
 # OpenHeroChest
 
-**Description**: `Opens a hero crystal (skybreaker)` \
+**Description**: `Opens a hero crystal (skybreaker)` <br/>
 **Profiles**: `profile0`
 
 ## Body

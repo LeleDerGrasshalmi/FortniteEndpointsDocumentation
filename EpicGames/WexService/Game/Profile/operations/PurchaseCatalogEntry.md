@@ -1,6 +1,6 @@
 # PurchaseCatalogEntry
 
-**Description**: `Purchases an offer from the catalog` \
+**Description**: `Purchases an offer from the catalog` <br/>
 **Profiles**: `profile0`
 
 ## Body

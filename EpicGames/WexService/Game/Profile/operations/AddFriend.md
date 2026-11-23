@@ -1,6 +1,6 @@
 # AddFriend
 
-**Description**: `Send / accept a WEX Friend request` \
+**Description**: `Send / accept a WEX Friend request` <br/>
 **Profiles**: `friends`
 
 ## Body

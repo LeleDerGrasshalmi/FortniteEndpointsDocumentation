@@ -1,7 +1,7 @@
 ## Wex Service - Catalog: Receipts
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/receipts/v1/account/:accountId/receipts \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/receipts/v1/account/:accountId/receipts <br/>
+Method: GET <br/>
 Auth Required: Yes (`wexp:profile:{accountId}:receipts READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`wexp:profile:{accountId}:receipts READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

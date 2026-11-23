@@ -1,6 +1,6 @@
 # SetRepHero
 
-**Description**: `Sets a hero to represent you on your friend's friend list; They can use this hero as a second commander in most levels (up to once per day)` \
+**Description**: `Sets a hero to represent you on your friend's friend list; They can use this hero as a second commander in most levels (up to once per day)` <br/>
 **Profiles**: `profile0`
 
 ## Body

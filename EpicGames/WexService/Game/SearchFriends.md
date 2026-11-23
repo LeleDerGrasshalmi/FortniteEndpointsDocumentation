@@ -1,7 +1,7 @@
 ## Wex Service - Search Friends
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/game/v2/friends/:accountId/search \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/game/v2/friends/:accountId/search <br/>
+Method: GET <br/>
 Auth Required: Yes (`wexp:profile:{accountId}:commands READ`)
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes (`wexp:profile:{accountId}:commands READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

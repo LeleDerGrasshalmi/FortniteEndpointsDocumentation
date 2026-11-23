@@ -1,7 +1,7 @@
 ## Wex Service - Cloudstorage: System File Content
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/cloudstorage/system/:uniqueFilename \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/cloudstorage/system/:uniqueFilename <br/>
+Method: GET <br/>
 Auth Required: Yes (`wexp:cloudstorage:system:{uniqueFilename} READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`wexp:cloudstorage:system:{uniqueFilename} READ`)
 
 ---
 
-_Example Response (DefaultEngine.ini)_
+*Example Response (DefaultEngine.ini)*
 
 ```ini
 [OnlineSubsystemMcp.OnlineIdentityMcp]

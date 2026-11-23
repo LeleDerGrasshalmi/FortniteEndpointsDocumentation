@@ -1,6 +1,6 @@
 # SellHero
 
-**Description**: `Sells a hero (and upgrades pit copy to foil if applicable)` \
+**Description**: `Sells a hero (and upgrades pit copy to foil if applicable)` <br/>
 **Profiles**: `profile0`
 
 ## Body

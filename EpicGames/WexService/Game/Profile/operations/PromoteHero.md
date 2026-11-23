@@ -1,6 +1,6 @@
 # PromoteHero
 
-**Description**: `Promotes a hero (to level further)` \
+**Description**: `Promotes a hero (to level further)` <br/>
 **Profiles**: `profile0`
 
 ## Body

@@ -1,6 +1,6 @@
 # UnlockWeaponGear
 
-**Description**: `Unlocks the Weapon gear slot on a hero` \
+**Description**: `Unlocks the Weapon gear slot on a hero` <br/>
 **Profiles**: `profile0`
 
 ## Body

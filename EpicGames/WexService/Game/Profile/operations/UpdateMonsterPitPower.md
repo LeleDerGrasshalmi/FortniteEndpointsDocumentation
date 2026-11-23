@@ -1,6 +1,6 @@
 # UpdateMonsterPitPower
 
-**Description**: `Recalculates Monster Pit power` \
+**Description**: `Recalculates Monster Pit power` <br/>
 **Profiles**: `monsterpit`
 
 ## Body

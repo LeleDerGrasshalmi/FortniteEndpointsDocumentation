@@ -1,7 +1,7 @@
 ## Wex Service - Item Ranking
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/game/v2/item_ratings/:accountId/:templateId \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/game/v2/item_ratings/:accountId/:templateId <br/>
+Method: GET <br/>
 Auth Required: Yes (`wexp:profile:{accountId}:commands READ`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`wexp:profile:{accountId}:commands READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

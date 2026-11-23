@@ -1,6 +1,6 @@
 # SetDefaultParty
 
-**Description**: `Sets the default party to use` \
+**Description**: `Sets the default party to use` <br/>
 **Profiles**: `profile0`
 
 ## Body

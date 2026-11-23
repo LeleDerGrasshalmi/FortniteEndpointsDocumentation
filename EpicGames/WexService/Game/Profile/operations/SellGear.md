@@ -1,6 +1,6 @@
 # SellGear
 
-**Description**: `Sells gear (i.e. Armour, Weapons) for gear shards` \
+**Description**: `Sells gear (i.e. Armour, Weapons) for gear shards` <br/>
 **Profiles**: `profile0`
 
 ## Body

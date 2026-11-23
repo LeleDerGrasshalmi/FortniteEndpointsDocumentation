@@ -1,6 +1,6 @@
 # ClaimAccountReward
 
-**Description**: `Select an account upgrade (Health, Mana, etc)` \
+**Description**: `Select an account upgrade (Health, Mana, etc)` <br/>
 **Profiles**: `profile0`
 
 ## Body

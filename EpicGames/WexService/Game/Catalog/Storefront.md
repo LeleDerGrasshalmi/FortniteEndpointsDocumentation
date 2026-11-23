@@ -1,12 +1,12 @@
 ## Wex Service - Catalog: Storefront
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/storefront/v2/catalog \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/storefront/v2/catalog <br/>
+Method: GET <br/>
 Auth Required: Yes (`wexp:storefront READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

@@ -1,6 +1,6 @@
 # LevelUpHero
 
-**Description**: `Levels up a Hero` \
+**Description**: `Levels up a Hero` <br/>
 **Profiles**: `profile0`
 
 ## Body

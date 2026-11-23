@@ -1,7 +1,7 @@
 ## Wex Service - MOTD
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/game/v2/motd \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/game/v2/motd <br/>
+Method: GET <br/>
 Auth Required: Yes (No perm required)
 
 ## Query Parameters
@@ -10,6 +10,6 @@ Auth Required: Yes (No perm required)
 
 ---
 
-_Example Response_
+*Example Response*
 
 > Unknown
