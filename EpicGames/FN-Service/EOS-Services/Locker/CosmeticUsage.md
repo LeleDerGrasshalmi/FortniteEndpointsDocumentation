@@ -1,7 +1,7 @@
 ## FN EOS Locker Service: Cosmetic Usage
 
-URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/cosmetic-usage \
-Method: GET \
+URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/cosmetic-usage <br/>
+Method: GET <br/>
 Auth Required: Yes (`locker:items`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`locker:items`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

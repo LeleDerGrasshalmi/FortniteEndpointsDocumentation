@@ -5,8 +5,8 @@ _Therefore the permission(s) listed in the requests are policy permissions, not 
 
 ---
 
-URL: https://api.epicgames.dev/auth/v1/oauth/token \
-Method: POST \
+URL: https://api.epicgames.dev/auth/v1/oauth/token <br/>
+Method: POST <br/>
 Auth Required: Yes (Basic Authentication where the username is the Client Id and the password is the Client Secret)
 
 ## Headers
@@ -21,9 +21,25 @@ Auth Required: Yes (Basic Authentication where the username is the Client Id and
 `deployment_id`: The Deployment Id from env configuration, for `live-fn` it is `62a9473a2dca46b29ccf17577fcf42d7` <br/>
 `nonce`: Random nonce string
 
+## Example Request
+
+```http
+POST https://api.epicgames.dev/auth/v1/oauth/token HTTP/1.1
+Host: api.epicgames.dev
+Accept-Encoding: identity
+Content-Type: application/x-www-form-urlencoded
+Accept: application/json
+Authorization: Basic ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ=
+X-Epic-Correlation-ID: EOS-REDACTED
+User-Agent: EOS-SDK/1.16.3000-33300249 (Windows/10.0.19041.4165.64bit) Fortnite/++Fortnite+Release-30.00-CL-33962396
+X-EOS-Version: 1.16.3000-33300249
+
+grant_type=external_auth&external_auth_type=epicgames_access_token&external_auth_token=REDACTED&deployment_id=62a9473a2dca46b29ccf17577fcf42d7&nonce=REDACTED
+```
+
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
@@ -53,22 +69,4 @@ _Example Response_
   "id_token": "REDACTED",
   "expires_in": 3599
 }
-```
-
----
-
-Example plain http request sent by the game
-
-```http
-POST https://api.epicgames.dev/auth/v1/oauth/token HTTP/1.1
-Host: api.epicgames.dev
-Accept-Encoding: identity
-Content-Type: application/x-www-form-urlencoded
-Accept: application/json
-Authorization: Basic ZWM2ODRiOGM2ODdmNDc5ZmFkZWEzY2IyYWQ4M2Y1YzY6ZTFmMzFjMjExZjI4NDEzMTg2MjYyZDM3YTEzZmM4NGQ=
-X-Epic-Correlation-ID: EOS-REDACTED
-User-Agent: EOS-SDK/1.16.3000-33300249 (Windows/10.0.19041.4165.64bit) Fortnite/++Fortnite+Release-30.00-CL-33962396
-X-EOS-Version: 1.16.3000-33300249
-
-grant_type=external_auth&external_auth_type=epicgames_access_token&external_auth_token=REDACTED&deployment_id=62a9473a2dca46b29ccf17577fcf42d7&nonce=REDACTED
 ```

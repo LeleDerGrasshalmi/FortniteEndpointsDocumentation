@@ -1,7 +1,7 @@
 ## FN EOS Locker Service: Locker Active Loadout Group
 
-URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/active-loadout-group \
-Method: PUT \
+URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/active-loadout-group <br/>
+Method: PUT <br/>
 Auth Required: Yes (`locker:{accountId} UPDATE`)
 
 ```json
@@ -98,7 +98,7 @@ Auth Required: Yes (`locker:{accountId} UPDATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
