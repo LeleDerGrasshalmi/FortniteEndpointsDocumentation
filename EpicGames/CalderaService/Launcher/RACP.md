@@ -1,7 +1,7 @@
 ## Caldera Service - Request Anti Cheat Provider (RACP)
 
-URL: https://caldera-service-prod.ecosec.on.epicgames.com/caldera/api/v1/launcher/racp \
-Method: POST \
+URL: https://caldera-service-prod.ecosec.on.epicgames.com/caldera/api/v1/launcher/racp <br/>
+Method: POST <br/>
 Auth Required: No
 
 ```json
@@ -35,7 +35,7 @@ Any of the following Parameters is `true`, then all other Parameters can be igno
 
 ---
 
-Example Response (NVIDIA Mode)
+*Example Response (NVIDIA Mode)*
 
 ```json
 {
