@@ -1,7 +1,7 @@
 ## Launcher Service - Assets: Entitled Builds
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/:platform \
-Method: GET \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/:platform <br/>
+Method: GET <br/>
 Auth Required: Yes (`launcher:download:{label} READ`)
 
 ## Path Parameters
@@ -16,7 +16,7 @@ Auth Required: Yes (`launcher:download:{label} READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

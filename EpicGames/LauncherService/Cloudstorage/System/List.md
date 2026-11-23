@@ -1,12 +1,12 @@
 ## Launcher Service - Cloudstorage: System File List
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/cloudstorage/system \
-Method: GET \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/cloudstorage/system <br/>
+Method: GET <br/>
 Auth Required: Yes (`launcher:cloudstorage:system READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

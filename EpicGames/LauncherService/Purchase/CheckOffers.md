@@ -1,7 +1,7 @@
 ## Launcher Service - Purchase: Check Offers
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/purchase/offers/bulk \
-Method: POST \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/purchase/offers/bulk <br/>
+Method: POST <br/>
 Auth Required: Yes (~~`purchase:offers READ`~~ `launcher:purchase:offers READ`)
 
 ## Headers
@@ -10,7 +10,7 @@ Auth Required: Yes (~~`purchase:offers READ`~~ `launcher:purchase:offers READ`)
 
 <br/>
 
-```
+```text
 nsOfferId=aa:bb&nsOfferId=cc:dd
 ```
 
@@ -20,7 +20,7 @@ nsOfferId=aa:bb&nsOfferId=cc:dd
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## Launcher Service - Android: Asset Metadata (Bulk)
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/android/v1/metadata/bulk \
-Method: POST \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/android/v1/metadata/bulk <br/>
+Method: POST <br/>
 Auth Required: Yes (`launcher:download:android:metadata:bulk READ`)
 
 ```json
@@ -32,7 +32,7 @@ Auth Required: Yes (`launcher:download:android:metadata:bulk READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

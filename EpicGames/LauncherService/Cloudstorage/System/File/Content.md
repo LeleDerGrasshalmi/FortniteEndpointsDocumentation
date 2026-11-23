@@ -1,7 +1,7 @@
 ## Launcher Service - Cloudstorage: System File Content
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/cloudstorage/system/:uniqueFilename \
-Method: GET \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/cloudstorage/system/:uniqueFilename <br/>
+Method: GET <br/>
 Auth Required: Yes (`launcher:cloudstorage:system:{uniqueFilename} READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`launcher:cloudstorage:system:{uniqueFilename} READ`)
 
 ---
 
-_Example Response (Fortnite.v2sdmeta)_
+*Example Response (Fortnite.v2sdmeta)*
 
 ```json
 {

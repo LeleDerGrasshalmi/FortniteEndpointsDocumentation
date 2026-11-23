@@ -1,7 +1,7 @@
 ## Launcher Service - Assets (V2): Launcher Assets for Platform (without Downloads)
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/launcher/version \
-Method: GET \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/launcher/version <br/>
+Method: GET <br/>
 Auth Required: Yes (`buildinfo:buildmanifest:app:EpicGamesLauncher:build:{version}:status READ` if using `clientVersion`, else None)
 
 ## Path Parameters
@@ -15,7 +15,7 @@ Auth Required: Yes (`buildinfo:buildmanifest:app:EpicGamesLauncher:build:{versio
 
 ---
 
-_Example Response (With clientVersion)_
+*Example Response (With clientVersion)*
 
 ```json
 {
@@ -44,7 +44,7 @@ _Example Response (With clientVersion)_
 }
 ```
 
-_Example Response (without clientVersion)_
+*Example Response (without clientVersion)*
 
 ```json
 {

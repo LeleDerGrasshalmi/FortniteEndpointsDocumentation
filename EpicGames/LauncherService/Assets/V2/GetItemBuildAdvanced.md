@@ -1,7 +1,7 @@
 ## Launcher Service - Assets (V2): Get Item Build (Advanced)
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/namespace/:namespace/catalogItem/:catalogItemId/app/:appName/label/:label \
-Method: POST \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/namespace/:namespace/catalogItem/:catalogItemId/app/:appName/label/:label <br/>
+Method: POST <br/>
 Auth Required: Yes (`launcher:download:{label}:{appName} READ`)
 
 ```json
@@ -58,7 +58,7 @@ Auth Required: Yes (`launcher:download:{label}:{appName} READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

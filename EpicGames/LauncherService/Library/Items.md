@@ -1,7 +1,7 @@
 ## Launcher Service - Library: Items (Proxy)
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/library/items \
-Method: GET \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/library/items <br/>
+Method: GET <br/>
 Auth Required: Yes (`launcher:library:items READ`)
 
 ## Query Parameters
@@ -13,7 +13,7 @@ Auth Required: Yes (`launcher:library:items READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
