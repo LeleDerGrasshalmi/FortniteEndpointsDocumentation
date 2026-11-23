@@ -1,14 +1,16 @@
 ## Global Service - Reboot Rally: Status - Friends
 
-URL: https://global-profile-service.game-social.epicgames.com/v1/rebootrally/eligibility/friends \
-Method: PUT (No Body) \
+URL: https://global-profile-service.game-social.epicgames.com/v1/rebootrally/eligibility/friends <br/>
+Method: PUT (No Body) <br/>
 Auth Required: Yes (No Perm required)
 
 ---
 
 > Reboot Rally endpoints no longer exist
 
-_Example Response_
+---
+
+*Example Response*
 
 ```json
 {
