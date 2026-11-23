@@ -1,7 +1,7 @@
 ## Library Service - Delete Collection
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/collection/:collectionId/account/:accountId \
-Method: DELETE \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/collection/:collectionId/account/:accountId <br/>
+Method: DELETE <br/>
 Auth Required: Yes (`library:public:{accountId}:collection DELETE`)
 
 ## Path Parameters
@@ -11,4 +11,4 @@ Auth Required: Yes (`library:public:{accountId}:collection DELETE`)
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204

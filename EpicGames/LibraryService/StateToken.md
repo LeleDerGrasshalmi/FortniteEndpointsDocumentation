@@ -1,7 +1,7 @@
 ## Library Service - State Token
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/stateToken/:stateToken/status \
-Method: GET \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/stateToken/:stateToken/status <br/>
+Method: GET <br/>
 Auth Required: Yes (`library:public:stateToken:status READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`library:public:stateToken:status READ`)
 
 ---
 
-_Example Response (Valid)_
+*Example Response (Valid)*
 
 ```json
 {
@@ -18,7 +18,7 @@ _Example Response (Valid)_
 }
 ```
 
-_Example Response (Not Valid)_
+*Example Response (Not Valid)*
 
 ```json
 {

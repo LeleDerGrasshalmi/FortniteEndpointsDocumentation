@@ -1,7 +1,7 @@
 ## Library Service - Artifact Playtime
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/playtime/account/:accountId/artifact/:artifactId \
-Method: GET \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/playtime/account/:accountId/artifact/:artifactId <br/>
+Method: GET <br/>
 Auth Required: Yes (`library:public:{accountId}:playtime READ`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`library:public:{accountId}:playtime READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

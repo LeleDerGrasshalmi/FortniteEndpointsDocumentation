@@ -1,7 +1,7 @@
 ## Library Service - List Collection Items
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/collection/:collectionId/item/account/:accountId \
-Method: GET \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/collection/:collectionId/item/account/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`library:public:{accountId}:collection:item READ`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`library:public:{accountId}:collection:item READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

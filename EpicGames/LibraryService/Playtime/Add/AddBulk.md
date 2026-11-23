@@ -1,7 +1,7 @@
 ## Library Service - Add Playtime (Bulk)
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/playtime/account/:accountId/bulk \
-Method: PUT \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/playtime/account/:accountId/bulk <br/>
+Method: PUT <br/>
 Auth Required: Yes (`library:public:{accountId}:playtime UPDATE`)
 
 ```json
@@ -34,4 +34,4 @@ Auth Required: Yes (`library:public:{accountId}:playtime UPDATE`)
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204
