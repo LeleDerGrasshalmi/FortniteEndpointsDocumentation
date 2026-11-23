@@ -1,7 +1,7 @@
 ## Player Overview Page Service: Follow Player Page
 
-URL: https://pops-api-live-public.ogs.live.on.epicgames.com/followers/v1/:playerId \
-Method: PUT \
+URL: https://pops-api-live-public.ogs.live.on.epicgames.com/followers/v1/:playerId <br/>
+Method: PUT <br/>
 Auth Required: Yes (`pops:follow:{accountId} UPDATE`)
 
 ```json
@@ -20,4 +20,4 @@ Auth Required: Yes (`pops:follow:{accountId} UPDATE`)
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204

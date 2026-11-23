@@ -1,7 +1,7 @@
 ## Player Overview Page Service: Check Has Player Page
 
-URL: https://pops-api-live-public.ogs.live.on.epicgames.com/page/v1/:pagePlayerId/check \
-Method: GET \
+URL: https://pops-api-live-public.ogs.live.on.epicgames.com/page/v1/:pagePlayerId/check <br/>
+Method: GET <br/>
 Auth Required: Yes (`pops:playerpage READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`pops:playerpage READ`)
 
 ---
 
-_Example Response (has page)_
+*Example Response (has page)*
 
 ```json
 {
@@ -18,7 +18,7 @@ _Example Response (has page)_
 }
 ```
 
-_Example Response (has no page)_
+*Example Response (has no page)*
 
 ```json
 {
