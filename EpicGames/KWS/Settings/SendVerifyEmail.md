@@ -1,7 +1,7 @@
 ## KWS - Send Verify Email
 
-URL: https://api.kws.ol.epicgames.com/v1/verifications/send-email \
-Method: POST \
+URL: https://api.kws.ol.epicgames.com/v1/verifications/send-email <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -26,7 +26,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response (insufficient permissions)_
+*Example Response (insufficient permissions)*
 
 ```json
 {

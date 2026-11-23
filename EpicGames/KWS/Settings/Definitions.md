@@ -1,7 +1,7 @@
 ## KWS - Setting Definitions
 
-URL: https://api.kws.ol.epicgames.com/v1/epic-settings/public/users/:accountId/values \
-Method: GET \
+URL: https://api.kws.ol.epicgames.com/v1/epic-settings/public/users/:accountId/values <br/>
+Method: GET <br/>
 Auth Required: Yes (`epic-settings:public:games:{game} READ`)
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes (`epic-settings:public:games:{game} READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## KWS - Update Settings
 
-URL: https://api.kws.ol.epicgames.com/v1/epic-settings/public/users/:accountId/values \
-Method: PATCH \
+URL: https://api.kws.ol.epicgames.com/v1/epic-settings/public/users/:accountId/values <br/>
+Method: PATCH <br/>
 Auth Required: Yes (`epic-settings:public:games:{game} UPDATE`)
 
 ```json
@@ -39,7 +39,7 @@ Auth Required: Yes (`epic-settings:public:games:{game} UPDATE`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {
