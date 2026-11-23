@@ -2,8 +2,8 @@
 
 Updates the Game Service MCPs Host.
 
-URL: https://fn-hotconfigs.ogs.live.on.epicgames.com/hotconfigs/v2/:filename \
-Method: GET \
+URL: https://fn-hotconfigs.ogs.live.on.epicgames.com/hotconfigs/v2/:filename <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
@@ -20,7 +20,7 @@ Auth Required: No
 
 ---
 
-_Example Response (`livefn.json`)_
+*Example Response (`livefn.json`)*
 
 ```json
 {
