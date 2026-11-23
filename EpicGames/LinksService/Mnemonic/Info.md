@@ -1,7 +1,7 @@
 ## Links Service - Mnemonic Info
 
-URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/mnemonic/:mnemonic \
-Method: GET \
+URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/mnemonic/:mnemonic <br/>
+Method: GET <br/>
 Auth Required: Yes (`links:{namespace} READ`)
 
 ## Path Parameters
@@ -17,7 +17,7 @@ Auth Required: Yes (`links:{namespace} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
@@ -79,7 +79,7 @@ _Example Response_
 }
 ```
 
-_Example Response (with activation history)_
+*Example Response (with activation history)*
 
 ```json
 {

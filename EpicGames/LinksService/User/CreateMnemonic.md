@@ -1,7 +1,7 @@
 ## Links Service - Create User Mnemonic
 
-URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/author/:accountId \
-Method: POST \
+URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/author/:accountId <br/>
+Method: POST <br/>
 Auth Required: Yes (`links:{namespace}:{accountId} CREATE`)
 
 ```json
@@ -29,7 +29,7 @@ Auth Required: Yes (`links:{namespace}:{accountId} CREATE`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {
