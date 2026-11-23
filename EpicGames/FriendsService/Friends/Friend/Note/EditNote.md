@@ -1,18 +1,16 @@
 ## Friends Service - Set Note
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends/:friendId/note \
-Method: PUT \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends/:friendId/note <br/>
+Method: PUT <br/>
 Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ## Headers
 
 `Content-Type`: text/plain
 
----
-
 _The body is the new note text (min 3, max 255 characters)_
 
-```
+```text
 hello from lele's epic api docs
 ```
 
@@ -23,4 +21,4 @@ hello from lele's epic api docs
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204

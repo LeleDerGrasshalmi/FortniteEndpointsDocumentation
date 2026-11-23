@@ -1,7 +1,7 @@
 ## Friends Service - Remove Note
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends/:friendId/note \
-Method: DELETE \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends/:friendId/note <br/>
+Method: DELETE <br/>
 Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ## Path Parameters
@@ -11,4 +11,4 @@ Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204

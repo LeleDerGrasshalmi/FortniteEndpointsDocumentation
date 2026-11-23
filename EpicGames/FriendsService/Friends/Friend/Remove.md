@@ -1,7 +1,7 @@
 ## Friends Service - Decline Incoming / Cancel Outgoing / Remove Friend
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends/:friendId \
-Method: DELETE \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends/:friendId <br/>
+Method: DELETE <br/>
 Auth Required: Yes (`friends:{accountId} DELETE`)
 
 ## Path Parameters
@@ -11,9 +11,9 @@ Auth Required: Yes (`friends:{accountId} DELETE`)
 
 ---
 
-_Example Response (cancel outgoing, delete friend)_: Status 204
+*Example Response (cancel outgoing, delete friend)*: Status 204
 
-_Example Response (not a friend)_
+*Example Response (not a friend)*
 
 ```json
 {

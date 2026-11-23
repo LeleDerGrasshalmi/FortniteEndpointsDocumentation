@@ -1,7 +1,7 @@
 ## Friends Service - Block List (Old)
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/public/blocklist/:accountId \
-Method: GET \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/public/blocklist/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`blockList:{accountId} READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`blockList:{accountId} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

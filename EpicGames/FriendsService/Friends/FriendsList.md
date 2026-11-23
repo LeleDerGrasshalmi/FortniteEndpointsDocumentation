@@ -1,7 +1,7 @@
 ## Friends Service - Friends List
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends \
-Method: GET \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends <br/>
+Method: GET <br/>
 Auth Required: Yes (`friends:{accountId} READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`friends:{accountId} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [
