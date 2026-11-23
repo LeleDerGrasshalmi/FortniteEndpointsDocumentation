@@ -1,7 +1,7 @@
 ## IP-Data Service - Check Region
 
-URL: https://ip-data-service-prod.ecbc.live.use1a.on.epicgames.com/region/check \
-Method: POST \
+URL: https://ip-data-service-prod.ecbc.live.use1a.on.epicgames.com/region/check <br/>
+Method: POST <br/>
 Auth Required: Yes (`ipdata:region READ`)
 
 ```json
@@ -50,7 +50,7 @@ As Base64: `AF9yLAAsklQALFTy`
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

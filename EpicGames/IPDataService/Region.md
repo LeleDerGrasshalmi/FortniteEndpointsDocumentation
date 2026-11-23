@@ -1,12 +1,12 @@
 ## IP-Data Service - Region
 
-URL: https://ip-data-service-prod.ecbc.live.use1a.on.epicgames.com/region \
-Method: GET \
+URL: https://ip-data-service-prod.ecbc.live.use1a.on.epicgames.com/region <br/>
+Method: GET <br/>
 Auth Required: Yes (`ipdata:region READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {
