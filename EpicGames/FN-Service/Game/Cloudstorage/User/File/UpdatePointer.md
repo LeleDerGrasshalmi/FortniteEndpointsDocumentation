@@ -1,7 +1,7 @@
 ## FN Service - Cloudstorage: Update Pointer (Migrate to DSS)
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename/updatePointer \
-Method: POST \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename/updatePointer <br/>
+Method: POST <br/>
 Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} UPDATE`)
 
 ```json
@@ -31,7 +31,7 @@ Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} UPD
 
 ---
 
-_Example Response (success)_
+*Example Response (success)*
 
 ```json
 {
@@ -51,7 +51,7 @@ _Example Response (success)_
 }
 ```
 
-_Example Response (unsupported module)_
+*Example Response (unsupported module)*
 
 ```json
 {
@@ -64,7 +64,7 @@ _Example Response (unsupported module)_
 }
 ```
 
-_Example Response (mismatch)_
+*Example Response (mismatch)*
 
 ```json
 {

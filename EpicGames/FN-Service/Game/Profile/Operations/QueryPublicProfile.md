@@ -1,6 +1,6 @@
 # QueryPublicProfile
 
-**Description**: `Download the full profile of the specified account` \
+**Description**: `Download the full profile of the specified account` <br/>
 **Profiles**: `common_public`
 
 ## Body

@@ -1,6 +1,6 @@
 # RespecAlteration
 
-**Description**: `Change Perk` ([This](https://cdn.discordapp.com/attachments/842511284469366824/923163332427546674/unknown.png)) \
+**Description**: `Change Perk` ([This](https://cdn.discordapp.com/attachments/842511284469366824/923163332427546674/unknown.png)) <br/>
 **Profiles**: `campaign`
 
 ## Body

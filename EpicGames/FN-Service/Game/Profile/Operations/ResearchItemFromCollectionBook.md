@@ -1,6 +1,6 @@
 # ResearchItemFromCollectionBook
 
-**Description**: `Research Item from the Collection Book` ([This](https://imgur.com/a/8rtxQPu)) \
+**Description**: `Research Item from the Collection Book` ([This](https://imgur.com/a/8rtxQPu)) <br/>
 **Profiles**: `campaign`, `theater0`, `theater1`, `theater2`
 
 ## Body

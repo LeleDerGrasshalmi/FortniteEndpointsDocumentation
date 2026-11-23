@@ -1,7 +1,7 @@
 ## FN Service - Cloudstorage: Delete User File
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename \
-Method: DELETE \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename <br/>
+Method: DELETE <br/>
 Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} DELETE`)
 
 ## Path Parameters
@@ -11,4 +11,4 @@ Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} DEL
 
 ---
 
-_Example Response_: Status 200 (but no content)
+*Example Response*: Status 200 (but no content)

@@ -1,7 +1,8 @@
 # RestoreDeletedIsland
 
-**Description**: `Restores a deleted Creative Island` \
-**Profiles**: `creative` \
+**Description**: `Restores a deleted Creative Island` <br/>
+**Profiles**: `creative`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

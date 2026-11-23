@@ -1,7 +1,7 @@
 ## FN Service - Version Check
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/v2/versioncheck/:platform \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/v2/versioncheck/:platform <br/>
+Method: GET <br/>
 Auth Required: Yes (No special permission required)
 
 ## Path Parameters
@@ -14,17 +14,19 @@ Auth Required: Yes (No special permission required)
 
 ---
 
-_Example Response_
+*Example Response*
 
-```js
+```json
 {
-    "type": "NO_UPDATE" // Could be one of these depending on version state: NO_UPDATE, NOT_ENABLED, SOFT_UPDATE, HARD_UPDATE, APP_REDIRECT
+    "type": "NO_UPDATE"
 }
 ```
 
-_Example Response (If type is `APP_REDIRECT`)_
+`type`: Could be one of these depending on version state: NO_UPDATE, NOT_ENABLED, SOFT_UPDATE, HARD_UPDATE, APP_REDIRECT.
 
-```js
+*Example Response (If type is `APP_REDIRECT`)*
+
+```json
 {
     "type": "APP_REDIRECT",
     "appRedirect": "FortniteDevTesting"

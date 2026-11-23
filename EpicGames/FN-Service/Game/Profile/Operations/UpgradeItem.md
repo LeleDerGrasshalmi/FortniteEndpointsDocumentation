@@ -1,6 +1,6 @@
 # UpgradeItem
 
-**Description**: `Upgrade an Items Level (+ 1)` \
+**Description**: `Upgrade an Items Level (+ 1)` <br/>
 **Profiles**: `campaign`
 
 ## Body

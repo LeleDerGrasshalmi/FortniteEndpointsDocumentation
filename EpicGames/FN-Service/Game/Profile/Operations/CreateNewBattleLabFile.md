@@ -1,7 +1,8 @@
 # CreateNewBattleLabFile
 
-**Description**: `Creates a new Battle Lab File` \
-**Profiles**: `creative` \
+**Description**: `Creates a new Battle Lab File` <br/>
+**Profiles**: `creative`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

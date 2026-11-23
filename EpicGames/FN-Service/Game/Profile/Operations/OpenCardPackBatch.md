@@ -1,6 +1,6 @@
 # OpenCardPackBatch
 
-**Description**: `Open CardPacks [e.g. Llamas, Chests] (Bulk)` \
+**Description**: `Open CardPacks [e.g. Llamas, Chests] (Bulk)` <br/>
 **Profiles**: `campaign`
 
 ## Body

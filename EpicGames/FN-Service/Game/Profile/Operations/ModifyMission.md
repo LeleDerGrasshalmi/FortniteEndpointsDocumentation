@@ -1,7 +1,8 @@
 # ModifyMission
 
-**Description**: `Modify a Missions Dificulty` \
-**Profiles**: `campaign` \
+**Description**: `Modify a Missions Dificulty` <br/>
+**Profiles**: `campaign`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

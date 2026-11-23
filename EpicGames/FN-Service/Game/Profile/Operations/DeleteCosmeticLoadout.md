@@ -1,6 +1,6 @@
 # DeleteCosmeticLoadout
 
-**Description**: `Deletes a Cosmetic Loadout` \
+**Description**: `Deletes a Cosmetic Loadout` <br/>
 **Profiles**: `athena`, `campaign`
 
 ## Body

@@ -1,6 +1,6 @@
 # ActivateConsumable
 
-**Description**: `Activates an Consumable (Used to activate XP Boosts in StW)` ([This](https://cdn.discordapp.com/attachments/842511284469366824/922595037680922624/unknown.png)) \
+**Description**: `Activates an Consumable (Used to activate XP Boosts in StW)` ([This](https://cdn.discordapp.com/attachments/842511284469366824/922595037680922624/unknown.png)) <br/>
 **Profiles**: `campaign`
 
 ## Body

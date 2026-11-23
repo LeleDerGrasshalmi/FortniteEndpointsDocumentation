@@ -1,6 +1,6 @@
 # ChallengeBundleLevelUp
 
-**Description**: `Level up a Challenge Bundle` \
+**Description**: `Level up a Challenge Bundle` <br/>
 **Profiles**: `athena`
 
 ## Body

@@ -1,7 +1,8 @@
 # CreateNewIslandFromLinkCode
 
-**Description**: `Creates a Copy of an Island by its Island-Code` \
-**Profiles**: `creative` \
+**Description**: `Creates a Copy of an Island by its Island-Code` <br/>
+**Profiles**: `creative`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

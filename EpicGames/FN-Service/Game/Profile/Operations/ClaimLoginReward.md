@@ -1,6 +1,6 @@
 # ClaimLoginReward
 
-**Description**: `Claims the StW Daily Reward` \
+**Description**: `Claims the StW Daily Reward` <br/>
 **Profiles**: `campaign`
 
 ## Body

@@ -1,7 +1,7 @@
 ## FN Service - Keychain
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/keychain \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/keychain <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:storefront READ`)
 
 ## Query Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`fortnite:storefront READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

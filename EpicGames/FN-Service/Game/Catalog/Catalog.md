@@ -1,7 +1,7 @@
 ## FN Service - Storefront
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/catalog \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/catalog <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:storefront READ`)
 
 ## Headers
@@ -14,7 +14,7 @@ Auth Required: Yes (`fortnite:storefront READ`)
 
 ---
 
-_Example Response (heavily shortened)_
+*Example Response (heavily shortened)*
 
 ```json
 {

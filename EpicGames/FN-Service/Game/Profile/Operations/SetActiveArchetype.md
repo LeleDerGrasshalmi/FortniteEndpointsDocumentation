@@ -1,6 +1,6 @@
 # SetActiveArchetype
 
-**Description**: `Sets the active archetype (e.g. Primary Vehicle)` \
+**Description**: `Sets the active archetype (e.g. Primary Vehicle)` <br/>
 **Profiles**: `athena`
 
 ## Body

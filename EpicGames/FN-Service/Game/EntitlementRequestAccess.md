@@ -1,7 +1,7 @@
 ## FN Service - Request Entitlement Access
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storeaccess/v1/request_access/:accountId \
-Method: POST \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storeaccess/v1/request_access/:accountId <br/>
+Method: POST <br/>
 Auth Required: Yes (Fortnite Account Auth)
 
 ## Path Parameters
@@ -10,11 +10,11 @@ Auth Required: Yes (Fortnite Account Auth)
 
 ---
 
-_Example Response (Received Entitlement)_
+*Example Response (Received Entitlement)*
 
 `Status 204`
 
-_Example Response (Has Entitlement)_
+*Example Response (Has Entitlement)*
 
 ```json
 {

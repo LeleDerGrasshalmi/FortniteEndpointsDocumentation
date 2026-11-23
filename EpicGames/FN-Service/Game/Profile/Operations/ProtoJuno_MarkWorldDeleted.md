@@ -1,6 +1,6 @@
 # ProtoJuno_MarkWorldDeleted
 
-**Description**: `Relict Lego test operation, soft delete a world (operation got removed)` \
+**Description**: `Relict Lego test operation, soft delete a world (operation got removed)` <br/>
 **Profiles**: `proto_juno`
 
 ## Body

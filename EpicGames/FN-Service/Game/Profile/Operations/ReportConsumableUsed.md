@@ -1,7 +1,8 @@
 # ReportConsumableUsed
 
-**Description**: `Report Consumable used` \
-**Profiles**: `athena` \
+**Description**: `Report Consumable used` <br/>
+**Profiles**: `athena`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

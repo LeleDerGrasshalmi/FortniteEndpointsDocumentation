@@ -1,6 +1,6 @@
 # SetCosmeticLockerBanner
 
-**Description**: `Sets the Banner (Color & Icon) within a Loadout` \
+**Description**: `Sets the Banner (Color & Icon) within a Loadout` <br/>
 **Profiles**: `athena`, `campaign`
 
 ## Body

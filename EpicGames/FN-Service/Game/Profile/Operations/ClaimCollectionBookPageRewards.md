@@ -1,6 +1,6 @@
 # ClaimCollectionBookPageRewards
 
-**Description**: `Claims Collection Book Rewards` \
+**Description**: `Claims Collection Book Rewards` <br/>
 **Profiles**: `collection_book_people0`, `collection_book_schematics0`
 
 ## Body

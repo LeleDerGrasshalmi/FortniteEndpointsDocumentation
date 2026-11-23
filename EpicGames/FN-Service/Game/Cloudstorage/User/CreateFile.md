@@ -1,7 +1,7 @@
 ## FN Service - Cloudstorage: Create User File
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId \
-Method: POST \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId <br/>
+Method: POST <br/>
 Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{filename} CREATE`)
 
 File Content (Binary) - **File-Body**
@@ -16,13 +16,13 @@ File Content (Binary) - **File-Body**
 
 ---
 
-_Example Response (Created)_
+*Example Response (Created)*
 
 `ClientSettingsPS4.sav` (Unique Filename)
 
 <br/>
 
-_Example Response (Already Exists)_
+*Example Response (Already Exists)*
 
 ```json
 {

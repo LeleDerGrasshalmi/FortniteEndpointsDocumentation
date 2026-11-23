@@ -1,6 +1,6 @@
 # AthenaTrackQuests
 
-**Description**: `Tracks the given quests in BR` \
+**Description**: `Tracks the given quests in BR` <br/>
 **Profiles**: `athena`
 
 ## Body

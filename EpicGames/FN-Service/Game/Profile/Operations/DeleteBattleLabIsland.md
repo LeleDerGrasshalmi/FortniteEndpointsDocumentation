@@ -1,6 +1,6 @@
 # DeleteBattleLabIsland
 
-**Description**: `Deletes a Battle Lab Island` \
+**Description**: `Deletes a Battle Lab Island` <br/>
 **Profiles**: `creative`
 
 ## Body

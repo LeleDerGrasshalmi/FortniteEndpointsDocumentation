@@ -1,6 +1,7 @@
 # SetLoadoutShuffleEnabled
-**Description**: `Enables shuffle for the specified loadout section.` \
-**Profile**: `athena`
+
+**Description**: `Enables shuffle for the specified loadout section.` <br/>
+**Profiles**: `athena`
 
 ## Body
 

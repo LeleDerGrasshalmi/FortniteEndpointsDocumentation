@@ -1,7 +1,8 @@
 # AddToCollection
 
-**Description**: `Adds an item to the collection` \
-**Profiles**: `collections` \
+**Description**: `Adds an item to the collection` <br/>
+**Profiles**: `collections`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body
@@ -13,7 +14,7 @@
     "contextTags": [], // Context Gameplaytags if existing, e.g. Athena.Location.UnNamedPOI.Tandem.SpaceChimp
     "properties": {}, // See below
     "seenState": "", // Enum: EFortCollectedState
-    "count": 1 // catch count (fish) or talk count (npc)
+    "count": 1 // Catch count (fish) or talk count (npc)
 }
 ```
 

@@ -1,7 +1,8 @@
 # DeleteIsland
 
-**Description**: `Deletes a Creative Island` \
-**Profiles**: `creative` \
+**Description**: `Deletes a Creative Island` <br/>
+**Profiles**: `creative`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

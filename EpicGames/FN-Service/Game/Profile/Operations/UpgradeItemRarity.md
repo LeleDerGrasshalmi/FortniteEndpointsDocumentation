@@ -1,6 +1,6 @@
 # UpgradeItemRarity
 
-**Description**: `Upgrade a Heroes or Schematics Rarity in StW` \
+**Description**: `Upgrade a Heroes or Schematics Rarity in StW` <br/>
 **Profiles**: `campaign`
 
 ## Body

@@ -1,13 +1,13 @@
 # ActivateDelilahShopToken
 
-**Description**: `Activates Pirate Shop` \
+**Description**: `Activates Pirate Shop` <br/>
 **Profiles**: `common_core`
 
 ## Body
 
 ```js
 {
-    "tokenTemplateId": "" // check TemplateIds below
+    "tokenTemplateId": "" // Check TemplateIds below
 }
 ```
 

@@ -1,7 +1,8 @@
 # UpdateQuests
 
-**Description**: `Updates Quests (BULK)` \
-**Profiles**: `athena`, `campaign` \
+**Description**: `Updates Quests (BULK)` <br/>
+**Profiles**: `athena`, `campaign`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

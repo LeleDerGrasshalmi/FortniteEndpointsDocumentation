@@ -1,7 +1,7 @@
 ## FN Service - Cloudstorage: Delete System File
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system/:uniqueFilename \
-Method: DELETE \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system/:uniqueFilename <br/>
+Method: DELETE <br/>
 Auth Required: Yes (`fortnite:cloudstorage:system:{uniqueFilename} DELETE`)
 
 ## Path Parameters
@@ -10,6 +10,6 @@ Auth Required: Yes (`fortnite:cloudstorage:system:{uniqueFilename} DELETE`)
 
 ---
 
-_Example Response_:
+*Example Response*:
 
 > Unknown, no public client has this permission, but likely the same as [User File Delete](../../User/File/Delete.md)

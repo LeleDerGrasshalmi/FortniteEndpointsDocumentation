@@ -1,6 +1,6 @@
 # PurchaseMultipleCatalogEntries
 
-**Description**: `Purchase Catalog Entries (Bulk)` \
+**Description**: `Purchase Catalog Entries (Bulk)` <br/>
 **Profiles**: `common_core`
 
 ## Body

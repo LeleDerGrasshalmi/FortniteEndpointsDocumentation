@@ -1,6 +1,6 @@
 # ExecuteTerminalCommand
 
-**Description**: `Submit Lobby Hack (C7S4 - Override)` \
+**Description**: `Submit Lobby Hack (C7S4 - Override)` <br/>
 **Profiles**: `athena`
 
 ## Body

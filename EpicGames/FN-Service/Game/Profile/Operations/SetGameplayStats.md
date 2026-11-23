@@ -1,6 +1,6 @@
 # SetGameplayStats
 
-**Description**: `Set Gameplay Stats` \
+**Description**: `Set Gameplay Stats` <br/>
 **Profiles**: `campaign`
 
 ## Body

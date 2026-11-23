@@ -1,13 +1,12 @@
 ## FN Service - Update Privacy Settings
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/privacy/account/:accountId \
-Method: POST \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/privacy/account/:accountId <br/>
+Method: POST <br/>
 Auth Required: Yes (`fortnite:profile:{accountId}:commands ALL`)
 
-```js
+```json
 {
   "optOutOfPublicLeaderboards": true,
-  "optOutOfFriendsLeaderboards": false, // obsolete
   "accountId": "94b1569506b04f9f8557af611e8c5e47"
 }
 ```
@@ -19,12 +18,11 @@ Auth Required: Yes (`fortnite:profile:{accountId}:commands ALL`)
 ## Parameters
 
 `optOutOfPublicLeaderboards`: If Stats are public or not <br/>
-`optOutOfFriendsLeaderboards`: Obsolete Setting, used handle if friends could fetch your stats (if opted out of public) <br/>
 `accountId`: (optional), if specified needs to be your Account Id
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

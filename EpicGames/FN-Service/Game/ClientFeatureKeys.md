@@ -1,7 +1,7 @@
 ## FN Service - Client Feature Keys
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/clientfeaturekeys/:accountId \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/clientfeaturekeys/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:profile:{accountId}:commands UPDATE`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`fortnite:profile:{accountId}:commands UPDATE`)
 
 ---
 
-_Example Response (None)_
+*Example Response (None)*
 
 ```json
 {

@@ -1,6 +1,6 @@
 # SetHomebaseBanner
 
-**Description**: `Set the Homebase Banner Icon and Color` \
+**Description**: `Set the Homebase Banner Icon and Color` <br/>
 **Profiles**: `common_public`
 
 ## Body

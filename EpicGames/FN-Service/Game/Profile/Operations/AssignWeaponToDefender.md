@@ -1,6 +1,6 @@
 # AssignWeaponToDefender
 
-**Description**: `Assigns a Weapon Schematic to a Defender` \
+**Description**: `Assigns a Weapon Schematic to a Defender` <br/>
 **Profiles**: `campaign`
 
 ## Body

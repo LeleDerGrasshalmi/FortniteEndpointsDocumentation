@@ -1,6 +1,6 @@
 # RecycleItemBatch
 
-**Description**: `Recycle Items (Bulk)` \
+**Description**: `Recycle Items (Bulk)` <br/>
 **Profiles**: `campaign`
 
 ## Body

@@ -1,6 +1,6 @@
 # MarkCollectedItemsSeen
 
-**Description**: `Mark Collection Items as seen (Bulk)` \
+**Description**: `Mark Collection Items as seen (Bulk)` <br/>
 **Profiles**: `collections`
 
 ## Body

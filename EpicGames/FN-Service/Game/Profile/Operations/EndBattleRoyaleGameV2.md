@@ -1,7 +1,8 @@
 # EndBattleRoyaleGameV2
 
-**Description**: `End a Battle Royale Game (V2)` \
-**Profiles**: `athena` \
+**Description**: `End a Battle Royale Game (V2)` <br/>
+**Profiles**: `athena`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

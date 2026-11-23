@@ -1,7 +1,7 @@
 ## FN Service - Cloudstorage: Update User File
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename \
-Method: PUT \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename <br/>
+Method: PUT <br/>
 Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} UPDATE`)
 
 File Content (Binary) - **File-Body**
@@ -13,7 +13,7 @@ File Content (Binary) - **File-Body**
 
 ---
 
-_Example Response_
+*Example Response*
 
 > If the file got created with the request, the response is the `uniqueFilename` as plain text, <br/>
 > otherwhise it just returns status 200 with no content

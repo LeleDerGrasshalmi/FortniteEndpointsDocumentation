@@ -1,6 +1,6 @@
 # DestroyWorldItems
 
-**Description**: `Destroy Items from the Backpack, you dont get ressources (Bulk)` \
+**Description**: `Destroy Items from the Backpack, you dont get ressources (Bulk)` <br/>
 **Profiles**: `outpost0`, `theater0`, `theater1`, `theater2`
 
 ## Body

@@ -1,9 +1,10 @@
 # ClaimMissionAlertRewards
 
-**Description**: `Claims the Missions Alerts (pendingMissionAlertRewards)` \
+**Description**: `Claims the Missions Alerts (pendingMissionAlertRewards)` <br/>
 **Profiles**: `campaign`
 
 ## Body
+
 ```js
 {}
 ```

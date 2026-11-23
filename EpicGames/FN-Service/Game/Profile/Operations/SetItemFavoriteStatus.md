@@ -1,9 +1,10 @@
 # SetItemFavoriteStatus
 
-**Description**: `Favorite an Item` \
+**Description**: `Favorite an Item` <br/>
 **Profiles**: `athena`, `campaign`
 
 ## Body
+
 ```js
 {
    "targetItemId": "", // Guid of the item

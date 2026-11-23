@@ -1,6 +1,6 @@
 # AssignWorkerToSquadBatch
 
-**Description**: `Set an Gadget to an Loadout (Bulk)` \
+**Description**: `Set an Gadget to an Loadout (Bulk)` <br/>
 **Profiles**: `campaign`
 
 ## Body

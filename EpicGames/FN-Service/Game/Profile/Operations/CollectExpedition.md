@@ -1,6 +1,6 @@
 # CollectExpedition
 
-**Description**: `Collect an Expedition` \
+**Description**: `Collect an Expedition` <br/>
 **Profiles**: `campaign`
 
 ## Body

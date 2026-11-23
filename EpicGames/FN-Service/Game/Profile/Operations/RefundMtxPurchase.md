@@ -1,6 +1,6 @@
 # RefundMtxPurchase
 
-**Description**: `Refund an offer purchased with V-Bucks` \
+**Description**: `Refund an offer purchased with V-Bucks` <br/>
 **Profiles**: `common_core`
 
 ## Body

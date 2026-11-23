@@ -1,6 +1,6 @@
 # AssignDefenderToLoadout
 
-**Description**: `Assigns a Defender to a Defender slot in a Loadout` \
+**Description**: `Assigns a Defender to a Defender slot in a Loadout` <br/>
 **Profiles**: `campaign`
 
 ## Body

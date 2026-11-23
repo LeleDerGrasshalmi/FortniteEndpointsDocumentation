@@ -1,12 +1,12 @@
 ## FN Service - Calendar
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/calendar/v1/timeline \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/calendar/v1/timeline <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:calendar READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

@@ -1,7 +1,8 @@
 # CreateNewIsland
 
-**Description**: `Creates a new Creative Island` \
-**Profiles**: `creative` \
+**Description**: `Creates a new Creative Island` <br/>
+**Profiles**: `creative`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

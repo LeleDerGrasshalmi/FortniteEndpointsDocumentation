@@ -1,7 +1,8 @@
 # DuplicateIsland
 
-**Description**: `Duplicates a Creative Island` \
-**Profiles**: `creative` \
+**Description**: `Duplicates a Creative Island` <br/>
+**Profiles**: `creative`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

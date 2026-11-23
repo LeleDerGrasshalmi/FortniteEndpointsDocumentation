@@ -1,6 +1,6 @@
 # ClaimSubscriptionRewards
 
-**Description**: `Claims a Subscriptions Rewards (e.g. Fortnite Crew)` \
+**Description**: `Claims a Subscriptions Rewards (e.g. Fortnite Crew)` <br/>
 **Profiles**: `common_core`
 
 ## Body

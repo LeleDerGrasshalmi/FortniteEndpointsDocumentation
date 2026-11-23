@@ -1,6 +1,6 @@
 # UpgradeItemBulk
 
-**Description**: `Evolve an Item (upgrade its Tier)` \
+**Description**: `Evolve an Item (upgrade its Tier)` <br/>
 **Profiles**: `campaign`
 
 ## Body

@@ -1,6 +1,6 @@
 # AssignHeroToLoadout
 
-**Description**: `Sets an Hero to an Loadout` \
+**Description**: `Sets an Hero to an Loadout` <br/>
 **Profiles**: `campaign`
 
 ## Body

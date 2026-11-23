@@ -1,6 +1,6 @@
 # ClientQuestLogin
 
-**Description**: `Generates Quests, if not already done` \
+**Description**: `Generates Quests, if not already done` <br/>
 **Profiles**: `athena`, `campaign`
 
 ## Body

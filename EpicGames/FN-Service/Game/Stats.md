@@ -1,7 +1,7 @@
 ## FN Service - User Stats (V1)
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/stats/accountId/:accountId/bulk/window/:windowId \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/stats/accountId/:accountId/bulk/window/:windowId <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Path Parameters
@@ -13,7 +13,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

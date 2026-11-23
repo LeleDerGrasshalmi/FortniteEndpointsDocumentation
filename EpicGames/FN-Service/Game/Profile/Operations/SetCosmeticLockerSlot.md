@@ -1,6 +1,6 @@
 # SetCosmeticLockerSlot
 
-**Description**: `Set a Cosmetic with a specified index to in a specified Locker` \
+**Description**: `Set a Cosmetic with a specified index to in a specified Locker` <br/>
 **Profiles**: `athena`, `campaign`
 
 ## Body
