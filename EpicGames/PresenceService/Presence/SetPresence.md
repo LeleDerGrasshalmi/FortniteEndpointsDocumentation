@@ -1,7 +1,7 @@
 ## Presence Service - Set Presence
 
-URL: https://presence-public-service-prod.ol.epicgames.com/presence/api/v1/:namespace/:accountId/presence/:connectionId \
-Method: PATCH \
+URL: https://presence-public-service-prod.ol.epicgames.com/presence/api/v1/:namespace/:accountId/presence/:connectionId <br/>
+Method: PATCH <br/>
 Auth Required: Yes (`presence:{namespace}:{accountId} UPDATE`)
 
 > Also available on eos under `https://api.epicgames.dev/epic/presence/v1/:deploymentId/:accountId/presence/:connectionId`
@@ -14,7 +14,7 @@ Auth Required: Yes (`presence:{namespace}:{accountId} UPDATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
