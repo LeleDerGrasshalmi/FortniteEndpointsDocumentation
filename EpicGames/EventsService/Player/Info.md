@@ -1,7 +1,7 @@
 ## Events Service - Player Info
 
-URL: https://events-public-service-live.ol.epicgames.com/api/v1/players/:gameId/:accountId \
-Method: GET \
+URL: https://events-public-service-live.ol.epicgames.com/api/v1/players/:gameId/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

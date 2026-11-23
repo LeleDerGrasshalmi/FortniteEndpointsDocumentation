@@ -2,8 +2,8 @@
 
 This endpoint is used for retrieving the friends leaderboard in-game.
 
-URL: https://events-public-service-live.ol.epicgames.com/api/v2/games/:gameId/leaderboards/:eventId/:eventWindowId/scores \
-Method: POST \
+URL: https://events-public-service-live.ol.epicgames.com/api/v2/games/:gameId/leaderboards/:eventId/:eventWindowId/scores <br/>
+Method: POST <br/>
 Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 
 ```json
@@ -31,7 +31,7 @@ Does not work for events before Season 22!
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

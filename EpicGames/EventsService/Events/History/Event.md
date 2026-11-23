@@ -1,13 +1,14 @@
 ## Events Service - My Event History (All Event Windows)
 
-URL: https://events-public-service-live.ol.epicgames.com/api/v1/events/:gameId/:eventId/history/:accountId \
-Method: GET \
+URL: https://events-public-service-live.ol.epicgames.com/api/v1/events/:gameId/:eventId/history/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 
 ## Path Parameters
 
 `gameId`: Fortnite <br/>
-`eventId`: e.g. epicgames_S23_Lettuce (Mr Beast Extreme Challenge)
+`eventId`: e.g. epicgames_S23_Lettuce (Mr Beast Extreme Challenge) <br/>
+`accountId`: The account ID.
 
 ## Query Parameters
 
@@ -15,7 +16,7 @@ Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [
