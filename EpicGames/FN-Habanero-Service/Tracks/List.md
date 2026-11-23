@@ -1,21 +1,21 @@
 ## FN - Habanero Service: Tracks List
 
-URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/:namespace/tracks/query \
-Method: GET \
+URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/:namespace/tracks/query <br/>
+Method: GET <br/>
 Auth Required: Yes (`rankings:{namespace}:tracks READ`)
 
 ## Path Parameters
 
 `namespace`: `fortnite`
 
-# Query Parameters
+## Query Parameters
 
 `endsAfter`: (optional), ISO Date (Filteres that the tracks end after that date) <br/>
 `rankingType`: (optional) only include a certain ranking type, see [info](../README.md) for possible values
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

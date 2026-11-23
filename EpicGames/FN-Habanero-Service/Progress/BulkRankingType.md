@@ -1,7 +1,7 @@
 ## FN - Habanero Service: Track Progress for Accounts by Ranking Type (Bulk)
 
-URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/:namespace/trackprogress/bulkByRankingType \
-Method: POST \
+URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/:namespace/trackprogress/bulkByRankingType <br/>
+Method: POST <br/>
 Auth Required: Yes (`rankings:{namespace}:playerprogress READ`)
 
 ```json
@@ -25,7 +25,7 @@ Auth Required: Yes (`rankings:{namespace}:playerprogress READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

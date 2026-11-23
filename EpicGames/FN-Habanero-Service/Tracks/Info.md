@@ -1,7 +1,7 @@
 ## FN - Habanero Service: Track Info
 
-URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/:namespace/tracks/byGUID/:trackguid \
-Method: GET \
+URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/:namespace/tracks/byGUID/:trackguid <br/>
+Method: GET <br/>
 Auth Required: Yes (`rankings:{namespace}:tracks READ`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`rankings:{namespace}:tracks READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {
