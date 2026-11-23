@@ -1,7 +1,7 @@
 ## FN - Discovery Service: Creator Islands
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/creator/page/:creatorAccountId \
-Method: GET \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/creator/page/:creatorAccountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`discovery:{accountId}:creator:page READ` - Your Account Id)
 
 ## Path Parameters
@@ -16,7 +16,7 @@ Auth Required: Yes (`discovery:{accountId}:creator:page READ` - Your Account Id)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

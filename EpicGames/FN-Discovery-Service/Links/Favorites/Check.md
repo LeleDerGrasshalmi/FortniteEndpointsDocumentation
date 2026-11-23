@@ -1,7 +1,7 @@
 ## FN - Discovery Service: Check Links Favorite Status
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/favorites/:accountId/check \
-Method: POST \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/favorites/:accountId/check <br/>
+Method: POST <br/>
 Auth Required: Yes (`discovery:{accountId}:links:favorite READ`)
 
 ```json
@@ -20,7 +20,7 @@ Auth Required: Yes (`discovery:{accountId}:links:favorite READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 Returns all links that `are already favorited`, so in the example I have `1111-1111-1111` favorited and `6276-3568-1807` is not favorited.
 

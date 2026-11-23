@@ -1,7 +1,7 @@
 ## FN - Discovery Service: Add Recently-Played Link
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/history/:accountId/:linkCode \
-Method: POST \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/history/:accountId/:linkCode <br/>
+Method: POST <br/>
 Auth Required: Yes (`discovery:{accountId}:links:history CREATE`)
 
 ## Path Parameters
@@ -11,6 +11,6 @@ Auth Required: Yes (`discovery:{accountId}:links:history CREATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 `Status 204`

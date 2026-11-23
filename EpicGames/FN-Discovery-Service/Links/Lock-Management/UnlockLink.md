@@ -1,7 +1,7 @@
 ## FN - Discovery Service: Unlock Link
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/unlock/:accountId/:linkCode \
-Method: PUT \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/unlock/:accountId/:linkCode <br/>
+Method: PUT <br/>
 Auth Required: Yes (`discovery:{accountId}:links:lock-management UPDATE`)
 
 ```json
@@ -23,11 +23,11 @@ Auth Required: Yes (`discovery:{accountId}:links:lock-management UPDATE`)
 
 ---
 
-_Example Response (Success)_
+*Example Response (Success)*
 
 Status 204
 
-_Example Response (No IARC data set)_
+*Example Response (No IARC data set)*
 
 ```json
 {
@@ -36,7 +36,7 @@ _Example Response (No IARC data set)_
 }
 ```
 
-_Example Response (Invalid pin)_
+*Example Response (Invalid pin)*
 
 ```json
 {

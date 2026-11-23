@@ -1,7 +1,7 @@
 ## FN - Discovery Service: Add Favorite Link
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/favorites/:accountId/:linkCode \
-Method: POST \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/favorites/:accountId/:linkCode <br/>
+Method: POST <br/>
 Auth Required: Yes (`discovery:{accountId}:links:favorite CREATE`)
 
 ## Path Parameters
@@ -11,6 +11,6 @@ Auth Required: Yes (`discovery:{accountId}:links:favorite CREATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 `Status 204`

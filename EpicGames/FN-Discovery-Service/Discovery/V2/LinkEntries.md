@@ -1,7 +1,7 @@
 ## FN - Discovery Service: Discovery Link Entries
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v2/discovery/link-entries \
-Method: POST \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v2/discovery/link-entries <br/>
+Method: POST <br/>
 Auth Required: Yes (`discovery:surface:query READ`)
 
 ```json
@@ -16,7 +16,7 @@ Auth Required: Yes (`discovery:surface:query READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
