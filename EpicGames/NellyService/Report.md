@@ -1,7 +1,7 @@
 ## Nelly Service - Report
 
-URL: https://nelly-service-prod.ecbc.live.use1a.on.epicgames.com/v1/report \
-Method: POST \
+URL: https://nelly-service-prod.ecbc.live.use1a.on.epicgames.com/v1/report <br/>
+Method: POST <br/>
 Auth Required: No
 
 > You can use any of the available provider hosts in the [README](README.md)
@@ -64,4 +64,4 @@ Auth Required: No
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204
