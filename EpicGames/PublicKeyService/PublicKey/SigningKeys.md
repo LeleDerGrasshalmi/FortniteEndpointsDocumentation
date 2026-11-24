@@ -2,7 +2,7 @@
 
 URL: https://publickey-service-prod.ecbc.live.use1a.on.epicgames.com/publickey/v2/publickey/signing <br/>
 Method: GET <br/>
-Auth Required: Yes (Account Auth)
+Auth Required: No
 
 ---
 
