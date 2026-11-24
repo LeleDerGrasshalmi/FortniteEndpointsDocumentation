@@ -10,7 +10,9 @@ Auth Required: Yes (`epic-settings:public:games:{game} READ`)
 
 ## Query Parameters
 
-`game`: For Fortnite it's `fn`
+`game`: For Fortnite it's `fn` <br/>
+`namespace`: (Optional) Comma separated namespaces, e.g. `chat,party` <br/>
+`settingName`: (Optional) Comma separated setting names, e.g. `text,voice`
 
 ---
 
