@@ -1,7 +1,7 @@
 ## FN - Discovery Service: Recently-Played Links
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/history/:accountId \
-Method: GET \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/history/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`discovery:{accountId}:links:history READ`)
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes (`discovery:{accountId}:links:history READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

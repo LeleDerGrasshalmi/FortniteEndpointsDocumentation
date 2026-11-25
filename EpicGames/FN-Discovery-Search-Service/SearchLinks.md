@@ -1,7 +1,7 @@
 ## FN - Discovery Search Service - Search Links
 
-URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/island-search/v1/search \
-Method: POST \
+URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/island-search/v1/search <br/>
+Method: POST <br/>
 Auth Required: Yes (`discovery:search:{accountId} READ`)
 
 ```json
@@ -25,7 +25,7 @@ Auth Required: Yes (`discovery:search:{accountId} READ`)
 `search`: Search Query Input <br/>
 `orderBy`: What key the entries should be ordered by <br/>
 `ratingAuthority`: The Authority used by the client e.g. `USK` <br/>
-`rating`: The Rating expected by the client for the given authority, e.g. `USK_AGE_12` for USK 12+
+`rating`: The Rating expected by the client for the given authority, e.g. `USK_AGE_12` for USK 12+ <br/>
 `page`: Paging
 
 ## Query Parameters
@@ -34,7 +34,7 @@ Auth Required: Yes (`discovery:search:{accountId} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

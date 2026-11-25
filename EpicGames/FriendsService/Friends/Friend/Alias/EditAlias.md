@@ -1,18 +1,16 @@
 ## Friends Service - Edit Alias
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends/:friendId/alias \
-Method: PUT \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/friends/:friendId/alias <br/>
+Method: PUT <br/>
 Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ## Headers
 
 `Content-Type`: text/plain
 
----
-
 _The body is the new alias (min 3, max 16 characters)_
 
-```
+```text
 lele test
 ```
 
@@ -23,9 +21,9 @@ lele test
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204
 
-_Example Response (invalid alias)_
+*Example Response (invalid alias)*
 
 ```json
 {

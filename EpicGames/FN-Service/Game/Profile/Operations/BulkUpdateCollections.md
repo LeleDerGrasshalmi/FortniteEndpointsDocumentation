@@ -1,7 +1,8 @@
 # BulkUpdateCollections
 
-**Description**: `Update Collections (Bulk)` \
-**Profiles**: `collections` \
+**Description**: `Update Collections (Bulk)` <br/>
+**Profiles**: `collections`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

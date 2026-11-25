@@ -1,6 +1,6 @@
 # ApplyVote
 
-**Description**: `Applies a Vote for an election` \
+**Description**: `Applies a Vote for an election` <br/>
 **Profiles**: `athena`
 
 ## Body

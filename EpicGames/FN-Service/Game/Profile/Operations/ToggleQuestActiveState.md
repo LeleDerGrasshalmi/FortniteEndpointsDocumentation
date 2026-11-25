@@ -1,6 +1,6 @@
 # ToggleQuestActiveState
 
-**Description**: `Toggles the activate state for the quests` \
+**Description**: `Toggles the activate state for the quests` <br/>
 **Profiles**: `athena`
 
 ## Body

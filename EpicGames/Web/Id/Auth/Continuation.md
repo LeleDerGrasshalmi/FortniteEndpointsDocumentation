@@ -1,7 +1,7 @@
 ## Id Web - Continuation Info
 
-URL: https://www.epicgames.com/id/api/continuation/:continuationToken \
-Method: GET \
+URL: https://www.epicgames.com/id/api/continuation/:continuationToken <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

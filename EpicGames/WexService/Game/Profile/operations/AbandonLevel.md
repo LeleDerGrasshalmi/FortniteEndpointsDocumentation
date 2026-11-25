@@ -1,6 +1,6 @@
 # AbandonLevel
 
-**Description**: `Abandon an active level without claiming rewards` \
+**Description**: `Abandon an active level without claiming rewards` <br/>
 **Profiles**: `levels`
 
 ## Body

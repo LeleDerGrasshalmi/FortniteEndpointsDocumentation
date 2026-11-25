@@ -1,6 +1,6 @@
 # RefreshExpeditions
 
-**Description**: `Generate Expeditions` \
+**Description**: `Generate Expeditions` <br/>
 **Profiles**: `campaign`
 
 ## Body

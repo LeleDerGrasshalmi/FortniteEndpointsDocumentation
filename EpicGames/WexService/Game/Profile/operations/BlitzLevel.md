@@ -1,6 +1,6 @@
 # BlitzLevel
 
-**Description**: `Blitz's a mine level` \
+**Description**: `Blitz's a mine level` <br/>
 **Profiles**: `levels`
 
 ## Body

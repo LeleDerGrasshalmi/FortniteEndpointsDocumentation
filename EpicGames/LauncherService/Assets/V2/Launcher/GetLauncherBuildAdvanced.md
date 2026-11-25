@@ -1,7 +1,7 @@
 ## Launcher Service - Assets (V2): Launcher Build for Platform (Advanced)
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/launcher/label/:label \
-Method: POST \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/launcher/label/:label <br/>
+Method: POST <br/>
 Auth Required: Yes (No perm required)
 
 ```json
@@ -55,7 +55,7 @@ Auth Required: Yes (No perm required)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

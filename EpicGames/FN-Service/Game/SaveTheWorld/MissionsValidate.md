@@ -1,7 +1,7 @@
 ## FN Service - Validate STW Missions
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/world/validate \
-Method: POST \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/world/validate <br/>
+Method: POST <br/>
 Auth Required: Yes (`fortnite:fortnite_role:dedicated_server ALL`)
 
 ```json
@@ -17,9 +17,10 @@ Auth Required: Yes (`fortnite:fortnite_role:dedicated_server ALL`)
 ## Query Parameters
 
 `sessionId`: The sessionId to validate
+
 ---
 
-_Example Response (Mission is Valid)_
+*Example Response (Mission is Valid)*
 
 ```json
 {

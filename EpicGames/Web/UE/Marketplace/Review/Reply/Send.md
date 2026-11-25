@@ -1,7 +1,7 @@
 ## UE Marketplace - Send Review Reply
 
-URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/reply \
-Method: POST \
+URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/reply <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -21,7 +21,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

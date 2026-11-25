@@ -1,8 +1,13 @@
 ## EGS Platform Service - Product Offer Purchasability
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/products/:productId/offers/:offerId/purchasability \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/products/:productId/offers/:offerId/purchasability <br/>
+Method: GET <br/>
 Auth Required: Yes
+
+## Path Parameters
+
+`productId`: self explaining, e.g. `prod-fn` for Fortnite <br/>
+`offerId`: self explaining, e.g. `09176f4ff7564bbbb499bbe20bd6348f` for the Main Fortnite Offer
 
 ## Query Parameters
 
@@ -10,14 +15,9 @@ Auth Required: Yes
 `locale`: (required) e.g. 'de' (German), fallback is 'en' <br/>
 `store`: (required) valid Catalog Service Stores, e.g. `EGS`
 
-## Path Parameters
-
-`productId`: self explaining, e.g. `prod-fn` for Fortnite <br/>
-`offerId`: self explaining, e.g. `09176f4ff7564bbbb499bbe20bd6348f` for the Main Fortnite Offer
-
 ---
 
-_Example Response (unavailable)_
+*Example Response (unavailable)*
 
 ```json
 {
@@ -32,7 +32,7 @@ _Example Response (unavailable)_
 }
 ```
 
-_Example Response (available)_
+*Example Response (available)*
 
 ```json
 {

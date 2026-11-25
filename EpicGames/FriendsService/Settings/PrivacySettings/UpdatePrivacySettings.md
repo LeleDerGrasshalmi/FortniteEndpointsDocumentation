@@ -1,7 +1,7 @@
 ## Friends Service - Update Privacy Settings
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/settings \
-Method: PATCH \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/settings <br/>
+Method: PATCH <br/>
 Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ```json
@@ -22,7 +22,7 @@ Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

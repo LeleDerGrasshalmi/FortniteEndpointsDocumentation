@@ -1,7 +1,7 @@
 ## Party Service - Join
 
-URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/members/:accountId/join \
-Method: POST \
+URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/members/:accountId/join <br/>
+Method: POST <br/>
 Auth Required: Yes (`social:party`)
 
 ```json
@@ -35,7 +35,9 @@ Auth Required: Yes (`social:party`)
 `urn:epic:member:dn_s`: Your Epic Display Name <br/>
 `urn:epic:member:joinrequestusers_j`: An stringified users array with your Epic ID, Display Name, Platform, & Cross-Play Settings
 
-_Example Response_
+---
+
+*Example Response*
 
 ```json
 {
@@ -44,7 +46,7 @@ _Example Response_
 }
 ```
 
-_Example Response (Party not found)_
+*Example Response (Party not found)*
 
 ```json
 {

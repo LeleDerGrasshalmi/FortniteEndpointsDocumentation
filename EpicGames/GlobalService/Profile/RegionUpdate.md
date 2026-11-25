@@ -1,7 +1,7 @@
 ## Global Service - Profile: Modify Region
 
-URL: https://global-profile-service.game-social.epicgames.com/profile/play_region \
-Method: PUT \
+URL: https://global-profile-service.game-social.epicgames.com/profile/play_region <br/>
+Method: PUT <br/>
 Auth Required: Yes (No Perm required)
 
 ```json
@@ -13,7 +13,7 @@ Auth Required: Yes (No Perm required)
 
 ## Parameters
 
-`namespace`: e.g. `Fortnite` \
+`namespace`: e.g. `Fortnite` <br/>
 `play_region`:
 
 - UNDEFINED_REGION
@@ -28,7 +28,7 @@ Auth Required: Yes (No Perm required)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {}

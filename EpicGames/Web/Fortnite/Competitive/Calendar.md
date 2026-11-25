@@ -1,12 +1,12 @@
 ## Fortnite Website - Competitive Calendar
 
-URL: https://www.fortnite.com/competitive/en-US/api/calendar \
-Method: POST \
+URL: https://www.fortnite.com/competitive/en-US/api/calendar <br/>
+Method: POST <br/>
 Auth Required: No
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

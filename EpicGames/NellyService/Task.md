@@ -1,14 +1,14 @@
 ## Nelly Service - Task
 
-URL: https://nelly-service-prod.ecbc.live.use1a.on.epicgames.com/v1/task \
-Method: GET \
+URL: https://nelly-service-prod.ecbc.live.use1a.on.epicgames.com/v1/task <br/>
+Method: GET <br/>
 Auth Required: No
 
 > You can use any of the available provider hosts in the [README](README.md)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

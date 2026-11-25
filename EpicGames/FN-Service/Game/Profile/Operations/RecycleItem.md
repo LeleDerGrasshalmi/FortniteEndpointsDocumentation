@@ -1,6 +1,6 @@
 # RecycleItem
 
-**Description**: `Recycle a Item` \
+**Description**: `Recycle a Item` <br/>
 **Profiles**: `campaign`
 
 ## Body

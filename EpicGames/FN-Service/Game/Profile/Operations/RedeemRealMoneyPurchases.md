@@ -1,6 +1,6 @@
 # RedeemRealMoneyPurchases
 
-**Description**: `Claims Real Money Purchase Items` \
+**Description**: `Claims Real Money Purchase Items` <br/>
 **Profiles**: `common_core`
 
 ## Body

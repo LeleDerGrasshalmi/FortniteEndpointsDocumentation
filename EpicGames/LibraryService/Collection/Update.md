@@ -1,7 +1,7 @@
 ## Library Service - Get Collections Items
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/collection/account/:accountId \
-Method: PUT \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/collection/account/:accountId <br/>
+Method: PUT <br/>
 Auth Required: Yes (`library:public:{accountId}:collection UPDATE`)
 
 ```json
@@ -21,7 +21,7 @@ Auth Required: Yes (`library:public:{accountId}:collection UPDATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

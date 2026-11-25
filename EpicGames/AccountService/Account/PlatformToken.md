@@ -1,7 +1,7 @@
 ## Account Service - Get Platform Token
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/platformToken/:externalAuthType/:clientId \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/platformToken/:externalAuthType/:clientId <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:account READ`)
 
 ```json
@@ -22,7 +22,7 @@ Auth Required: Yes (`account:public:account READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

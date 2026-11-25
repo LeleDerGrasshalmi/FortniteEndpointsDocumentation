@@ -1,14 +1,16 @@
 ## Account Service - Auth: Continuation Token Info
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/continuationToken/:continuationToken \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/continuationToken/:continuationToken <br/>
+Method: GET <br/>
 Auth Required: Yes (`account:oauth:continuationToken READ`)
 
 ## Path Parameters
 
 `continuationToken`: 16 Bytes in hex token
 
-_Example Response_
+---
+
+*Example Response*
 
 ```json
 {

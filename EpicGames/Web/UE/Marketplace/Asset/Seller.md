@@ -1,16 +1,16 @@
 ## UE Marketplace - Seller Info
 
-URL: https://www.unrealengine.com/marketplace/api/assets/seller/:username \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/assets/seller/:username <br/>
+Method: GET <br/>
 Auth Required: No
 
-### Path Parameters
+## Path Parameters
 
 `username`: Username of seller
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

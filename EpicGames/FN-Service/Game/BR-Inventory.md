@@ -1,7 +1,7 @@
 ## FN Service - BR Inventory
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/br-inventory/account/:accountId \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/br-inventory/account/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (Any)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (Any)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

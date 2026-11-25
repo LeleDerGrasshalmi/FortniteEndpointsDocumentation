@@ -1,7 +1,7 @@
-# Get News Article
+## Get News Article
 
-URL: https://sac.epicgames.com/api/get-news/:slug \
-Method: GET \
+URL: https://sac.epicgames.com/api/get-news/:slug <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

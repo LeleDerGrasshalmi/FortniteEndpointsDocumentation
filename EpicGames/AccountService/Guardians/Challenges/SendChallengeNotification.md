@@ -1,7 +1,7 @@
 ## Account Service - Guardians: Send Guardian Challenge Notification
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/guardians/challenges/:challengeId/notifications \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/guardians/challenges/:challengeId/notifications <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:guardians CREATE`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`account:public:guardians CREATE`)
 
 ---
 
-_Example Response: (Challenge not found)_
+*Example Response: (Challenge not found)*
 
 ```json
 {

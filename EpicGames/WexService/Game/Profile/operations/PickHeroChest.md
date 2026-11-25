@@ -1,6 +1,6 @@
 # PickHeroChest
 
-**Description**: `Picks a hero chest track (skybreaker)` \
+**Description**: `Picks a hero chest track (skybreaker)` <br/>
 **Profiles**: `profile0`
 
 ## Body

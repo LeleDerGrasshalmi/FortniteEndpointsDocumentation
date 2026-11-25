@@ -1,7 +1,7 @@
 ## Launcher Service - Assets (V2): Get Item Build Simple
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/catalogItem/:catalogItemId/app/:appName \
-Method: GET \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/catalogItem/:catalogItemId/app/:appName <br/>
+Method: GET <br/>
 Auth Required: Yes (`launcher:download:{label}:{appName} READ`)
 
 ## Path Parameters
@@ -16,7 +16,7 @@ Auth Required: Yes (`launcher:download:{label}:{appName} READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

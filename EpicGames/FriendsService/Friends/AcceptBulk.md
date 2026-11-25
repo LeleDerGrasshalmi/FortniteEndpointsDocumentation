@@ -1,7 +1,7 @@
 ## Friends Service - Accept Incoming Friend Requests (Bulk)
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/incoming/accept \
-Method: POST \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/v1/:accountId/incoming/accept <br/>
+Method: POST <br/>
 Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 ["d1d7a59146f14b4b9f76a5cb00a38f41"]

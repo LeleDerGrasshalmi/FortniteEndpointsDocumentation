@@ -1,7 +1,7 @@
-# Download Payout Report
+## Download Payout Report
 
-URL: https://sac.epicgames.com/api/v1/download-payout-report \
-Method: GET \
+URL: https://sac.epicgames.com/api/v1/download-payout-report <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Query Parameters
@@ -10,4 +10,4 @@ Auth Required: Yes
 
 ---
 
-_Example Response_: Binary (PDF File)
+*Example Response*: Binary (PDF File)

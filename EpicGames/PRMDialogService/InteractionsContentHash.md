@@ -1,7 +1,7 @@
 ## PRM Dialog Service - Interactions (Content Hash)
 
-URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/interactions/contentHash \
-Method: POST \
+URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/interactions/contentHash <br/>
+Method: POST <br/>
 Auth Required: Yes (Account - `eg1`)
 
 > Removed as of 30.09.2024
@@ -53,6 +53,6 @@ Auth Required: Yes (Account - `eg1`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 `Status 200` (But no Content)

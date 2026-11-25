@@ -1,7 +1,9 @@
 ## FN - Discovery Service: Discovery Surface (V1)
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/discovery/surface/:accountId \
-Method: POST \
+> **This V1 endpoint is no longer available.**
+
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/discovery/surface/:accountId <br/>
+Method: POST <br/>
 Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 
 ## Headers
@@ -40,7 +42,7 @@ Auth Required: Yes (`discovery:{accountId}:surface:query READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

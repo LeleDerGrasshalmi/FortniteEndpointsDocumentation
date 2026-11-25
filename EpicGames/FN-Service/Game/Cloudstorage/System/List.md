@@ -1,12 +1,12 @@
 ## FN Service - Cloudstorage: System Files
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:cloudstorage:system READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

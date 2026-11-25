@@ -1,7 +1,7 @@
 ## Fulfillment Service - Redeem Code (Account)
 
-URL: https://fulfillment-public-service-prod.ol.epicgames.com/fulfillment/api/public/accounts/:accountId/codes/:code \
-Method: POST \
+URL: https://fulfillment-public-service-prod.ol.epicgames.com/fulfillment/api/public/accounts/:accountId/codes/:code <br/>
+Method: POST <br/>
 Auth Required: Yes (`fulfillment:public:code CREATE`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`fulfillment:public:code CREATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
@@ -30,7 +30,7 @@ _Example Response_
 }
 ```
 
-_Example Response (Multi redeem not allowed)_
+*Example Response (Multi redeem not allowed)*
 
 ```json
 {

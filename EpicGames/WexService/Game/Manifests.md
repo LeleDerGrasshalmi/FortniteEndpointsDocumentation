@@ -1,7 +1,7 @@
 ## Wex Service - Manifests: ChunkV3
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/game/v2/manifests/:manifest \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/game/v2/manifests/:manifest <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: No
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

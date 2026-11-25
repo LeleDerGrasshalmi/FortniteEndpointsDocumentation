@@ -1,12 +1,12 @@
 ## Fortnite Website - Rift Tour Data
 
-URL: https://fortnite.com/en-US/api/rift-tour-data \
-Method: GET \
+URL: https://fortnite.com/en-US/api/rift-tour-data <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

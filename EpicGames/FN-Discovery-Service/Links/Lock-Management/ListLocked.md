@@ -1,7 +1,7 @@
 ## FN - Discovery Service: List Locked Links?
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/unlock/:accountId \
-Method: GET \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/unlock/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`discovery:{accountId}:links:lock-management READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`discovery:{accountId}:links:lock-management READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

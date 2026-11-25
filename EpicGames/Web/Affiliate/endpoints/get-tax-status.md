@@ -1,12 +1,12 @@
-# Get Tax Status
+## Get Tax Status
 
-URL: https://sac.epicgames.com/api/v1/get-tax-status \
-Method: GET \
+URL: https://sac.epicgames.com/api/v1/get-tax-status <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

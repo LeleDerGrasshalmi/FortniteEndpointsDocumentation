@@ -1,23 +1,23 @@
 ## UE Marketplace - Get Review Reply
 
-URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/reply \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/review/:type/:topicId/reply <br/>
+Method: GET <br/>
 Auth Required: Yes
-
-### Query Parameters
-
-`start`: The Start number you want to view <br/>
-`count`: Total Count Per Page <br/>
-`offerId` the Id of the Offer
 
 ## Path Parameters
 
 `type`: The Type of the Review (reviews, questions, replies) <br/>
 `topicId`: The Topic Id of the Review
 
+## Query Parameters
+
+`start`: The Start number you want to view <br/>
+`count`: Total Count Per Page <br/>
+`offerId`: the Id of the Offer
+
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

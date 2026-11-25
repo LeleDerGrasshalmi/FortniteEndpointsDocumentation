@@ -1,7 +1,7 @@
 ## Library Service - Add Item to Collection
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/collection/:collectionId/item/account/:accountId/sandbox/:sandboxId/catalog/:catalogId/artifact/:artifactId \
-Method: POST \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/collection/:collectionId/item/account/:accountId/sandbox/:sandboxId/catalog/:catalogId/artifact/:artifactId <br/>
+Method: POST <br/>
 Auth Required: Yes (`library:public:{accountId}:collection:item CREATE`)
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes (`library:public:{accountId}:collection:item CREATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

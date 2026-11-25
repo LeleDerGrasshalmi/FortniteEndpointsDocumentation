@@ -1,7 +1,7 @@
 ## Artifact Delivery Service - Generate Download URLs
 
-URL: https://artifact-delivery-public-service-prod.beee.live.use1a.on.epicgames.com/artifact-delivery/api/public/v1/delivery/account/:accountId/downloadurls \
-Method: POST \
+URL: https://artifact-delivery-public-service-prod.beee.live.use1a.on.epicgames.com/artifact-delivery/api/public/v1/delivery/account/:accountId/downloadurls <br/>
+Method: POST <br/>
 Auth Required: Yes (`delivery:public:downloadurls:{accountId} READ`)
 
 ```json
@@ -22,7 +22,7 @@ Auth Required: Yes (`delivery:public:downloadurls:{accountId} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

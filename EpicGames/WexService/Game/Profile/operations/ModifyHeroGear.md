@@ -1,6 +1,6 @@
 # ModifyHeroGear
 
-**Description**: `Modifies the sidekick of a hero` \
+**Description**: `Modifies the sidekick of a hero` <br/>
 **Profiles**: `profile0`
 
 ## Body

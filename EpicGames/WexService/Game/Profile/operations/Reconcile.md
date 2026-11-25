@@ -1,6 +1,6 @@
 # Reconcile
 
-**Description**: `Checks if the specified Epic accounts have Battle Breakers` \
+**Description**: `Checks if the specified Epic accounts have Battle Breakers` <br/>
 **Profiles**: `friends`
 
 ## Body

@@ -1,11 +1,11 @@
 ## Wex Service - Check Entitlement
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/entitlementCheck \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/entitlementCheck <br/>
+Method: GET <br/>
 Auth Required: Yes (No perm required)
 
 ---
 
-_Example Response (Has Entitlement)_
+*Example Response (Has Entitlement)*
 
 `Status 204`

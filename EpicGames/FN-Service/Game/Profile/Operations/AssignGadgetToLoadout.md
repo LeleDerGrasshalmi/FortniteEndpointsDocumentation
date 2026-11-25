@@ -1,6 +1,6 @@
 # AssignGadgetToLoadout
 
-**Description**: `Sets an Gadget of to an Loadout` \
+**Description**: `Sets an Gadget of to an Loadout` <br/>
 **Profiles**: `campaign`
 
 ## Body

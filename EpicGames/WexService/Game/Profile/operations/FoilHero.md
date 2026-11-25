@@ -1,6 +1,6 @@
 # FoilHero
 
-**Description**: `Increases foil level of hero to increase Monster Pit XP bonus (foil levels are unused, can only be 0(-1) or 1)` \
+**Description**: `Increases foil level of hero to increase Monster Pit XP bonus (foil levels are unused, can only be 0(-1) or 1)` <br/>
 **Profiles**: `profile0`
 
 ## Body

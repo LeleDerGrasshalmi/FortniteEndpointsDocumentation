@@ -1,20 +1,20 @@
 ## FN - Content API - Content for Key
 
-URL: https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/:key \
-Method: GET \
+URL: https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/:key <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
 
-`key`: Use 'fortnite-game' for Fortnite Content or 'fortnite-editor' for UEFN Content
+`key`: Use `fortnite-game` for Fortnite Content or `fortnite-editor` for UEFN Content
 
 ## Query Parameters
 
-`lang` - language of the response (e.g. 'en')
+`lang`: language of the response (e.g. `en`)
 
 ---
 
-_Example Response (fortnite, heavily shortened)_
+*Example Response (fortnite, heavily shortened)*
 
 ```json
 {
@@ -52,7 +52,7 @@ _Example Response (fortnite, heavily shortened)_
 }
 ```
 
-_Example Response (uefn, shortened)_
+*Example Response (uefn, shortened)*
 
 ```json
 {

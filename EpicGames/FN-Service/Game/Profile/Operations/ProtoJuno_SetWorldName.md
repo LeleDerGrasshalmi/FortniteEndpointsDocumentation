@@ -1,6 +1,6 @@
 # ProtoJuno_SetWorldName
 
-**Description**: `Relict Lego test operation, should have set the world name, however this operation was never completed/pushed (operation got removed)` \
+**Description**: `Relict Lego test operation, should have set the world name, however this operation was never completed/pushed (operation got removed)` <br/>
 **Profiles**: `proto_juno`
 
 ## Body

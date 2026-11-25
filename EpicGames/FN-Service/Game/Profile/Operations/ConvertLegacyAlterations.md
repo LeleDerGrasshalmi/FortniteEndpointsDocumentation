@@ -1,6 +1,6 @@
 # ConvertLegacyAlterations
 
-**Description**: `Convert Legacy Alterations to New Alterations` ([This](https://i.ibb.co/ch0TGK4/image.png)) \
+**Description**: `Convert Legacy Alterations to New Alterations` ([This](https://i.ibb.co/ch0TGK4/image.png)) <br/>
 **Profiles**: `campaign`
 
 ## Body

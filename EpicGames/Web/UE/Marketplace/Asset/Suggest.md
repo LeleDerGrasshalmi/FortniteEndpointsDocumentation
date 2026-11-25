@@ -1,12 +1,12 @@
 ## UE Marketplace - Assets Suggest
 
-URL: https://www.unrealengine.com/marketplace/api/assets/suggest \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/assets/suggest <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

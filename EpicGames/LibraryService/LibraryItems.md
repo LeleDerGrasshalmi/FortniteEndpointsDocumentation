@@ -1,7 +1,7 @@
 ## Library Service - Items
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/items \
-Method: GET \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/items <br/>
+Method: GET <br/>
 Auth Required: Yes (`library:public:items READ`)
 
 ## Query Parameters
@@ -16,7 +16,7 @@ Auth Required: Yes (`library:public:items READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 `responseMetadata` is only included in the body if `includeMetadata` is true, otherwhise it will be returned in the `X-Epic-Metadata` Header.
 

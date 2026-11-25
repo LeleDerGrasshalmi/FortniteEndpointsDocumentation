@@ -1,7 +1,7 @@
 ## FN Service - Get Privacy Settings
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/privacy/account/:accountId \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/privacy/account/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:profile:{accountId}:commands ALL`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`fortnite:profile:{accountId}:commands ALL`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,6 +1,6 @@
 # FinalizeLevel
 
-**Description**: `Claim rewards for an active level` \
+**Description**: `Claim rewards for an active level` <br/>
 **Profiles**: `levels`
 
 ## Body

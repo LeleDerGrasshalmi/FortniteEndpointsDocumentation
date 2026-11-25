@@ -1,6 +1,6 @@
 # SuggestionResponse
 
-**Description**: `Accepts / Declines friend suggestions in bulk` \
+**Description**: `Accepts / Declines friend suggestions in bulk` <br/>
 **Profiles**: `friends`
 
 ## Body

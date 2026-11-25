@@ -1,6 +1,6 @@
 # FortRerollDailyQuest
 
-**Description**: `Reroll a Daily Quest` \
+**Description**: `Reroll a Daily Quest` <br/>
 **Profiles**: `athena`, `campaign`
 
 ## Body

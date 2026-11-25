@@ -1,6 +1,6 @@
 # UpgradeHero
 
-**Description**: `Upgrades a hero (+ pet in old versions)` \
+**Description**: `Upgrades a hero (+ pet in old versions)` <br/>
 **Profiles**: `profile0`
 
 ## Body

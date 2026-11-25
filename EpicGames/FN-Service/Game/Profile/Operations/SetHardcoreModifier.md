@@ -1,9 +1,10 @@
 # SetHardcoreModifier
 
-**Description**: `Sets the Hardcore Modifier` \
+**Description**: `Sets the Hardcore Modifier` <br/>
 **Profiles**: `athena`
 
 ## Body
+
 ```js
 {
     "updates": [{

@@ -1,7 +1,7 @@
 ## PRM Dialog Service - Interactions
 
-URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/interactions \
-Method: POST \
+URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/interactions <br/>
+Method: POST <br/>
 Auth Required: Yes (Account - `eg1`)
 
 ```json
@@ -33,6 +33,6 @@ Auth Required: Yes (Account - `eg1`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 `Status 200` (But no Content)

@@ -1,6 +1,6 @@
 # UpdateAccountHeadlessStatus
 
-**Description**: `Updates the headless flag in the WEX profile` \
+**Description**: `Updates the headless flag in the WEX profile` <br/>
 **Profiles**: `profile0`
 
 ## Body

@@ -1,7 +1,7 @@
 ## FN Service - Cloudstorage: User File Links
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename/links \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/user/:accountId/:uniqueFilename/links <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} CREATE`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`fortnite:cloudstorage:user:{accountId}:{uniqueFilename} CRE
 
 ---
 
-_Example Response_
+*Example Response*
 
 _As of 19th may 2023, this is not supported on User Files, but the API itself exists, the feature is just not enabled_
 

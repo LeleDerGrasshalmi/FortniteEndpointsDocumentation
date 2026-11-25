@@ -1,6 +1,6 @@
 # RequestRestedStateIncrease
 
-**Description**: `Add Supercharged XP (Only works during Winterfest)` \
+**Description**: `Add Supercharged XP (Only works during Winterfest)` <br/>
 **Profiles**: `athena`
 
 ## Body

@@ -1,6 +1,6 @@
 # SellTreasure
 
-**Description**: `Sells items (e.g. currency, reagents) for gold` \
+**Description**: `Sells items (e.g. currency, reagents) for gold` <br/>
 **Profiles**: `profile0`
 
 ## Body

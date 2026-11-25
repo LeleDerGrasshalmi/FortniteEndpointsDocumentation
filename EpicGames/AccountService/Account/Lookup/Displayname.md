@@ -1,7 +1,7 @@
 ## Account Service - Lookup by Display Name
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/displayName/:displayName \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/displayName/:displayName <br/>
+Method: GET <br/>
 Auth Required: Yes (`account:public:account READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`account:public:account READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

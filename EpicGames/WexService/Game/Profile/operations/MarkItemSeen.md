@@ -1,6 +1,6 @@
 # MarkItemSeen
 
-**Description**: `Marks a supported item as seen` \
+**Description**: `Marks a supported item as seen` <br/>
 **Profiles**: `profile0`
 
 ## Body

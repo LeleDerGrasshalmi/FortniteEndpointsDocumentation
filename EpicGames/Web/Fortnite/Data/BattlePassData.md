@@ -1,12 +1,12 @@
 ## Fortnite Website - Battle Pass Data
 
-URL: https://fortnite.com/en-US/api/battle-pass-data \
-Method: GET \
+URL: https://fortnite.com/en-US/api/battle-pass-data <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

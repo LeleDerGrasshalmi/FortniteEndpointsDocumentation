@@ -1,7 +1,7 @@
 ## Player Overview Page Service: Unfollow Player Page
 
-URL: https://pops-api-live-public.ogs.live.on.epicgames.com/followers/v1/:playerId \
-Method: DELETE \
+URL: https://pops-api-live-public.ogs.live.on.epicgames.com/followers/v1/:playerId <br/>
+Method: DELETE <br/>
 Auth Required: Yes (`pops:follow:{accountId} DELETE`)
 
 ```json
@@ -20,4 +20,4 @@ Auth Required: Yes (`pops:follow:{accountId} DELETE`)
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204

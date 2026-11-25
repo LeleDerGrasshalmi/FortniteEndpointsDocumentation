@@ -1,12 +1,12 @@
 ## Redeem Web - Geo
 
-URL: https://redeem.epicgames.com/api/geo \
-Method: GET \
+URL: https://redeem.epicgames.com/api/geo <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

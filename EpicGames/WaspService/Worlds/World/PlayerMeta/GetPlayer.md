@@ -1,18 +1,18 @@
 ## Wasp Service - Get World Player Meta
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/playermeta/accountIds/:accountId \
-Method: GET \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/playermeta/accountIds/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`wasp:{namespaceId}:world READ`)
 
 ## Path Parameters
 
 `namespaceId`: Check [Readme](../README.md) <br/>
-`worldId` The World Id from the [worlds list](./AccountAccessibleWorld.md) <br/>
+`worldId`: The World Id from the [worlds list](./AccountAccessibleWorld.md) <br/>
 `accountId`: Target player account id
 
 ---
 
-_Example Response (Has Meta)_
+*Example Response (Has Meta)*
 
 ```json
 {
@@ -25,7 +25,7 @@ _Example Response (Has Meta)_
 }
 ```
 
-_Example Response (No Meta)_
+*Example Response (No Meta)*
 
 ```json
 {

@@ -1,12 +1,12 @@
-# Get Organizations
+## Get Organizations
 
-URL: https://sac.epicgames.com/api/get-organizations \
-Method: GET \
+URL: https://sac.epicgames.com/api/get-organizations <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response (None)_
+*Example Response (None)*
 
 ```json
 {

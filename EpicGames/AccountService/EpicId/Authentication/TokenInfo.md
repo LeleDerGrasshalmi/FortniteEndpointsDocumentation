@@ -1,7 +1,7 @@
 ## Account Service - EpicId Auth: Token Info
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/epicid/v1/oauth/tokenInfo \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/epicid/v1/oauth/tokenInfo <br/>
+Method: POST <br/>
 Auth Required: Yes (In Body, not in the Authorization Header)
 
 ## Headers
@@ -10,7 +10,7 @@ Auth Required: Yes (In Body, not in the Authorization Header)
 
 <br/>
 
-```
+```text
 token=abc
 ```
 
@@ -20,7 +20,7 @@ token=abc
 
 ---
 
-_Example Response (Valid)_
+*Example Response (Valid)*
 
 ```json
 {
@@ -33,7 +33,7 @@ _Example Response (Valid)_
 }
 ```
 
-_Example Response (Not Active / Invalid)_
+*Example Response (Not Active / Invalid)*
 
 ```json
 {

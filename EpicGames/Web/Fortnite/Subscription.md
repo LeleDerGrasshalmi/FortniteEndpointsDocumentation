@@ -1,12 +1,12 @@
 ## Fortnite Website - Subscription
 
-URL: https://fortnite.com/api/subscription-offer \
-Method: GET \
+URL: https://fortnite.com/api/subscription-offer <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

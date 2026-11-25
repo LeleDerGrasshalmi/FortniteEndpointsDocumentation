@@ -1,6 +1,6 @@
 # RemoveGiftBox
 
-**Description**: `Removes the specified Giftboxes` \
+**Description**: `Removes the specified Giftboxes` <br/>
 **Profiles**: `ANY`
 
 ## Body

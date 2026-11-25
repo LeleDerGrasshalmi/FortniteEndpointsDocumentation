@@ -1,18 +1,18 @@
 ## Wasp Service - Get Account World Grants
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/grants/world/:worldId/account/:accountId \
-Method: GET \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/grants/world/:worldId/account/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`wasp:{namespaceId}:grant READ`)
 
 ## Path Parameters
 
 `namespaceId`: Check [Readme](../../README.md) <br/>
-`worldId` The World Id from the [worlds list](../AccountAccessibleWorld.md) <br/>
+`worldId`: The World Id from the [worlds list](../AccountAccessibleWorld.md) <br/>
 `accountId`: The Account Id of the player to check the grants from
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

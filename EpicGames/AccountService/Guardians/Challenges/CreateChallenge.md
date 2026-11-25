@@ -1,7 +1,7 @@
 ## Account Service - Guardians: Create Guardian Challenge
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/guardians/challenges \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/guardians/challenges <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:guardians CREATE`)
 
 ```json
@@ -16,7 +16,7 @@ Auth Required: Yes (`account:public:guardians CREATE`)
 
 ---
 
-_Example Response: (No Birth Date)_
+*Example Response: (No Birth Date)*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## FN Service - Cloudstorage: User Storage
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/storage/:accountId/info \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/storage/:accountId/info <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:cloudstorage:user:{accountId} READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`fortnite:cloudstorage:user:{accountId} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

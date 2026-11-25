@@ -1,7 +1,7 @@
 ## FN Service - Creative Discovery Access Token
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/discovery/accessToken/:branch \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/discovery/accessToken/:branch <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:discovery:fortnite READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`fortnite:discovery:fortnite READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

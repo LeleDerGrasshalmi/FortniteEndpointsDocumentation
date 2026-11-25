@@ -1,7 +1,7 @@
 ## Fortnite Website - Promotion Code
 
-URL: https://fortnite.com/api/promotion-code \
-Method: POST \
+URL: https://fortnite.com/api/promotion-code <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -15,3 +15,9 @@ Auth Required: Yes
 `not-entitled` Error means not eligible
 
 This endpoint is now deprecated as of 26.01.2023
+
+---
+
+*Example Response*
+
+No example response or status is documented.

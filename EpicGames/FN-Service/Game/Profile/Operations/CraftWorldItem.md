@@ -1,6 +1,6 @@
 # CraftWorldItem
 
-**Description**: `Craft an Item` \
+**Description**: `Craft an Item` <br/>
 **Profiles**: `theater0`
 
 ## Body

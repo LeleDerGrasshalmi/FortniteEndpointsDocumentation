@@ -1,12 +1,12 @@
-# Get Payout Acceptance
+## Get Payout Acceptance
 
-URL: https://sac.epicgames.com/api/v1/get-payout-acceptance \
-Method: GET \
+URL: https://sac.epicgames.com/api/v1/get-payout-acceptance <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

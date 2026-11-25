@@ -1,6 +1,6 @@
 # ClaimMfaEnabled
 
-**Description**: `Claims the 2-FA Rewards` \
+**Description**: `Claims the 2-FA Rewards` <br/>
 **Profiles**: `common_core`
 
 ## Body

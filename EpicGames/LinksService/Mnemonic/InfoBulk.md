@@ -1,7 +1,7 @@
 ## Links Service - Mnemonic Info (Bulk)
 
-URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/mnemonic \
-Method: POST \
+URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/mnemonic <br/>
+Method: POST <br/>
 Auth Required: Yes (`links:{namespace} READ`)
 
 ```json
@@ -32,7 +32,7 @@ Auth Required: Yes (`links:{namespace} READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

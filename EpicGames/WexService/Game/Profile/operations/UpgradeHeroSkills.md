@@ -1,6 +1,6 @@
 # UpgradeHeroSkills
 
-**Description**: `Upgrades the skill level of a hero (+ pet in old versions)` \
+**Description**: `Upgrades the skill level of a hero (+ pet in old versions)` <br/>
 **Profiles**: `profile0`
 
 ## Body

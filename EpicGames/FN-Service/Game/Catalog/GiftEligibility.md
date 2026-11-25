@@ -1,17 +1,17 @@
 ## FN Service - Check Gifting Friend Status
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/gift/check_eligibility/recipient/:friendId/offer/:offerId \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/storefront/v2/gift/check_eligibility/recipient/:friendId/offer/:offerId <br/>
+Method: GET <br/>
 Auth Required: Yes (User Auth for FN)
 
-# Path Parameters
+## Path Parameters
 
 `friendId`: Friends account id <br/>
 `offerId`: URL encoded offer id
 
 ---
 
-_Example Response (Not Owned)_
+*Example Response (Not Owned)*
 
 ```json
 {

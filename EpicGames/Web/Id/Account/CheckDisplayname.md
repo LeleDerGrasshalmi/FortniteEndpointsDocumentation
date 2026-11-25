@@ -1,7 +1,7 @@
 ## Id Web - Check DisplayName Duplicate
 
-URL: https://www.epicgames.com/id/api/account/displayName/validate \
-Method: POST \
+URL: https://www.epicgames.com/id/api/account/displayName/validate <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -12,7 +12,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response (Used)_
+*Example Response (Used)*
 
 ```json
 {
@@ -23,4 +23,4 @@ _Example Response (Used)_
 }
 ```
 
-_Example Response(unused)_: `Status 200` (But no Content)
+*Example Response(unused)*: `Status 200` (But no Content)

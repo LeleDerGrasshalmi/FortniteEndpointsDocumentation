@@ -1,20 +1,22 @@
 ## Interactions Service - Aggregated
 
-URL: https://interactions-service-prod.ol.epicgames.com/api/v2/interactions/aggregated/:namespace/:accountId \
-Method: GET  \
+URL: https://interactions-service-prod.ol.epicgames.com/api/v2/interactions/aggregated/:namespace/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`interactions:{namespace}:{accountId} READ`)
 
 ## Path Parameters
-`accountId`: Your AccountId
+
+`accountId`: Your AccountId <br/>
 `namespace`: e.g. `Fortnite`
 
 ## Query Parameters
-`limit`: (Optional) Max 200 per request  
+
+`limit`: (Optional) Max 200 per request <br/>
 `preferredInteractionType`: (Optional) Filter preferred interaction type (e.g. `FriendshipDelete`, `FriendshipAcceptReceived` or `PartyJoined`)
 
 ---
 
-### Example Response: Status 200
+*Example Response: Status 200*
 
 ```json
 {

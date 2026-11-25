@@ -1,7 +1,7 @@
 ## Launcher Service - Assets (V2): Launcher Build for Platform
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/launcher \
-Method: GET \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/platform/:platform/launcher <br/>
+Method: GET <br/>
 Auth Required: Yes (No perm required)
 
 ## Path Parameters
@@ -16,7 +16,7 @@ Auth Required: Yes (No perm required)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

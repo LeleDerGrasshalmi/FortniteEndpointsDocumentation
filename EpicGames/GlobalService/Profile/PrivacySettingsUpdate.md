@@ -1,7 +1,7 @@
 ## Global Service - Profile: Modify Privacy Settings
 
-URL: https://global-profile-service.game-social.epicgames.com/profile/privacy_settings \
-Method: POST \
+URL: https://global-profile-service.game-social.epicgames.com/profile/privacy_settings <br/>
+Method: POST <br/>
 Auth Required: Yes (No Perm required)
 
 ```json
@@ -17,7 +17,7 @@ Auth Required: Yes (No Perm required)
 
 ## Parameters
 
-`namespace`: e.g. `Fortnite` \
+`namespace`: e.g. `Fortnite` <br/>
 `playRegion` / `languages` / `badges`:
 
 - PUBLIC
@@ -26,7 +26,7 @@ Auth Required: Yes (No Perm required)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## Account Service - Create Account
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:account CREATE`)
 
 ```json
@@ -23,14 +23,7 @@ Auth Required: Yes (`account:public:account CREATE`)
 }
 ```
 
-## Query Parameters
-
-`authenticate`: Optional, boolean, Should the response include an oauth session? (Default: False) <br/>
-`tokenType`: Optional, string, The type for the oauth token (ex. `eg1`) <br/>
-`sendEmail` Optional, boolean, Should the email associated receive a verify email? (Default: False)
-
 ## Parameters
-
 
 `dateOfBirth`: Required, Your BirthDate <br/>
 `name`: Optional, Your Firstname <br/>
@@ -43,11 +36,17 @@ Auth Required: Yes (`account:public:account CREATE`)
 `email`: Optional, Your Email <br/>
 `username`: Optional, Your Username (could be used instead of an email back then) <br/>
 `password`: Optional, Your Password (required if email/username is specified) <br/>
-`externalAuth`: Optional, Payload of [External Auth Create](./ExternalAuth/Create.md#body)
+`externalAuth`: Optional, Payload of [External Auth Create](./ExternalAuth/Create.md#parameters)
+
+## Query Parameters
+
+`authenticate`: Optional, boolean, Should the response include an oauth session? (Default: False) <br/>
+`tokenType`: Optional, string, The type for the oauth token (ex. `eg1`) <br/>
+`sendEmail`: Optional, boolean, Should the email associated receive a verify email? (Default: False)
 
 ---
 
-_Example Response (Full Params)_
+*Example Response (Full Params)*
 
 ```json
 {
@@ -77,7 +76,7 @@ _Example Response (Full Params)_
 }
 ```
 
-_Example Response (Credentials Set)_
+*Example Response (Credentials Set)*
 
 ```json
 {
@@ -122,7 +121,7 @@ _Example Response (Credentials Set)_
 }
 ```
 
-_Example Response (Headless)_
+*Example Response (Headless)*
 
 ```json
 {

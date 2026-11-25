@@ -1,6 +1,6 @@
 # SetHeroCosmeticVariants
 
-**Description**: `Set the Variants for a Hero and his Backpack` \
+**Description**: `Set the Variants for a Hero and his Backpack` <br/>
 **Profiles**: `campaign`
 
 ## Body

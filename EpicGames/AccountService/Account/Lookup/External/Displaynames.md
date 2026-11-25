@@ -1,7 +1,7 @@
 ## Account Service - Lookup by External Display Name (Bulk)
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/lookup/externalDisplayName \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/lookup/externalDisplayName <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:public:account:lookup:externalDisplayName:{externalAuthType} READ`)
 
 ```json
@@ -18,7 +18,7 @@ Auth Required: Yes (`account:public:account:lookup:externalDisplayName:{external
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

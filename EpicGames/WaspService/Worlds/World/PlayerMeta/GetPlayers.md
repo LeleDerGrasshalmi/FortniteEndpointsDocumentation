@@ -1,7 +1,7 @@
 ## Wasp Service - Get World Player Meta (Bulk)
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/playermeta/bulk/get \
-Method: POST \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/playermeta/bulk/get <br/>
+Method: POST <br/>
 Auth Required: Yes (`wasp:{namespaceId}:world READ`)
 
 ```json
@@ -13,7 +13,7 @@ Auth Required: Yes (`wasp:{namespaceId}:world READ`)
 ## Path Parameters
 
 `namespaceId`: Check [Readme](../README.md) <br/>
-`worldId` The World Id from the [worlds list](./AccountAccessibleWorld.md)
+`worldId`: The World Id from the [worlds list](./AccountAccessibleWorld.md)
 
 ## Parameters
 
@@ -21,7 +21,7 @@ Auth Required: Yes (`wasp:{namespaceId}:world READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

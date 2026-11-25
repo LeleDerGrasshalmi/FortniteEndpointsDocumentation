@@ -1,13 +1,13 @@
 # SetFactionChoice
 
-**Description**: `Set your faction choice (C7S2 - Showdown)` \
+**Description**: `Set your faction choice (C7S2 - Showdown)` <br/>
 **Profiles**: `athena`
 
 ## Body
 
 ```js
 {
-    "factionTokenTemplateId": "" // check TemplateIds below
+    "factionTokenTemplateId": "" // Check TemplateIds below
 }
 ```
 

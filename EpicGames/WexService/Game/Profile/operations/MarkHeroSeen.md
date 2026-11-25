@@ -1,6 +1,6 @@
 # MarkHeroSeen
 
-**Description**: `Marks a Hero as seen (deprecated)` \
+**Description**: `Marks a Hero as seen (deprecated)` <br/>
 **Profiles**: `profile0`
 
 ## Body

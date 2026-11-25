@@ -1,7 +1,7 @@
 ## FN Service - Cloudstorage: Create System File
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system \
-Method: POST \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system <br/>
+Method: POST <br/>
 Auth Required: Yes (`fortnite:cloudstorage:system CREATE`)
 
 File Content (Binary) - **File-Body**
@@ -14,7 +14,9 @@ File Content (Binary) - **File-Body**
 
 <br/>
 
-_Example Response (No Perm)_
+---
+
+*Example Response (No Perm)*
 
 ```json
 {

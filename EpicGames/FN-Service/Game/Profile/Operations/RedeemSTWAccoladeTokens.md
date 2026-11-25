@@ -1,6 +1,6 @@
 # RedeemSTWAccoladeTokens
 
-**Description**: `Redeem StW Accolades -> Transfer BR XP gained in StW to BR` \
+**Description**: `Redeem StW Accolades -> Transfer BR XP gained in StW to BR` <br/>
 **Profiles**: `athena`
 
 ## Body

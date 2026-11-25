@@ -1,7 +1,7 @@
 ## Launcher Service - Download Installer
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/:app \
-Method: GET \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/:app <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
@@ -23,4 +23,4 @@ Auth Required: No
 
 ---
 
-_Example Response_: Binary File
+*Example Response*: 303 Redirect to actual download link

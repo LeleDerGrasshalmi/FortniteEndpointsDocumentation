@@ -1,6 +1,6 @@
 # UnlockHeroGear
 
-**Description**: `Unlocks the sidekick slot on a hero` \
+**Description**: `Unlocks the sidekick slot on a hero` <br/>
 **Profiles**: `profile0`
 
 ## Body

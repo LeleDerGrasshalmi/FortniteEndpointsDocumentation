@@ -1,8 +1,8 @@
 ## Id Web - Validate State for External Login
 
-URL: https://www.epicgames.com/id/api/state/:state \
-Method: GET 
-
+URL: https://www.epicgames.com/id/api/state/:state <br/>
+Method: GET <br/>
+Auth Required: Unknown
 
 ## Path Parameters
 
@@ -10,7 +10,7 @@ Method: GET
 
 ---
 
-_Example Response (Successful)_:
+*Example Response (Successful)*:
 
 ```json
 {
@@ -23,7 +23,7 @@ _Example Response (Successful)_:
 }
 ```
 
-_Example Response (State is invalid)_
+*Example Response (State is invalid)*
 
 ```json
 {

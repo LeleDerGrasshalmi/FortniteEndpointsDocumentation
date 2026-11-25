@@ -1,6 +1,6 @@
 # GiftCatalogEntry
 
-**Description**: `Gift a Catalog Offer to friends` \
+**Description**: `Gift a Catalog Offer to friends` <br/>
 **Profiles**: `common_core`
 
 ## Body

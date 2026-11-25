@@ -1,7 +1,7 @@
 ## Fortnite Website - POSA: Status
 
-URL: https://fortnite.com/:locale/api/posa/code/status \
-Method: POST \
+URL: https://fortnite.com/:locale/api/posa/code/status <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -20,7 +20,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response (Invalid Code)_
+*Example Response (Invalid Code)*
 
 ```json
 {

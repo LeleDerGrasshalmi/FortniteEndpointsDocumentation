@@ -1,7 +1,7 @@
 ## Stats Proxy: User Stats
 
-URL: https://statsproxy-public-service-live.ol.epicgames.com/statsproxy/api/statsv2/account/:accountId \
-Method: GET \
+URL: https://statsproxy-public-service-live.ol.epicgames.com/statsproxy/api/statsv2/account/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:stats READ`)
 
 ## Path Parameters
@@ -15,7 +15,7 @@ Auth Required: Yes (`fortnite:stats READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
@@ -31,4 +31,4 @@ _Example Response_
 }
 ```
 
-_Example Response (Private Stats)_: Status 204
+*Example Response (Private Stats)*: Status 204

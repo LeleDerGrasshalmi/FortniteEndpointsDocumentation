@@ -1,7 +1,7 @@
 ## Party Service - Get Party Info by Party Invite Ping
 
-URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/user/:accountId/pings/:pingerId/parties \
-Method: GET \
+URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/user/:accountId/pings/:pingerId/parties <br/>
+Method: GET <br/>
 Auth Required: Yes (`social:party`)
 
 ## Path Parameters
@@ -9,7 +9,9 @@ Auth Required: Yes (`social:party`)
 `accountId`: Your AccountId <br/>
 `pingerId`: AccountId of who invited you
 
-_Example Response (shortened)_
+---
+
+*Example Response (shortened)*
 
 ```json
 [

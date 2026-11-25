@@ -1,23 +1,43 @@
 ## Fortnite Website - Discovery Submission
 
-URL: https://fortnite.com/en-US/api/creative-submission-form/submit \
-Method: POST \
+URL: https://fortnite.com/en-US/api/creative-submission-form/submit <br/>
+Method: POST <br/>
 Auth Required: Yes
 
-```js
+```json
 {
-  "image": false, // can be set to true
-  "trailer": false, // can be set to true
+  "image": false,
+  "trailer": false,
   "payload": {
-    "submissionIdentifier": "", // submission-guid
-    "submissionType": "", // idk can be left empty
-    "islandCode": "", // island code
-    "islandType": "", // plot type, ex: CreativePlot:creativeroyaleplot
-    "islandVersion": 1, // island version
-    "islandTitle": "", // island name
-    "islandDescription": "", // island description
-    "maxPlayerCount": 1, // amount of players island supports
-    "gameGenre": "" // main island tag
+    "submissionIdentifier": "",
+    "submissionType": "",
+    "islandCode": "",
+    "islandType": "",
+    "islandVersion": 1,
+    "islandTitle": "",
+    "islandDescription": "",
+    "maxPlayerCount": 1,
+    "gameGenre": ""
   }
 }
 ```
+
+## Parameters
+
+`image`: Can be set to true <br/>
+`trailer`: Can be set to true <br/>
+`payload.submissionIdentifier`: The submission GUID. <br/>
+`payload.submissionType`: Can be left empty. Its meaning is undocumented. <br/>
+`payload.islandCode`: Island code <br/>
+`payload.islandType`: Plot type, ex: CreativePlot:creativeroyaleplot <br/>
+`payload.islandVersion`: Island version <br/>
+`payload.islandTitle`: Island name <br/>
+`payload.islandDescription`: Island description <br/>
+`payload.maxPlayerCount`: Amount of players island supports <br/>
+`payload.gameGenre`: Main island tag
+
+---
+
+*Example Response*
+
+No example response or status is documented.

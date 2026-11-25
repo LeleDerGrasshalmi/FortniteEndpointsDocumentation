@@ -1,6 +1,6 @@
 # ClaimImportFriendsReward
 
-**Description**: `Claims Import Friends Reward, but what this means is unkown` \
+**Description**: `Claims Import Friends Reward, but what this means is unkown` <br/>
 **Profiles**: `common_core`
 
 ## Body

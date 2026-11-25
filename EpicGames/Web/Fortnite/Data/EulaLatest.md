@@ -1,12 +1,12 @@
 ## Fortnite Website - Eula Latest
 
-URL: https://fortnite.com/ajax/eula/get/latest \
-Method: GET \
+URL: https://fortnite.com/ajax/eula/get/latest <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

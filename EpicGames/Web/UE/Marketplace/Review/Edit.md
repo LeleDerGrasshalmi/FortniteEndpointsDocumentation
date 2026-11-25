@@ -1,7 +1,7 @@
 ## UE Marketplace - Review Edit
 
-URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/edit \
-Method: POST \
+URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/edit <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -29,7 +29,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

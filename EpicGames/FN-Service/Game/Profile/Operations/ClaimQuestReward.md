@@ -1,6 +1,6 @@
 # ClaimQuestReward
 
-**Description**: `Claim a Quest Reward` \
+**Description**: `Claim a Quest Reward` <br/>
 **Profiles**: `athena`, `campaign`
 
 ## Body

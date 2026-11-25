@@ -1,7 +1,7 @@
 ## Global Service - Profile: Modify Language
 
-URL: https://global-profile-service.game-social.epicgames.com/profile/languages \
-Method: PUT \
+URL: https://global-profile-service.game-social.epicgames.com/profile/languages <br/>
+Method: PUT <br/>
 Auth Required: Yes (No Perm required)
 
 ```json
@@ -13,7 +13,7 @@ Auth Required: Yes (No Perm required)
 
 ## Parameters
 
-`namespace`: e.g. `Fortnite` \
+`namespace`: e.g. `Fortnite` <br/>
 `languages`: Maximum 6 Languages
 
 - ar
@@ -31,7 +31,7 @@ Auth Required: Yes (No Perm required)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {}

@@ -1,7 +1,7 @@
 ## Launcher Service - Assets (V2): Get Ticket
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/by-ticket/app/:appName \
-Method: POST \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/assets/v2/by-ticket/app/:appName <br/>
+Method: POST <br/>
 Auth Required: Yes (`launcher:download:app:{appName} READ`)
 
 ```json
@@ -24,7 +24,7 @@ Auth Required: Yes (`launcher:download:app:{appName} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

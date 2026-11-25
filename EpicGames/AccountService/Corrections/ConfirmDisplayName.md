@@ -1,7 +1,7 @@
 ## Account Service - Corrections: Confirm Display Name
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/corrections/confirmDisplayName \
-Method: PUT \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/corrections/confirmDisplayName <br/>
+Method: PUT <br/>
 Auth Required: Yes (client_credentials of the client you are trying to authenticate with)
 
 ```json
@@ -16,4 +16,4 @@ Auth Required: Yes (client_credentials of the client you are trying to authentic
 
 ---
 
-_Example Response Status: 204 (No Content)_
+*Example Response Status: 204 (No Content)*

@@ -1,7 +1,7 @@
 ## UE Marketplace - Add Cart Item
 
-URL: https://www.unrealengine.com/marketplace/api/shoppingCart \
-Method: POST \
+URL: https://www.unrealengine.com/marketplace/api/shoppingCart <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -10,13 +10,13 @@ Auth Required: Yes
 }
 ```
 
-### Parameters
+## Parameters
 
 `offer`: The Offer Id
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

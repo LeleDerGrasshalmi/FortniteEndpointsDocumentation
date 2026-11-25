@@ -1,6 +1,6 @@
 # SetSeasonPassAutoClaim
 
-**Description**: `Enable or Disable the Auto-Claim Feature in specified passes.` \
+**Description**: `Enable or Disable the Auto-Claim Feature in specified passes.` <br/>
 **Profiles**: `athena`
 
 ## Body

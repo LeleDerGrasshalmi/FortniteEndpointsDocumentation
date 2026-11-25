@@ -1,11 +1,11 @@
 ## FN Service - Check Entitlement
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/entitlementCheck \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/entitlementCheck <br/>
+Method: GET <br/>
 Auth Required: Yes (No special Perm)
 
 ---
 
-_Example Response (Has Entitlement)_
+*Example Response (Has Entitlement)*
 
 `Status 204`

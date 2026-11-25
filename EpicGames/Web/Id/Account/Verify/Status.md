@@ -1,12 +1,12 @@
 ## Id Web - Account Verify
 
-URL: https://www.epicgames.com/id/api/account/verify \
-Method: GET \
+URL: https://www.epicgames.com/id/api/account/verify <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

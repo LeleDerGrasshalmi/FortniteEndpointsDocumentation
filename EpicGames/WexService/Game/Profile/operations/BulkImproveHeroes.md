@@ -1,6 +1,6 @@
 # BulkImproveHeroes
 
-**Description**: `Applies upgrades to heroes in bulk (used by party suggestion)` \
+**Description**: `Applies upgrades to heroes in bulk (used by party suggestion)` <br/>
 **Profiles**: `profile0`
 
 ## Body

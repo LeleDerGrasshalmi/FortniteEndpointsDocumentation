@@ -1,6 +1,6 @@
 # AbandonExpedition
 
-**Description**: `Abandon an Expedition` \
+**Description**: `Abandon an Expedition` <br/>
 **Profiles**: `campaign`
 
 ## Body

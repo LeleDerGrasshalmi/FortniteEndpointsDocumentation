@@ -1,6 +1,6 @@
 # ExchangeGameCurrencyForSeasonPassOffer
 
-**Description**: `Purchases Season Pass Items for Battle Stars` \
+**Description**: `Purchases Season Pass Items for Battle Stars` <br/>
 **Profiles**: `athena`
 
 ## Body

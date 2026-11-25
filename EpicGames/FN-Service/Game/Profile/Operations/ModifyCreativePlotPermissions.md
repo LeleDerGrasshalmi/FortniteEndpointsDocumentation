@@ -1,7 +1,8 @@
 # ModifyCreativePlotPermissions
 
-**Description**: `Modify the Plot Permission Settings` \
-**Profiles**: `creative` \
+**Description**: `Modify the Plot Permission Settings` <br/>
+**Profiles**: `creative`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

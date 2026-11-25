@@ -1,12 +1,12 @@
 ## Redeem Web - Auth
 
-URL: https://redeem.epicgames.com/api/auth \
-Method: GET \
+URL: https://redeem.epicgames.com/api/auth <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

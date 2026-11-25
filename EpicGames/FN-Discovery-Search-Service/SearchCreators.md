@@ -1,7 +1,7 @@
 ## FN - Discovery Search Service - Search Creators
 
-URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/creator-search/v1/search \
-Method: POST \
+URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/creator-search/v1/search <br/>
+Method: POST <br/>
 Auth Required: Yes (`discovery:search:{accountId} READ`)
 
 ```json
@@ -20,7 +20,7 @@ Auth Required: Yes (`discovery:search:{accountId} READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

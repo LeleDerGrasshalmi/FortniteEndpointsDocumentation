@@ -1,7 +1,7 @@
 ## FN EOS Locker Service: Change Companion Name
 
-URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/companion-name \
-Method: PATCH \
+URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/companion-name <br/>
+Method: PATCH <br/>
 Auth Required: Yes (`locker:{accountId} UPDATE`)
 
 ```json
@@ -18,6 +18,6 @@ Auth Required: Yes (`locker:{accountId} UPDATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 `Status 204`

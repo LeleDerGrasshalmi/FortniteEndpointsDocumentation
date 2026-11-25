@@ -1,6 +1,6 @@
 # ModifyHeroArmor
 
-**Description**: `Modifies the armour on a hero` \
+**Description**: `Modifies the armour on a hero` <br/>
 **Profiles**: `profile0`
 
 ## Body

@@ -1,6 +1,6 @@
 # UnlockArmorGear
 
-**Description**: `Unlocks the Armour gear slot on a hero` \
+**Description**: `Unlocks the Armour gear slot on a hero` <br/>
 **Profiles**: `profile0`
 
 ## Body

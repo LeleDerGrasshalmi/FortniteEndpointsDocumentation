@@ -1,7 +1,7 @@
 ## Global Service - Profile: Get Profiles
 
-URL: https://global-profile-service.game-social.epicgames.com/profiles \
-Method: PUT \
+URL: https://global-profile-service.game-social.epicgames.com/profiles <br/>
+Method: PUT <br/>
 Auth Required: Yes (No Perm required)
 
 ```json
@@ -16,12 +16,12 @@ Auth Required: Yes (No Perm required)
 
 ## Parameters
 
-`namespace`: e.g. `Fortnite` \
+`namespace`: e.g. `Fortnite` <br/>
 `accountIds`: the account ids (up to 100)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

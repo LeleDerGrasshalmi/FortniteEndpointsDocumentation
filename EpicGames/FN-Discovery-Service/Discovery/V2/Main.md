@@ -1,7 +1,7 @@
 ## FN - Discovery Service: Discovery Surface (V2)
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v2/discovery/surface/:surfaceName \
-Method: POST \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v2/discovery/surface/:surfaceName <br/>
+Method: POST <br/>
 Auth Required: Yes (`discovery:surface:query READ`)
 
 ## Headers
@@ -53,7 +53,7 @@ Auth Required: Yes (`discovery:surface:query READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

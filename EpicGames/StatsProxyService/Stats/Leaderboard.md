@@ -1,7 +1,7 @@
 ## Stats Proxy - Stat Leaderboard
 
-URL: https://statsproxy-public-service-live.ol.epicgames.com/statsproxy/api/statsv2/leaderboards/:leaderboardName \
-Method: GET \
+URL: https://statsproxy-public-service-live.ol.epicgames.com/statsproxy/api/statsv2/leaderboards/:leaderboardName <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:stats READ`)
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes (`fortnite:stats READ`)
 
 ---
 
-_Example Response (`br_placetop1_keyboardmouse_m0_playlist_defaultsolo`)_
+*Example Response (`br_placetop1_keyboardmouse_m0_playlist_defaultsolo`)*
 
 ```json
 {
@@ -32,7 +32,7 @@ _Example Response (`br_placetop1_keyboardmouse_m0_playlist_defaultsolo`)_
 }
 ```
 
-_Example Response (Invalid leaderboard)_
+*Example Response (Invalid leaderboard)*
 
 ```json
 {

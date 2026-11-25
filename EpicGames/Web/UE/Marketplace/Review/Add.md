@@ -1,7 +1,7 @@
 ## UE Marketplace - Review Add
 
-URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/add \
-Method: POST \
+URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/add <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -17,7 +17,7 @@ Auth Required: Yes
 `offerId`: The Id of the Offer <br/>
 `type`: The Type of the review (reviews,questions,replies)
 
-## Path Parameters
+## Parameters
 
 `title`: obvious <br/>
 `content`: obvious <br/>
@@ -25,7 +25,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

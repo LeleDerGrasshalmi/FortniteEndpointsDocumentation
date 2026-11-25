@@ -1,12 +1,12 @@
-# Get Earnings Data
+## Get Earnings Data
 
-URL: https://sac.epicgames.com/api/get-earnings-data \
-Method: GET \
+URL: https://sac.epicgames.com/api/get-earnings-data <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

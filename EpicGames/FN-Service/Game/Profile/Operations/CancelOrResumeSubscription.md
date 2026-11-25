@@ -1,6 +1,6 @@
 # CancelOrResumeSubscription
 
-**Description**: `Cancels or Continues a Subscription (e.g. Fortnite Crew)` \
+**Description**: `Cancels or Continues a Subscription (e.g. Fortnite Crew)` <br/>
 **Profiles**: `common_core`
 
 ## Body

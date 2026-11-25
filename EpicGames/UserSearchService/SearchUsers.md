@@ -1,7 +1,7 @@
 ## User-Search Service - Search Users
 
-URL: https://user-search-service-prod.ol.epicgames.com/api/v1/search/:accountId \
-Method: GET \
+URL: https://user-search-service-prod.ol.epicgames.com/api/v1/search/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`social:search:{accountId} READ`)
 
 ## Path Parameters
@@ -15,7 +15,7 @@ Auth Required: Yes (`social:search:{accountId} READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

@@ -1,7 +1,7 @@
 ## FN EOS Locker Service: Lock In Immutable Item
 
-URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/lock-in-immutable-item/:itemIdentifier \
-Method: POST \
+URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/lock-in-immutable-item/:itemIdentifier <br/>
+Method: POST <br/>
 Auth Required: Yes (`locker:{accountId} UPDATE`)
 
 ```json
@@ -34,6 +34,6 @@ Auth Required: Yes (`locker:{accountId} UPDATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 `Status 204`

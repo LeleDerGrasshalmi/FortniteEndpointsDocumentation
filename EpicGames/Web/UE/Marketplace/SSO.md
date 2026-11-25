@@ -1,12 +1,12 @@
 ## UE Marketplace - SSO Info
 
-URL: https://www.unrealengine.com/marketplace/api/sso \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/sso <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

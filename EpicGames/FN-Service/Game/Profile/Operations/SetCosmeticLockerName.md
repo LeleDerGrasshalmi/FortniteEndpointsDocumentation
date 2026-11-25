@@ -1,6 +1,6 @@
 # SetCosmeticLockerName
 
-**Description**: `Sets the name for a Cosmetic Loadout` \
+**Description**: `Sets the name for a Cosmetic Loadout` <br/>
 **Profiles**: `athena`, `campaign`
 
 ## Body

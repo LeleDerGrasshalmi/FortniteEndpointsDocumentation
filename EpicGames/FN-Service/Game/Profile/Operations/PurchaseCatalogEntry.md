@@ -1,6 +1,6 @@
 # PurchaseCatalogEntry
 
-**Description**: `Purchase an Offer` \
+**Description**: `Purchase an Offer` <br/>
 **Profiles**: `common_core`
 
 ## Body

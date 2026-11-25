@@ -1,7 +1,7 @@
 ## FN EOS Quests Service: Quests
 
-URL: https://fngw-svc-ds-livefn.ol.epicgames.com/api/quest/v3/:deploymentId/progress/account/:accountId \
-Method: GET \
+URL: https://fngw-svc-ds-livefn.ol.epicgames.com/api/quest/v3/:deploymentId/progress/account/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`QuestService Client Feature`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`QuestService Client Feature`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

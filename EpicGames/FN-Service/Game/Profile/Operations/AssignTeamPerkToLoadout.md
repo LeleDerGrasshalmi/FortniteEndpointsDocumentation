@@ -1,6 +1,6 @@
 # AssignTeamPerkToLoadout
 
-**Description**: `Sets an Team Perk to an Loadout` \
+**Description**: `Sets an Team Perk to an Loadout` <br/>
 **Profiles**: `campaign`
 
 ## Body

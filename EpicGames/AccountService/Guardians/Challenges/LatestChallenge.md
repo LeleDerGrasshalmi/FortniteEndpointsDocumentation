@@ -1,13 +1,14 @@
 ## Account Service - Guardians: Get Latest Guardian Challenge
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/guardians/challenges \
-Method: GET \
-Auth Required: Yes (`account:public:guardians READ`) \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/guardians/challenges <br/>
+Method: GET <br/>
+Auth Required: Yes (`account:public:guardians READ`)
+
 Note: Has been removed as of September 15th 2026
 
 ---
 
-_Example Response: (Success)_
+*Example Response: (Success)*
 
 ```json
 {
@@ -22,7 +23,7 @@ _Example Response: (Success)_
 }
 ```
 
-_Example Response: (Not minor)_
+*Example Response: (Not minor)*
 
 ```json
 {

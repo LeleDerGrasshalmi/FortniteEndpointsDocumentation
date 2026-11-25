@@ -1,7 +1,7 @@
 ## Friends Service - Get External Source Settings
 
-URL: https://friends-public-service-prod06.ol.epicgames.com/friends/api/v1/:accountId/settings/externalSources/:source \
-Method: GET \
+URL: https://friends-public-service-prod06.ol.epicgames.com/friends/api/v1/:accountId/settings/externalSources/:source <br/>
+Method: GET <br/>
 Auth Required: Yes (`friends:{accountId} READ`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`friends:{accountId} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

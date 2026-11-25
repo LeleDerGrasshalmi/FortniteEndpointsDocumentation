@@ -1,7 +1,7 @@
 ## Friends Service - Set External Source Settings
 
-URL: https://friends-public-service-prod06.ol.epicgames.com/friends/api/v1/:accountId/settings/externalSources/:source \
-Method: PUT \
+URL: https://friends-public-service-prod06.ol.epicgames.com/friends/api/v1/:accountId/settings/externalSources/:source <br/>
+Method: PUT <br/>
 Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ```json
@@ -21,7 +21,7 @@ Auth Required: Yes (`friends:{accountId} UPDATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

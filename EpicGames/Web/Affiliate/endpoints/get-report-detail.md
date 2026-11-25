@@ -1,7 +1,7 @@
-# Get Report Details
+## Get Report Details
 
-URL: https://sac.epicgames.com/api/v1/get-report-detail \
-Method: GET \
+URL: https://sac.epicgames.com/api/v1/get-report-detail <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Query Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,7 +1,7 @@
-# Get Report List
+## Get Report List
 
-URL: https://sac.epicgames.com/api/v1/get-report-list \
-Method: GET \
+URL: https://sac.epicgames.com/api/v1/get-report-list <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Query Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

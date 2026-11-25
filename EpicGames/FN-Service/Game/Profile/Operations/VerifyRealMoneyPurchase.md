@@ -1,6 +1,6 @@
 # VerifyRealMoneyPurchase
 
-**Description**: `Verifies a specified Receipt/Real Money Purchase` \
+**Description**: `Verifies a specified Receipt/Real Money Purchase` <br/>
 **Profiles**: `common_core`
 
 ## Body

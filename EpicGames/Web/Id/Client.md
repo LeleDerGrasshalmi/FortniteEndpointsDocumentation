@@ -1,12 +1,12 @@
 ## Id Web - Client Info
 
-URL: https://www.epicgames.com/id/api/client/:clientId \
-Method: GET \
+URL: https://www.epicgames.com/id/api/client/:clientId <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
 
-`id`: The Id of the Client
+`clientId`: The Id of the Client
 
 ## Query Parameters
 
@@ -15,7 +15,7 @@ Auth Required: No
 
 ---
 
-_Example Response (non-EOS)_
+*Example Response (non-EOS)*
 
 ```json
 {
@@ -30,7 +30,8 @@ _Example Response (non-EOS)_
   "epicLoginOnly": false
 }
 ```
-_Example Response (EOS)_
+
+*Example Response (EOS)*
 
 ```json
 {

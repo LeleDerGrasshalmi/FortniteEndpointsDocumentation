@@ -1,6 +1,6 @@
 # CompletePlayerSurvey
 
-**Description**: `Marks a Player Survey as completed` \
+**Description**: `Marks a Player Survey as completed` <br/>
 **Profiles**: `common_core`
 
 ## Body

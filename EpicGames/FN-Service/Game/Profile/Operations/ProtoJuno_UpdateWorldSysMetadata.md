@@ -1,7 +1,8 @@
 # ProtoJuno_UpdateWorldSysMetadata
 
-**Description**: `Relict Lego test operation, update world system meta (operation got removed)` \
-**Profiles**: `proto_juno` \
+**Description**: `Relict Lego test operation, update world system meta (operation got removed)` <br/>
+**Profiles**: `proto_juno`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

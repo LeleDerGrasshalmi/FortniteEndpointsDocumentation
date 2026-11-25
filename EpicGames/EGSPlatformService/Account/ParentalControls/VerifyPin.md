@@ -1,7 +1,7 @@
 ## EGS Platform Service - Account: Parental Controls - Verify Pin
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/account/content-controls/verify-pin \
-Method: POST \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/account/content-controls/verify-pin <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -16,7 +16,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response (correct pin)_
+*Example Response (correct pin)*
 
 ```json
 {
@@ -24,7 +24,7 @@ _Example Response (correct pin)_
 }
 ```
 
-_Example Response (invalid pin)_
+*Example Response (invalid pin)*
 
 ```json
 {

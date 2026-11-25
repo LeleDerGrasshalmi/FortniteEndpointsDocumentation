@@ -1,12 +1,12 @@
 ## Id Web - Location
 
-URL: https://www.epicgames.com/id/api/location \
-Method: GET \
+URL: https://www.epicgames.com/id/api/location <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

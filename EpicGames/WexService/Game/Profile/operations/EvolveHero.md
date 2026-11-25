@@ -1,6 +1,6 @@
 # EvolveHero
 
-**Description**: `Evolves a Hero` \
+**Description**: `Evolves a Hero` <br/>
 **Profiles**: `profile0`
 
 ## Body

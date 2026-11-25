@@ -1,17 +1,17 @@
 ## Fortnite Website - Cosplay Archive
 
-URL: https://fortnite.com/en-US/api/cosplay/archive \
-Method: GET \
+URL: https://fortnite.com/en-US/api/cosplay/archive <br/>
+Method: GET <br/>
 Auth Required: No
 
-### Query Parameters
+## Query Parameters
 
-`page`: Page number you want to view
+`page`: Page number you want to view <br/>
 `ordering`: Date Ordering eg. `date-descending`
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

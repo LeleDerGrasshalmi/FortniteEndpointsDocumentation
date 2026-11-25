@@ -1,7 +1,7 @@
 ## UE Marketplace - Cart List
 
-URL: https://www.unrealengine.com/marketplace/api/shoppingCart \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/shoppingCart <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Query Parameters
@@ -10,7 +10,7 @@ Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
@@ -30,7 +30,7 @@ _Example Response_
 
 With calculatePrice `true`
 
-_Example Response_
+*Example Response*
 
 ```json
 {

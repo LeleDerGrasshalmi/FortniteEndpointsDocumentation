@@ -1,7 +1,7 @@
 ## Library Service - Create Collection
 
-URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/collection/account/:accountId \
-Method: POST \
+URL: https://library-service.live.use1a.on.epicgames.com/library/api/public/collection/account/:accountId <br/>
+Method: POST <br/>
 Auth Required: Yes (`library:public:{accountId}:collection CREATE`)
 
 ```json
@@ -20,7 +20,7 @@ Auth Required: Yes (`library:public:{accountId}:collection CREATE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

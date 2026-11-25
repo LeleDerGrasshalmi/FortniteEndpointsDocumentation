@@ -1,7 +1,7 @@
 ## Player Overview Page Service: Get Player Page (Bulk)
 
-URL: https://pops-api-live-public.ogs.live.on.epicgames.com/page/v1 \
-Method: POST \
+URL: https://pops-api-live-public.ogs.live.on.epicgames.com/page/v1 <br/>
+Method: POST <br/>
 Auth Required: Yes (`pops:playerpage:{accountId} READ`)
 
 ```json
@@ -10,18 +10,18 @@ Auth Required: Yes (`pops:playerpage:{accountId} READ`)
 }
 ```
 
+## Parameters
+
+`playerIds`: Pages Player Account Ids
+
 ## Query Parameters
 
 `playerId`: Your Account Id <br/>
 `locale`: Your locale, ex. `en`
 
-## Parameters
-
-`playerIds`: Pages Player Account Ids
-
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

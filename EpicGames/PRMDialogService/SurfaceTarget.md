@@ -1,10 +1,10 @@
 ## PRM Dialog Service - Surface MOTD
 
-URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/surfaces/:surfaceId/target \
-Method: POST \
-Auth Required: Yes (Account - `eg1`)
+> **This endpoint is no longer available.** It was removed on September 30, 2024.
 
-> Removed as of 30.09.2024
+URL: https://prm-dialogue-public-api-prod.edea.live.use1a.on.epicgames.com/api/v1/fortnite-br/surfaces/:surfaceId/target <br/>
+Method: POST <br/>
+Auth Required: Yes (Account - `eg1`)
 
 ```json
 {
@@ -40,6 +40,10 @@ Auth Required: Yes (Account - `eg1`)
 }
 ```
 
+## Path Parameters
+
+`surfaceId`: See [Surfaces](./README.md#surfaces)
+
 ## Parameters
 
 > `Not gonna explain every Parameter, they are obvious when you look at the key.` <br/>
@@ -48,17 +52,13 @@ Auth Required: Yes (Account - `eg1`)
 
 \*recently: ~December 2022
 
-## Path Parameters
-
-`surfaceId`: See [Surfaces](./README.md#surfaces)
-
 ---
 
-_Example Response (no motd currently)_:
+*Example Response (no motd currently)*:
 
 `Status 204`
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

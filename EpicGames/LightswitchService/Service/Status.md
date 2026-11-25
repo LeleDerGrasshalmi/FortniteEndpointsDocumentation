@@ -1,7 +1,7 @@
 ## Lightswitch Service - Status
 
-URL: https://lightswitch-public-service-prod.ol.epicgames.com/lightswitch/api/service/:serviceId/status \
-Method: GET \
+URL: https://lightswitch-public-service-prod.ol.epicgames.com/lightswitch/api/service/:serviceId/status <br/>
+Method: GET <br/>
 Auth Required: Yes (no perm needed)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (no perm needed)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

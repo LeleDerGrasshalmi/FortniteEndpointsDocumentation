@@ -1,17 +1,17 @@
 ## Wasp Service - World Invites
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/invites/world/:worldId \
-Method: GET \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/invites/world/:worldId <br/>
+Method: GET <br/>
 Auth Required: Yes (`wasp:{namespaceId}:invite READ`)
 
 ## Path Parameters
 
 `namespaceId`: Check [Readme](../../README.md) <br/>
-`worldId` The World Id from the [worlds list](../AccountAccessibleWorld.md)
+`worldId`: The World Id from the [worlds list](../AccountAccessibleWorld.md)
 
 ---
 
-_Example Response (no perm)_
+*Example Response (no perm)*
 
 ```json
 {

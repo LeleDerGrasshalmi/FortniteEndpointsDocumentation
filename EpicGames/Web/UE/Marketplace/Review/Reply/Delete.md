@@ -1,7 +1,7 @@
 ## UE Marketplace - Delete Review Reply
 
-URL: https://www.unrealengine.com/marketplace/api/review/:type/:replyId \
-Method: DELETE \
+URL: https://www.unrealengine.com/marketplace/api/review/:type/:replyId <br/>
+Method: DELETE <br/>
 Auth Required: Yes
 
 ## Path Parameters
@@ -15,7 +15,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

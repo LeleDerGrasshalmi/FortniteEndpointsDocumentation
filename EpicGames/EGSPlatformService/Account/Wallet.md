@@ -1,7 +1,7 @@
 ## EGS Platform Service - Account: Wallet
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/account/wallet \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/account/wallet <br/>
+Method: GET <br/>
 Auth Required: Yes (apparently `reward:public:{accountId}:reward-accounts	READ`)
 
 ## Query Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (apparently `reward:public:{accountId}:reward-accounts	READ`)
 
 ---
 
-_Example Response (missing perm)_
+*Example Response (missing perm)*
 
 ```json
 {
@@ -19,7 +19,7 @@ _Example Response (missing perm)_
 }
 ```
 
-_Example Response (success)_
+*Example Response (success)*
 
 ```json
 {

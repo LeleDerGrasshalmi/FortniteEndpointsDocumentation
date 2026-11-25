@@ -1,12 +1,12 @@
 ## Fortnite Website - Ch2-s2
 
-URL: https://fortnite.com/en-US/api/ch2-s2 \
-Method: GET \
+URL: https://fortnite.com/en-US/api/ch2-s2 <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,7 +1,9 @@
 ## Tag Management Service - Own Tags
 
-URL: https://tag-management-public-service-prod.identity.live.on.epicgames.com/api/v1/public/accounts/:accountId/tags \
-Method: GET \
+> **This endpoint is no longer available.**
+
+URL: https://tag-management-public-service-prod.identity.live.on.epicgames.com/api/v1/public/accounts/:accountId/tags <br/>
+Method: GET <br/>
 Auth Required: Yes (Account Auth)
 
 ## Path Parameters
@@ -10,7 +12,7 @@ Auth Required: Yes (Account Auth)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

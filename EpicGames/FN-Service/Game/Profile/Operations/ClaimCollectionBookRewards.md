@@ -1,6 +1,6 @@
 # ClaimCollectionBookRewards
 
-**Description**: `Claims StW Collection Book Rewards` ([This](https://cdn.discordapp.com/attachments/842511284469366824/923175156187299850/unknown.png)) \
+**Description**: `Claims StW Collection Book Rewards` ([This](https://cdn.discordapp.com/attachments/842511284469366824/923175156187299850/unknown.png)) <br/>
 **Profiles**: `campaign`
 
 ## Body

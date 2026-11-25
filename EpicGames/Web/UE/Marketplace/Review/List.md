@@ -1,7 +1,7 @@
 ## UE Marketplace - Review List
 
-URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/list \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/review/:offerId/:type/list <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
@@ -9,7 +9,7 @@ Auth Required: No
 `offerId`: The Id of the Offer <br/>
 `type`: The Type of the review (reviews,questions,replies)
 
-### Query Parameters
+## Query Parameters
 
 `start`: The Start number you want to view <br/>
 `count`: Total Count Per Page <br/>
@@ -18,7 +18,7 @@ Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

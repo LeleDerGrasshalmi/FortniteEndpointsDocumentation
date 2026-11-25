@@ -1,7 +1,7 @@
 ## Fortnite Website - Sign Up News Letter
 
-URL: https://fortnite.com/api/sign-up-news-letter \
-Method: POST \
+URL: https://fortnite.com/api/sign-up-news-letter <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -10,3 +10,9 @@ Auth Required: Yes
   "locale": "en-US"
 }
 ```
+
+---
+
+*Example Response*
+
+No example response or status is documented.

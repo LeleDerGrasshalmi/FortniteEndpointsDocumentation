@@ -1,7 +1,7 @@
 ## Wasp Service - Check Input Restrictions
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/inputRestrictions/:restrictionId/check \
-Method: POST \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/world/:worldId/inputRestrictions/:restrictionId/check <br/>
+Method: POST <br/>
 Auth Required: Yes (`wasp:{namespaceId}:world READ`)
 
 ```json
@@ -14,17 +14,17 @@ Auth Required: Yes (`wasp:{namespaceId}:world READ`)
 ## Path Parameters
 
 `namespaceId`: Check [Readme](../README.md) <br/>
-`worldId` The World Id from the [worlds list](./AccountAccessibleWorld.md) or `NewWorld` when validating the name before creating a new world <br/>
+`worldId`: The World Id from the [worlds list](./AccountAccessibleWorld.md) or `NewWorld` when validating the name before creating a new world <br/>
 `restrictionId`: `juno:ugcName` (must be url encoded), other strings may throw an error
 
 ## Parameters
 
-`namedEntity`: `WorldName`, but can technically be any string,
+`namedEntity`: `WorldName`, but can technically be any string, <br/>
 `proposedText`: The text to validate
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

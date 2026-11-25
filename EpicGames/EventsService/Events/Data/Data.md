@@ -1,7 +1,7 @@
 ## Events Service - Events List (Data)
 
-URL: https://events-public-service-live.ol.epicgames.com/api/v1/events/:gameId/data/:accountId \
-Method: GET \
+URL: https://events-public-service-live.ol.epicgames.com/api/v1/events/:gameId/data/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 
 ## Path Parameters
@@ -17,7 +17,7 @@ Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 > Same response as [`download api`](./Download.md), but `data api` includes the player info, so look there for a full response
 

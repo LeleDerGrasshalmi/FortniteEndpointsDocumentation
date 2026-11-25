@@ -1,7 +1,7 @@
 ## FN - Habanero Service: Tracks List (Active by Date)
 
-URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/fortnite/tracks/activeBy/:startDate \
-Method: GET \
+URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/fortnite/tracks/activeBy/:startDate <br/>
+Method: GET <br/>
 Auth Required: Yes (`rankings:{namespace}:tracks READ`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`rankings:{namespace}:tracks READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

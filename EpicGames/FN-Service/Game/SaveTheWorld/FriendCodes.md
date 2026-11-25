@@ -1,7 +1,7 @@
 ## FN Service - STW Friend Codes
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/friendcodes/:accountId/:codeType \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/friendcodes/:accountId/:codeType <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:profile:{accountId}:friendcodes ALL`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`fortnite:profile:{accountId}:friendcodes ALL`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

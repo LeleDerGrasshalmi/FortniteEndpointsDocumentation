@@ -1,12 +1,16 @@
 ## Account Service - Auth: External Auth List
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/externalAuths \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/externalAuths <br/>
+Method: GET <br/>
 Auth Required: Yes (`account:public:account:externalAuths READ`)
+
+## Path Parameters
+
+`accountId`: The account ID.
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

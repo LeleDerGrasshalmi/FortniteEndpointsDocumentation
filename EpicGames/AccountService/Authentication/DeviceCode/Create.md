@@ -1,12 +1,12 @@
 ## Account Service - Auth: Create Device Code
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/deviceAuthorization \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/deviceAuthorization <br/>
+Method: POST <br/>
 Auth Required: Yes (client_credentials)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

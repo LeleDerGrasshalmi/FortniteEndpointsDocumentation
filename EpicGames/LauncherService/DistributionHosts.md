@@ -1,12 +1,12 @@
 ## Launcher Service - Distribution Hosts
 
-URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/distributionpoints \
-Method: GET \
+URL: https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/public/distributionpoints <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,6 +1,6 @@
 # SetItemArchivedStatusBatch
 
-**Description**: `toggles the archive status for the specified items` \
+**Description**: `toggles the archive status for the specified items` <br/>
 **Profiles**: `athena`
 
 ## Body

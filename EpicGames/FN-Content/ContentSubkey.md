@@ -1,21 +1,21 @@
 ## FN - Content API - Content for Subkey
 
-URL: https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/:key/:subKey \
-Method: GET \
+URL: https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/:key/:subKey <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
 
-`key`: Use 'fortnite-game' for Fortnite Content or 'fortnite-editor' for UEFN Content <br/>
-`subKey`: You need to use the **\_title** Property in **lowercase** like in Fortnite the 'shopSections' object has the '\_title' value of 'shop-sections' so use that as the subKey instead of 'shopSections'
+`key`: Use `fortnite-game` for Fortnite Content or `fortnite-editor` for UEFN Content <br/>
+`subKey`: You need to use the lowercased `_title` property like in Fortnite the 'shopSections' object has the `_title` value of `shop-sections` so use that as the subKey instead of `shopSections`
 
 ## Query Parameters
 
-`lang` - language of the response (e.g. 'en')
+`lang`: language of the response (e.g. `en`)
 
 ---
 
-_Example Response (uefn - 'main-info', shortened)_
+*Example Response (uefn - 'main-info', shortened)*
 
 ```json
 {

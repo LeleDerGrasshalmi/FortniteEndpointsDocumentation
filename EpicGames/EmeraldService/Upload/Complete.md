@@ -1,7 +1,7 @@
 ## Emerald Service - Upload: Complete
 
-URL: https://emerald-service-live.ecosec.on.epicgames.com/emerald/v1/upload/complete \
-Method: POST \
+URL: https://emerald-service-live.ecosec.on.epicgames.com/emerald/v1/upload/complete <br/>
+Method: POST <br/>
 Auth Required: Yes (`emerald:upload CREATE`)
 
 ```json
@@ -16,9 +16,9 @@ Auth Required: Yes (`emerald:upload CREATE`)
 
 ---
 
-_Example Response (success)_: Status 204
+*Example Response (success)*: Status 204
 
-_Example Response (already uploaded)_
+*Example Response (already uploaded)*
 
 ```json
 {

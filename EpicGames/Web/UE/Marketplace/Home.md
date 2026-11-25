@@ -1,12 +1,12 @@
 ## UE Marketplace - Home Data
 
-URL: https://www.unrealengine.com/marketplace/api/homeData \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/homeData <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

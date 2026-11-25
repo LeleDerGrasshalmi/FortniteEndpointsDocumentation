@@ -1,7 +1,7 @@
 ## Epic Games Store - Storefront Layout (GraphQL Response)
 
-URL: https://store-site-backend-static-ipv4.ak.epicgames.com/storefrontLayout \
-Method: GET \
+URL: https://store-site-backend-static-ipv4.ak.epicgames.com/storefrontLayout <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Query Parameters
@@ -12,7 +12,7 @@ Auth Required: No
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

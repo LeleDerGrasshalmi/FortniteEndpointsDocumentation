@@ -1,12 +1,12 @@
 ## UE Marketplace - Clear Cart
 
-URL: https://www.unrealengine.com/marketplace/api/shoppingCart/clear \
-Method: POST \
+URL: https://www.unrealengine.com/marketplace/api/shoppingCart/clear <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

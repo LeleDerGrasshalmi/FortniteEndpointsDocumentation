@@ -1,6 +1,6 @@
 # ProtoJuno_UpdateWorldMetadata
 
-**Description**: `Relict Lego test operation, update world meta (operation got removed)` \
+**Description**: `Relict Lego test operation, update world meta (operation got removed)` <br/>
 **Profiles**: `proto_juno`
 
 ## Body

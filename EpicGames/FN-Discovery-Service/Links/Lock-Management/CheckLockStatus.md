@@ -1,7 +1,7 @@
 ## FN - Discovery Service: Check Links Lock Status
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/lock-status/:accountId/check \
-Method: POST \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/lock-status/:accountId/check <br/>
+Method: POST <br/>
 Auth Required: Yes (`discovery:{accountId}:links:lock-management READ`)
 
 ```json
@@ -24,7 +24,7 @@ Auth Required: Yes (`discovery:{accountId}:links:lock-management READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## Id Web - Redirect
 
-URL: https://www.epicgames.com/id/api/redirect \
-Method: GET \
+URL: https://www.epicgames.com/id/api/redirect <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Query Parameters
@@ -18,25 +18,26 @@ Auth Required: Yes
 `nonce`: (optional) A random value used to associate a request to a token. This value is reflected inside of epic_id tokens and id tokens. <br/>
 `scope`: (optional), A space seperated list of scopes <br/>
 `eula`: (optional, deprecated), A valid eula ID (ex. `fn`, `tos`) <br/>
-`prompt`: (optional), The redirect prompt, (ex. `none`, `login`, `new_session`, `register`, `consent`, `pass_through`, `2nd_domain`, `upgrade`)  <br/>
+`prompt`: (optional), The redirect prompt, (ex. `none`, `login`, `new_session`, `register`, `consent`, `pass_through`, `2nd_domain`, `upgrade`) <br/>
 `redirectUrl`: (optional), The URL to redirect to <br/>
 `acrValues`: (optional), Level Of Assurance requested, can be any value (ex. `urn:epic:loa:aal2`) always returns step up required <br/>
 `loginHintAccountId`: (optional), The Account ID you want to authorization code to be generated for (you must be logged in and have the EPIC_RECEIPT_<accountId> cookie.)
 
 ---
 
-_Example Response (responseType=code)_
+*Example Response (responseType=code)*
 
 ```json
 {
   "warning": "Do not share this code with any 3rd party service. It allows full access to your Epic account.",
   "redirectUrl": "https://accounts.epicgames.com/fnauth?code=c5a0b794bd5b4fb39d5d7b9e32b43f12",
   "authorizationCode": "c5a0b794bd5b4fb39d5d7b9e32b43f12",
-  "exchangeCode": null
+  "exchangeCode": null,
   "sid": null
 }
 ```
-_Example Response (responseType=eula_token or no responseType specified)_
+
+*Example Response (responseType=eula_token or no responseType specified)*
 
 ```json
 {
@@ -47,7 +48,8 @@ _Example Response (responseType=eula_token or no responseType specified)_
    "sid":"54719c4b12444f6695f4c2aab2fced99"
 }
 ```
-_Example Response (responseType=none)_
+
+*Example Response (responseType=none)*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## Wasp Service - Create World within Namespace
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/account/:accountId \
-Method: POST \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/account/:accountId <br/>
+Method: POST <br/>
 Auth Required: Yes (`wasp:{namespaceId}:world CREATE`)
 
 ```json
@@ -54,7 +54,7 @@ Auth Required: Yes (`wasp:{namespaceId}:world CREATE`)
 ## Path Parameters
 
 `namespaceId`: Check [Readme](../README.md) <br/>
-`accountId` Your account Id
+`accountId`: Your account Id
 
 ## Parameters
 
@@ -98,7 +98,7 @@ The example payload is a real world payload sent by the client on v31.00.
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
@@ -126,7 +126,7 @@ _Example Response_
 }
 ```
 
-_Example Response (world limit reached)_
+*Example Response (world limit reached)*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## Account Service - Get Emails
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/email \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/public/account/:accountId/email <br/>
+Method: GET <br/>
 Auth Required: Yes (`account:public:account:email READ`)
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: Yes (`account:public:account:email READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

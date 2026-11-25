@@ -1,7 +1,7 @@
 ## Account Service - Public Key
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/publickeys/:thumbprint \
-Method: GET \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/publickeys/:thumbprint <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

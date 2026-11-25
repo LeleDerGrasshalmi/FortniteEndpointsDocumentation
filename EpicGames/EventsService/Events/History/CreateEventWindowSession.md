@@ -1,7 +1,7 @@
 ## Events Service - Add Event Window Session Result
 
-URL: https://events-public-service-live.ol.epicgames.com/api/v1/events/:gameId/:eventId/:eventWindowId/history \
-Method: POST \
+URL: https://events-public-service-live.ol.epicgames.com/api/v1/events/:gameId/:eventId/:eventWindowId/history <br/>
+Method: POST <br/>
 Auth Required: Yes (`{gameId}:matchmaking:session UPDATE`)
 
 ```json
@@ -15,7 +15,7 @@ Auth Required: Yes (`{gameId}:matchmaking:session UPDATE`)
 }
 ```
 
-## Parameters
+## Path Parameters
 
 `gameId`: Fortnite <br/>
 `eventId`: e.g. epicgames_S23_Lettuce (Mr Beast Extreme Challenge) <br/>
@@ -73,3 +73,9 @@ Late Game Arena (Creative):
   "CREATIVE_DAMAGE_DEALT_STAT": 2044
 }
 ```
+
+---
+
+*Example Response*
+
+No example response or status is documented.

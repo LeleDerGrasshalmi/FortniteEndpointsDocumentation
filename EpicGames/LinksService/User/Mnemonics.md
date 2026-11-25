@@ -1,7 +1,7 @@
 ## Links Service - User Mnemonics
 
-URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/author/:accountId \
-Method: GET \
+URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/author/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`links:{namespace}:{accountId} READ`)
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes (`links:{namespace}:{accountId} READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 [

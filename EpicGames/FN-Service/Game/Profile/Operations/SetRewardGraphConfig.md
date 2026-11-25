@@ -1,6 +1,6 @@
 # SetRewardGraphConfig
 
-**Description**: `Sets the Config for a Reward Graph` \
+**Description**: `Sets the Config for a Reward Graph` <br/>
 **Profiles**: `athena`
 
 ## Body

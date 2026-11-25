@@ -1,12 +1,12 @@
 ## UE Marketplace - Assets
 
-URL: https://www.unrealengine.com/marketplace/api/assets \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/assets <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

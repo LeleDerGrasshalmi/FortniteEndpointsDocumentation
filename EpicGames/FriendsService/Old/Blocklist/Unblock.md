@@ -1,7 +1,7 @@
 ## Friends Service - Unblock Account (Old)
 
-URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/public/blocklist/:accountId/:userId \
-Method: DELETE \
+URL: https://friends-public-service-prod.ol.epicgames.com/friends/api/public/blocklist/:accountId/:userId <br/>
+Method: DELETE <br/>
 Auth Required: Yes (`blockList:{accountId} UPDATE`)
 
 ## Path Parameters
@@ -11,4 +11,4 @@ Auth Required: Yes (`blockList:{accountId} UPDATE`)
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204

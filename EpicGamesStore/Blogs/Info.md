@@ -1,15 +1,17 @@
 ## Epic Games Store - Blog Info by Slug
 
-URL: https://store-content-ipv4.ak.epicgames.com/api/:locale/content/blog/:slug \
-Method: GET \
+URL: https://store-content-ipv4.ak.epicgames.com/api/:locale/content/blog/:slug <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
 
-`en-US`: The Locale / Language, e.g. `en-US` <br/>
+`locale`: The Locale / Language, e.g. `en-US` <br/>
 `slug`: The Slug from the blogost
 
-_Example Response (shortened)_
+---
+
+*Example Response (shortened)*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## Events Service - Player Tokens
 
-URL: https://events-public-service-live.ol.epicgames.com/api/v1/players/:gameId/tokens \
-Method: GET \
+URL: https://events-public-service-live.ol.epicgames.com/api/v1/players/:gameId/tokens <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

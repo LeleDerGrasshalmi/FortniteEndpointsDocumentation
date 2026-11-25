@@ -1,6 +1,6 @@
 # UpgradeBuilding
 
-**Description**: `Upgrades a building's level` \
+**Description**: `Upgrades a building's level` <br/>
 **Profiles**: `profile0`
 
 ## Body

@@ -1,14 +1,16 @@
 ## Party Service - Get Party Info by Account Id
 
-URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/user/:accountId \
-Method: GET \
+URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/user/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`social:party`)
 
 ## Path Parameters
 
 `accountId`: Your AccountId
 
-_Example Response (shortened)_
+---
+
+*Example Response (shortened)*
 
 ```json
 {
@@ -75,7 +77,7 @@ _Example Response (shortened)_
 }
 ```
 
-_Example Response (No parties)_
+*Example Response (No parties)*
 
 ```json
 {

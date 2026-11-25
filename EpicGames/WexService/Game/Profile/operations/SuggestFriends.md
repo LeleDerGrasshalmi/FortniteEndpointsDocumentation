@@ -1,6 +1,6 @@
 # SuggestFriends
 
-**Description**: `Force refreshes friend suggestions` \
+**Description**: `Force refreshes friend suggestions` <br/>
 **Profiles**: `friends`
 
 ## Body

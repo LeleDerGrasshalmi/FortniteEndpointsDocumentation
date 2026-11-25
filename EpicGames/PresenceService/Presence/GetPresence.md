@@ -1,7 +1,7 @@
 ## Presence Service - Get Presence
 
-URL: https://presence-public-service-prod.ol.epicgames.com/presence/api/v1/_/:accountId/presence \
-Method: GET \
+URL: https://presence-public-service-prod.ol.epicgames.com/presence/api/v1/_/:accountId/presence <br/>
+Method: GET <br/>
 Auth Required: Yes (`presence:_:{accountId} READ`)
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes (`presence:_:{accountId} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

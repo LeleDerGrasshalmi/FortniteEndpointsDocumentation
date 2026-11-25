@@ -1,8 +1,12 @@
 ## EGS Platform Service - Product Featured Editions
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId/featured-offers/editions \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/egs/products/:productId/featured-offers/editions <br/>
+Method: GET <br/>
 Auth Required: No
+
+## Path Parameters
+
+`productId`: self explaining, e.g. `prod-fn` for fortnite
 
 ## Query Parameters
 
@@ -12,13 +16,9 @@ Auth Required: No
 `start`: (required) start index <br/>
 `store`: (required) valid Catalog Service Stores, e.g. `EGS`
 
-## Path Parameters
-
-`productId`: self explaining, e.g. `prod-fn` for fortnite
-
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

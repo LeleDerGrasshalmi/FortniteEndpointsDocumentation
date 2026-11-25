@@ -1,6 +1,6 @@
 # BuyBackFromMonsterPit
 
-**Description**: `Buys a copy of a MonsterPit Hero/Pet (only if you cast multiple of a hero/pet)` \
+**Description**: `Buys a copy of a MonsterPit Hero/Pet (only if you cast multiple of a hero/pet)` <br/>
 **Profiles**: `monsterpit`
 
 ## Body

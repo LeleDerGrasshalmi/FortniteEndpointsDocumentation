@@ -1,7 +1,7 @@
 ## Id Web - Create State for External Login
 
-URL: https://www.epicgames.com/id/api/state \
-Method: POST \
+URL: https://www.epicgames.com/id/api/state <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -40,16 +40,18 @@ Auth Required: Yes
 used for authorization <br/>
 `allowThirdParties`: Should third parties use this state? <br/>
 `parentalControls`: A JSON Object with parental controls <br/>
-`system` Rating system used. Valid: `PEGI`, `ESRB` (Note: when using this `rating` param will become required) <br/>
-`rating` The rating for the state's app. Valid for PEGI: (`pegi3`, `pegi7`, `pegi10`, `pegi12`, `pegi16`, `pegi18`, `unrated`), Valid for ESRB: (`everyone`, `everyone10`, `teen`, `mature`, `adultsOnly`, `unrated`) <br/>
+`system`: Rating system used. Valid: `PEGI`, `ESRB` (Note: when using this `rating` param will become required) <br/>
+`rating`: The rating for the state's app. Valid for PEGI: (`pegi3`, `pegi7`, `pegi10`, `pegi12`, `pegi16`, `pegi18`, `unrated`), Valid for ESRB: (`everyone`, `everyone10`, `teen`, `mature`, `adultsOnly`, `unrated`) <br/>
 `trackingUuid`: Tracking UUID grabbed from [Analytics API](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation/blob/main/EpicGames/Web/Id/Analytics.md)
 
-## Any of these Parameters are optional unless specified
+These parameters are optional unless otherwise specified.
 
-_Example Response (Successful)_:
+---
+
+*Example Response (Successful)*:
 
 _Plain Text Response_
 
-```
+```text
 eyJpZCI6IjJmYjY2YmZkZDk4NzRmNjFhYWYyMjkwN2VmNjU3Yjg5IiwibG9naW5SZXF1ZXN0SWQiOiIzOTAzMmE3MTkzMWE0ZjEyOWYwMWQ2ODk5ZGE5ZTAzNiJ9
 ```

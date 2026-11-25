@@ -1,7 +1,7 @@
 ## Links Service - Update User Mnemonic
 
-URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/author/:accountId/:mnemonic/:version/activate \
-Method: PUT \
+URL: https://links-public-service-live.ol.epicgames.com/links/api/:namespace/author/:accountId/:mnemonic/:version/activate <br/>
+Method: PUT <br/>
 Auth Required: Yes (`links:{namespace}:{accountId} UPDATE`)
 
 ## Path Parameters
@@ -12,3 +12,9 @@ Auth Required: Yes (`links:{namespace}:{accountId} UPDATE`)
 `version`: e.g. `1`
 
 ---
+
+---
+
+*Example Response*
+
+No example response or status is documented.

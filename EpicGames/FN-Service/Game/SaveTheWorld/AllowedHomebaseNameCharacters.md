@@ -1,12 +1,12 @@
 ## FN Service - STW Allowed Homebase Name Characters
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/homebase/allowed-name-chars \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/homebase/allowed-name-chars <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 The response contains the decimal corresponding to a Unicode character.
 

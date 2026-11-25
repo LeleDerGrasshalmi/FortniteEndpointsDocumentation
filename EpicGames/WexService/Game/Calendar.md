@@ -1,12 +1,12 @@
 ## Wex Service - Calendar Timeline
 
-URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/calendar/v1/timeline \
-Method: GET \
+URL: https://wex-public-service-live-prod.ol.epicgames.com/wex/api/calendar/v1/timeline <br/>
+Method: GET <br/>
 Auth Required: Yes (`wexp:calendar READ`)
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

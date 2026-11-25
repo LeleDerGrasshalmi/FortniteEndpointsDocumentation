@@ -1,7 +1,7 @@
 ## FN - Habanero Service: Tracks Progress for Account
 
-URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/:namespace/trackprogress/:accountId \
-Method: GET \
+URL: https://fn-service-habanero-live-public.ogs.live.on.epicgames.com/api/v1/games/:namespace/trackprogress/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`rankings:{namespace}:playerprogress READ`)
 
 ## Path Parameters
@@ -9,13 +9,13 @@ Auth Required: Yes (`rankings:{namespace}:playerprogress READ`)
 `namespace`: `fortnite` <br/>
 `accountId`: Can be any Account Id (works for any User, currently even if stats are private)
 
-# Query Parameters
+## Query Parameters
 
 `endsAfter`: (optional), ISO Date (Start Date of the Data)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

@@ -1,12 +1,12 @@
 ## Fortnite Website - Cosplay
 
-URL: https://fortnite.com/en/api/cosplay \
-Method: GET \
+URL: https://fortnite.com/en/api/cosplay <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

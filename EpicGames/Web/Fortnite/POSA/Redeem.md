@@ -1,7 +1,7 @@
 ## Fortnite Website - POSA: Redeem
 
-URL: https://fortnite.com/:locale/api/posa/code/redeem \
-Method: POST \
+URL: https://fortnite.com/:locale/api/posa/code/redeem <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -19,3 +19,9 @@ Auth Required: Yes
 
 `code`: The Code to check <br/>
 `platform`: The Platform to redeem the Card for, e.g. `EPIC`
+
+---
+
+*Example Response*
+
+No example response or status is documented.

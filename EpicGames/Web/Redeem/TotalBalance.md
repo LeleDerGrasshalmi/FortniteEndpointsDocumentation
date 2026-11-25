@@ -1,7 +1,7 @@
 ## Redeem Web - TotalBalance
 
-URL: https://redeem.epicgames.com/api/account/total-balance \
-Method: GET \
+URL: https://redeem.epicgames.com/api/account/total-balance <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Query Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,17 +1,17 @@
 ## Wasp Service - Account Worlds within Namespace
 
-URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/ownedBy/:accountId \
-Method: GET \
+URL: https://wasp-service-live-public.ogs.live.on.epicgames.com/api/v1/namespace/:namespaceId/worlds/ownedBy/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`wasp:{namespaceId}:world READ`)
 
 ## Path Parameters
 
 `namespaceId`: Check [Readme](../README.md) <br/>
-`accountId` Your account Id
+`accountId`: Your account Id
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [
@@ -72,7 +72,7 @@ _Example Response_
 ]
 ```
 
-_Example Response (different account)_
+*Example Response (different account)*
 
 ```json
 {

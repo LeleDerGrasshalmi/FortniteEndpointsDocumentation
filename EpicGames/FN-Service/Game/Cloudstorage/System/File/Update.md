@@ -1,7 +1,7 @@
 ## FN Service - Cloudstorage: Update System File
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system/:uniqueFilename \
-Method: PUT \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/cloudstorage/system/:uniqueFilename <br/>
+Method: PUT <br/>
 Auth Required: Yes (`fortnite:cloudstorage:system:{uniqueFilename} UPDATE`)
 
 File Content (Binary) - **File-Body**
@@ -12,6 +12,6 @@ File Content (Binary) - **File-Body**
 
 ---
 
-_Example Response_:
+*Example Response*:
 
 > Unknown, no public client has this permission, but likely the same as [User File Update](../../User/File/Update.md)

@@ -1,16 +1,16 @@
 ## FN Service - Receipts
 
-URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/receipts/:accountId \
-Method: GET \
+URL: https://fngw-mcp-gc-livefn.ol.epicgames.com/fortnite/api/game/v2/receipts/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`fortnite:profile:{accountId}:commands ALL`)
 
-# Path Parameters
+## Path Parameters
 
 `accountId`: Your Account Id
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 [

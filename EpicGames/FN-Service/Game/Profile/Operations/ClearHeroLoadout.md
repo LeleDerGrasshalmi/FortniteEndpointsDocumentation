@@ -1,6 +1,6 @@
 # ClearHeroLoadout
 
-**Description**: `Resets a StW Hero Loadout` \
+**Description**: `Resets a StW Hero Loadout` <br/>
 **Profiles**: `campaign`
 
 ## Body

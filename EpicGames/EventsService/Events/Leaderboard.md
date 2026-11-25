@@ -1,7 +1,7 @@
 ## Events Service - Event Window Leaderboard
 
-URL: https://events-public-service-live.ol.epicgames.com/api/v1/leaderboards/:gameId/:eventId/:eventWindowId/:accountId \
-Method: GET \
+URL: https://events-public-service-live.ol.epicgames.com/api/v1/leaderboards/:gameId/:eventId/:eventWindowId/:accountId <br/>
+Method: GET <br/>
 Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 
 ## Path Parameters
@@ -21,7 +21,7 @@ Auth Required: Yes (`{gameId}:profile:{accountId}:commands READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

@@ -1,10 +1,13 @@
-# Fortnite Website - Comp CMS
+## Fortnite Website - Comp CMS
 
-## Request
-
-URL: https://fortnite.com/competitive/:language/api/cms/:key \
-Method: GET \
+URL: https://fortnite.com/competitive/:language/api/cms/:key <br/>
+Method: GET <br/>
 Auth Required: No
+
+## Path Parameters
+
+`language`: The language or locale code. See [Languages](#languages). <br/>
+`key`: The URL-encoded CMS key. See [Known Keys](#known-keys).
 
 ## Known Keys
 
@@ -40,3 +43,9 @@ Default language is English
 | tr    | Turkish              |
 | es-MX | Spanish (Mexico)     |
 | es-ES | Spanish              |
+
+---
+
+*Example Response*
+
+No example response or status is documented.

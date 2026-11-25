@@ -2,8 +2,8 @@
 
 If you need help check out the [getting started guide](./README.md#getting-started)
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/oauth/token <br/>
+Method: POST <br/>
 Auth Required: Yes (Basic Authentication where the username is the Client Id and the password is the Client Secret)
 
 ## Headers
@@ -44,7 +44,7 @@ Auth Required: Yes (Basic Authentication where the username is the Client Id and
 
 ---
 
-_Example Response (`client_credentials` Grant)_
+*Example Response (`client_credentials` Grant)*
 
 ```json
 {
@@ -60,7 +60,7 @@ _Example Response (`client_credentials` Grant)_
 }
 ```
 
-_Example Response (`exchange_code` Grant)_
+*Example Response (`exchange_code` Grant)*
 
 ```json
 {

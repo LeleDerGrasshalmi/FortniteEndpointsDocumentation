@@ -1,7 +1,7 @@
 ## Party Service - Leave
 
-URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/members/:accountId \
-Method: DELETE \
+URL: https://party-service-prod.ol.epicgames.com/party/api/v1/Fortnite/parties/:partyId/members/:accountId <br/>
+Method: DELETE <br/>
 Auth Required: Yes (`social:party`)
 
 ## Path Parameters
@@ -9,9 +9,11 @@ Auth Required: Yes (`social:party`)
 `partyId`: The current Party ID <br/>
 `accountId`: Your AccountId
 
-_Example Response_: Status 204
+---
 
-_Example Response (Party not found)_
+*Example Response*: Status 204
+
+*Example Response (Party not found)*
 
 ```json
 {

@@ -1,7 +1,7 @@
 ## Player Overview Page Service: Get Player Page
 
-URL: https://pops-api-live-public.ogs.live.on.epicgames.com/page/v1/:pagePlayerId \
-Method: GET \
+URL: https://pops-api-live-public.ogs.live.on.epicgames.com/page/v1/:pagePlayerId <br/>
+Method: GET <br/>
 Auth Required: Yes (`pops:playerpage:{accountId} READ`)
 
 ## Path Parameters
@@ -14,7 +14,7 @@ Auth Required: Yes (`pops:playerpage:{accountId} READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {
@@ -39,4 +39,4 @@ _Example Response_
 }
 ```
 
-_Example Response (Has no player page)_: Status 404
+*Example Response (Has no player page)*: Status 404

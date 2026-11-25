@@ -1,7 +1,8 @@
 # SetLastUsedProject
 
-**Description**: `Sets the current used Valkyrie (creative 2.0) Project` \
-**Profiles**: `creative` \
+**Description**: `Sets the current used Valkyrie (creative 2.0) Project` <br/>
+**Profiles**: `creative`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

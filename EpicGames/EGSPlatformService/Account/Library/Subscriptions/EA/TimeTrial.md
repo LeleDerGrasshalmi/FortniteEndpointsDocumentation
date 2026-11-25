@@ -1,7 +1,7 @@
 ## EGS Platform Service - EA Sub Trial?
 
-URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/library/subscriptions/ea/time-trial/:sandboxId/:catalogItemId \
-Method: GET \
+URL: https://egs-platform-service.store.epicgames.com/api/v1/private/egs/library/subscriptions/ea/time-trial/:sandboxId/:catalogItemId <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Path Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 null

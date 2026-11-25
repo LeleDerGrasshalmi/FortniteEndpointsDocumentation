@@ -1,7 +1,7 @@
 ## Id Web - Set Session ID
 
-URL: https://www.epicgames.com/id/api/set-sid?sid=:sid \
-Method: GET \
+URL: https://www.epicgames.com/id/api/set-sid?sid=:sid <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Query Parameters
@@ -10,9 +10,9 @@ Auth Required: No
 
 ---
 
-_Example Response Status: 204 (No Content)_
+*Example Response Status: 204 (No Content)*
 
-_Example Response Status (Session ID is invalid)_
+*Example Response Status (Session ID is invalid)*
 
 ```json
 {

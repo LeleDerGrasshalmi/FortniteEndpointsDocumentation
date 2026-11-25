@@ -1,7 +1,7 @@
 ## DAD Service - Assets (Gamefile Overwrites)
 
-URL: https://data-asset-directory-public-service-prod.ol.epicgames.com/api/v1/assets/:gameId/:branch/:changelist \
-Method: POST \
+URL: https://data-asset-directory-public-service-prod.ol.epicgames.com/api/v1/assets/:gameId/:branch/:changelist <br/>
+Method: POST <br/>
 Auth Required: Yes (`dad:{gameId}:assets:updateCheck READ`)
 
 ```json
@@ -42,7 +42,7 @@ Auth Required: Yes (`dad:{gameId}:assets:updateCheck READ`)
 
 ---
 
-_Example Response (heavily shortened)_
+*Example Response (heavily shortened)*
 
 ```json
 {

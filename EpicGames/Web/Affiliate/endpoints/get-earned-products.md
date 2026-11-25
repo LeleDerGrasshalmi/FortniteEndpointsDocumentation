@@ -1,7 +1,7 @@
-# Get Earned Products
+## Get Earned Products
 
-URL: https://sac.epicgames.com/api/get-earned-products \
-Method: GET \
+URL: https://sac.epicgames.com/api/get-earned-products <br/>
+Method: GET <br/>
 Auth Required: Yes
 
 ## Query Parameters
@@ -11,7 +11,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

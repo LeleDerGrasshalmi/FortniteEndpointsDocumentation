@@ -1,6 +1,6 @@
 # UnlockRegion
 
-**Description**: `Unlocks a region on the map` \
+**Description**: `Unlocks a region on the map` <br/>
 **Profiles**: `levels`
 
 ## Body

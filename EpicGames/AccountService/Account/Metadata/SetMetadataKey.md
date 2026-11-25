@@ -1,7 +1,7 @@
 ## Account Service - Set Metadata Key
 
-URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/metadata \
-Method: POST \
+URL: https://account-public-service-prod.ol.epicgames.com/account/api/accounts/:accountId/metadata <br/>
+Method: POST <br/>
 Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} CREATE`)
 
 ```json
@@ -22,4 +22,4 @@ Auth Required: Yes (`account:accounts:{accountId}:metadata:{key} CREATE`)
 
 ---
 
-_Example Response_: Status 204
+*Example Response*: Status 204

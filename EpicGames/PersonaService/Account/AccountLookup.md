@@ -1,7 +1,9 @@
 ## Persona Service - Lookup by Display Name
 
-URL: https://persona-public-service-prod06.ol.epicgames.com/persona/api/public/account/lookup \
-Method: GET \
+> **This endpoint is no longer available.** Persona Service shut down on February 19, 2020.
+
+URL: https://persona-public-service-prod06.ol.epicgames.com/persona/api/public/account/lookup <br/>
+Method: GET <br/>
 Auth Required: Yes (`persona:account:lookup READ`)
 
 ## Query Parameters
@@ -10,7 +12,7 @@ Auth Required: Yes (`persona:account:lookup READ`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

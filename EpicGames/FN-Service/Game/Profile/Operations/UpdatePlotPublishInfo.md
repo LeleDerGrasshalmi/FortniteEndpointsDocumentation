@@ -1,7 +1,8 @@
 # UpdatePlotPublishInfo
 
-**Description**: `Updates the Plot Publish info for a Creative Island` \
-**Profiles**: `creative` \
+**Description**: `Updates the Plot Publish info for a Creative Island` <br/>
+**Profiles**: `creative`
+
 **Note**: `DedicatedServer ONLY`
 
 ## Body

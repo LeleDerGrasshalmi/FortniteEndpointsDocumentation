@@ -1,6 +1,6 @@
 # ClaimPersonalEvent
 
-**Description**: `Claims a personal event reward`\
+**Description**: `Claims a personal event reward` <br/>
 **Profiles**: `profile0`
 
 ## Body

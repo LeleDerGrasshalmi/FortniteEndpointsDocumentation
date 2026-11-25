@@ -1,15 +1,15 @@
 # PutModularCosmeticLoadout
 
-**Description**: `Set the cosmetic loadout for a certain loadout type` \
+**Description**: `Set the cosmetic loadout for a certain loadout type` <br/>
 **Profiles**: `athena`
 
 ## Body
 
 ```js
 {
-    "loadoutType": "CosmeticLoadout:LoadoutSchema_Platform", // check known list below..
-    "presetId": 0, // loadout index
-    "loadoutData": "" // stringified json, see schema below
+    "loadoutType": "CosmeticLoadout:LoadoutSchema_Platform", // Check known list below..
+    "presetId": 0, // Loadout Index
+    "loadoutData": "" // Stringified JSON, see schema below
 }
 ```
 
@@ -21,7 +21,7 @@ Stringified Data has the following format.
 
 {
     "slots": [{
-            "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Banner_Icon", // see types below...
+            "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_Banner_Icon", // See types below...
             "equipped_item": "HomebaseBannerIcon:standardbanner15"
         },
         {
@@ -35,7 +35,7 @@ Stringified Data has the following format.
         {
             "slot_template": "CosmeticLoadoutSlotTemplate:LoadoutSlot_LoadingScreen",
             "equipped_item": "AthenaLoadingScreen:loadingscreen_bites",
-			"customization_info": [ // styles (copied from a car section to showcase the schema)
+			"customization_info": [ // Styles (copied from a car section to showcase the schema)
 				{
 					"channel_tag": "Vehicle.Painted",
 					"variant_tag": "Vehicle.Painted.None"
@@ -43,7 +43,7 @@ Stringified Data has the following format.
 			]
         }
     ],
-    "display_name": "my new name" // optional to update the loadouts name
+    "display_name": "my new name" // Optional to update the loadouts name
 }
 ```
 

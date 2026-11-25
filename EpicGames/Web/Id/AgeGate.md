@@ -1,12 +1,12 @@
 ## Id Web - Age Gate
 
-URL: https://www.epicgames.com/id/api/age-gate \
-Method: GET \
+URL: https://www.epicgames.com/id/api/age-gate <br/>
+Method: GET <br/>
 Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

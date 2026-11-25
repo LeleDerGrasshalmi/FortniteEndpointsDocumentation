@@ -1,7 +1,7 @@
 ## UE Marketplace - Review Rating
 
-URL: https://www.unrealengine.com/marketplace/api/review/:offerId/rating \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/review/:offerId/rating <br/>
+Method: GET <br/>
 Auth Required: No
 
 ## Path Parameters
@@ -10,7 +10,7 @@ Auth Required: No
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

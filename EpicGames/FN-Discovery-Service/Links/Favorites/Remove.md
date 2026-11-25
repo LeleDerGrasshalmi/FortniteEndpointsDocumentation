@@ -1,7 +1,7 @@
 ## FN - Discovery Service: Remove Favorite Link
 
-URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/favorites/:accountId/:linkCode \
-Method: DELETE \
+URL: https://fn-service-discovery-live-public.ogs.live.on.epicgames.com/api/v1/links/favorites/:accountId/:linkCode <br/>
+Method: DELETE <br/>
 Auth Required: Yes (`discovery:{accountId}:links:favorite DELETE`)
 
 ## Path Parameters
@@ -11,6 +11,6 @@ Auth Required: Yes (`discovery:{accountId}:links:favorite DELETE`)
 
 ---
 
-_Example Response_
+*Example Response*
 
 `Status 204`

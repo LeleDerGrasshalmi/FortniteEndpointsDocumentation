@@ -1,7 +1,7 @@
 ## Id Web - Verify Account Verification
 
-URL: https://www.epicgames.com/id/api/account/verify \
-Method: POST \
+URL: https://www.epicgames.com/id/api/account/verify <br/>
+Method: POST <br/>
 Auth Required: Yes
 
 ```json
@@ -9,3 +9,9 @@ Auth Required: Yes
   "verificationCode": ""
 }
 ```
+
+---
+
+*Example Response*
+
+No example response or status is documented.

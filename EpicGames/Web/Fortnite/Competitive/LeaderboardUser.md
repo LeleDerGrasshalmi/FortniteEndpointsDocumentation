@@ -1,20 +1,23 @@
 ## Fortnite Website - Competitive Leaderboard User
 
-URL: https://www.fortnite.com/competitive/api/leaderboard/:eventId/:eventWindowId/undefined \
-Method: POST \
+URL: https://www.fortnite.com/competitive/api/leaderboard/:eventId/:eventWindowId/undefined <br/>
+Method: POST <br/>
 Auth Required: No
 
-Payload:
-
-```js
+```json
 {
     "name": "krowemoh"
 }
 ```
 
+## Path Parameters
+
+`eventId`: The event ID. <br/>
+`eventWindowId`: The event window ID.
+
 ---
 
-_Example Response_
+*Example Response*
 
 - Status 200: Player exist and got a leaderboard entry for the eventId and eventWindowId
 - Status 404: Player exist, but got no leaderboard entry for the eventId and eventWindowId

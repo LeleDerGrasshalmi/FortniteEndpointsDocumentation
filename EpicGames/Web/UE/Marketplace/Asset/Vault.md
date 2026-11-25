@@ -1,10 +1,10 @@
 ## UE Marketplace - Assets Vault
 
-URL: https://www.unrealengine.com/marketplace/api/assets/vault \
-Method: GET \
+URL: https://www.unrealengine.com/marketplace/api/assets/vault <br/>
+Method: GET <br/>
 Auth Required: Yes
 
-### Query Parameters
+## Query Parameters
 
 `start`: The Start number you want to view <br/>
 `count`: Total Count Per Page <br/>
@@ -12,7 +12,7 @@ Auth Required: Yes
 
 ---
 
-_Example Response_
+*Example Response*
 
 ```json
 {

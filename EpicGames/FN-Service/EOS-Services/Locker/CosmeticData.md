@@ -1,7 +1,7 @@
 ## FN EOS Locker Service: Cosmetic Data
 
-URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/cosmetic-data \
-Method: GET \
+URL: https://fngw-svc-gc-livefn.ol.epicgames.com/api/locker/v4/:deploymentId/account/:accountId/cosmetic-data <br/>
+Method: GET <br/>
 Auth Required: Yes (`locker:items`)
 
 ## Path Parameters
@@ -9,14 +9,14 @@ Auth Required: Yes (`locker:items`)
 `deploymentId`: The Deployment Id from env configuration, for `live-fn` it is `62a9473a2dca46b29ccf17577fcf42d7` <br/>
 `accountId`: Your Account Id
 
-# Query Parameters
+## Query Parameters
 
 `limit`: optional, how many items to include (limit 100) <br/>
 `nextToken`: optional, the token from a previous response used to fetch more items
 
 ---
 
-_Example Response (shortened)_
+*Example Response (shortened)*
 
 ```json
 {

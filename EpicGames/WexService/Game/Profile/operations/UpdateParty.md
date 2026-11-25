@@ -1,6 +1,6 @@
 # UpdateParty
 
-**Description**: `Updates a party's data` \
+**Description**: `Updates a party's data` <br/>
 **Profiles**: `profile0`
 
 ## Body
